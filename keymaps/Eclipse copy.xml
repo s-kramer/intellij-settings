@@ -10,10 +10,10 @@
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
   <action id="Diff.NextConflict">
-    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="Diff.PreviousConflict">
-    <keyboard-shortcut first-keystroke="alt k" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f12" />
@@ -53,12 +53,10 @@
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="FindNext">
-    <keyboard-shortcut first-keystroke="ctrl k" />
-    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="FindPrevious">
-    <keyboard-shortcut first-keystroke="shift ctrl k" />
-    <keyboard-shortcut first-keystroke="alt k" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl period" />
@@ -68,9 +66,10 @@
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="GuiDesigner.Duplicate" />
+  <action id="IncrementalSearch" />
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="ctrl f7" />
-    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
@@ -85,7 +84,7 @@
   </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift f7" />
-    <keyboard-shortcut first-keystroke="alt k" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
@@ -106,6 +105,7 @@
   <action id="QuickList.My VCS operations">
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
+  <action id="RunToCursor" />
   <action id="Scala.CreateScalaDocStub" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
@@ -141,11 +141,7 @@
   <action id="Vcs.QuickListPopupAction" />
   <action id="VcsShowNextChangeMarker">
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
-    <keyboard-shortcut first-keystroke="alt j" />
-  </action>
-  <action id="VcsShowPrevChangeMarker">
-    <keyboard-shortcut first-keystroke="shift ctrl alt up" />
-    <keyboard-shortcut first-keystroke="alt k" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="VimInsertDeletePreviousWord">
     <keyboard-shortcut first-keystroke="ctrl w" />
