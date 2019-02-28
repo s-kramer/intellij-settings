@@ -1,0 +1,100 @@
+<templateSet group="command">
+  <template name="filecomment" value="// ****************************************************************** //                                                                  // $file_name$ // Copyright $year$ PSI AG. All rights reserved. // PSI PROPRIETARY/CONFIDENTIAL. Use is subject to license terms //                                                                  // ******************************************************************" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="file_name" expression="&quot;file_name&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="year" expression="&quot;year&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="delegatecomment" value="/**  &#10; * $tags$  &#10; * $see_to_target$  &#10; */" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="tags" expression="&quot;tags&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="see_to_target" expression="&quot;see_to_target&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="fieldcomment" value="/**&#10; * $todo$ Describe the method $enclosing_type$.$enclosing_method$&#10; * (The first line - until the first dot - will interpret as the brief description).&#10; * $tags$&#10; */" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="enclosing_type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="enclosing_method" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="tags" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="methodcomment" value="/**  &#10; * $todo$ Describe the method $enclosing_type$.$enclosing_method$   &#10; * (The first line - until the first dot - will interpret as the brief description).  &#10; * $tags$  &#10; */" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="todo" expression="&quot;todo&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="enclosing_type" expression="&quot;enclosing_type&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="enclosing_method" expression="&quot;enclosing_method&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="tags" expression="&quot;tags&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="typecomment" value="/**  * $todo$ Describe the type $enclosing_type$ (The first line - until the first dot - will interpret as the brief description).  &#10; * @author created: $user$ on $date$ $time$  &#10; * @author last change: $$Author: $$ on $$Date: $$  &#10; * @version $$Revision: $$  &#10; */" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="todo" expression="&quot;todo&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="enclosing_type" expression="&quot;enclosing_type&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="user" expression="&quot;user&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="&quot;date&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="&quot;time&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="gettercomment" value="/**  &#10; * @return Returns the $bare_field_name$.  &#10; */" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="bare_field_name" expression="&quot;bare_field_name&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="overridecomment" value="/**  &#10; * {@inheritDoc}  &#10; * $todo$ Describe the overridden method $enclosing_type$.$enclosing_method$   &#10; */" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="todo" expression="&quot;todo&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="enclosing_type" expression="&quot;enclosing_type&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="enclosing_method" expression="&quot;enclosing_method&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="constructorcomment" value="/**  &#10; * $todo$ Describe the constructor of $enclosing_type$.  &#10; * $tags$  &#10; */" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="todo" expression="&quot;todo&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="enclosing_type" expression="&quot;enclosing_type&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="tags" expression="&quot;tags&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="settercomment" value="/**  &#10; * @param $param$ The $bare_field_name$ to set.  */" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="param" expression="&quot;param&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="bare_field_name" expression="&quot;bare_field_name&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+</templateSet>
