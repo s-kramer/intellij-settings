@@ -1,0 +1,24 @@
+<templateSet group="scala">
+  <template name="T" value="&lt;$TAG$&gt;$SELECTION$&lt;/$TAGNAME$&gt;&#10;" description="Surround with &lt;tag&gt;&lt;/tag&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="TAG" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TAGNAME" expression="firstWord(TAG)" defaultValue="&quot;&quot;" alwaysStopAt="false" />
+    <context />
+  </template>
+  <template name="adnc" value="assertDoesNotCompile(&quot;&quot;&quot;&#10;    |$SELECTION$&#10;    |$END$&#10;&quot;&quot;&quot;.stripMargin)" description="assertDoesNotCompile" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SCALA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ea" value="extends Actor {&#10;    override def receive: Receive = {&#10;        case $END$ =&gt;&#10;    }&#10;}" description="extends Actor" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SCALA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="todo" value="// TODO: $todo$ " description="adds // TODO" toReformat="true" toShortenFQNames="true">
+    <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,607 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>C/C++</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CPPToolchains">
+    <option name="detectedVersion" value="4" />
+    <option name="specifiedGDBExecutablePath" value="/opt/gdb_python2/bin/gdb" />
+    <option name="useBundledGDB" value="false" />
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/verimi/rules/intellij-formatter/Verimi.xml" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <Configuration>
+      <option name="CVS_ROOT" value=":pserver:skramer@192.168.177.200:https://192.168.177.200/CONTROL/SYS/nfasync/trunk/src/" />
+      <option name="PATH_TO_WORKING_FOLDER" value="" />
+      <option name="PROXY_SETTINGS">
+        <value>
+          <option name="USE_PROXY" value="false" />
+          <option name="PROXY_HOST" value="" />
+          <option name="PROXY_PORT" value="8080" />
+          <option name="TYPE" value="0" />
+          <option name="LOGIN" value="" />
+          <option name="PASSWORD" value="" />
+        </value>
+      </option>
+      <option name="EXT_CONFIGURATION">
+        <value>
+          <option name="CVS_RSH" value="ssh" />
+          <option name="PRIVATE_KEY_FILE" value="" />
+          <option name="ADDITIONAL_PARAMETERS" value="" />
+          <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+        </value>
+      </option>
+      <option name="SSH_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="SSH_FOR_EXT_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="LOCAL_CONFIGURATION">
+        <value>
+          <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+        </value>
+      </option>
+      <option name="DATE_OR_REVISION_SETTINGS">
+        <value>
+          <option name="BRANCH" value="" />
+          <option name="DATE" value="" />
+          <option name="USE_BRANCH" value="false" />
+          <option name="USE_DATE" value="false" />
+        </value>
+      </option>
+    </Configuration>
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="GlobalAntConfiguration">
+    <registeredAnts>
+      <ant>
+        <classpath>
+          <classpathItem dir="file://$USER_HOME$/Documents/projects/command/command_3_5/tools/ant-1.9.2/lib" />
+        </classpath>
+        <homeDir value="C:\Users\bkramer\Documents\projects\command\command_3_5\tools\ant-1.9.2" />
+        <name value="Apache Ant version 1.9.2" />
+        <version value="1.9.2" />
+      </ant>
+    </registeredAnts>
+  </component>
+  <component name="ImportConfiguration">
+    <option name="VENDOR" />
+    <option name="RELEASE_TAG" />
+    <option name="LOG_MESSAGE" />
+    <option name="CHECKOUT_AFTER_IMPORT" value="true" />
+    <option name="KEYWORD_SUBSTITUTION_WRAPPERS" value="" />
+    <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="8.10.0" last-modified="1533838802000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CREATE_FIELD_FROM_PARAMETER_DECLARE_FINAL" value="true" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.39701173" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7323232" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="GradleSupport.showInternalTestNodes" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="settings repo&#10;settings&#10;sett&#10;plant&#10;kubernetes" />
+    <property name="JUnit.Splitter.Proportion" value="0.2395664" />
+    <property name="JUnitSupport.hideIgnoredTests" value="false" />
+    <property name="JUnitSupport.hidePassedTests" value="true" />
+    <property name="KEYMAP" value="next&#10;my vcs&#10;vcs&#10;diff&#10;occurrence" />
+    <property name="LiveContextsPanel[0]" value="0.2919132" />
+    <property name="LiveContextsPanel[1]" value="0.49779347" />
+    <property name="LiveContextsPanel[2]" value="0.3172542" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="go&#10;gradle&#10;plantuml&#10;findbugs&#10;docker" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.20648968" />
+    <property name="ProjectStructure.TopLevelElements" value="0.16015625" />
+    <property name="RunConfigurable.dividerProportion" value="0.35654008" />
+    <property name="SettingsSearchHistory" value="settings repo&#10;annotation&#10;vcs&#10;code style&#10;template" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SpringBeansModulesPanel[0]" value="0.10845987" />
+    <property name="SpringBeansModulesPanel[1]" value="0.16666667" />
+    <property name="SpringBeansModulesPanel[2]" value="0.27226278" />
+    <property name="SpringBeansModulesPanel[3]" value="0.17123288" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TestNGSupport.hideConfig" value="true" />
+    <property name="TestNGSupport.hidePassedTests" value="false" />
+    <property name="TrendingPluginsSearchHistory" value="settings" />
+    <property name="Vcs.Log.Text.Filter.History" value="21172 initial&#10;21172&#10;cac3&#10;ca3&#10;e27749b271a" />
+    <property name="XDebuggerExpressionEditor_Use_Soft_Wraps" value="true" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.intellij.database.actions.DdlActions$DeleteProvider2$1.previewExpanded" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.docker.view.DockerViewContribution.0" value="300" />
+    <property name="completion.stats.allow.message.shown" value="true" />
+    <property name="completion.stats.experiment.salt" value="dd66e3db" />
+    <property name="completion.stats.experiment.version" value="3" />
+    <property name="completion.stats.status.updated.ts" value="1542956663426" />
+    <property name="create.project.preferred.importer" value="Gradle" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="dir.diff.panel.divider.location" value="65" />
+    <property name="dir.diff.space.button.info" value="3" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt.182" value="1663a28338b" />
+    <property name="evlsprt.IU-183.4284.36" value="167899c79ff" />
+    <property name="evlsprt2.182" value="165d84f7991" />
+    <property name="evlsprt2.IU-183.4284.36" value="1672cea0a7c" />
+    <property name="evlsprt3.182" value="19" />
+    <property name="evlsprt3.183" value="17" />
+    <property name="evlsprt3.IU-183.3283.2" value="19" />
+    <property name="evlsprt3.IU-183.4284.36" value="18" />
+    <property name="export.settings.path" value="$USER_HOME$/Desktop/settings_back.jar" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/verimi-auth/performance/pom.xml&#10;/home/skramer/verimi-auth/performance&#10;/home/skramer/verimi-auth/dipp-sdk&#10;/home/skramer/verimi-auth/identityowner-service&#10;/home/skramer/DEV-21172.patch&#10;/home/skramer/verimi-auth&#10;/home/skramer/DEV-21172_added_mobile_response_generation_DEV-21172_package_cleanup_DEV-21172_initial_imp.patch&#10;/home/skramer/verimi-auth/service-provider-mock&#10;/home/skramer/verimi-auth/service-provider-manager&#10;/home/skramer/verimi-auth/hydra-proxy/src/test/resources/hydra-in-memory-compose.yml&#10;/home/skramer/Desktop&#10;/home/skramer/recruitment/interview-samples&#10;/home/skramer/verimi-auth/security-service&#10;/home/skramer/projects/axon/giftcard-demo&#10;/home/skramer/projects/axon/AxonBank&#10;/home/skramer/projects/axon/axon-quick-start&#10;/home/skramer/verimi-auth/prod-configuration&#10;/home/skramer/verimi-auth/documents-service&#10;/home/skramer/jhipster_monolith&#10;/home/skramer/jhipster&#10;/home/skramer/verimi-auth/jhipster&#10;/home/skramer/verimi-auth/optins-service&#10;/home/skramer/verimi-auth/cort-devops-prd&#10;/home/skramer/verimi-auth/contracts&#10;/home/skramer/verimi-auth/import-export-service&#10;/home/skramer/verimi-auth/k8s-configuration/devint-k8s-2&#10;/home/skramer/verimi-auth/dev_sii/jenkins-perf&#10;/home/skramer/python27/bin/python&#10;/home/skramer/verimi-auth/dev_sii&#10;/home/skramer/verimi-auth/dev_sii/jenkins-perf/run-gatling-pipeline.py" />
+    <property name="file.gist.reindex.count" value="15187" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="go.last.update.timestamp" value="1538651493446" />
+    <property name="go.libraries.notification.had.been.shown" value="true" />
+    <property name="ideavim.statistics.timestamp" value="1551349891869" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8 sdkman current" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7 (python27)" />
+    <property name="last.imported.location" value="$USER_HOME$/verimi-auth/performance/pom.xml" />
+    <property name="lastTip" value="85" />
+    <property name="project.jdk.splitter" value="0.20648968" />
+    <property name="project.wizard.group" value="org.jetbrains.plugins.gradle.service.project.wizard.GradleModuleBuilder" />
+    <property name="project.wizard.template" value="Python" />
+    <property name="quick.doc.font.size" value="SMALL" />
+    <property name="run.configuration.edit.ad" value="true" />
+    <property name="scala.last.updated" value="1551266226874" />
+    <property name="selected.color.option.type" value="LINE_FULL_COVERAGE" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.47758806" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/PSI/nfas-virtualenv/bin/python2.6" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/PSI/nfas-virtualenv/bin/python2.6" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://svn.code.sf.net/p/j-interop/code/trunk" />
+        <option value="http://ppl-poz-svsvn1.psi.de/enasws/trunk/" />
+        <option value="http://em-bld-3-svn1.psi.de/svn/market/branches/MARKET-4-1" />
+        <option value="https://svn-srv/CONTROL/lvis/qtfe/" />
+        <option value="http://ppl-poz-svsvn1.psi.de/NFA_SYNC/trunk/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://svn.code.sf.net/p/j-interop/code/trunk" />
+        <option value="https://svn.code.sf.net/p/j-interop/code/trunk j-interop-code" />
+        <option value="http://ppl-poz-svsvn1.psi.de/enasws/trunk/" />
+        <option value="http://em-bld-3-svn1.psi.de/svn/market/branches/MARKET-4-1" />
+        <option value="https://svn-srv/CONTROL/lvis/qtfe/" />
+        <option value="https://svn-srv/CONTROL/lvis/qtfe/trunk/src" />
+        <option value="http://ppl-poz-svsvn1.psi.de/NFA_SYNC/trunk/" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-IAT-2017-07-03">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\IAT-2017-07-03\pern-PERN-IAT-2017-07-03" />
+              <option value="D:\working\products\PSIcarlos\pern-PERN-IAT-2017-07-03" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-15.09.2017/.core">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\.core" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-15.09.2017/.gui">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\.gui" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-15.09.2017/.project">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\.project" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-15.09.2017/.settings">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\.settings" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-15.09.2017/eclipse-config">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\eclipse-config" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-15.09.2017/permissions.txt">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\permissions.txt" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-15.09.2017/pern-client">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\pern-client" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-15.09.2017/pern-common">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\pern-common" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-15.09.2017/pern-server">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\pern-server" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-15.09.2017/pom.xml">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\pom.xml" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-30.09.2017/.core">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\.core" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-30.09.2017/.gui">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\.gui" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-30.09.2017/.project">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\.project" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-30.09.2017/.settings">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\.settings" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-30.09.2017/eclipse-config">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\eclipse-config" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-30.09.2017/permissions.txt">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\permissions.txt" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-30.09.2017/pern-client">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\pern-client" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-30.09.2017/pern-common">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\pern-common" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-30.09.2017/pern-server">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\pern-server" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/branches/PERN-version-30.09.2017/pom.xml">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern\pom.xml" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/pern/trunk">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\pern" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/psicarlos/psicarlos-core/branches/PERN-IAT-2017-07-03">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\psicarlos-core-PERN-IAT-2017-07-03" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/psicarlos/psicarlos-core/branches/PERN-version-30.09.2017">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\psicarlos-core" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/psicarlos/psicarlos-core/branches/PERN-version-30.09.2017/.project">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\psicarlos-core\.project" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/psicarlos/psicarlos-core/branches/PERN-version-30.09.2017/.settings">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\psicarlos-core\.settings" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/psicarlos/psicarlos-core/branches/PERN-version-30.09.2017/eclipse-config">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\psicarlos-core\eclipse-config" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/psicarlos/psicarlos-core/branches/PERN-version-30.09.2017/pom.xml">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\psicarlos-core\pom.xml" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/psicarlos/psicarlos-core/branches/PERN-version-30.09.2017/psicarlos-client">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\psicarlos-core\psicarlos-client" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/psicarlos/psicarlos-core/branches/PERN-version-30.09.2017/psicarlos-common">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\psicarlos-core\psicarlos-common" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/psicarlos/psicarlos-core/branches/PERN-version-30.09.2017/psicarlos-persistence">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\psicarlos-core\psicarlos-persistence" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/psicarlos/psicarlos-core/branches/PERN-version-30.09.2017/psicarlos-realm">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\psicarlos-core\psicarlos-realm" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/psicarlos/psicarlos-core/branches/PERN-version-30.09.2017/psicarlos-server">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\psicarlos-core\psicarlos-server" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/psicarlos/psicarlos-core/branches/PERN-version-30.09.2017/psicarlos-split-and-speed">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\psicarlos-core\psicarlos-split-and-speed" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/psicarlos/psicarlos-core/branches/PERN-version-30.09.2017/psicarlos-transport">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\psicarlos-core\psicarlos-transport" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://ppl-poz-svsvn1.psi.de/PSIcarlos/projects/psicarlos/psicarlos-core/trunk">
+          <value>
+            <set>
+              <option value="D:\working\products\PSIcarlos\psicarlos-core" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn-srv/CONTROL/lvis/qtfe/branches/DEV/M2/src">
+          <value>
+            <set>
+              <option value="$USER_HOME$/PSI/ebase/qtfe/qtfe/trunk/src" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn-srv/CONTROL/lvis/qtfe/branches/DEV/M2/src/CMakeLists.txt">
+          <value>
+            <set>
+              <option value="$USER_HOME$/PSI/ebase/qtfe/qtfe/trunk/src/CMakeLists.txt" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn-srv/CONTROL/lvis/qtfe/branches/DEV/M2/src/cfg">
+          <value>
+            <set>
+              <option value="$USER_HOME$/PSI/ebase/qtfe/qtfe/trunk/src/cfg" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn-srv/CONTROL/lvis/qtfe/branches/DEV/M2/src/cmake">
+          <value>
+            <set>
+              <option value="$USER_HOME$/PSI/ebase/qtfe/qtfe/trunk/src/cmake" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn-srv/CONTROL/lvis/qtfe/branches/DEV/M2/src/doxygen">
+          <value>
+            <set>
+              <option value="$USER_HOME$/PSI/ebase/qtfe/qtfe/trunk/src/doxygen" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn-srv/CONTROL/lvis/qtfe/branches/DEV/M2/src/libs">
+          <value>
+            <set>
+              <option value="$USER_HOME$/PSI/ebase/qtfe/qtfe/trunk/src/libs" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn-srv/CONTROL/lvis/qtfe/branches/DEV/M2/src/locale">
+          <value>
+            <set>
+              <option value="$USER_HOME$/PSI/ebase/qtfe/qtfe/trunk/src/locale" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn-srv/CONTROL/lvis/qtfe/branches/DEV/M2/src/lvisplugin">
+          <value>
+            <set>
+              <option value="$USER_HOME$/PSI/ebase/qtfe/qtfe/trunk/src/lvisplugin" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn-srv/CONTROL/lvis/qtfe/branches/DEV/M2/src/mmilib">
+          <value>
+            <set>
+              <option value="$USER_HOME$/PSI/ebase/qtfe/qtfe/trunk/src/mmilib" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn-srv/CONTROL/lvis/qtfe/branches/DEV/M2/src/resources">
+          <value>
+            <set>
+              <option value="$USER_HOME$/PSI/ebase/qtfe/qtfe/trunk/src/resources" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn-srv/CONTROL/lvis/qtfe/branches/DEV/M2/src/scripts">
+          <value>
+            <set>
+              <option value="$USER_HOME$/PSI/ebase/qtfe/qtfe/trunk/src/scripts" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn-srv/CONTROL/lvis/qtfe/branches/DEV/M2/src/standalone">
+          <value>
+            <set>
+              <option value="$USER_HOME$/PSI/ebase/qtfe/qtfe/trunk/src/standalone" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn-srv/CONTROL/lvis/qtfe/branches/DEV/M2/src/test">
+          <value>
+            <set>
+              <option value="$USER_HOME$/PSI/ebase/qtfe/qtfe/trunk/src/test" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn-srv/CONTROL/lvis/qtfe/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/PSI/ebase/qtfe/qtfe/trunk/src" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn-srv/CONTROL/lvis/qtfe/trunk/src">
+          <value>
+            <set>
+              <option value="$USER_HOME$/PSI/ebase/qtfe/qtfe/trunk/src" />
+              <option value="$USER_HOME$/PSI/ebase/qtfe/qtfe/trunk/src/src" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default" />
+</application>

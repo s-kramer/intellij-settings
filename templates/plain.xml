@@ -1,0 +1,13 @@
+<templateSet group="plain">
+  <template name="co" value="{@code $END$}" description="Javadoc code tag" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="prsfs" value="private static final String " description="private static final String" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
