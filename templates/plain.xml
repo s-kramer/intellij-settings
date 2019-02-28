@@ -1,7 +1,0 @@
-<templateSet group="plain">
-  <template name="co" value="{@code $END$}" description="Javadoc code tag" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_COMMENT" value="true" />
-    </context>
-  </template>
-</templateSet>
