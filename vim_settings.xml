@@ -280,7 +280,6 @@
       <file name="$USER_HOME$/Projects/Java/AxonBank/core/src/main/java/org/axonframework/samples/bank/command/BankTransferManagementSaga.java" timestamp="1547934722017">
         <mark key="'" line="84" column="72" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/es_cqrs_example/build.sbt" timestamp="1551381265183" />
       <file name="$USER_HOME$/Projects/Java/spring-security/config/src/test/java/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2ClientConfigurerTests.java" timestamp="1545477563533">
         <mark key="'" line="97" column="31" />
       </file>
@@ -347,8 +346,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.0.RELEASE/fe4390ff7a5b04cae4eabadca60b6026ade138a1/spring-boot-autoconfigure-2.1.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2ClientProperties.java" timestamp="1546267173973">
         <mark key="'" line="281" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/Scala/lambdaconf_wt_2016/src/main/scala/fpgg/Booking.scala" timestamp="1551473640680">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/Scala/lambdaconf_wt_2016/src/main/scala/fpgg/Booking.scala" timestamp="1551474339861">
+        <mark key="'" line="123" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spring-security/config/src/main/java/org/springframework/security/config/annotation/web/configurers/oauth2/server/resource/OAuth2ResourceServerConfigurer.java" timestamp="1546280919975">
         <mark key="'" line="227" column="71" />
@@ -379,11 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="48" filename="$USER_HOME$/Projects/Java/AxonBank/core/src/main/java/org/axonframework/samples/bank/command/BankAccountCommandHandler.java" />
-      <jump line="68" column="52" filename="$USER_HOME$/Projects/Java/AxonBank/core/src/main/java/org/axonframework/samples/bank/command/BankTransferManagementSaga.java" />
-      <jump line="83" column="19" filename="$USER_HOME$/Projects/Java/AxonBank/core/src/main/java/org/axonframework/samples/bank/command/BankTransferManagementSaga.java" />
-      <jump line="84" column="72" filename="$USER_HOME$/Projects/Java/AxonBank/core/src/main/java/org/axonframework/samples/bank/command/BankTransferManagementSaga.java" />
-      <jump line="45" column="18" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.25/slf4j-ext-1.7.25-sources.jar!/org/slf4j/ext/LoggerWrapper.java" />
       <jump line="58" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.25/slf4j-ext-1.7.25-sources.jar!/org/slf4j/ext/LoggerWrapper.java" />
       <jump line="60" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.25/slf4j-ext-1.7.25-sources.jar!/org/slf4j/ext/LoggerWrapper.java" />
       <jump line="85" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.25/slf4j-ext-1.7.25-sources.jar!/org/slf4j/ext/LoggerWrapper.java" />
@@ -479,6 +473,11 @@
       <jump line="117" column="9" filename="/Booking.scala" />
       <jump line="194" column="6" filename="/Booking.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Scala/lambdaconf_wt_2016/src/main/scala/fpgg/Booking.scala" />
+      <jump line="195" column="14" filename="$USER_HOME$/Projects/Scala/lambdaconf_wt_2016/src/main/scala/fpgg/Booking.scala" />
+      <jump line="175" column="32" filename="$USER_HOME$/Projects/Scala/lambdaconf_wt_2016/src/main/scala/fpgg/Booking.scala" />
+      <jump line="164" column="27" filename="$USER_HOME$/Projects/Scala/lambdaconf_wt_2016/src/main/scala/fpgg/Booking.scala" />
+      <jump line="172" column="21" filename="$USER_HOME$/Projects/Scala/lambdaconf_wt_2016/src/main/scala/fpgg/Booking.scala" />
+      <jump line="123" column="30" filename="$USER_HOME$/Projects/Scala/lambdaconf_wt_2016/src/main/scala/fpgg/Booking.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -648,7 +647,7 @@
         <text>ERROR_CUSTOMER_HAS_RELATED_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxib29raW5nXD4=</text>
+        <text encoding="base64">XDxTdGF0ZVw+</text>
       </register>
       <register name="o" type="4">
         <text>PERMISSION_OBJECT_OPTIMIZATION_OBJECTIVE_FUNCTION_YEARLY:PERMISSION_ACTION_OPTIMIZE_VIEW_OPTIMIZE</text>
@@ -942,9 +941,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxib29raW5nXD4=</last-search>
+      <last-search encoding="base64">XDxTdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxib29raW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxTdGF0ZVw+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -952,8 +951,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCT09UU1RSQVBfU0VSVkVSU19DT05GSUdcPg==</entry>
-        <entry>docker</entry>
         <entry>kafka</entry>
         <entry encoding="base64">XDxtZXNzYWdlQ29udmVydGVyXD4=</entry>
         <entry encoding="base64">XDxrYWZrYVByb2R1Y2VyRmFjdG9yeVw+</entry>
@@ -972,6 +969,8 @@
         <entry encoding="base64">XDxEZWFsaW5nV2l0aENoYW5naW5nU3RhdGVcPg==</entry>
         <entry encoding="base64">XDxCb29raW5nU2VydmljZVw+</entry>
         <entry encoding="base64">XDxib29raW5nXD4=</entry>
+        <entry encoding="base64">XDxCb29raW5nU3RhdGVcPg==</entry>
+        <entry encoding="base64">XDxTdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
