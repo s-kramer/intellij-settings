@@ -104,6 +104,9 @@
       <file name="$MAVEN_REPOSITORY$/org/axonframework/axon-configuration/4.0/axon-configuration-4.0-sources.jar!/org/axonframework/config/DefaultConfigurer.java" timestamp="1547840262464">
         <mark key="'" line="80" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/build_on_top_ap/readmodel/BloggerPersistentView.scala" timestamp="1551447483392">
+        <mark key="'" line="2" column="18" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.7.RELEASE/90829ea8ad19a115b97a16d8dcd8dcbdb71fb43d/spring-boot-2.0.7.RELEASE-sources.jar!/org/springframework/boot/context/properties/PropertyMapper.java" timestamp="1549653954834">
         <mark key="'" line="181" column="29" />
       </file>
@@ -314,7 +317,7 @@
       <file name="$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.3/eureka-core-1.9.3-sources.jar!/com/netflix/eureka/EurekaServerConfig.java" timestamp="1542321918735">
         <mark key="'" line="672" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551379592029">
+      <file name="/Dummy.txt" timestamp="1551448210298">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spring-security/web/src/main/java/org/springframework/security/web/context/AbstractSecurityWebApplicationInitializer.java" timestamp="1545413787560">
@@ -367,8 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="19" filename="$USER_HOME$/Projects/Java/AxonBank/core/src/main/java/org/axonframework/samples/bank/command/BankAccount.java" />
-      <jump line="40" column="18" filename="$USER_HOME$/Projects/Java/AxonBank/core/src/main/java/org/axonframework/samples/bank/command/BankAccount.java" />
       <jump line="3" column="46" filename="$USER_HOME$/Projects/Java/AxonBank/web/src/main/resources/static/app/services.js" />
       <jump line="57" column="17" filename="$USER_HOME$/Projects/Java/AxonBank/web/src/main/resources/static/app/services.js" />
       <jump line="54" column="17" filename="$USER_HOME$/Projects/Java/AxonBank/web/src/main/resources/static/app/services.js" />
@@ -467,6 +468,8 @@
       <jump line="19" column="0" filename="$USER_HOME$/Projects/Java/spodddify/src/test/java/org/skramer/spodddify/payment/BillingAccountTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Blogger.scala" />
       <jump line="44" column="105" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/oo_frameworkless/domain/BloggersTest.scala" />
+      <jump line="8" column="61" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/build_on_top_ap/readmodel/BloggerPersistentView.scala" />
+      <jump line="2" column="18" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/build_on_top_ap/readmodel/BloggerPersistentView.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -636,7 +639,7 @@
         <text>ERROR_CUSTOMER_HAS_RELATED_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDaGFyZ2VCaWxsaW5nQWNjb3VudENvbW1hbmRcPg==</text>
+        <text encoding="base64">XDxQcm9wc1w+</text>
       </register>
       <register name="o" type="4">
         <text>PERMISSION_OBJECT_OPTIMIZATION_OBJECTIVE_FUNCTION_YEARLY:PERMISSION_ACTION_OPTIMIZE_VIEW_OPTIMIZE</text>
@@ -930,9 +933,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDaGFyZ2VCaWxsaW5nQWNjb3VudENvbW1hbmRcPg==</last-search>
+      <last-search encoding="base64">XDxQcm9wc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDaGFyZ2VCaWxsaW5nQWNjb3VudENvbW1hbmRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9wc1w+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -940,8 +943,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEZXN0aW5hdGlvbkJhbmtBY2NvdW50Tm90Rm91bmRFdmVudFw+</entry>
-        <entry encoding="base64">XDxSZXR1cm5Nb25leU9mRmFpbGVkQmFua1RyYW5zZmVyQ29tbWFuZFw+</entry>
         <entry encoding="base64">XDxpbnN0YW5jZW9mTEFMXD4=</entry>
         <entry encoding="base64">XDxTY2hlZHVsZWRGdXR1cmVcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVyVGhyZWFkXD4=</entry>
@@ -960,6 +961,8 @@
         <entry encoding="base64">XDxwcmVkaWNhdGVcPg==</entry>
         <entry>2181</entry>
         <entry encoding="base64">XDxDaGFyZ2VCaWxsaW5nQWNjb3VudENvbW1hbmRcPg==</entry>
+        <entry encoding="base64">XDxwcm9wc1w+</entry>
+        <entry encoding="base64">XDxQcm9wc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
