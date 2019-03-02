@@ -62,6 +62,12 @@
       <file name="$USER_HOME$/Projects/Java/axon-giftcard-demo/src/main/java/io/axoniq/demo/giftcard/gui/GiftcardUI.java" timestamp="1548019682632">
         <mark key="'" line="82" column="13" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_54.scala" timestamp="1551560437741">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" timestamp="1542489025911">
         <mark key="'" line="993" column="49" />
       </file>
@@ -301,6 +307,12 @@
       <file name="$USER_HOME$/Projects/Java/spring-security/web/src/main/java/org/springframework/security/web/context/AbstractSecurityWebApplicationInitializer.java" timestamp="1545413787560">
         <mark key="'" line="78" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/Scala/lambdaconf_wt_2016/src/main/scala/fpgg/MonadTransformers.scala" timestamp="1551559769372">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Java/spring-security/core/src/main/java/org/springframework/security/authentication/DefaultAuthenticationEventPublisher.java" timestamp="1545416967261">
         <mark key="'" line="109" column="12" />
       </file>
@@ -459,8 +471,8 @@
       <register name="a" type="4">
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBCaWxsaW5nQWNjb3VudCgpIHsKICAgIH0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>.show</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -572,7 +584,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Component</text>
+        <text>.show</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -635,7 +647,7 @@
         <text>iG8gQXIujYU/PAtBEht19XfLoJSi2eaN5408YK3J1f0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBCaWxsaW5nQWNjb3VudCgpIHsKICAgIH0KCg==</text>
+        <text encoding="base64">U2hvdy4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -839,7 +851,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwb3NpdG9yeS5sb2FkCg==</text>
+        <text encoding="base64">ZGVmIGZbRltfXTogRnVuY3RvciwgQV0oazogRltBXSk6IEEgPSB7Cn0K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -851,13 +863,13 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBrLm1hcAo=</text>
       </register>
       <register name="s" type="4">
         <text>app.facebook.client.secret</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -875,7 +887,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZvaWQgY2hhcmdlKGxvbmcgYW1vdW50KSB7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -885,26 +897,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text>cmd.getBillingAccountId()</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBrLgo=</text>
       </register>
       <register name="v" type="4">
         <text>carlosvm</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWdncmVnYXRlLmV4ZWN1dGUoYmEgLT4gYmEuY2hhcmdlKGNtZC5nZXRDaGFyZ2VBbW91bnQoKSkpOwo=</text>
+        <text encoding="base64">OmsgLXYgRnVuY3Rvcgo=</text>
       </register>
       <register name="w" type="4">
         <text>nhd%n</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY21kLgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBCaWxsaW5nQWNjb3VudCgpIHsKICAgIH0KCg==</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">ICBoYXNWaWV3UGVybWlzc2lvbiggUEVSTUlTU0lPTl9PQkpFQ1RfUkVQT1JUU18gKSAg</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIEBDb21tYW5kSGFuZGxlcgogICAgdm9pZCBvbihDaGFyZ2VCaWxsaW5nQWNjb3VudENvbW1hbmQgY21kKSB7CiAgICAgICAgY21kLgogICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVwb3NpdG9yeS5sb2FkCg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
