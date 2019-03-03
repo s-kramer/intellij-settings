@@ -228,9 +228,8 @@
       <file name="$MAVEN_REPOSITORY$/org/axonframework/axon-server-connector/4.0/axon-server-connector-4.0-sources.jar!/org/axonframework/axonserver/connector/command/AxonServerCommandBus.java" timestamp="1547851182993">
         <mark key="'" line="86" column="43" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/1.0.2/ab0ac9c1bcb13e379478e343beaf7b95cca5076a/kafka-clients-1.0.2-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java" timestamp="1549654736819">
-        <mark key="[" line="76" column="43" />
-        <mark key="]" line="76" column="43" />
+      <file name="$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.1.1-sources.jar!/scalaz/package.scala" timestamp="1551610894561">
+        <mark key="'" line="153" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spring-security/config/src/main/java/org/springframework/security/config/annotation/web/builders/WebSecurity.java" timestamp="1546266612160">
         <mark key="'" line="85" column="71" />
@@ -279,10 +278,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/jhipster_kafka/src/main/java/org/skramer/config/MessagingConfiguration.java" timestamp="1549652195257">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="108" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.9.RELEASE/spring-beans-5.0.9.RELEASE-sources.jar!/org/springframework/beans/factory/config/PlaceholderConfigurerSupport.java" timestamp="1540853879273">
         <mark key="'" line="222" column="16" />
       </file>
@@ -325,6 +320,9 @@
       <file name="$USER_HOME$/.ivy2/cache/io.gatling/gatling-core/srcs/gatling-core-3.0.1.1-sources.jar!/io/gatling/core/feeder/FeederSupport.scala" timestamp="1544880531191">
         <mark key="'" line="37" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" timestamp="1551610820113">
+        <mark key="'" line="35" column="58" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.7.RELEASE/baf66bdb85990d38ff6b5d71a1f751f1ecc75c68/spring-boot-autoconfigure-2.0.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaAutoConfiguration.java" timestamp="1549653501024">
         <mark key="'" line="89" column="30" />
       </file>
@@ -366,18 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.25/slf4j-ext-1.7.25-sources.jar!/org/slf4j/ext/LoggerWrapper.java" />
-      <jump line="99" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.25/slf4j-ext-1.7.25-sources.jar!/org/slf4j/ext/LoggerWrapper.java" />
-      <jump line="114" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.25/slf4j-ext-1.7.25-sources.jar!/org/slf4j/ext/LoggerWrapper.java" />
-      <jump line="129" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.25/slf4j-ext-1.7.25-sources.jar!/org/slf4j/ext/LoggerWrapper.java" />
-      <jump line="144" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.25/slf4j-ext-1.7.25-sources.jar!/org/slf4j/ext/LoggerWrapper.java" />
-      <jump line="157" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.25/slf4j-ext-1.7.25-sources.jar!/org/slf4j/ext/LoggerWrapper.java" />
-      <jump line="170" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.25/slf4j-ext-1.7.25-sources.jar!/org/slf4j/ext/LoggerWrapper.java" />
-      <jump line="184" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.25/slf4j-ext-1.7.25-sources.jar!/org/slf4j/ext/LoggerWrapper.java" />
-      <jump line="198" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.25/slf4j-ext-1.7.25-sources.jar!/org/slf4j/ext/LoggerWrapper.java" />
-      <jump line="212" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.25/slf4j-ext-1.7.25-sources.jar!/org/slf4j/ext/LoggerWrapper.java" />
-      <jump line="240" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.25/slf4j-ext-1.7.25-sources.jar!/org/slf4j/ext/LoggerWrapper.java" />
-      <jump line="254" column="12" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.25/slf4j-ext-1.7.25-sources.jar!/org/slf4j/ext/LoggerWrapper.java" />
       <jump line="52" column="28" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.25/slf4j-ext-1.7.25-sources.jar!/org/slf4j/ext/LoggerWrapper.java" />
       <jump line="19" column="28" filename="$USER_HOME$/Projects/Java/axon-giftcard-demo/src/main/java/io/axoniq/demo/giftcard/gui/GiftcardUI.java" />
       <jump line="33" column="31" filename="$USER_HOME$/Projects/Java/axon-giftcard-demo/src/main/java/io/axoniq/demo/giftcard/gui/GiftcardUI.java" />
@@ -466,6 +452,18 @@
       <jump line="195" column="6" filename="$USER_HOME$/Projects/Scala/lambdaconf_wt_2016/src/main/scala/fpgg/Booking.scala" />
       <jump line="103" column="0" filename="$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-core_2.12/srcs/scalaz-core_2.12-7.2.8-sources.jar!/scalaz/OptionT.scala" />
       <jump line="8" column="7" filename="/MonadTransformers.scala" />
+      <jump line="43" column="0" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
+      <jump line="45" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
+      <jump line="49" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
+      <jump line="53" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
+      <jump line="57" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
+      <jump line="61" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
+      <jump line="65" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
+      <jump line="23" column="6" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
+      <jump line="35" column="58" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
+      <jump line="154" column="10" filename="$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.1.1-sources.jar!/scalaz/package.scala" />
+      <jump line="149" column="10" filename="$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.1.1-sources.jar!/scalaz/package.scala" />
+      <jump line="153" column="8" filename="$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.1.1-sources.jar!/scalaz/package.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -635,7 +633,7 @@
         <text>ERROR_CUSTOMER_HAS_RELATED_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPdXRjb21lXD4=</text>
+        <text encoding="base64">XDxhcHBseVw+</text>
       </register>
       <register name="o" type="4">
         <text>PERMISSION_OBJECT_OPTIMIZATION_OBJECTIVE_FUNCTION_YEARLY:PERMISSION_ACTION_OPTIMIZE_VIEW_OPTIMIZE</text>
@@ -929,9 +927,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxPdXRjb21lXD4=</last-search>
+      <last-search encoding="base64">XDxhcHBseVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPdXRjb21lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBseVw+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -939,8 +937,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxrYWZrYVByb2R1Y2VyRmFjdG9yeVw+</entry>
-        <entry encoding="base64">XDxQcm9kdWNlckZhY3RvcnlcPg==</entry>
         <entry encoding="base64">XDxrYWZrYUNvbnN1bWVyRmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxDb25zdW1lckZhY3RvcnlcPg==</entry>
         <entry encoding="base64">XDxwcmVkaWNhdGVcPg==</entry>
@@ -959,6 +955,8 @@
         <entry encoding="base64">XDxTdGF0ZVw+</entry>
         <entry encoding="base64">XDxmZXRjaEJvb2tpbmdcPg==</entry>
         <entry encoding="base64">XDxPdXRjb21lXD4=</entry>
+        <entry encoding="base64">XDxhcHBseUV2ZW50XD4=</entry>
+        <entry encoding="base64">XDxhcHBseVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
