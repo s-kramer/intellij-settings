@@ -262,6 +262,12 @@
       <file name="$USER_HOME$/Projects/Java/AxonBank/core/src/main/java/org/axonframework/samples/bank/command/BankTransferManagementSaga.java" timestamp="1547934722017">
         <mark key="'" line="84" column="72" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_55.scala" timestamp="1551630995568">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/Java/spring-security/config/src/test/java/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2ClientConfigurerTests.java" timestamp="1545477563533">
         <mark key="'" line="97" column="31" />
       </file>
@@ -276,11 +282,6 @@
       </file>
       <file name="$USER_HOME$/Projects/Java/AxonBank/query/src/main/java/org/axonframework/samples/bank/query/bankaccount/BankAccountEventListener.java" timestamp="1547907444012">
         <mark key="'" line="30" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/Java/jhipster_kafka/src/main/java/org/skramer/message/KafkaTopics.java" timestamp="1550319470204">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.9.RELEASE/spring-beans-5.0.9.RELEASE-sources.jar!/org/springframework/beans/factory/config/PlaceholderConfigurerSupport.java" timestamp="1540853879273">
         <mark key="'" line="222" column="16" />
@@ -321,22 +322,22 @@
       <file name="$MAVEN_REPOSITORY$/org/axonframework/axon-spring/4.0/axon-spring-4.0-sources.jar!/org/axonframework/spring/config/AxonConfiguration.java" timestamp="1547840233959">
         <mark key="'" line="62" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/fp_state_based/BloggersTest.scala" timestamp="1551614403066">
-        <mark key="'" line="73" column="35" />
-        <mark key="[" line="73" column="41" />
-        <mark key="]" line="73" column="41" />
-        <mark key="^" line="73" column="41" />
-        <mark key="." line="73" column="41" />
+      <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/fp_state_based/BloggersTest.scala" timestamp="1551615060050">
+        <mark key="'" line="74" column="35" />
+        <mark key="[" line="83" column="22" />
+        <mark key="]" line="83" column="26" />
+        <mark key="^" line="83" column="26" />
+        <mark key="." line="83" column="26" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/io.gatling/gatling-core/srcs/gatling-core-3.0.1.1-sources.jar!/io/gatling/core/feeder/FeederSupport.scala" timestamp="1544880531191">
         <mark key="'" line="37" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" timestamp="1551613716824">
-        <mark key="'" line="49" column="4" />
-        <mark key="[" line="40" column="17" />
-        <mark key="]" line="23" column="51" />
-        <mark key="^" line="23" column="51" />
-        <mark key="." line="23" column="51" />
+      <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" timestamp="1551630674044">
+        <mark key="'" line="45" column="4" />
+        <mark key="[" line="44" column="79" />
+        <mark key="]" line="44" column="78" />
+        <mark key="^" line="44" column="78" />
+        <mark key="." line="44" column="78" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.7.RELEASE/baf66bdb85990d38ff6b5d71a1f751f1ecc75c68/spring-boot-autoconfigure-2.0.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaAutoConfiguration.java" timestamp="1549653501024">
         <mark key="'" line="89" column="30" />
@@ -484,8 +485,8 @@
       <register name="a" type="4">
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>List</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhei5fCg==</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -597,7 +598,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text encoding="base64">cyA9Pg==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -654,7 +655,7 @@
         <text>PERMISSION_OBJECT_OPTIMIZATION_OBJECTIVE_FUNCTION_YEARLY:PERMISSION_ACTION_OPTIMIZE_VIEW_OPTIMIZE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzaG91bGRDcmVhdGVCaWxsaW5nQWNjb3VudFdpdGhJbml0aWFsQmFsYW5jZVdpdGhBdXRvZ2VuZXJhdGVkQWNjb3VudElkKCkgewo=</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhei5fCg==</text>
       </register>
       <register name="p" type="4">
         <text>iG8gQXIujYU/PAtBEht19XfLoJSi2eaN5408YK3J1f0=</text>
