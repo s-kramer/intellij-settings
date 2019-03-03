@@ -228,8 +228,12 @@
       <file name="$MAVEN_REPOSITORY$/org/axonframework/axon-server-connector/4.0/axon-server-connector-4.0-sources.jar!/org/axonframework/axonserver/connector/command/AxonServerCommandBus.java" timestamp="1547851182993">
         <mark key="'" line="86" column="43" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.1.1-sources.jar!/scalaz/package.scala" timestamp="1551610894561">
+      <file name="$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.1.1-sources.jar!/scalaz/package.scala" timestamp="1551612626095">
         <mark key="'" line="153" column="8" />
+        <mark key="[" line="153" column="73" />
+        <mark key="]" line="153" column="72" />
+        <mark key="^" line="153" column="72" />
+        <mark key="." line="153" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spring-security/config/src/main/java/org/springframework/security/config/annotation/web/builders/WebSecurity.java" timestamp="1546266612160">
         <mark key="'" line="85" column="71" />
@@ -320,8 +324,8 @@
       <file name="$USER_HOME$/.ivy2/cache/io.gatling/gatling-core/srcs/gatling-core-3.0.1.1-sources.jar!/io/gatling/core/feeder/FeederSupport.scala" timestamp="1544880531191">
         <mark key="'" line="37" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" timestamp="1551612569289">
-        <mark key="'" line="32" column="2" />
+      <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" timestamp="1551613716824">
+        <mark key="'" line="49" column="4" />
         <mark key="[" line="40" column="17" />
         <mark key="]" line="23" column="51" />
         <mark key="^" line="23" column="51" />
@@ -368,7 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="31" filename="$USER_HOME$/Projects/Java/axon-giftcard-demo/src/main/java/io/axoniq/demo/giftcard/gui/GiftcardUI.java" />
       <jump line="76" column="8" filename="$USER_HOME$/Projects/Java/axon-giftcard-demo/src/main/java/io/axoniq/demo/giftcard/gui/GiftcardUI.java" />
       <jump line="82" column="13" filename="$USER_HOME$/Projects/Java/axon-giftcard-demo/src/main/java/io/axoniq/demo/giftcard/gui/GiftcardUI.java" />
       <jump line="24" column="31" filename="$USER_HOME$/Projects/Java/axon-giftcard-demo/src/main/java/io/axoniq/demo/giftcard/gui/CardSummaryDataProvider.java" />
@@ -456,18 +459,19 @@
       <jump line="8" column="7" filename="/MonadTransformers.scala" />
       <jump line="43" column="0" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
       <jump line="45" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
-      <jump line="49" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
-      <jump line="53" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
-      <jump line="57" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
-      <jump line="61" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
-      <jump line="65" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
-      <jump line="23" column="6" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
-      <jump line="35" column="58" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
       <jump line="154" column="10" filename="$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.1.1-sources.jar!/scalaz/package.scala" />
       <jump line="149" column="10" filename="$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.1.1-sources.jar!/scalaz/package.scala" />
       <jump line="153" column="8" filename="$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.1.1-sources.jar!/scalaz/package.scala" />
       <jump line="40" column="16" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
       <jump line="32" column="2" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
+      <jump line="35" column="58" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
+      <jump line="23" column="6" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
+      <jump line="69" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
+      <jump line="65" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
+      <jump line="61" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
+      <jump line="57" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
+      <jump line="53" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
+      <jump line="49" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -637,7 +641,7 @@
         <text>ERROR_CUSTOMER_HAS_RELATED_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBseVw+</text>
+        <text encoding="base64">XDxhcHBseUV2ZW50XD4=</text>
       </register>
       <register name="o" type="4">
         <text>PERMISSION_OBJECT_OPTIMIZATION_OBJECTIVE_FUNCTION_YEARLY:PERMISSION_ACTION_OPTIMIZE_VIEW_OPTIMIZE</text>
@@ -931,12 +935,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBseVw+</last-search>
+      <last-search encoding="base64">XDxhcHBseUV2ZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBseVw+</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBseUV2ZW50XD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>\\&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -959,8 +963,8 @@
         <entry encoding="base64">XDxTdGF0ZVw+</entry>
         <entry encoding="base64">XDxmZXRjaEJvb2tpbmdcPg==</entry>
         <entry encoding="base64">XDxPdXRjb21lXD4=</entry>
-        <entry encoding="base64">XDxhcHBseUV2ZW50XD4=</entry>
         <entry encoding="base64">XDxhcHBseVw+</entry>
+        <entry encoding="base64">XDxhcHBseUV2ZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
