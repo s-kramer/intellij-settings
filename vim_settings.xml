@@ -321,6 +321,13 @@
       <file name="$MAVEN_REPOSITORY$/org/axonframework/axon-spring/4.0/axon-spring-4.0-sources.jar!/org/axonframework/spring/config/AxonConfiguration.java" timestamp="1547840233959">
         <mark key="'" line="62" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/fp_state_based/BloggersTest.scala" timestamp="1551614403066">
+        <mark key="'" line="73" column="35" />
+        <mark key="[" line="73" column="41" />
+        <mark key="]" line="73" column="41" />
+        <mark key="^" line="73" column="41" />
+        <mark key="." line="73" column="41" />
+      </file>
       <file name="$USER_HOME$/.ivy2/cache/io.gatling/gatling-core/srcs/gatling-core-3.0.1.1-sources.jar!/io/gatling/core/feeder/FeederSupport.scala" timestamp="1544880531191">
         <mark key="'" line="37" column="22" />
       </file>
@@ -372,7 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="8" filename="$USER_HOME$/Projects/Java/axon-giftcard-demo/src/main/java/io/axoniq/demo/giftcard/gui/GiftcardUI.java" />
       <jump line="82" column="13" filename="$USER_HOME$/Projects/Java/axon-giftcard-demo/src/main/java/io/axoniq/demo/giftcard/gui/GiftcardUI.java" />
       <jump line="24" column="31" filename="$USER_HOME$/Projects/Java/axon-giftcard-demo/src/main/java/io/axoniq/demo/giftcard/gui/CardSummaryDataProvider.java" />
       <jump line="50" column="32" filename="$USER_HOME$/Projects/Java/axon-giftcard-demo/src/main/java/io/axoniq/demo/giftcard/gui/CardSummaryDataProvider.java" />
@@ -472,13 +478,14 @@
       <jump line="57" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
       <jump line="53" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
       <jump line="49" column="4" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" />
+      <jump line="74" column="35" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/fp_state_based/BloggersTest.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>List</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -590,7 +597,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.show</text>
+        <text>[]</text>
       </register>
       <register name="m" type="4">
         <keys>
