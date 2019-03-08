@@ -1,55 +1,19 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 2.7 (python27) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/python27/lib/python2.7" />
-        <root url="file://$USER_HOME$/python27/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python27/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python27/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/347603573" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/python27/lib/python2.7" />
-        <root url="file://$USER_HOME$/python27/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python27/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python27/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/347603573" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="scala-sdk-2.12.5" type="Scala">
+    <library name="scala-sdk-2.12.1" type="Scala">
       <properties>
         <compiler-classpath>
-          <root url="file://$USER_HOME$/.sdkman/candidates/scala/current/lib/scala-library.jar" />
-          <root url="file://$USER_HOME$/.sdkman/candidates/scala/current/lib/scala-reflect.jar" />
-          <root url="file://$USER_HOME$/.sdkman/candidates/scala/current/lib/scala-compiler.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-compiler/2.12.1/scala-compiler-2.12.1.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.1/scala-library-2.12.1.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.12.1/scala-reflect-2.12.1.jar" />
         </compiler-classpath>
       </properties>
       <CLASSES>
-        <root url="jar://$USER_HOME$/.sdkman/candidates/scala/current/lib/scala-swing_2.12-2.0.0.jar!/" />
-        <root url="jar://$USER_HOME$/.sdkman/candidates/scala/current/lib/scala-xml_2.12-1.0.6.jar!/" />
-        <root url="jar://$USER_HOME$/.sdkman/candidates/scala/current/lib/scala-library.jar!/" />
-        <root url="jar://$USER_HOME$/.sdkman/candidates/scala/current/lib/scala-reflect.jar!/" />
-        <root url="jar://$USER_HOME$/.sdkman/candidates/scala/current/lib/scala-parser-combinators_2.12-1.0.7.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.1/scala-library-2.12.1.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.12.1/scala-reflect-2.12.1.jar!/" />
       </CLASSES>
       <JAVADOC>
-        <root url="http://www.scala-lang.org/api/2.12.5/" />
+        <root url="http://www.scala-lang.org/api/2.12.1/" />
       </JAVADOC>
       <SOURCES />
     </library>
