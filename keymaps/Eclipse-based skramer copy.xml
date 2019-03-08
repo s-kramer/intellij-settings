@@ -50,6 +50,7 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
+  <action id="FindNext" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
     <mouse-shortcut keystroke="button5" />
@@ -68,14 +69,14 @@
   </action>
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="ctrl f7" />
-    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift f7" />
-    <keyboard-shortcut first-keystroke="alt k" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="Print" />
   <action id="QuickEvaluateExpression">
@@ -84,6 +85,9 @@
     <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="QuickList.Customizable VCS operations">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
+  <action id="QuickList.My VCS operations">
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
   <action id="QuickList.q VCS operations">
