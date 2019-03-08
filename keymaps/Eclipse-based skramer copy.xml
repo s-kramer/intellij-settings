@@ -66,9 +66,11 @@
     <keyboard-shortcut first-keystroke="shift f1" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="IncrementalSearch" />
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="ctrl f7" />
     <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -76,6 +78,7 @@
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift f7" />
     <keyboard-shortcut first-keystroke="alt k" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="Print" />
   <action id="QuickEvaluateExpression">
