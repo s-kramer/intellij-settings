@@ -74,8 +74,12 @@
       <file name="$USER_HOME$/Projects/Java/spring-security/web/src/main/java/org/springframework/security/web/access/AccessDeniedHandlerImpl.java" timestamp="1545431706347">
         <mark key="'" line="35" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" timestamp="1552255753230">
-        <mark key="'" line="66" column="16" />
+      <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" timestamp="1552255898613">
+        <mark key="'" line="51" column="18" />
+        <mark key="[" line="113" column="12" />
+        <mark key="]" line="113" column="16" />
+        <mark key="." line="113" column="16" />
+        <mark key="^" line="113" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spring-kafka/samples/sample-01/src/main/resources/application.yml" timestamp="1548615633255">
         <mark key="[" line="3" column="83" />
@@ -501,8 +505,6 @@
       <jump line="61" column="32" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/build_on_top_ap/domain/AggregateManager.scala" />
       <jump line="63" column="16" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/build_on_top_ap/domain/AggregateManager.scala" />
       <jump line="35" column="9" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/build_on_top_ap/domain/AggregateManager.scala" />
-      <jump line="64" column="15" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
-      <jump line="53" column="18" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
       <jump line="110" column="14" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
       <jump line="103" column="15" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
       <jump line="92" column="15" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
@@ -510,13 +512,15 @@
       <jump line="77" column="16" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
       <jump line="76" column="15" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
       <jump line="66" column="16" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
+      <jump line="64" column="15" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
+      <jump line="53" column="18" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -628,7 +632,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ow</text>
+        <text>_</text>
       </register>
       <register name="m" type="4">
         <keys>
