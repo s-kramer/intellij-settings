@@ -74,8 +74,8 @@
       <file name="$USER_HOME$/Projects/Java/spring-security/web/src/main/java/org/springframework/security/web/access/AccessDeniedHandlerImpl.java" timestamp="1545431706347">
         <mark key="'" line="35" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" timestamp="1552247528817">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" timestamp="1552255753230">
+        <mark key="'" line="66" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spring-kafka/samples/sample-01/src/main/resources/application.yml" timestamp="1548615633255">
         <mark key="[" line="3" column="83" />
@@ -410,15 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
-      <jump line="27" column="0" filename="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
-      <jump line="6" column="26" filename="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountNotFoundEvent.java" />
-      <jump line="75" column="11" filename="$USER_HOME$/Projects/Java/spodddify/src/test/java/.gitignore" />
-      <jump line="47" column="0" filename="$USER_HOME$/Projects/Java/spring-kafka/samples/sample-01/src/main/java/com/example/Application.java" />
-      <jump line="51" column="0" filename="$USER_HOME$/Projects/Java/spring-kafka/samples/sample-01/src/main/java/com/example/Application.java" />
-      <jump line="63" column="0" filename="$USER_HOME$/Projects/Java/spring-kafka/samples/sample-01/src/main/java/com/example/Application.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/Projects/Java/spring-kafka/samples/sample-01/src/main/java/com/example/Application.java" />
-      <jump line="75" column="0" filename="$USER_HOME$/Projects/Java/spring-kafka/samples/sample-01/src/main/java/com/example/Application.java" />
       <jump line="103" column="40" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.0.0/kafka-clients-2.0.0-sources.jar!/org/apache/kafka/clients/admin/AdminClientConfig.java" />
       <jump line="41" column="78" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.0.0/kafka-clients-2.0.0-sources.jar!/org/apache/kafka/clients/admin/AdminClientConfig.java" />
       <jump line="53" column="29" filename="$USER_HOME$/Projects/Java/spring-kafka/build.gradle" />
@@ -510,6 +501,15 @@
       <jump line="61" column="32" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/build_on_top_ap/domain/AggregateManager.scala" />
       <jump line="63" column="16" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/build_on_top_ap/domain/AggregateManager.scala" />
       <jump line="35" column="9" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/build_on_top_ap/domain/AggregateManager.scala" />
+      <jump line="64" column="15" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
+      <jump line="53" column="18" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
+      <jump line="110" column="14" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
+      <jump line="103" column="15" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
+      <jump line="92" column="15" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
+      <jump line="90" column="15" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
+      <jump line="77" column="16" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
+      <jump line="76" column="15" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
+      <jump line="66" column="16" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -679,7 +679,7 @@
         <text>ERROR_CUSTOMER_HAS_RELATED_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUZXJtaW5hdGVkXD4=</text>
+        <text encoding="base64">XDxjb21tYW5kZWRcPg==</text>
       </register>
       <register name="o" type="4">
         <text>PERMISSION_OBJECT_OPTIMIZATION_OBJECTIVE_FUNCTION_YEARLY:PERMISSION_ACTION_OPTIMIZE_VIEW_OPTIMIZE</text>
@@ -973,9 +973,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUZXJtaW5hdGVkXD4=</last-search>
+      <last-search encoding="base64">XDxjb21tYW5kZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUZXJtaW5hdGVkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb21tYW5kZWRcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>-1</last-dir>
@@ -983,7 +983,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9wc1w+</entry>
         <entry encoding="base64">XDxQcm9wc1w+</entry>
         <entry encoding="base64">XDxMb2NhbERhdGVcPg==</entry>
         <entry encoding="base64">XDxhbmRUaGVuXD4=</entry>
@@ -1003,6 +1002,7 @@
         <entry encoding="base64">XDxjcmVhdGVNYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVcPg==</entry>
         <entry encoding="base64">XDxUZXJtaW5hdGVkXD4=</entry>
+        <entry encoding="base64">XDxjb21tYW5kZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
