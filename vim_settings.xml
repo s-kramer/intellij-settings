@@ -74,6 +74,9 @@
       <file name="$USER_HOME$/Projects/Java/spring-security/web/src/main/java/org/springframework/security/web/access/AccessDeniedHandlerImpl.java" timestamp="1545431706347">
         <mark key="'" line="35" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" timestamp="1552247528817">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Java/spring-kafka/samples/sample-01/src/main/resources/application.yml" timestamp="1548615633255">
         <mark key="[" line="3" column="83" />
         <mark key="]" line="4" column="5" />
@@ -85,6 +88,9 @@
       </file>
       <file name="$USER_HOME$/Projects/Java/spring-security/web/src/main/java/org/springframework/security/web/authentication/rememberme/PersistentTokenBasedRememberMeServices.java" timestamp="1545419965417">
         <mark key="'" line="108" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/build_on_top_ap/domain/AggregateRoot.scala" timestamp="1552247369336">
+        <mark key="'" line="46" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/Scala/trip_with_monads/project/build.properties" timestamp="1551722616542">
         <mark key="[" line="0" column="14" />
@@ -216,6 +222,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" timestamp="1542488982701">
         <mark key="'" line="336" column="73" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/build_on_top_ap/domain/AggregateManager.scala" timestamp="1552248579048">
+        <mark key="'" line="35" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spring-kafka/samples/sample-01/src/main/java/com/example/Application.java" timestamp="1548607403591">
         <mark key="'" line="75" column="0" />
@@ -401,18 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountCreatedEvent.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountCreatedEvent.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountCreatedEvent.java" />
-      <jump line="12" column="5" filename="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
-      <jump line="2" column="39" filename="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
-      <jump line="70" column="81" filename="$USER_HOME$/Projects/Java/axon-giftcard-demo/src/main/java/io/axoniq/demo/giftcard/query/CardSummaryProjection.java" />
-      <jump line="69" column="28" filename="$USER_HOME$/Projects/Java/AxonBank/core/src/main/java/org/axonframework/samples/bank/command/BankAccount.java" />
-      <jump line="4" column="26" filename="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/ChargeBillingAccountCommand.java" />
-      <jump line="8" column="45" filename="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountCharged.java" />
-      <jump line="9" column="6" filename="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
       <jump line="6" column="26" filename="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountNotFoundEvent.java" />
@@ -501,6 +498,18 @@
       <jump line="73" column="9" filename="$USER_HOME$/Projects/Scala/trip_with_monads/src/main/scala/twm/SemiFinal.scala" />
       <jump line="77" column="17" filename="$USER_HOME$/Projects/Scala/trip_with_monads/src/main/scala/twm/SemiFinal.scala" />
       <jump line="89" column="14" filename="$USER_HOME$/Projects/Scala/trip_with_monads/src/main/scala/twm/SemiFinal.scala" />
+      <jump line="46" column="15" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/build_on_top_ap/domain/AggregateRoot.scala" />
+      <jump line="121" column="14" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
+      <jump line="101" column="27" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
+      <jump line="89" column="27" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
+      <jump line="75" column="27" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
+      <jump line="63" column="27" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
+      <jump line="51" column="27" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
+      <jump line="41" column="27" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
+      <jump line="61" column="32" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/build_on_top_ap/domain/AggregateManager.scala" />
+      <jump line="63" column="16" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/build_on_top_ap/domain/AggregateManager.scala" />
+      <jump line="35" column="9" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/build_on_top_ap/domain/AggregateManager.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -670,7 +679,7 @@
         <text>ERROR_CUSTOMER_HAS_RELATED_</text>
       </register>
       <register name="/" type="4">
-        <text>fetch</text>
+        <text encoding="base64">XDxUZXJtaW5hdGVkXD4=</text>
       </register>
       <register name="o" type="4">
         <text>PERMISSION_OBJECT_OPTIMIZATION_OBJECTIVE_FUNCTION_YEARLY:PERMISSION_ACTION_OPTIMIZE_VIEW_OPTIMIZE</text>
@@ -964,19 +973,16 @@
       </register>
     </registers>
     <search>
-      <last-search>fetch</last-search>
+      <last-search encoding="base64">XDxUZXJtaW5hdGVkXD4=</last-search>
       <last-offset />
-      <last-pattern>fetch</last-pattern>
+      <last-pattern encoding="base64">XDxUZXJtaW5hdGVkXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>\\&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmVkaWNhdGVcPg==</entry>
-        <entry>2181</entry>
-        <entry encoding="base64">XDxDaGFyZ2VCaWxsaW5nQWNjb3VudENvbW1hbmRcPg==</entry>
         <entry encoding="base64">XDxwcm9wc1w+</entry>
         <entry encoding="base64">XDxQcm9wc1w+</entry>
         <entry encoding="base64">XDxMb2NhbERhdGVcPg==</entry>
@@ -994,6 +1000,9 @@
         <entry encoding="base64">XDxhcHBseUV2ZW50XD4=</entry>
         <entry>hottest</entry>
         <entry>fetch</entry>
+        <entry encoding="base64">XDxjcmVhdGVNYW5hZ2VyXD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVcPg==</entry>
+        <entry encoding="base64">XDxUZXJtaW5hdGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
