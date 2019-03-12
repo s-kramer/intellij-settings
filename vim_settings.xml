@@ -725,12 +725,12 @@
         <mark key="^" line="14" column="62" />
         <mark key="." line="14" column="62" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" timestamp="1552376504701">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="9" />
-        <mark key="." line="19" column="9" />
-        <mark key="^" line="19" column="9" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" timestamp="1552377223465">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="16" column="4" />
+        <mark key="^" line="16" column="4" />
+        <mark key="." line="16" column="4" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydraproxy/domain/GetConsentPageResponseFactory.java" timestamp="1550063693791">
         <mark key="[" line="11" column="66" />
@@ -902,8 +902,8 @@
       <register name="a" type="4">
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>login page</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -1018,7 +1018,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>UA</text>
+        <text>login page</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1074,14 +1074,14 @@
       <register name="o" type="4">
         <text>PERMISSION_OBJECT_OPTIMIZATION_OBJECTIVE_FUNCTION_YEARLY:PERMISSION_ACTION_OPTIMIZE_VIEW_OPTIMIZE</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgU2VjdXJpdHlTZXJ2aWNlIGFzIFNTICNDOUVBOTkK</text>
+      <register name="0" type="4">
+        <text>{&quot;authRequest&quot;: &quot;...&quot;,\n&quot;phone&quot;: &quot;...&quot;,\n&quot;email&quot;: &quot;...&quot;,\n&quot;password&quot;: &quot;...&quot;,\n&quot;document&quot;: &quot;...&quot;,\n&quot;verificationMethod&quot;: &quot;...&quot;}</text>
       </register>
       <register name="p" type="4">
         <text>iG8gQXIujYU/PAtBEht19XfLoJSi2eaN5408YK3J1f0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SFAgLT4gRkUgOiBsb2dpbiBwYWdlIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1285,7 +1285,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgT1RQU2VydmljZSBhcyBPVFAgI0M5RUE5OQo=</text>
+        <text encoding="base64">RkUgLT4gSFAgOiBnZXQgbG9naW4gcGFnZQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1297,13 +1297,13 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SU8gLT4gRkUgOiByZXR1cm4gdGVtcCB1c2VyIGRhdGEK</text>
+        <text encoding="base64">bm90ZSByaWdodDogdmVyaWZ5IHVzZXIgdXNpbmcgc2VsZWN0ZWQgbWV0aG9kCg==</text>
       </register>
       <register name="s" type="4">
         <text>app.facebook.client.secret</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgU2VjdXJpdHlTZXJ2aWNlIGFzIFNTICM5OUZGOTkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1321,7 +1321,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFydGljaXBhbnQgT1RQU2VydmljZSBhcyBPVFAgI0M5RUE5OQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1332,25 +1332,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgRnJvbnRlbmQgCg==</text>
+        <text encoding="base64">SU8gLT4gRkUgOiByZXR1cm4gdGVtcCB1c2VyIGRhdGEK</text>
       </register>
       <register name="v" type="4">
         <text>carlosvm</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgU1BCYWNrZW5kIGFzIHNwYiAjRkY2MDYwCg==</text>
+        <text encoding="base64">cGFydGljaXBhbnQgU2VjdXJpdHlTZXJ2aWNlIGFzIFNTICM5OUZGOTkK</text>
       </register>
       <register name="w" type="4">
         <text>nhd%n</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">J3BhcnRpY2lwYW50IEh5ZHJhTG9naW5BcHAgYXMgbGEgI0FGQzZFOQoncGFydGljaXBhbnQgSHlkcmFDb25zZW50QXBwIGFzIGNhICNBRkM2RTkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">ICBoYXNWaWV3UGVybWlzc2lvbiggUEVSTUlTU0lPTl9PQkpFQ1RfUkVQT1JUU18gKSAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFydGljaXBhbnQgRnJvbnRlbmQgCg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
