@@ -725,12 +725,12 @@
         <mark key="^" line="14" column="62" />
         <mark key="." line="14" column="62" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" timestamp="1552381261192">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="29" column="137" />
-        <mark key="]" line="29" column="137" />
-        <mark key="^" line="29" column="137" />
-        <mark key="." line="29" column="137" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" timestamp="1552382092854">
+        <mark key="'" line="31" column="21" />
+        <mark key="[" line="44" column="27" />
+        <mark key="]" line="46" column="29" />
+        <mark key="^" line="44" column="26" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydraproxy/domain/GetConsentPageResponseFactory.java" timestamp="1550063693791">
         <mark key="[" line="11" column="66" />
@@ -797,13 +797,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_30.puml" />
-      <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_30.puml" />
-      <jump line="30" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_30.puml" />
-      <jump line="29" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_30.puml" />
-      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_30.puml" />
-      <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_30.puml" />
-      <jump line="28" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_30.puml" />
       <jump line="20" column="50" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_30.puml" />
       <jump line="20" column="34" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_31.puml" />
       <jump line="28" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_31.puml" />
@@ -887,7 +880,6 @@
       <jump line="52" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/account/AccountSelectionEdgeCasesTest.java" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.puml" />
       <jump line="106" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
       <jump line="135" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
       <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
       <jump line="132" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
@@ -895,15 +887,23 @@
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
       <jump line="16" column="48" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
       <jump line="35" column="29" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
-      <jump line="31" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
       <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
+      <jump line="23" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
+      <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
+      <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
+      <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
+      <jump line="33" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
+      <jump line="40" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
+      <jump line="30" column="85" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
+      <jump line="31" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>login page</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RkUgLT4gSFAgOiBjb25zZW50IGFjY2VwdGFuY2UK</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -1018,7 +1018,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>login page</text>
+        <text>verify</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1069,19 +1069,19 @@
         <text>ERROR_CUSTOMER_HAS_RELATED_</text>
       </register>
       <register name="/" type="4">
-        <text>report</text>
+        <text>verifica</text>
       </register>
       <register name="o" type="4">
         <text>PERMISSION_OBJECT_OPTIMIZATION_OBJECTIVE_FUNCTION_YEARLY:PERMISSION_ACTION_OPTIMIZE_VIEW_OPTIMIZE</text>
       </register>
-      <register name="0" type="4">
-        <text>{&quot;authRequest&quot;: &quot;...&quot;,\n&quot;phone&quot;: &quot;...&quot;,\n&quot;email&quot;: &quot;...&quot;,\n&quot;password&quot;: &quot;...&quot;,\n&quot;document&quot;: &quot;...&quot;,\n&quot;verificationMethod&quot;: &quot;...&quot;}</text>
+      <register name="0" type="2">
+        <text encoding="base64">bG9vcCBldmVyeSBuIG1pbnV0ZXMKU1MgLT4gU1MgOiBwZXJpb2RpY2FsbHkgY2hlY2sgc2Vzc2lvbiBleHBpcmF0aW9uXG5hbmQgc2VuZCBlbWFpbHMgaWYgcGFzc3dvcmRcbndhcyBwcm92aWRlZAplbmQK</text>
       </register>
       <register name="p" type="4">
         <text>iG8gQXIujYU/PAtBEht19XfLoJSi2eaN5408YK3J1f0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SFAgLT4gRkUgOiBsb2dpbiBwYWdlIAo=</text>
+        <text encoding="base64">RkUgLT4gSFAgOiBjb25zZW50IGFjY2VwdGFuY2UK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1285,7 +1285,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RkUgLT4gSFAgOiBnZXQgbG9naW4gcGFnZQo=</text>
+        <text encoding="base64">bG9vcCBldmVyeSBuIGhvdXJzClNTIC0+IFNTIDogcGVyaW9kaWNhbGx5IGNoZWNrIAplbmQK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1297,13 +1297,13 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bm90ZSByaWdodDogdmVyaWZ5IHVzZXIgdXNpbmcgc2VsZWN0ZWQgbWV0aG9kCg==</text>
+        <text encoding="base64">bG9vcCBldmVyeSBuIGhvdXJzClNTIC0+IFNTIDogcGVyaW9kaWNhbGx5IGNoZWNrIAplbmQK</text>
       </register>
       <register name="s" type="4">
         <text>app.facebook.client.secret</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9vcCBldmVyeSBuIGhvdXJzClNTIC0+IFNTIDogcGVyaW9kaWNhbGx5IGNoZWNrIAplbmQK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1321,7 +1321,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgT1RQU2VydmljZSBhcyBPVFAgI0M5RUE5OQo=</text>
+        <text encoding="base64">CgondWEgLT4gYWcgOiBHRVQgL29hdXRoL2F1dGhvcml6ZQonbm90ZSBsZWZ0OiBVc2VyIGNsaWNrc1xuTG9naW4gV2l0aCBWZXJpbWkKJyBhZyAtPiBocCA6CicgIGhwIC0+IGggOiBHRVQgL29hdXRoMi9hdXRoCicgIGhwIDwtIGggOiAzMDIgdG8gL2F1dGhlbnRpY2F0ZQonIGFnIDwtIGhwCid1YSA8LSBhZwonCid1YSAtPiBhZyA6IEdFVCAvYXV0aGVudGljYXRlCicgYWcgLT4gbGEKJyAgbGEgLT4gaCA6IEdFVCAvb2F1dGgyL2F1dGgvcmVxdWVzdHMvbG9naW4ve2NoYWxsZW5nZX0KJyAgbGEgPC0gaAonIGFnIDwtIGxhIDogMjAwIE9LCicgbm90ZSByaWdodDogcmV0dXJuIGxvZ2luIHBhZ2UKJ3VhIDwtIGFnCicKJ3VhIC0+IGFnIDogUE9TVCAvaW5saW5lLXJlZ2lzdHJhdGlvbgonbm90ZSBsZWZ0IDogVXNlciBjbGlja3MgSW5saW5lIHJlZ2lzdHJhdGlvbgonIGFnIC0+IHZzIDogPHZlcmlmaWNhdGlvbiBtZXRob2Q+Cicgbm90ZSByaWdodDogcGVyZm9ybSB2ZXJpZmljYXRpb24KJyAgbGEgPC0gdnMgOiBQT1NUIC9pbmxpbmUtcmVnaXN0cmF0aW9uL3ZlcmlmaWNhdGlvbi9zdGF0dXMmY2hhbGxlbmdlPS4uLlxueyAidmVyaWZpY2F0aW9uTWV0aG9kIjogIi4uLiJcbiJzdGF0dXMiOiAiLi4uIn0KJyAgbm90ZSByaWdodDogcmV0dXJuIHZlcmlmaWNhdGlvbiBzdGF0dXMKJ2FsdCBsb2dpbiBpcyBhY2NlcHRlZAonICBoIDwtIGxhIDogUFVUIC9vYXV0aDIvYXV0aC9yZXF1ZXN0cy9sb2dpbi97Y2hhbGxlbmdlfS9hY2NlcHQKJ2Vsc2UgbG9naW4gaXMgY2FuY2VsZWQKJyAgaCA8LSBsYSA6IFBVVCAvb2F1dGgyL2F1dGgvcmVxdWVzdHMvbG9naW4ve2NoYWxsZW5nZX0vcmVqZWN0CidlbmQKJyAgaCAtPiBsYSA6IDIwMCB7InJlZGlyZWN0X3RvIjogIi4uLiJ9CicgIGxhIC0+IHZzIDogMzAyIC88cmVkaXJlY3RfdG8+CicgIG5vdGUgcmlnaHQ6IHBhc3MgYWxsIGNvb2tpZXMKJyBhZyA8LSB2cyA6IDMwMiAvPHJlZGlyZWN0X3RvPgonIG5vdGUgcmlnaHQ6IHRoZSByZXN0IG9mIHRoZSBmbG93XG5pcyBub3QgY2hhbmdlZAondWEgPC0gYWcKJwondWEgLT4gYWcKJyBhZyAtPiBocAonICBocCAtPiBoCicgIGhwIDwtIGggOiAzMDIgcmVkaXJlY3QgdG8gY29uc2VudCBwYWdlCicgYWcgPC0gaHAKJ3VhIDwtIGFnCicKJ3VhIC0+IGFnCicgYWcgLT4gaHAKJyAgIGhwIC0+IGggOiBnZXQgY2hhbGxlbmdlCicgICBocCA8LSBoCicKJyAgIGFsdCB3cml0ZV9iYXNrZXQgc2NvcGUgcHJlc2VudAonICAgIGhwIC0+IHZzIDogY3JlYXRlIGVtcHR5IGJhc2tldAonICAgIGhwIDwtIHZzCicgICBlbHNlIHJlYWRfYmFza2V0IHNjb3BlIHByZXNlbnQKJyAgICBocCAtPiB2cyA6IGNyZWF0ZSBpbmFjdGl2ZSBiYXNrZXQKJyAgICBocCA8LSB2cwonICAgZWxzZSBvbmx5IGxvZ2luIHNjb3BlIHByZXNlbnQgLyBubyBiYXNrZXQgc2NvcGVzCicgICAgaHAgLT4gdnMgOiBjb25uZWN0IGxpbmtlZCBwcm92aWRlcgonICAgIGhwIDwtIHZzCicgICBlbmQKJyAgIG5vdGUgcmlnaHQgOiBiYXNrZXRjcmVhdGlvbiAvIGxpbmthZ2UgbG9naWMKJwonCicgIGhwIC0+IGhwIDogY2hlY2sgc2tpcCBjb25zZW50Cidub3RlIGxlZnQgOiBza2lwIGNvbnNlbnQgZm9yIGludGVybmFsIGNsaWVudHMgb3Igd3JpdGVfYmFza2V0IHNjb3BlIG9yXG4gbG9naW4gc2NvcGUgb3Igbm8gZGF0YSBzY29wZXMgcmVxdWVzdGVkCidhbHQgc2tpcCBjb25zZW50CicgIG9wdCAhd3JpdGVfYmFza2V0ICYmIHJlYWRfYmFza2V0IGluIHJlcXVlc3RlZCBzY29wZXMKJyAgIGhwIC0+IHZzIDogY29uZmlybSBiYXNrZXQKJyAgIGhwIDwtIHZzIDogMjAwCicgIGVuZAonICBocCAtPiBjYQonICAgY2EgLT4gaCA6IGdldCBjaGFsbGVuZ2UKJyAgIGNhIDwtIGgKJyAgIGNhIC0+IHZzIDogZ2V0IGRhdGEgZm9yIHRva2VuJ3MgZXh0CicgICBjYSA8LSB2cwonICAgY2EgLT4gaCA6IC9vYXV0aDIvYXV0aC9yZXF1ZXN0cy9jb25zZW50L3tjaGFsbGVuZ2V9L2FjY2VwdAonICAgY2EgPC0gaAonZWxzZSBzaG93IGNvbnNlbnQgcGFnZQonICBocCAtPiBjYSA6IEdFVCAvY29uc2VudAonICAgY2EgLT4gaCA6IGdldCBjaGFsbGVuZ2UKJyAgIGNhIDwtIGgKJyAgIGNhIC0+IHZzIDogZ2V0IGRhdGEgZm9yIHRva2VuJ3MgZXh0CicgICBjYSA8LSB2cwonICAgY2EgLT4gaCA6IC9vYXV0aDIvYXV0aC9yZXF1ZXN0cy9jb25zZW50L3tjaGFsbGVuZ2V9CicgICBjYSA8LSBoCicgIGhwIDwtIGNhIDogMjAwCicgYWcgPC0gaHAKJ3VhIDwtIGFnCicKJ3VhIC0+IGFnIDogUE9TVCAvY29uc2VudC9hY2NlcHQKJ25vdGUgbGVmdDogdXNlciBhY2NlcHRzIGNvbnNlbnQKJyBhZyAtPiBocAonICBocCAtPiBoIDogZ2V0IGNoYWxsZW5nZQonICBocCA8LSBoCicgIGhwIC0+IHZzIDogY29uZmlybSBiYXNrZXQKJyAgaHAgPC0gdnMKJyAgaHAgLT4gY2EKJyAgIGNhIC0+IGggOiBnZXQgY2hhbGxlbmdlCicgICBjYSA8LSBoCicgICBjYSAtPiB2cyA6IGdldCBkYXRhIGZvciB0b2tlbidzIGV4dAonICAgY2EgPC0gdnMKJyAgIGNhIC0+IGggOiAvb2F1dGgyL2F1dGgvcmVxdWVzdHMvY29uc2VudC97Y2hhbGxlbmdlfS9hY2NlcHQKJyAgIGNhIDwtIGgKJ2VuZAonICBocCA8LSBjYSA6IHJlZGlyZWN0X3RvICAtIC9vYXV0aDIvYXV0aAonIGFnIDwtIGhwIDogMzAyIHtyZWRpcmVjdF90b30KJ3VhIDwtIGFnCicKJwonCid1YSAtPiBhZwonIGFnIC0+IGhwCicgIGhwIC0+IGgKJyAgaHAgPC0gaCA6IDMwMiBjbGllbnQgcmVkaXJlY3RfdXJsIHdpdGggY29kZQonIGFnIDwtIGhwCid1YSA8LSBhZwondWEgLT4gc3BiCicKJ3NwYiAtPiBhZyA6IEdFVCAvb2F1dGgyL3Rva2VuCicgYWcgLT4gaHAKJyAgaHAgLT4gaAonICBocCA8LSBoIDogdG9rZW5zCicgYWcgPC0gaHAKJ3NwYiA8LSBhZwoK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1332,25 +1332,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SU8gLT4gRkUgOiByZXR1cm4gdGVtcCB1c2VyIGRhdGEK</text>
+        <text encoding="base64">J3BhcnRpY2lwYW50IEFwaUdhdGV3YXkgYXMgQUcgI0FGQzZFOQo=</text>
       </register>
       <register name="v" type="4">
         <text>carlosvm</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgU2VjdXJpdHlTZXJ2aWNlIGFzIFNTICM5OUZGOTkK</text>
+        <text encoding="base64">CicgU2VydmljZSBQcm92aWRlciBGbG93Cg==</text>
       </register>
       <register name="w" type="4">
         <text>nhd%n</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SFAgLT4gRkUgOiBsb2dpbiBwYWdlIAo=</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">ICBoYXNWaWV3UGVybWlzc2lvbiggUEVSTUlTU0lPTl9PQkpFQ1RfUkVQT1JUU18gKSAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgRnJvbnRlbmQgCg==</text>
+        <text encoding="base64">RkUgLT4gSFAgOiBnZXQgbG9naW4gcGFnZQo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
@@ -1363,9 +1363,9 @@
       </register>
     </registers>
     <search>
-      <last-search>report</last-search>
+      <last-search>verifica</last-search>
       <last-offset />
-      <last-pattern>report</last-pattern>
+      <last-pattern>verifica</last-pattern>
       <last-replace>--</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -1373,7 +1373,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoeWRyYVNlcnZpY2VcPg==</entry>
         <entry>hydra</entry>
         <entry encoding="base64">XDxoeWRyYUVycm9yXD4=</entry>
         <entry encoding="base64">XDxleHBlY3RGYWlsZWRHZXRMb2dpblJlcXVlc3RcPg==</entry>
@@ -1393,6 +1392,7 @@
         <entry encoding="base64">XDxzZXJ2aWNlUHJvdmlkZXJBY2NvdW50c1w+</entry>
         <entry>todo</entry>
         <entry>report</entry>
+        <entry>verifica</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Scope}//</entry>
