@@ -68,9 +68,6 @@
         <mark key="^" line="167" column="66" />
         <mark key="." line="167" column="8" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" timestamp="1552466693070">
-        <mark key="'" line="360" column="70" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/account/AccountControllerTest.java" timestamp="1552483612381">
         <mark key="[" line="177" column="0" />
         <mark key="]" line="177" column="0" />
@@ -169,10 +166,10 @@
         <mark key="^" line="14" column="56" />
         <mark key="." line="14" column="56" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" timestamp="1552553861840">
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" timestamp="1552561473686">
         <mark key="a" line="121" column="8" />
         <mark key="'" line="179" column="27" />
-        <mark key="[" line="186" column="79" />
+        <mark key="[" line="186" column="77" />
         <mark key="]" line="186" column="78" />
         <mark key="^" line="186" column="78" />
         <mark key="." line="186" column="78" />
@@ -197,7 +194,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552488709096">
+      <file name="/Dummy.txt" timestamp="1552561332255">
         <mark key="'" line="86" column="0" />
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
@@ -209,9 +206,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" timestamp="1552480795611">
-        <mark key="'" line="277" column="20" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaServiceSpec_checkNfaForLoginPage.groovy" timestamp="1552488147393">
         <mark key="'" line="42" column="25" />
@@ -340,8 +334,8 @@
       <register name="a" type="4">
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3BNb2JpbGVBdXRoZW50aWNhdGlvblJlc3BvbnNlIGJ1aWxkID0gU3BNb2JpbGVBdXRoZW50aWNhdGlvblJlc3BvbnNlLmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -453,7 +447,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>fixed most of the compilation errors</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -516,7 +510,7 @@
         <text>iG8gQXIujYU/PAtBEht19XfLoJSi2eaN5408YK3J1f0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wZWVrTGVmdChzcEFjY291bnRFcnJvciAtPiAgICAgICAgICAgICAgICAgICAgIGxvZy5lcnJvcigiRmFpbGVkIHRvIHJldGlyaXZlIGFjY291bnRzIGZvciB1aWQ6IHt9LCAiLCB1aWQpICkKICAgICAgICAgICAgICAgIC5tYXBMZWZ0KHNwQWNjb3VudEVycm9yIC0+IGdldExvZ2luQWNjZXB0RXJyb3JSZXNwb25zZShIWURSQV9MT0dJTl9BQ0NFUFRBTkNFX0VSUk9SLCBjbGllbnRJZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3BNb2JpbGVBdXRoZW50aWNhdGlvblJlc3BvbnNlIGJ1aWxkID0gU3BNb2JpbGVBdXRoZW50aWNhdGlvblJlc3BvbnNlLmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -720,7 +714,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wZWVrTGVmdChzcEFjY291bnRFcnJvciAtPiAgICAgICAgICAgICAgICAgICAgIGxvZy5lcnJvcigiRmFpbGVkIHRvIHJldGlyaXZlIGFjY291bnRzIGZvciB1aWQ6IHt9LCAiLCB1aWQpICkKICAgICAgICAgICAgICAgIC5tYXBMZWZ0KHNwQWNjb3VudEVycm9yIC0+IGdldExvZ2luQWNjZXB0RXJyb3JSZXNwb25zZShIWURSQV9MT0dJTl9BQ0NFUFRBTkNFX0VSUk9SLCBjbGllbnRJZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -732,13 +726,13 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3IoIkZhaWxlZCB0byByZXRpcml2ZSBhY2NvdW50cyBmb3IgdWlkOiB7fSwgIiwgdWlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9iaWxlU2hvcnRjdXRTZXJ2aWNlLmJ1aWxkU3BBdXRoZW50aWNhdGlvblJlc3BvbnNlKG1vYmlsZVNlc3Npb24sICkK</text>
       </register>
       <register name="s" type="4">
         <text>app.facebook.client.secret</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRPckVsc2VHZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wZWVrTGVmdChzcEFjY291bnRFcnJvciAtPiAgICAgICAgICAgICAgICAgICAgIGxvZy5lcnJvcigiRmFpbGVkIHRvIHJldGlyaXZlIGFjY291bnRzIGZvciB1aWQ6IHt9LCAiLCB1aWQpICkKICAgICAgICAgICAgICAgIC5tYXBMZWZ0KHNwQWNjb3VudEVycm9yIC0+IGdldExvZ2luQWNjZXB0RXJyb3JSZXNwb25zZShIWURSQV9MT0dJTl9BQ0NFUFRBTkNFX0VSUk9SLCBjbGllbnRJZCkpOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -756,7 +750,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRPckVsc2VHZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wZWVrTGVmdChzcEFjY291bnRFcnJvciAtPiAgICAgICAgICAgICAgICAgICAgIGxvZy5lcnJvcigiRmFpbGVkIHRvIHJldGlyaXZlIGFjY291bnRzIGZvciB1aWQ6IHt9LCAiLCB1aWQpICkKICAgICAgICAgICAgICAgIC5tYXBMZWZ0KHNwQWNjb3VudEVycm9yIC0+IGdldExvZ2luQWNjZXB0RXJyb3JSZXNwb25zZShIWURSQV9MT0dJTl9BQ0NFUFRBTkNFX0VSUk9SLCBjbGllbnRJZCkpOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -766,26 +760,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text>.getLeft()</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3IoIkZhaWxlZCB0byByZXRpcml2ZSBhY2NvdW50cyBmb3IgdWlkOiB7fSwgIiwgdWlkKTsK</text>
       </register>
       <register name="v" type="4">
         <text>carlosvm</text>
       </register>
-      <register name="7" type="4">
-        <text>.getLeft()</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRPckVsc2VHZXQoKTsK</text>
       </register>
       <register name="w" type="4">
         <text>nhd%n</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmdldE9yRWxzZUdldCh0aGlzOjpoYW5kbGVIeWRyYUxvZ2luUmVxdWVzdEVycm9yKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRPckVsc2VHZXQoKTsK</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">ICBoYXNWaWV3UGVybWlzc2lvbiggUEVSTUlTU0lPTl9PQkpFQ1RfUkVQT1JUU18gKSAg</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRPckVsc2VHZXQodGhpczo6aGFuZGxlSHlkcmFMb2dpblJlcXVlc3RFcnJvcik7Cg==</text>
+      <register name="9" type="4">
+        <text>.getLeft()</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
