@@ -196,10 +196,11 @@
       <file name="$MAVEN_REPOSITORY$/org/axonframework/axon-spring-boot-autoconfigure/4.0/axon-spring-boot-autoconfigure-4.0-sources.jar!/org/axonframework/springboot/autoconfig/AxonAutoConfiguration.java" timestamp="1543000017123">
         <mark key="'" line="294" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify/spodddify-domain/build.gradle" timestamp="1552590176837">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Projects/Java/spodddify/spodddify-domain/build.gradle" timestamp="1552590888412">
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="26" />
+        <mark key="." line="30" column="26" />
+        <mark key="^" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/Java/jhipster_test/build.gradle" timestamp="1546356011058">
         <mark key="'" line="109" column="20" />
@@ -550,8 +551,8 @@
       <register name="a" type="4">
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1.1'</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -663,7 +664,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Charged</text>
+        <text>1.1'</text>
       </register>
       <register name="m" type="4">
         <keys>
