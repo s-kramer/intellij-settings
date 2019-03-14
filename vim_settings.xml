@@ -50,6 +50,12 @@
       <file name="$MAVEN_REPOSITORY$/org/axonframework/axon-spring/3.0.4/axon-spring-3.0.4-sources.jar!/org/axonframework/spring/config/AxonConfiguration.java" timestamp="1547763034515">
         <mark key="'" line="86" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/spodddify-domain/src/main/scala/org/skramer/spodddify/payment.scala" timestamp="1552589744756">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Java/AxonBank/core/src/main/java/org/axonframework/samples/bank/command/BankAccountCommandHandler.java" timestamp="1547933441430">
         <mark key="'" line="57" column="48" />
       </file>
@@ -129,8 +135,21 @@
       <file name="$USER_HOME$/Projects/Java/spring-security/oauth2/oauth2-client/src/main/java/org/springframework/security/oauth2/client/registration/InMemoryClientRegistrationRepository.java" timestamp="1545477520655">
         <mark key="'" line="73" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/spodddify-domain/src/main/scala/org/skramer/spodddify/Payment.scala" timestamp="1552589759184">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/Java/AxonBank/core/src/main/java/org/axonframework/samples/bank/command/BankAccount.java" timestamp="1548189267446">
         <mark key="'" line="69" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/spodddify-domain/src/main/scala/org/skramer/spodddify/PaymentEvent.scala" timestamp="1552589847013">
+        <mark key="'" line="2" column="27" />
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="56" />
+        <mark key="^" line="4" column="56" />
+        <mark key="." line="4" column="56" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.1.3.RELEASE/c5c56bc081d89e2929ffd335b9feb5ac31d7bbf8/spring-test-5.1.3.RELEASE-sources.jar!/org/springframework/test/context/transaction/TransactionalTestExecutionListener.java" timestamp="1545597916893">
         <mark key="'" line="208" column="8" />
@@ -176,6 +195,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/axonframework/axon-spring-boot-autoconfigure/4.0/axon-spring-boot-autoconfigure-4.0-sources.jar!/org/axonframework/springboot/autoconfig/AxonAutoConfiguration.java" timestamp="1543000017123">
         <mark key="'" line="294" column="80" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/spodddify-domain/build.gradle" timestamp="1552590176837">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Java/jhipster_test/build.gradle" timestamp="1546356011058">
         <mark key="'" line="109" column="20" />
@@ -421,7 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="28" filename="$USER_HOME$/Projects/Java/jhipster_kafka/src/main/resources/config/application.yml" />
       <jump line="60" column="0" filename="$USER_HOME$/Projects/Java/jhipster_kafka/src/main/resources/config/application.yml" />
       <jump line="114" column="13" filename="$USER_HOME$/Projects/Java/jhipster_kafka/src/main/resources/config/application.yml" />
       <jump line="38" column="23" filename="$USER_HOME$/Projects/Java/jhipster_kafka/src/main/resources/config/application.yml" />
@@ -521,13 +544,14 @@
       <jump line="110" column="44" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
       <jump line="44" column="56" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/build_on_top_ap/domain/BloggersTest.scala" />
       <jump line="17" column="13" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/build_on_top_ap/domain/BloggerAggregate.scala" />
+      <jump line="2" column="27" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-domain/src/main/scala/org/skramer/spodddify/PaymentEvent.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>val blogger =</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -639,7 +663,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>val blogger =</text>
+        <text>Charged</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -695,8 +719,8 @@
       <register name="o" type="4">
         <text>PERMISSION_OBJECT_OPTIMIZATION_OBJECTIVE_FUNCTION_YEARLY:PERMISSION_ACTION_OPTIMIZE_VIEW_OPTIMIZE</text>
       </register>
-      <register name="0" type="4">
-        <text>Do(id, Befriend(paul.id))</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y2FzZSBjbGFzcyBCaWxsaW5nQWNjb3VudENoYXJnZWQoKSBleHRlbmRzIFBheW1lbnRFdmVudAo=</text>
       </register>
       <register name="p" type="4">
         <text>iG8gQXIujYU/PAtBEht19XfLoJSi2eaN5408YK3J1f0=</text>
@@ -906,7 +930,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBibG9nZ2VyID0gY29tbWFuZGVkKEJlZ2luKEluaXRpYWxpemUoInBhdWwiLCAic3p1bGMiKSkpCg==</text>
+        <text encoding="base64">CiAgICAvLyBBeG9uCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -918,13 +942,13 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJsb2dnZXIgbWF0Y2ggewogICAgICBjYXNlIEJsb2dnZXIoXywgInBhdWwiLCAic3p1bGMiLCBfLCBfLCB0cnVlKSA9PgogICAgICBjYXNlIHN0aEVsc2UgPT4gZmFpbCgibm90IGEgYmxvZ2dlciB3ZSd2ZSBleHBlY3RlZCwgZ290ICIgKyBzdGhFbHNlKQogICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuYXhvbmZyYW1ld29yaycsIG5hbWU6ICdheG9uLWV2ZW50c291cmNpbmcnLCB2ZXJzaW9uOiAnNC4wLjMnCg==</text>
       </register>
       <register name="s" type="4">
         <text>app.facebook.client.secret</text>
       </register>
-      <register name="4" type="4">
-        <text>++ Seq(Do(id, Unfriend(paul.id)))</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGdyb3VwOiAnb3JnLmF4b25mcmFtZXdvcmsnLCBuYW1lOiAnYXhvbi10ZXN0JywgdmVyc2lvbjogJzQuMC4zJwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -942,7 +966,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIERvKGlkLCBVbmZyaWVuZChwYXVsLmlkKSkK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuYXhvbmZyYW1ld29yaycsIG5hbWU6ICdheG9uLXNwcmluZycsIHZlcnNpb246ICc0LjAuMycK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -953,26 +977,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItdGVzdCcK</text>
       </register>
       <register name="v" type="4">
         <text>carlosvm</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNlcS50YWJ1bGF0ZSgxMDApIHsKICAgICAgY2FzZSBfICUgMiA9PTAgPT4gKGlkOiBTdHJpbmcpID0+IERvKGlkLCBCZWZyaWVuZChwYXVsLmlkKSkKICAgICAgY2FzZSBfICUgMiA9PTEgPT4gKGlkOiBTdHJpbmcpID0+IERvKGlkLCBVbmZyaWVuZChwYXVsLmlkKSkKICAgIH0K</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItdGVzdCcK</text>
       </register>
       <register name="w" type="4">
         <text>nhd%n</text>
       </register>
-      <register name="8" type="4">
-        <text>(Seq(
-      Do(id, Unfriend(paul.id))))</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3QtZGV2dG9vbHMnCg==</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">ICBoYXNWaWV3UGVybWlzc2lvbiggUEVSTUlTU0lPTl9PQkpFQ1RfUkVQT1JUU18gKSAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLAo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci12YWxpZGF0aW9uJwo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
