@@ -9,8 +9,8 @@
         <mark key="^" line="7" column="30" />
         <mark key="." line="7" column="30" />
       </file>
-      <file name="/a.dummy" timestamp="1552488657100">
-        <mark key="[" line="0" column="10" />
+      <file name="/a.dummy" timestamp="1552553993510">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="11" />
@@ -101,12 +101,12 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" timestamp="1552552485729">
-        <mark key="'" line="171" column="21" />
-        <mark key="[" line="249" column="30" />
-        <mark key="]" line="249" column="35" />
-        <mark key="^" line="249" column="35" />
-        <mark key="." line="249" column="35" />
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" timestamp="1552554253682">
+        <mark key="'" line="174" column="25" />
+        <mark key="[" line="151" column="17" />
+        <mark key="]" line="151" column="21" />
+        <mark key="^" line="151" column="21" />
+        <mark key="." line="151" column="21" />
       </file>
       <file name="$USER_HOME$/verimi-auth/authorization-service/src/test/java/com/dipp/authorization/controller/LoginControllerTest.java" timestamp="1552474191060">
         <mark key="'" line="66" column="27" />
@@ -121,6 +121,13 @@
         <mark key="]" line="172" column="7" />
         <mark key="." line="172" column="7" />
         <mark key="^" line="172" column="7" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/LoginService.java" timestamp="1552554801465">
+        <mark key="'" line="131" column="48" />
+        <mark key="[" line="118" column="105" />
+        <mark key="]" line="118" column="105" />
+        <mark key="." line="118" column="105" />
+        <mark key="^" line="118" column="105" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/login/LoginSpec.groovy" timestamp="1552470984480">
         <mark key="'" line="205" column="8" />
@@ -162,13 +169,13 @@
         <mark key="^" line="14" column="56" />
         <mark key="." line="14" column="56" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" timestamp="1552552665849">
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" timestamp="1552553861840">
         <mark key="a" line="121" column="8" />
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="183" column="31" />
-        <mark key="]" line="184" column="11" />
-        <mark key="^" line="184" column="11" />
-        <mark key="." line="184" column="11" />
+        <mark key="'" line="179" column="27" />
+        <mark key="[" line="186" column="79" />
+        <mark key="]" line="186" column="78" />
+        <mark key="^" line="186" column="78" />
+        <mark key="." line="186" column="78" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/service/MobileShortcutService.java" timestamp="1552481598533">
         <mark key="'" line="56" column="59" />
@@ -227,26 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="24" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusController.java" />
-      <jump line="145" column="81" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusController.java" />
-      <jump line="141" column="40" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusController.java" />
-      <jump line="127" column="88" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusController.java" />
-      <jump line="163" column="32" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusController.java" />
-      <jump line="336" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" />
-      <jump line="277" column="20" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" />
-      <jump line="146" column="32" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" />
-      <jump line="109" column="40" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" />
-      <jump line="118" column="8" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" />
-      <jump line="73" column="108" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/page/LoginPageController.java" />
-      <jump line="125" column="8" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" />
-      <jump line="52" column="13" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" />
-      <jump line="53" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" />
-      <jump line="129" column="111" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" />
-      <jump line="249" column="43" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/service/MobileShortcutService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/service/MobileShortcutService.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/service/MobileShortcutService.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/service/MobileShortcutService.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/service/MobileShortcutService.java" />
       <jump line="20" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/service/MobileShortcutService.java" />
       <jump line="34" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/service/MobileShortcutService.java" />
       <jump line="42" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/service/MobileShortcutService.java" />
@@ -327,13 +314,33 @@
       <jump line="59" column="8" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NFAStatusController_reportLog_Spec.groovy" />
       <jump line="168" column="54" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
       <jump line="171" column="21" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="66" column="36" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="126" column="58" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="94" column="38" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="79" column="39" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="96" column="57" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="92" column="27" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="65" column="27" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="106" column="58" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="101" column="38" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="125" column="29" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="155" column="46" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="197" column="58" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="198" column="29" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="152" column="24" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="175" column="17" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="208" column="58" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="129" column="44" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" />
+      <jump line="179" column="27" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" />
+      <jump line="150" column="58" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="174" column="25" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
       <register name="&quot;" type="4">
-        <text>rebased on master - does not compile</text>
+        <text>;</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -445,7 +452,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>rebased on master - does not compile</text>
+        <text>;</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -496,7 +503,7 @@
         <text>ERROR_CUSTOMER_HAS_RELATED_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dpblN1Ym1pdFJlc3BvbnNlXD4=</text>
+        <text>shortcut</text>
       </register>
       <register name="o" type="4">
         <text>PERMISSION_OBJECT_OPTIMIZATION_OBJECTIVE_FUNCTION_YEARLY:PERMISSION_ACTION_OPTIMIZE_VIEW_OPTIMIZE</text>
@@ -507,8 +514,8 @@
       <register name="p" type="4">
         <text>iG8gQXIujYU/PAtBEht19XfLoJSi2eaN5408YK3J1f0=</text>
       </register>
-      <register name="1" type="4">
-        <text>Mock(HttpServletResponse)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wZWVrTGVmdChzcEFjY291bnRFcnJvciAtPiAgICAgICAgICAgICAgICAgICAgIGxvZy5lcnJvcigiRmFpbGVkIHRvIHJldGlyaXZlIGFjY291bnRzIGZvciB1aWQ6IHt9LCAiLCB1aWQpICkKICAgICAgICAgICAgICAgIC5tYXBMZWZ0KHNwQWNjb3VudEVycm9yIC0+IGdldExvZ2luQWNjZXB0RXJyb3JSZXNwb25zZShIWURSQV9MT0dJTl9BQ0NFUFRBTkNFX0VSUk9SLCBjbGllbnRJZCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -711,8 +718,8 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>Mock(HttpServerRequest)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wZWVrTGVmdChzcEFjY291bnRFcnJvciAtPiAgICAgICAgICAgICAgICAgICAgIGxvZy5lcnJvcigiRmFpbGVkIHRvIHJldGlyaXZlIGFjY291bnRzIGZvciB1aWQ6IHt9LCAiLCB1aWQpICkKICAgICAgICAgICAgICAgIC5tYXBMZWZ0KHNwQWNjb3VudEVycm9yIC0+IGdldExvZ2luQWNjZXB0RXJyb3JSZXNwb25zZShIWURSQV9MT0dJTl9BQ0NFUFRBTkNFX0VSUk9SLCBjbGllbnRJZCkpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -724,13 +731,13 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vY2soTW9iaWxlRXJyb3JGYWN0b3J5LmNsYXNzKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3IoIkZhaWxlZCB0byByZXRpcml2ZSBhY2NvdW50cyBmb3IgdWlkOiB7fSwgIiwgdWlkKTsK</text>
       </register>
       <register name="s" type="4">
         <text>app.facebook.client.secret</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vY2soRXJyb3JUcmFuc2xhdGlvbkNvbnRyb2xsZXJBcGlDbGllbnQuY2xhc3MpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRPckVsc2VHZXQoKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -748,7 +755,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vY2soTG9naW5TZXJ2aWNlLmNsYXNzKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRPckVsc2VHZXQoKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -758,26 +765,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGh5ZHJhU2VydmljZSwK</text>
+      <register name="6" type="4">
+        <text>.getLeft()</text>
       </register>
       <register name="v" type="4">
         <text>carlosvm</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vY2soQ29va2llVXRpbC5jbGFzcykK</text>
+      <register name="7" type="4">
+        <text>.getLeft()</text>
       </register>
       <register name="w" type="4">
         <text>nhd%n</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vY2soTW9iaWxlU2hvcnRjdXRTZXJ2aWNlLmNsYXNzKSwK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmdldE9yRWxzZUdldCh0aGlzOjpoYW5kbGVIeWRyYUxvZ2luUmVxdWVzdEVycm9yKTsK</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">ICBoYXNWaWV3UGVybWlzc2lvbiggUEVSTUlTU0lPTl9PQkpFQ1RfUkVQT1JUU18gKSAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwaUdhdGV3YXlDb25maWd1cmF0aW9uLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRPckVsc2VHZXQodGhpczo6aGFuZGxlSHlkcmFMb2dpblJlcXVlc3RFcnJvcik7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
@@ -790,9 +797,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dpblN1Ym1pdFJlc3BvbnNlXD4=</last-search>
+      <last-search>shortcut</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dpblN1Ym1pdFJlc3BvbnNlXD4=</last-pattern>
+      <last-pattern>shortcut</last-pattern>
       <last-replace>NfaErrorCode</last-replace>
       <last-substitute>NFAErrorCode</last-substitute>
       <last-dir>1</last-dir>
@@ -800,15 +807,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG91bGRNYXBBY2NvdW50TGlzdEVycm9yT25BY2NvdW50TGlzdFRvRXJyb3JKc29uXD4=</entry>
-        <entry encoding="base64">XDxjaGVja05mYUZvckxvZ2luUGFnZVw+</entry>
-        <entry encoding="base64">XDxsb2dpbklkUmVzcG9uc2VcPg==</entry>
-        <entry encoding="base64">XDxORkFTdGF0dXNDb250cm9sbGVyXD4=</entry>
-        <entry encoding="base64">XDx1bmRlclRlc3RcPg==</entry>
-        <entry encoding="base64">XDxORkFTZXJ2aWNlXD4=</entry>
-        <entry>NFAErrorCode</entry>
-        <entry encoding="base64">XDxORkFFcnJvckNvZGVcPg==</entry>
-        <entry encoding="base64">XDxORkFfUkVRVUlSRURfTE9HSU5fUEFHRV9ORkFfUkVTUE9OU0VcPg==</entry>
         <entry encoding="base64">XDxORkFfTk9UX1JFUVVJUkVEX0xPR0lOX1BBR0VfTkZBX1JFU1BPTlNFXD4=</entry>
         <entry encoding="base64">XDxuZmFSZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxhY3R1YWxcPg==</entry>
@@ -820,6 +818,15 @@
         <entry encoding="base64">XDxodHRwU2VydmxldFJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxuZmFSZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxsb2dpblN1Ym1pdFJlc3BvbnNlXD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVIeWRyYUxvZ2luUmVxdWVzdEVycm9yXD4=</entry>
+        <entry encoding="base64">XDxzdWJtaXRMb2dpblw+</entry>
+        <entry encoding="base64">XDxoYW5kbGVBdXRoZW50aWNhdGlvbkVycm9yXD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVMb2dpblBhZ2VOZmFTdGF0dXNFcnJvclw+</entry>
+        <entry encoding="base64">XDxhY2NlcHRMb2dpblJlcXVlc3RJZlJlcXVpcmVkXD4=</entry>
+        <entry encoding="base64">XDxhc3NlbWJsZVN1Ym1pdExvZ2luRm9yTW9iaWxlUmVzcG9uc2VcPg==</entry>
+        <entry>getorselse</entry>
+        <entry>getorelse</entry>
+        <entry>shortcut</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorDuplicate</entry>
