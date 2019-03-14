@@ -101,11 +101,12 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" timestamp="1552482012969">
-        <mark key="[" line="147" column="73" />
-        <mark key="]" line="147" column="86" />
-        <mark key="^" line="147" column="86" />
-        <mark key="." line="147" column="86" />
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" timestamp="1552552485729">
+        <mark key="'" line="171" column="21" />
+        <mark key="[" line="249" column="30" />
+        <mark key="]" line="249" column="35" />
+        <mark key="^" line="249" column="35" />
+        <mark key="." line="249" column="35" />
       </file>
       <file name="$USER_HOME$/verimi-auth/authorization-service/src/test/java/com/dipp/authorization/controller/LoginControllerTest.java" timestamp="1552474191060">
         <mark key="'" line="66" column="27" />
@@ -161,13 +162,13 @@
         <mark key="^" line="14" column="56" />
         <mark key="." line="14" column="56" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" timestamp="1552551174346">
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" timestamp="1552552665849">
         <mark key="a" line="121" column="8" />
         <mark key="'" line="53" column="0" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="126" column="111" />
-        <mark key="." line="71" column="0" />
+        <mark key="[" line="183" column="31" />
+        <mark key="]" line="184" column="11" />
+        <mark key="^" line="184" column="11" />
+        <mark key="." line="184" column="11" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/service/MobileShortcutService.java" timestamp="1552481598533">
         <mark key="'" line="56" column="59" />
@@ -226,8 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="15" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusController.java" />
-      <jump line="122" column="15" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusController.java" />
       <jump line="64" column="24" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusController.java" />
       <jump line="145" column="81" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusController.java" />
       <jump line="141" column="40" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusController.java" />
@@ -326,6 +325,8 @@
       <jump line="60" column="8" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NFAStatusController_reportLog_Spec.groovy" />
       <jump line="48" column="24" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NFAStatusController_reportLog_Spec.groovy" />
       <jump line="59" column="8" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NFAStatusController_reportLog_Spec.groovy" />
+      <jump line="168" column="54" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
+      <jump line="171" column="21" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -495,7 +496,7 @@
         <text>ERROR_CUSTOMER_HAS_RELATED_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxodHRwU2VydmxldFJlcXVlc3RcPg==</text>
+        <text encoding="base64">XDxsb2dpblN1Ym1pdFJlc3BvbnNlXD4=</text>
       </register>
       <register name="o" type="4">
         <text>PERMISSION_OBJECT_OPTIMIZATION_OBJECTIVE_FUNCTION_YEARLY:PERMISSION_ACTION_OPTIMIZE_VIEW_OPTIMIZE</text>
@@ -789,18 +790,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxodHRwU2VydmxldFJlcXVlc3RcPg==</last-search>
+      <last-search encoding="base64">XDxsb2dpblN1Ym1pdFJlc3BvbnNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxodHRwU2VydmxldFJlcXVlc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dpblN1Ym1pdFJlc3BvbnNlXD4=</last-pattern>
       <last-replace>NfaErrorCode</last-replace>
       <last-substitute>NFAErrorCode</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYXBBY2NvdW50TGlzdEVycm9yXD4=</entry>
-        <entry encoding="base64">XDxhY2NvdW50XD4=</entry>
         <entry encoding="base64">XDxzaG91bGRNYXBBY2NvdW50TGlzdEVycm9yT25BY2NvdW50TGlzdFRvRXJyb3JKc29uXD4=</entry>
         <entry encoding="base64">XDxjaGVja05mYUZvckxvZ2luUGFnZVw+</entry>
         <entry encoding="base64">XDxsb2dpbklkUmVzcG9uc2VcPg==</entry>
@@ -819,6 +818,8 @@
         <entry encoding="base64">XDxuZmFTdGF0dXNTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxodHRwU2VydmxldFJlc3BvbnNlXD4=</entry>
         <entry encoding="base64">XDxodHRwU2VydmxldFJlcXVlc3RcPg==</entry>
+        <entry encoding="base64">XDxuZmFSZXN1bHRcPg==</entry>
+        <entry encoding="base64">XDxsb2dpblN1Ym1pdFJlc3BvbnNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorDuplicate</entry>
