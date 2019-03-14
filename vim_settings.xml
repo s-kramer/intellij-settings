@@ -61,12 +61,10 @@
         <mark key="^" line="167" column="66" />
         <mark key="." line="167" column="8" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationController.java" timestamp="1552565160466">
-        <mark key="'" line="89" column="28" />
-        <mark key="[" line="44" column="49" />
-        <mark key="]" line="44" column="48" />
-        <mark key="^" line="44" column="48" />
-        <mark key="." line="44" column="48" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationController.java" timestamp="1552568600396">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationControllerTest.groovy" timestamp="1552565930112">
         <mark key="[" line="18" column="93" />
@@ -103,7 +101,7 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" timestamp="1552562360610">
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" timestamp="1552568334731">
         <mark key="'" line="175" column="25" />
         <mark key="[" line="173" column="67" />
         <mark key="]" line="173" column="66" />
@@ -204,12 +202,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552563857973">
+      <file name="/Dummy.txt" timestamp="1552569193335">
         <mark key="'" line="86" column="0" />
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="45" />
-        <mark key="." line="0" column="10" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/Scala/lambdaconf_wt_2016/src/main/scala/fpgg/MonadTransformers.scala" timestamp="1551559769372">
         <mark key="[" line="15" column="1" />
@@ -361,7 +359,7 @@
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_VALUE</text>
+        <text>0069 fixed most of the compilation errors</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -473,7 +471,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_VALUE</text>
+        <text>0069 fixed most of the compilation errors</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -536,7 +534,7 @@
         <text>iG8gQXIujYU/PAtBEht19XfLoJSi2eaN5408YK3J1f0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZGlwcC5oeWRyYS5jb25zZW50LnZlcmltaS5tb2JpbGVmbG93Lk1vYmlsZVNlc3Npb25GaXh0dXJlLkNPTlNFTlRfQ0hBTExFTkdFX1ZBTFVFCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDT05TRU5UX0NIQUxMRU5HRSA9ICJjb25zZW50X2NoYWxsZW5nZSI7Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -740,7 +738,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ09OU0VOVF9DSEFMTEVOR0UgPSAiY29uc2VudF9jaGFsbGVuZ2UiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -752,13 +750,13 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuYW5kRXhwZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>app.facebook.client.secret</text>
       </register>
-      <register name="4" type="4">
-        <text>.accept(APPLICATION_JSON_VALUE)</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -775,8 +773,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
-        <text>.contentType(APPLICATION_JSON_VALUE)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgPz4gYnVpbGRSZXNwb25zZUJvZHkoCiAgICAgICAgICAgIElubGluZUlkZW50aWZpY2F0aW9uUmVzcG9uc2UgaW5saW5lSWRlbnRpZmljYXRpb25SZXNwb25zZSwgTW9iaWxlQ29uc2VudFJlcXVlc3QgcmVxdWVzdCkgewogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gc2Vzc2lvblBhcmFtcyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBzZXNzaW9uUGFyYW1zLnB1dCgic3RhdHVzIiwgaW5saW5lSWRlbnRpZmljYXRpb25SZXNwb25zZS5nZXRTdGF0dXMoKSk7CiAgICAgICAgc2Vzc2lvblBhcmFtcy5wdXQoInNlc3Npb24iLCByZXF1ZXN0LmdldFNlc3Npb24oKSk7IC8vIFRPRE8gY29uc3RydWN0IGEgbmV3IHNlc3Npb24gaWYgbmVlZGVkCiAgICAgICAgcmV0dXJuIHNlc3Npb25QYXJhbXM7CiAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -786,26 +784,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text>.content(MOBILE_SESSION_JSON)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgUmVzcG9uc2VFbnRpdHk8Pz4gZ2V0SnNvblJlc3BvbnNlKAogICAgICAgICAgICBJbmxpbmVJZGVudGlmaWNhdGlvblJlc3BvbnNlIGlubGluZUlkZW50aWZpY2F0aW9uUmVzcG9uc2UsCiAgICAgICAgICAgIE1vYmlsZUNvbnNlbnRSZXF1ZXN0IHJlcXVlc3QpIHsKICAgICAgICBNYXA8U3RyaW5nLCA/PiBjb25zZW50U2Vzc2lvbiA9IGJ1aWxkUmVzcG9uc2VCb2R5KGlubGluZUlkZW50aWZpY2F0aW9uUmVzcG9uc2UsIHJlcXVlc3QpOwogICAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5zdGF0dXMoSHR0cFN0YXR1cy5GT1VORCkKICAgICAgICAgICAgICAgIC5oZWFkZXIoSHR0cEhlYWRlcnMuTE9DQVRJT04sIGlubGluZUlkZW50aWZpY2F0aW9uUmVzcG9uc2UuZ2V0UmVkaXJlY3RVcmwoKSkKICAgICAgICAgICAgICAgIC5jb250ZW50VHlwZShBUFBMSUNBVElPTl9KU09OKQogICAgICAgICAgICAgICAgLmJvZHkoY29uc2VudFNlc3Npb24pOwogICAgfQo=</text>
       </register>
       <register name="v" type="4">
         <text>carlosvm</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNT0JJTEVfU0VTU0lPTl9KU09OID0gZ2V0TW9iaWxlU2Vzc2lvbkpzb24oKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGV4dHJhY3RDb25zZW50Q2hhbGxlbmdlKE1vYmlsZUNvbnNlbnRSZXF1ZXN0IHJlcXVlc3QpIHsKICAgICAgICBKd3Q8SGVhZGVyLCBDbGFpbXM+IGp3dENsYWltc1NldCA9IEp3dHMucGFyc2VyKCkucGFyc2VDbGFpbXNKd3QocmVxdWVzdC5nZXRTZXNzaW9uKCkpOwogICAgICAgIHJldHVybiBqd3RDbGFpbXNTZXQuZ2V0Qm9keSgpLmdldChDT05TRU5UX0NIQUxMRU5HRSwgU3RyaW5nLmNsYXNzKTsKICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text>nhd%n</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNT0JJTEVfU0VTU0lPTiA9IGdldE1vYmlsZVNlc3Npb24oKQo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZGlwcC5oeWRyYS5jb25zZW50LnZlcmltaS5tb2JpbGVmbG93Lk1vYmlsZVNlc3Npb25GaXh0dXJlLkNPTlNFTlRfQ0hBTExFTkdFX1ZBTFVFCg==</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">ICBoYXNWaWV3UGVybWlzc2lvbiggUEVSTUlTU0lPTl9PQkpFQ1RfUkVQT1JUU18gKSAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNT0JJTEVfU0VTU0lPTiA9IGdldE1vYmlsZVNlc3Npb24oKQo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ09OU0VOVF9DSEFMTEVOR0UgPSAiY29uc2VudF9jaGFsbGVuZ2UiCg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
