@@ -181,11 +181,11 @@
       <file name="$USER_HOME$/Projects/Java/axon-quick-start/chat-scaling-out/src/main/java/io/axoniq/labs/chat/commandmodel/ChatRoom.java" timestamp="1547838893780">
         <mark key="'" line="47" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" timestamp="1550321550488">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="13" column="17" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" timestamp="1552602358042">
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="25" column="44" />
+        <mark key="^" line="25" column="44" />
+        <mark key="." line="25" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spring-security/oauth2/oauth2-client/src/main/java/org/springframework/security/oauth2/client/web/server/DefaultServerOAuth2AuthorizationRequestResolver.java" timestamp="1545946117711">
         <mark key="'" line="85" column="11" />
@@ -193,13 +193,23 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/PartialFunction.scala" timestamp="1551464997008">
         <mark key="'" line="105" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/build.gradle" timestamp="1552602294369">
+        <mark key="'" line="39" column="83" />
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/axonframework/axon-spring-boot-autoconfigure/4.0/axon-spring-boot-autoconfigure-4.0-sources.jar!/org/axonframework/springboot/autoconfig/AxonAutoConfiguration.java" timestamp="1543000017123">
         <mark key="'" line="294" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify/spodddify-domain/build.gradle" timestamp="1552596016881">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Projects/Java/spodddify/spodddify-domain/build.gradle" timestamp="1552602522012">
+        <mark key="a" line="5" column="21" />
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/Java/jhipster_test/build.gradle" timestamp="1546356011058">
         <mark key="'" line="109" column="20" />
@@ -451,10 +461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="13" filename="$USER_HOME$/Projects/Java/jhipster_kafka/src/main/resources/config/application.yml" />
-      <jump line="38" column="23" filename="$USER_HOME$/Projects/Java/jhipster_kafka/src/main/resources/config/application.yml" />
-      <jump line="92" column="23" filename="$USER_HOME$/Projects/Java/jhipster_kafka/src/main/resources/config/application.yml" />
-      <jump line="95" column="24" filename="$USER_HOME$/Projects/Java/jhipster_kafka/src/main/resources/config/application.yml" />
       <jump line="96" column="30" filename="$USER_HOME$/Projects/Java/jhipster_kafka/src/main/resources/config/application.yml" />
       <jump line="64" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.7.RELEASE/baf66bdb85990d38ff6b5d71a1f751f1ecc75c68/spring-boot-autoconfigure-2.0.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaAutoConfiguration.java" />
       <jump line="74" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.7.RELEASE/baf66bdb85990d38ff6b5d71a1f751f1ecc75c68/spring-boot-autoconfigure-2.0.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaAutoConfiguration.java" />
@@ -551,13 +557,17 @@
       <jump line="17" column="13" filename="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/build_on_top_ap/domain/BloggerAggregate.scala" />
       <jump line="2" column="27" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-domain/src/main/scala/org/skramer/spodddify/PaymentEvent.scala" />
       <jump line="0" column="7" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-domain/settings.gradle" />
+      <jump line="29" column="40" filename="$USER_HOME$/Projects/Java/spodddify/build.gradle" />
+      <jump line="31" column="0" filename="$USER_HOME$/Projects/Java/spodddify/build.gradle" />
+      <jump line="38" column="83" filename="$USER_HOME$/Projects/Java/spodddify/build.gradle" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-domain/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJvamVjdCgKICAgICAgICAKKQo=</text>
+      <register name="&quot;" type="4">
+        <text>4.0.3</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -669,7 +679,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1.1'</text>
+        <text>4.0.3</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -720,13 +730,13 @@
         <text>ERROR_CUSTOMER_HAS_RELATED_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbml0aWFsaXplXD4=</text>
+        <text>plugin</text>
       </register>
       <register name="o" type="4">
         <text>PERMISSION_OBJECT_OPTIMIZATION_OBJECTIVE_FUNCTION_YEARLY:PERMISSION_ACTION_OPTIMIZE_VIEW_OPTIMIZE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzcyBCaWxsaW5nQWNjb3VudENoYXJnZWQoKSBleHRlbmRzIFBheW1lbnRFdmVudAo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuYXhvbmZyYW1ld29yaycsIG5hbWU6ICdheG9uLWV2ZW50c291cmNpbmcnLCB2ZXJzaW9uOiAnNC4wLjMnCg==</text>
       </register>
       <register name="p" type="4">
         <text>iG8gQXIujYU/PAtBEht19XfLoJSi2eaN5408YK3J1f0=</text>
@@ -1014,9 +1024,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJbml0aWFsaXplXD4=</last-search>
+      <last-search>plugin</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbml0aWFsaXplXD4=</last-pattern>
+      <last-pattern>plugin</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1024,7 +1034,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbmRUaGVuXD4=</entry>
         <entry encoding="base64">XDxBbmRUaGVuXD4=</entry>
         <entry encoding="base64">XDxjb3N0UGVyUGVyc29uXD4=</entry>
         <entry encoding="base64">XDxEZWFsaW5nV2l0aENoYW5naW5nU3RhdGVcPg==</entry>
@@ -1044,6 +1053,7 @@
         <entry encoding="base64">XDxjb21tYW5kZWRcPg==</entry>
         <entry>2</entry>
         <entry encoding="base64">XDxJbml0aWFsaXplXD4=</entry>
+        <entry>plugin</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorDuplicate</entry>
