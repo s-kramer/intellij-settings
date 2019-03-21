@@ -16,6 +16,12 @@
         <mark key="." line="116" column="70" />
         <mark key="^" line="116" column="70" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_34.puml" timestamp="1553172411746">
+        <mark key="'" line="260" column="1" />
+        <mark key="[" line="286" column="0" />
+        <mark key="]" line="286" column="0" />
+        <mark key="." line="286" column="0" />
+      </file>
       <file name="/dipp-devint-2.json" timestamp="1552644353744">
         <mark key="[" line="41" column="24" />
         <mark key="]" line="41" column="43" />
@@ -385,10 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="8" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/nfa/NfaStatusServiceTest.java" />
-      <jump line="345" column="17" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/nfa/NfaStatusServiceTest.java" />
-      <jump line="331" column="8" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/nfa/NfaStatusServiceTest.java" />
-      <jump line="276" column="8" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/nfa/NfaStatusServiceTest.java" />
       <jump line="174" column="46" filename="/NfaStatusService.java" />
       <jump line="138" column="23" filename="/NfaStatusService.java" />
       <jump line="172" column="99" filename="/NfaStatusService.java" />
@@ -485,13 +487,17 @@
       <jump line="76" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/account/AccountSelectionEdgeCasesTest.java" />
       <jump line="27" column="113" filename="$USER_HOME$/verimi-auth/dipp-encryption/src/main/java/com/dipp/encryption/config/EncryptionConfiguration.java" />
       <jump line="56" column="36" filename="$USER_HOME$/verimi-auth/dipp-encryption/src/main/java/com/dipp/encryption/config/EncryptionConfiguration.java" />
+      <jump line="539" column="33" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_34.puml" />
+      <jump line="28" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_34.puml" />
+      <jump line="111" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_34.puml" />
+      <jump line="260" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_34.puml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>test fixes</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -654,7 +660,7 @@
         <text>ERROR_CUSTOMER_HAS_RELATED_</text>
       </register>
       <register name="/" type="4">
-        <text>proxy</text>
+        <text>json</text>
       </register>
       <register name="o" type="4">
         <text>PERMISSION_OBJECT_OPTIMIZATION_OBJECTIVE_FUNCTION_YEARLY:PERMISSION_ACTION_OPTIMIZE_VIEW_OPTIMIZE</text>
@@ -666,7 +672,7 @@
         <text>iG8gQXIujYU/PAtBEht19XfLoJSi2eaN5408YK3J1f0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZGlwcC5oeWRyYWxvZ2luYXBwLm5mYS5OZmFTcGVjRml4dHVyZXMuVUlEX1ZBTFVFCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -870,7 +876,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIF8gKiBoeWRyYVNlcnZpY2UuYWNjZXB0TG9naW5SZXF1ZXN0KF8sIF8sIHNlbGVjdGVkQWNjb3VudC5nZXRFdWlkKCkpID4+IGFjY2VwdExvZ2luUmVzdWx0Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -882,13 +888,13 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDQU5DRUxFRCAgICAgICAgICAgICAgIHwgTk9UX0VYUElSRURfVElNRSB8IGh5ZHJhRXJyb3IgICAgICAgICAgIHwgbnVsbCAgICAgICAgICAgICAgICAgIHwgbnVsbCAgICAgICAgICAgICAgICB8fCA0MDAgICAgICAgICAgICB8IG51bGwgICAgICAgICAgICAgICAgICAgICAgfCBtb2JpbGVDYW5jZWxsYXRpb25TdHJpbmcK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZGlwcC5oeWRyYWxvZ2luYXBwLm5mYS5OZmFTcGVjRml4dHVyZXMuVUlEX1ZBTFVFCg==</text>
       </register>
       <register name="s" type="4">
         <text>app.facebook.client.secret</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">Ly8gICAgICAgIF8gKiBoeWRyYVNlcnZpY2UuYWNjZXB0TG9naW5SZXF1ZXN0KF8sIF8sIHNlbGVjdGVkQWNjb3VudC5nZXRFdWlkKCkpID4+IGFjY2VwdExvZ2luUmVzdWx0Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -906,7 +912,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhbG9naW5hcHAubG9naW4uc2VydmljZS5Nb2JpbGVFcnJvckZhY3Rvcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDQU5DRUxFRCAgICAgICAgICAgICAgIHwgTk9UX0VYUElSRURfVElNRSB8IGh5ZHJhRXJyb3IgICAgICAgICAgIHwgbnVsbCAgICAgICAgICAgICAgICAgIHwgbnVsbCAgICAgICAgICAgICAgICB8fCA0MDAgICAgICAgICAgICB8IG51bGwgICAgICAgICAgICAgICAgICAgICAgfCBtb2JpbGVDYW5jZWxsYXRpb25TdHJpbmcK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -917,25 +923,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTW9iaWxlRXJyb3JGYWN0b3J5IG1vYmlsZUVycm9yRmFjdG9yeTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="v" type="4">
         <text>carlosvm</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhbG9naW5hcHAubG9naW4uc2VydmljZS5Nb2JpbGVFcnJvckZhY3Rvcnk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>nhd%n</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBFaXRoZXIubGVmdChoYW5kbGVDYW5jZWxMb2dpbkVycm9yKCkpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTW9iaWxlRXJyb3JGYWN0b3J5IG1vYmlsZUVycm9yRmFjdG9yeTsK</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">ICBoYXNWaWV3UGVybWlzc2lvbiggUEVSTUlTU0lPTl9PQkpFQ1RfUkVQT1JUU18gKSAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBFaXRoZXIubGVmdChOZmFFcnJvci5idWlsZGVyKCkuYnVpbGQoKSltb2JpbGVFcnJvckZhY3RvcnkuZ2V0Rm9yTmZhQ2FuY2VsbGF0aW9uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
@@ -948,9 +954,9 @@
       </register>
     </registers>
     <search>
-      <last-search>proxy</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern>proxy</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-replace>).isLeft()</last-replace>
       <last-substitute>.isLeft()).isTrue()</last-substitute>
       <last-dir>1</last-dir>
@@ -958,8 +964,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJc1w+</entry>
-        <entry encoding="base64">XDxpc1w+</entry>
         <entry encoding="base64">XDxsb2dpbkFwcFw+</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry encoding="base64">XDxyZWRpcmVjdGVkVXJsXD4=</entry>
@@ -978,6 +982,8 @@
         <entry>report</entry>
         <entry encoding="base64">XDx0cmFjZXJcPg==</entry>
         <entry>proxy</entry>
+        <entry encoding="base64">XDxzdGFydHVtbFw+</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\n\(\w*\))/\1)</entry>
