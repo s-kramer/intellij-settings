@@ -26,11 +26,12 @@
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/login/LoginSpec.groovy" timestamp="1553180225483">
         <mark key="'" line="243" column="8" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" timestamp="1553177150713">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" timestamp="1553184926731">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="25" />
       </file>
       <file name="/a.dummy" timestamp="1553176223020">
         <mark key="[" line="0" column="0" />
@@ -66,9 +67,6 @@
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" timestamp="1552661633953">
-        <mark key="^" line="138" column="100" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/src/test/java/org/skramer/spodddify/payment/BillingAccountTest.java" timestamp="1550321417078">
         <mark key="'" line="20" column="0" />
@@ -107,6 +105,9 @@
         <mark key="]" line="23" column="23" />
         <mark key="^" line="29" column="88" />
         <mark key="." line="23" column="23" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.13.RELEASE/9ee1b6e02065f01bf401c3cb4dbaf138009e1866/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/cache/interceptor/AbstractFallbackCacheOperationSource.java" timestamp="1553184578234">
+        <mark key="'" line="91" column="49" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.1.1-sources.jar!/scalaz/package.scala" timestamp="1551612626095">
         <mark key="'" line="153" column="8" />
@@ -213,7 +214,9 @@
         <mark key="." line="44" column="15" />
         <mark key="^" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.13.RELEASE/9ee1b6e02065f01bf401c3cb4dbaf138009e1866/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/cache/interceptor/CacheAspectSupport.java" timestamp="1553183201001" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.13.RELEASE/9ee1b6e02065f01bf401c3cb4dbaf138009e1866/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/cache/interceptor/CacheAspectSupport.java" timestamp="1553184696394">
+        <mark key="'" line="128" column="20" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/LoginAppContextCacheConfiguration.java" timestamp="1553176828093">
         <mark key="[" line="15" column="37" />
         <mark key="]" line="15" column="64" />
@@ -243,11 +246,8 @@
         <mark key="]" line="40" column="44" />
         <mark key="." line="40" column="21" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/configuration/CacheConfig.java" timestamp="1553177129773">
-        <mark key="[" line="37" column="35" />
-        <mark key="]" line="37" column="67" />
-        <mark key="." line="37" column="67" />
-        <mark key="^" line="37" column="67" />
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/configuration/CacheConfig.java" timestamp="1553185068992">
+        <mark key="'" line="38" column="7" />
       </file>
       <file name="$USER_HOME$/verimi-auth/dipp-encryption/src/main/java/com/dipp/encryption/config/EncryptionConfiguration.java" timestamp="1553163184606">
         <mark key="'" line="56" column="36" />
@@ -297,6 +297,11 @@
         <mark key="]" line="32" column="39" />
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
+      </file>
+      <file name="/CacheConfig.java" timestamp="1553185049077">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="33" column="5" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaServiceSpec_checkNfaForLoginPage.groovy" timestamp="1552488147393">
         <mark key="'" line="42" column="25" />
@@ -387,32 +392,11 @@
         <mark key="." line="10" column="7" />
         <mark key="^" line="10" column="7" />
       </file>
+      <file name="/fragment.java" timestamp="1553184670317">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="84" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NFAStatusController_reportLog_Spec.groovy" />
-      <jump line="62" column="16" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NFAStatusController_reportLog_Spec.groovy" />
-      <jump line="43" column="21" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NFAStatusController_reportLog_Spec.groovy" />
-      <jump line="86" column="8" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NFAStatusController_reportLog_Spec.groovy" />
-      <jump line="51" column="46" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NFAStatusController_reportLog_Spec.groovy" />
-      <jump line="52" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NFAStatusController_reportLog_Spec.groovy" />
-      <jump line="55" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NFAStatusController_reportLog_Spec.groovy" />
-      <jump line="88" column="23" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NFAStatusController_reportLog_Spec.groovy" />
-      <jump line="149" column="23" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NFAStatusController_reportLog_Spec.groovy" />
-      <jump line="119" column="23" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NFAStatusController_reportLog_Spec.groovy" />
-      <jump line="93" column="34" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="143" column="34" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="183" column="34" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="206" column="34" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="227" column="34" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="254" column="34" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="43" column="12" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="108" column="122" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="39" column="32" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="105" column="46" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="146" column="34" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="92" column="31" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="171" column="8" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
       <jump line="140" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
       <jump line="145" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
       <jump line="150" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
@@ -489,13 +473,37 @@
       <jump line="56" column="4" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/account/AccountSpec.groovy" />
       <jump line="3" column="31" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/account/AccountSpec.groovy" />
       <jump line="243" column="8" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/login/LoginSpec.groovy" />
+      <jump line="291" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.13.RELEASE/9ee1b6e02065f01bf401c3cb4dbaf138009e1866/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/cache/interceptor/CacheAspectSupport.java" />
+      <jump line="315" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.13.RELEASE/9ee1b6e02065f01bf401c3cb4dbaf138009e1866/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/cache/interceptor/CacheAspectSupport.java" />
+      <jump line="97" column="70" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.13.RELEASE/9ee1b6e02065f01bf401c3cb4dbaf138009e1866/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/cache/interceptor/CacheAspectSupport.java" />
+      <jump line="269" column="47" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.13.RELEASE/9ee1b6e02065f01bf401c3cb4dbaf138009e1866/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/cache/interceptor/CacheAspectSupport.java" />
+      <jump line="102" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.13.RELEASE/9ee1b6e02065f01bf401c3cb4dbaf138009e1866/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/cache/interceptor/CacheAspectSupport.java" />
+      <jump line="118" column="41" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.13.RELEASE/9ee1b6e02065f01bf401c3cb4dbaf138009e1866/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/cache/interceptor/CacheAspectSupport.java" />
+      <jump line="120" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.13.RELEASE/9ee1b6e02065f01bf401c3cb4dbaf138009e1866/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/cache/interceptor/CacheAspectSupport.java" />
+      <jump line="128" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.13.RELEASE/9ee1b6e02065f01bf401c3cb4dbaf138009e1866/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/cache/interceptor/CacheAspectSupport.java" />
+      <jump line="102" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.13.RELEASE/9ee1b6e02065f01bf401c3cb4dbaf138009e1866/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/cache/interceptor/AbstractFallbackCacheOperationSource.java" />
+      <jump line="105" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.13.RELEASE/9ee1b6e02065f01bf401c3cb4dbaf138009e1866/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/cache/interceptor/AbstractFallbackCacheOperationSource.java" />
+      <jump line="72" column="58" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.13.RELEASE/9ee1b6e02065f01bf401c3cb4dbaf138009e1866/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/cache/interceptor/AbstractFallbackCacheOperationSource.java" />
+      <jump line="91" column="49" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.13.RELEASE/9ee1b6e02065f01bf401c3cb4dbaf138009e1866/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/cache/interceptor/AbstractFallbackCacheOperationSource.java" />
+      <jump line="14" column="24" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" />
+      <jump line="32" column="4" filename="/CacheConfig.java" />
+      <jump line="33" column="0" filename="/CacheConfig.java" />
+      <jump line="18" column="0" filename="/CacheConfig.java" />
+      <jump line="22" column="0" filename="/CacheConfig.java" />
+      <jump line="0" column="0" filename="/CacheConfig.java" />
+      <jump line="21" column="0" filename="/CacheConfig.java" />
+      <jump line="46" column="4" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/configuration/CacheConfig.java" />
+      <jump line="37" column="5" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/configuration/CacheConfig.java" />
+      <jump line="26" column="7" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/configuration/CacheConfig.java" />
+      <jump line="38" column="7" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/configuration/CacheConfig.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBDb25jdXJyZW50TWFwQ2FjaGUgZ2V0VXNlckFnZW50Q2FjaGUoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBDb25jdXJyZW50TWFwQ2FjaGUoCiAgICAgICAgICAgICAgICAidXNlckFnZW50IiwKICAgICAgICAgICAgICAgIENhY2hlQnVpbGRlci5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgLmV4cGlyZUFmdGVyQWNjZXNzKHVzZXJBZ2VudFBhcnNlckNhY2hlRHVyYXRpb24sIFRpbWVVbml0LkhPVVJTKQogICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKQogICAgICAgICAgICAgICAgICAgICAgICAuYXNNYXAoKSwKICAgICAgICAgICAgICAgIGZhbHNlCiAgICAgICAgKTsKICAgIH0KCg==</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -658,7 +666,7 @@
         <text>ERROR_CUSTOMER_HAS_RELATED_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb2dpbkFwcENvbnRleHRcPg==</text>
+        <text encoding="base64">XDxCZWFuXD4=</text>
       </register>
       <register name="o" type="4">
         <text>PERMISSION_OBJECT_OPTIMIZATION_OBJECTIVE_FUNCTION_YEARLY:PERMISSION_ACTION_OPTIMIZE_VIEW_OPTIMIZE</text>
@@ -670,7 +678,7 @@
         <text>iG8gQXIujYU/PAtBEht19XfLoJSi2eaN5408YK3J1f0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBDb25jdXJyZW50TWFwQ2FjaGUgZ2V0VXNlckFnZW50Q2FjaGUoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBDb25jdXJyZW50TWFwQ2FjaGUoCiAgICAgICAgICAgICAgICAidXNlckFnZW50IiwKICAgICAgICAgICAgICAgIENhY2hlQnVpbGRlci5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgLmV4cGlyZUFmdGVyQWNjZXNzKHVzZXJBZ2VudFBhcnNlckNhY2hlRHVyYXRpb24sIFRpbWVVbml0LkhPVVJTKQogICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKQogICAgICAgICAgICAgICAgICAgICAgICAuYXNNYXAoKSwKICAgICAgICAgICAgICAgIGZhbHNlCiAgICAgICAgKTsKICAgIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -874,7 +882,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBQcmltYXJ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -886,13 +894,13 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBQcmltYXJ5Cg==</text>
       </register>
       <register name="s" type="4">
         <text>app.facebook.client.secret</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -910,7 +918,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -921,25 +929,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLlNjb3BlZFByb3h5TW9kZTsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5jb250ZXh0LmFubm90YXRpb24uU2Vzc2lvblNjb3BlOwo=</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="v" type="4">
         <text>carlosvm</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjYWNoZToKICAgIGNhY2hlLW5hbWVzOiBMb2dpbkFwcENvbnRleHRJbXBsLmdldFNlcnZpY2VQcm92aWRlckFjY291bnRzSW50ZXJuYWwKICAgIHR5cGU6IHNpbXBsZQoK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLlNjb3BlZFByb3h5TW9kZTsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5jb250ZXh0LmFubm90YXRpb24uU2Vzc2lvblNjb3BlOwo=</text>
       </register>
       <register name="w" type="4">
         <text>nhd%n</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICBjYWNoZToKICAgIGNhY2hlLW5hbWVzOiBMb2dpbkFwcENvbnRleHRJbXBsLmdldFNlcnZpY2VQcm92aWRlckFjY291bnRzSW50ZXJuYWwKICAgIHR5cGU6IHNpbXBsZQoK</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">ICBoYXNWaWV3UGVybWlzc2lvbiggUEVSTUlTU0lPTl9PQkpFQ1RfUkVQT1JUU18gKSAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgQEJlYW4KLy8gICAgcHVibGljIENhY2hlTWFuYWdlciBjYWNoZU1hbmFnZXIoKSB7Ci8vICAgICAgICBTaW1wbGVDYWNoZU1hbmFnZXIgc2ltcGxlQ2FjaGVNYW5hZ2VyID0gbmV3IFNpbXBsZUNhY2hlTWFuYWdlcigpOwovLwovLyAgICAgICAgZmluYWwgQ29uY3VycmVudE1hcENhY2hlIGdldFNwQWNjb3VudEludGVybmFsQ2FjaGUgPSBnZXRHZXRTcEFjY291bnRJbnRlcm5hbENhY2hlKCk7Ci8vICAgICAgICBmaW5hbCBDb25jdXJyZW50TWFwQ2FjaGUgdXNlckFnZW50Q2FjaGUgPSBnZXRVc2VyQWdlbnRDYWNoZSgpOwovLyAgICAgICAgc2ltcGxlQ2FjaGVNYW5hZ2VyLnNldENhY2hlcyhBcnJheXMuYXNMaXN0KHVzZXJBZ2VudENhY2hlLCBnZXRTcEFjY291bnRJbnRlcm5hbENhY2hlKSk7Ci8vICAgICAgICByZXR1cm4gc2ltcGxlQ2FjaGVNYW5hZ2VyOwovLyAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
@@ -952,9 +960,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMb2dpbkFwcENvbnRleHRcPg==</last-search>
+      <last-search encoding="base64">XDxCZWFuXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb2dpbkFwcENvbnRleHRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxCZWFuXD4=</last-pattern>
       <last-replace>).isLeft()</last-replace>
       <last-substitute>.isLeft()).isTrue()</last-substitute>
       <last-dir>-1</last-dir>
@@ -962,10 +970,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dpblNlcnZpY2VcPg==</entry>
-        <entry encoding="base64">XDxMb2dpblNlcnZpY2VcPg==</entry>
-        <entry encoding="base64">XDxtb2JpbGVFcnJvclN0cmluZ1w+</entry>
-        <entry>report</entry>
         <entry encoding="base64">XDx0cmFjZXJcPg==</entry>
         <entry>proxy</entry>
         <entry>json</entry>
@@ -974,7 +978,6 @@
         <entry>verify user</entry>
         <entry encoding="base64">XDxlbmR1bWxcPg==</entry>
         <entry>cache</entry>
-        <entry>spring</entry>
         <entry>evict</entry>
         <entry>expir</entry>
         <entry>kafka</entry>
@@ -982,6 +985,11 @@
         <entry encoding="base64">XDxldmVudFByb2R1Y2VyXD4=</entry>
         <entry encoding="base64">XDxFdmVudFByb2R1Y2VyXD4=</entry>
         <entry encoding="base64">XDxMb2dpbkFwcENvbnRleHRcPg==</entry>
+        <entry encoding="base64">XDxtZXRhZGF0YUNhY2hlXD4=</entry>
+        <entry encoding="base64">XDxjYWNoZU9wZXJhdGlvblNvdXJjZVw+</entry>
+        <entry encoding="base64">XDxhdHRyaWJ1dGVDYWNoZVw+</entry>
+        <entry>spring</entry>
+        <entry encoding="base64">XDxCZWFuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\n\(\w*\))/\1)</entry>
