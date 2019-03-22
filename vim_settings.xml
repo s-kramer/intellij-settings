@@ -260,9 +260,9 @@
         <mark key="^" line="54" column="40" />
         <mark key="." line="54" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553244637809">
+      <file name="/Dummy.txt" timestamp="1553247245573">
         <mark key="'" line="86" column="0" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="10" />
@@ -341,7 +341,7 @@
         <mark key="^" line="292" column="94" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/service/SpEventProducerService.java" timestamp="1553243978202">
-        <mark key="'" line="14" column="25" />
+        <mark key="'" line="16" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/fp_state_based/Commands.scala" timestamp="1551630674044">
         <mark key="'" line="45" column="4" />
@@ -357,12 +357,12 @@
         <mark key="." line="66" column="25" />
         <mark key="^" line="66" column="25" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/account/AccountSpec.groovy" timestamp="1553244107643">
-        <mark key="'" line="59" column="22" />
-        <mark key="[" line="59" column="4" />
-        <mark key="]" line="59" column="8" />
-        <mark key="." line="59" column="8" />
-        <mark key="^" line="59" column="8" />
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/account/AccountSpec.groovy" timestamp="1553247202683">
+        <mark key="'" line="58" column="17" />
+        <mark key="[" line="142" column="8" />
+        <mark key="]" line="142" column="9" />
+        <mark key="." line="142" column="9" />
+        <mark key="^" line="255" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/Application.java" timestamp="1548188069738">
         <mark key="[" line="6" column="0" />
@@ -396,8 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="23" filename="/NfaStatusService.java" />
-      <jump line="149" column="30" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusService.java" />
       <jump line="139" column="17" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusService.java" />
       <jump line="98" column="17" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusService.java" />
       <jump line="155" column="122" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
@@ -487,7 +485,6 @@
       <jump line="53" column="22" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/account/AccountSpec.groovy" />
       <jump line="56" column="4" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/account/AccountSpec.groovy" />
       <jump line="3" column="31" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/account/AccountSpec.groovy" />
-      <jump line="270" column="4" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/account/AccountSpec.groovy" />
       <jump line="32" column="24" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/account/AccountSpec.groovy" />
       <jump line="14" column="25" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/service/SpEventProducerService.java" />
       <jump line="242" column="28" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/account/AccountSpec.groovy" />
@@ -496,13 +493,16 @@
       <jump line="277" column="10" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/account/AccountSpec.groovy" />
       <jump line="59" column="22" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/account/AccountSpec.groovy" />
       <jump line="17" column="8" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" />
+      <jump line="146" column="12" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/account/AccountSpec.groovy" />
+      <jump line="270" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/account/AccountSpec.groovy" />
+      <jump line="58" column="17" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/account/AccountSpec.groovy" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
       <register name="&quot;" type="4">
-        <text>E</text>
+        <text>cache initialization fix</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -614,7 +614,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>cache initialization fix</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -677,7 +677,7 @@
         <text>iG8gQXIujYU/PAtBEht19XfLoJSi2eaN5408YK3J1f0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly9ASW1wb3J0KFtBY2NvdW50U3BlY0NvbmZpZy5jbGFzc10pCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -881,7 +881,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXR1cCgpIHsKICAgICAgICBfICogZXZlbnRQcm9kdWNlci5zZW5kKF8pCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBAUHJpbWFyeQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -893,13 +893,13 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLlByaW1hcnkK</text>
+        <text encoding="base64">Ly9ASW1wb3J0KFtBY2NvdW50U3BlY0NvbmZpZy5jbGFzc10pCg==</text>
       </register>
       <register name="s" type="4">
         <text>app.facebook.client.secret</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgU2ltcGxlQ2FjaGVNYW5hZ2VyKCkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -917,7 +917,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBDb25jdXJyZW50TWFwQ2FjaGUgZ2V0VXNlckFnZW50Q2FjaGUoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBDb25jdXJyZW50TWFwQ2FjaGUoCiAgICAgICAgICAgICAgICAidXNlckFnZW50IiwKICAgICAgICAgICAgICAgIENhY2hlQnVpbGRlci5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgLmV4cGlyZUFmdGVyQWNjZXNzKHVzZXJBZ2VudFBhcnNlckNhY2hlRHVyYXRpb24sIFRpbWVVbml0LkhPVVJTKQogICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKQogICAgICAgICAgICAgICAgICAgICAgICAuYXNNYXAoKSwKICAgICAgICAgICAgICAgIGZhbHNlCiAgICAgICAgKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZXR1cCgpIHsKICAgICAgICBfICogZXZlbnRQcm9kdWNlci5zZW5kKF8pCiAgICB9Cgo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -928,19 +928,19 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLlByaW1hcnkK</text>
       </register>
       <register name="v" type="4">
         <text>carlosvm</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBQcmltYXJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgU2ltcGxlQ2FjaGVNYW5hZ2VyKCkK</text>
       </register>
       <register name="w" type="4">
         <text>nhd%n</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBDb25jdXJyZW50TWFwQ2FjaGUgZ2V0VXNlckFnZW50Q2FjaGUoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBDb25jdXJyZW50TWFwQ2FjaGUoCiAgICAgICAgICAgICAgICAidXNlckFnZW50IiwKICAgICAgICAgICAgICAgIENhY2hlQnVpbGRlci5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgLmV4cGlyZUFmdGVyQWNjZXNzKHVzZXJBZ2VudFBhcnNlckNhY2hlRHVyYXRpb24sIFRpbWVVbml0LkhPVVJTKQogICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKQogICAgICAgICAgICAgICAgICAgICAgICAuYXNNYXAoKSwKICAgICAgICAgICAgICAgIGZhbHNlCiAgICAgICAgKTsKICAgIH0KCg==</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">ICBoYXNWaWV3UGVybWlzc2lvbiggUEVSTUlTU0lPTl9PQkpFQ1RfUkVQT1JUU18gKSAg</text>
