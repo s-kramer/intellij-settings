@@ -100,6 +100,9 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/jdbc/JdbcOperationsSessionRepository.java" timestamp="1553524702841">
+        <mark key="'" line="221" column="30" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/JwtBuilder.java" timestamp="1552573331937">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="10" column="25" />
@@ -155,7 +158,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="65" column="32" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/hydra-login-app.http" timestamp="1553510307705">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/hydra-login-app.http" timestamp="1553524114150">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="^" line="36" column="30" />
@@ -193,6 +196,13 @@
         <mark key="]" line="142" column="9" />
         <mark key="." line="142" column="9" />
         <mark key="^" line="255" column="62" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/configuration/SpringSessionConversionService.java" timestamp="1553526023513">
+        <mark key="'" line="25" column="3" />
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="23" column="39" />
+        <mark key="." line="23" column="39" />
+        <mark key="^" line="23" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/Scala/trip_with_monads/src/main/scala/twm/SemiFinal.scala" timestamp="1552074130944">
         <mark key="'" line="89" column="14" />
@@ -282,8 +292,8 @@
         <mark key="]" line="43" column="41" />
         <mark key="." line="43" column="41" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/web/http/SessionRepositoryFilter.java" timestamp="1553515359068">
-        <mark key="'" line="364" column="16" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/web/http/SessionRepositoryFilter.java" timestamp="1553524316586">
+        <mark key="'" line="335" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/CreateBillingAccountCommand.java" timestamp="1548189782114">
         <mark key="[" line="14" column="43" />
@@ -340,12 +350,12 @@
         <mark key="." line="95" column="0" />
         <mark key="^" line="98" column="26" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/LoginAppContextImpl.java" timestamp="1553515096792">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="38" column="17" />
-        <mark key="." line="38" column="17" />
-        <mark key="^" line="38" column="17" />
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/LoginAppContextImpl.java" timestamp="1553525841274">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="25" column="6" />
+        <mark key="." line="25" column="6" />
+        <mark key="^" line="25" column="6" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.13.RELEASE/9ee1b6e02065f01bf401c3cb4dbaf138009e1866/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/cache/interceptor/CacheAspectSupport.java" timestamp="1553242966248">
         <mark key="'" line="128" column="20" />
@@ -370,7 +380,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.3.13.RELEASE/d42eeed2ea0e111aba118b9136a3963d3b5c62f3/spring-aop-4.3.13.RELEASE-sources.jar!/org/springframework/aop/framework/AdvisedSupport.java" timestamp="1553511417448">
         <mark key="'" line="380" column="13" />
       </file>
-      <file name="/dummy.sql" timestamp="1553515187889">
+      <file name="/dummy.sql" timestamp="1553522826548">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.12.RELEASE/2106c4c25ad9f0021109c2087d4c39b71ddcc6f4/spring-core-4.3.12.RELEASE-sources.jar!/org/springframework/core/convert/support/ConversionUtils.java" timestamp="1553518654745" />
@@ -381,15 +391,15 @@
         <mark key="." line="26" column="59" />
         <mark key="^" line="26" column="59" />
       </file>
-      <file name="/postgres.login_app_session.login_app_spring_session [postgres@mobile]" timestamp="1553510559079">
+      <file name="/postgres.login_app_session.login_app_spring_session [postgres@mobile]" timestamp="1553522823766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/dipp-encryption/src/main/java/com/dipp/encryption/config/EncryptionConfiguration.java" timestamp="1553163184606">
         <mark key="'" line="56" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553515111016">
+      <file name="/Dummy.txt" timestamp="1553524009463">
         <mark key="'" line="86" column="0" />
-        <mark key="[" line="0" column="10" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="10" />
@@ -485,7 +495,7 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="/fragment.java" timestamp="1553518638417">
+      <file name="/fragment.java" timestamp="1553525213795">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
         <mark key="^" line="0" column="0" />
@@ -493,25 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="20" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/ReportingLogger.java" />
-      <jump line="23" column="93" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/ReportLogTestUtils.java" />
-      <jump line="40" column="50" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/ReportLogTestUtils.java" />
-      <jump line="15" column="31" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/ReportingLogger.java" />
-      <jump line="59" column="16" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/ReportingLogger.java" />
-      <jump line="24" column="103" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/ReportLogTestUtils.java" />
-      <jump line="42" column="16" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/ReportLogTestUtils.java" />
-      <jump line="16" column="31" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/ReportingLogger.java" />
-      <jump line="65" column="16" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/ReportingLogger.java" />
-      <jump line="17" column="31" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/ReportingLogger.java" />
-      <jump line="70" column="20" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/ReportingLogger.java" />
-      <jump line="58" column="22" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/ReportLogTestUtils.java" />
-      <jump line="21" column="16" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/ReportLogTestUtils.java" />
-      <jump line="50" column="83" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/ReportLogTestUtils.java" />
-      <jump line="290" column="58" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" />
-      <jump line="38" column="34" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" />
-      <jump line="62" column="13" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" />
-      <jump line="51" column="23" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/ReportLogTestUtils.java" />
-      <jump line="115" column="18" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" />
       <jump line="50" column="13" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" />
       <jump line="146" column="39" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" />
       <jump line="255" column="29" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
@@ -593,13 +584,32 @@
       <jump line="58" column="53" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/org/springframework/aop/framework/DefaultAdvisorChainFactory.java" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" />
       <jump line="38" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/LoginAppContextImpl.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/configuration/SpringSessionConversionService.java" />
+      <jump line="335" column="53" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/web/http/SessionRepositoryFilter.java" />
+      <jump line="625" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/jdbc/JdbcOperationsSessionRepository.java" />
+      <jump line="247" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/jdbc/JdbcOperationsSessionRepository.java" />
+      <jump line="358" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/jdbc/JdbcOperationsSessionRepository.java" />
+      <jump line="359" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/jdbc/JdbcOperationsSessionRepository.java" />
+      <jump line="361" column="55" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/jdbc/JdbcOperationsSessionRepository.java" />
+      <jump line="362" column="43" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/jdbc/JdbcOperationsSessionRepository.java" />
+      <jump line="363" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/jdbc/JdbcOperationsSessionRepository.java" />
+      <jump line="626" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/jdbc/JdbcOperationsSessionRepository.java" />
+      <jump line="633" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/jdbc/JdbcOperationsSessionRepository.java" />
+      <jump line="221" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/jdbc/JdbcOperationsSessionRepository.java" />
+      <jump line="25" column="7" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/configuration/SpringSessionConversionService.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/configuration/SpringSessionConversionService.java" />
+      <jump line="36" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/configuration/SpringSessionConversionService.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/configuration/SpringSessionConversionService.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/configuration/SpringSessionConversionService.java" />
+      <jump line="18" column="31" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/configuration/SpringSessionConversionService.java" />
+      <jump line="27" column="3" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/configuration/SpringSessionConversionService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
       <register name="&quot;" type="4">
-        <text>minor refactorings, logs</text>
+        <text>(AccessLevel.PACKAGE)</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -711,7 +721,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>minor refactorings, logs</text>
+        <text>(AccessLevel.PACKAGE)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -762,19 +772,19 @@
         <text>ERROR_CUSTOMER_HAS_RELATED_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dcPg==</text>
+        <text encoding="base64">XDxvYmplY3RNYXBwZXJcPg==</text>
       </register>
       <register name="o" type="4">
         <text>PERMISSION_OBJECT_OPTIMIZATION_OBJECTIVE_FUNCTION_YEARLY:PERMISSION_ACTION_OPTIMIZE_VIEW_OPTIMIZE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlsb2cuaW5mbygiZmluaXNoZWQgb3JnLnNwcmluZ2ZyYW1ld29yay5hb3AuZnJhbWV3b3JrLmFkYXB0ZXIuRGVmYXVsdEFkdmlzb3JBZGFwdGVyUmVnaXN0cnkuZ2V0SW50ZXJjZXB0b3JzIik7Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudApAQWxsQXJnc0NvbnN0cnVjdG9yCmNsYXNzIFNwcmluZ1Nlc3Npb25Db252ZXJzaW9uU2VydmljZSBpbXBsZW1lbnRzIENvbnZlcnRlcjxieXRlW10sIE9iamVjdD4gewogICAgcHJpdmF0ZSBmaW5hbCBPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyOwoKICAgIEBPdmVycmlkZQogICAgcHVibGljIE9iamVjdCBjb252ZXJ0KGJ5dGVbXSBzb3VyY2UpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICByZXR1cm4gb2JqZWN0TWFwcGVyLnJlYWRlckZvcihPYmplY3QuY2xhc3MpLnJlYWRWYWx1ZShzb3VyY2UpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7CiAgICAgICAgfQogICAgfQp9Cg==</text>
       </register>
       <register name="p" type="4">
         <text>iG8gQXIujYU/PAtBEht19XfLoJSi2eaN5408YK3J1f0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlsb2cuaW5mbygidGFyZ2V0Q2xhc3M6IHt9IiwgYWN0dWFsQ2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -978,7 +988,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlsb2cuaW5mbygiIikK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXI7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -990,13 +1000,13 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlsb2cuaW5mbygiQWRhcHRlcnMgYWR2aWNlIHN1cHBvcnQgbGlzdGluZyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXI7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>app.facebook.client.secret</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oKTsK</text>
+        <text encoding="base64">ICAgIEBDb21wb25lbnQK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1014,7 +1024,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgIEBDb21wb25lbnQK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1025,13 +1035,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlsb2cK</text>
+        <text encoding="base64">QENvbXBvbmVudApAQWxsQXJnc0NvbnN0cnVjdG9yCmNsYXNzIFNwcmluZ1Nlc3Npb25EZXNlcmlhbGl6YXRpb25Db252ZXJ0ZXIgaW1wbGVtZW50cyBDb252ZXJ0ZXI8Ynl0ZVtdLCBPYmplY3Q+IHsKICAgIHByaXZhdGUgZmluYWwgT2JqZWN0TWFwcGVyIG9iamVjdE1hcHBlcjsKCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBPYmplY3QgY29udmVydChieXRlW10gc291cmNlKSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgcmV0dXJuIG9iamVjdE1hcHBlci5yZWFkZXJGb3IoT2JqZWN0LmNsYXNzKS5yZWFkVmFsdWUoc291cmNlKTsKICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGUpOwogICAgICAgIH0KICAgIH0KfQoKQENvbXBvbmVudApAQWxsQXJnc0NvbnN0cnVjdG9yCmNsYXNzIFNwcmluZ1Nlc3Npb25TZXJpYWxpemF0aW9uQ29udmVydGVyIGltcGxlbWVudHMgQ29udmVydGVyPE9iamVjdCwgYnl0ZVtdPiB7CiAgICBwcml2YXRlIGZpbmFsIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXI7CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgYnl0ZVtdIGNvbnZlcnQoT2JqZWN0IHNvdXJjZSkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHJldHVybiBvYmplY3RNYXBwZXIud3JpdGVWYWx1ZUFzQnl0ZXMoc291cmNlKTsKICAgICAgICB9IGNhdGNoIChKc29uUHJvY2Vzc2luZ0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGUpOwogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name="v" type="4">
         <text>carlosvm</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1044,38 +1054,35 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjaGFuZ2VMb2c6IGNsYXNzcGF0aDovY2hhbmdlbG9nLW1hc3Rlci54bWwK</text>
+        <text encoding="base64">QENvbXBvbmVudCh2YWx1ZSA9ICJzcHJpbmdTZXNzaW9uQ29udmVyc2lvblNlcnZpY2UiKQo=</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">ICBoYXNWaWV3UGVybWlzc2lvbiggUEVSTUlTU0lPTl9PQkpFQ1RfUkVQT1JUU18gKSAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWZhdWx0LXNjaGVtYTogJHtkYi5zY2hlbWF9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>action RecentFiles</text>
       </register>
       <register name="z" type="4">
         <text>Ścieżka do folderu umów na serwerze FTP załącznikow</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dcPg==</last-search>
+      <last-search encoding="base64">XDxvYmplY3RNYXBwZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxvYmplY3RNYXBwZXJcPg==</last-pattern>
       <last-replace>).isLeft()</last-replace>
       <last-substitute>.isLeft()).isTrue()</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMT0dJTl9JRFw+</entry>
-        <entry encoding="base64">XDxlbWFpbFw+</entry>
-        <entry encoding="base64">XDxFTUFJTFw+</entry>
         <entry encoding="base64">XDxjb25zZW50XD4=</entry>
         <entry encoding="base64">XDxDT05TRU5UXD4=</entry>
         <entry encoding="base64">XDxpc1JpZ2h0XD4=</entry>
@@ -1093,9 +1100,11 @@
         <entry encoding="base64">XDxhZHZpc29yQXJyYXlcPg==</entry>
         <entry encoding="base64">XDxpbnRlcmNlcHRvcnNcPg==</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGVcPg==</entry>
+        <entry encoding="base64">XDxjb252ZXJzaW9uU2VydmljZVw+</entry>
+        <entry encoding="base64">XDxvYmplY3RNYXBwZXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\n\(\w*\))/\1)</entry>
         <entry>%s/\n\(\w*\))/\1)/g</entry>
         <entry>action InsertSingleCommandAction</entry>
         <entry>action ImplementMethods</entry>
@@ -1115,6 +1124,7 @@
         <entry>-26,-22t-1</entry>
         <entry>-29,-27t-1</entry>
         <entry>reg</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
