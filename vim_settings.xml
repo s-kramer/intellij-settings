@@ -29,8 +29,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/build.gradle" timestamp="1553503639765">
-        <mark key="'" line="15" column="15" />
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/build.gradle" timestamp="1553587327477">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="102" />
+        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/test/scala/bloggers/oo_frameworkless/domain/BloggersTest.scala" timestamp="1551446698192">
         <mark key="'" line="44" column="105" />
@@ -213,11 +216,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/context/LoginAppContextSerializerTest.java" timestamp="1553586604857">
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="33" column="8" />
-        <mark key="." line="33" column="8" />
-        <mark key="^" line="33" column="34" />
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/context/LoginAppContextSerializerTest.java" timestamp="1553587543723">
+        <mark key="[" line="38" column="106" />
+        <mark key="]" line="38" column="114" />
+        <mark key="." line="38" column="114" />
+        <mark key="^" line="38" column="114" />
       </file>
       <file name="$USER_HOME$/verimi-auth/authorization-service/src/test/java/com/dipp/authorization/controller/LoginControllerTest.java" timestamp="1552474191060">
         <mark key="'" line="66" column="27" />
@@ -539,7 +542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="39" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" />
       <jump line="255" column="29" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
       <jump line="25" column="44" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" />
       <jump line="8" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/domain/LoginSubmitResponse.java" />
@@ -639,13 +641,14 @@
       <jump line="18" column="31" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/configuration/SpringSessionConversionService.java" />
       <jump line="27" column="3" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/configuration/SpringSessionConversionService.java" />
       <jump line="16" column="36" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/context/LoginAppContextSerializer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
       <register name="&quot;" type="4">
-        <text>assertEquals</text>
+        <text>_value</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -757,7 +760,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>assertEquals</text>
+        <text>_value</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -820,7 +823,7 @@
         <text>iG8gQXIujYU/PAtBEht19XfLoJSi2eaN5408YK3J1f0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNvbnRleHRTdHJpbmcpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1036,13 +1039,13 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>app.facebook.client.secret</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBNb2NrQmVhbgogICAgSHlkcmFTZXJ2aWNlIGh5ZHJhU2VydmljZTsKICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1060,7 +1063,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBNb2NrQmVhbgogICAgCgo=</text>
+        <text encoding="base64">ICAgIEBNb2NrQmVhbgogICAgSHlkcmFTZXJ2aWNlIGh5ZHJhU2VydmljZTsKICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1071,13 +1074,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBNb2NrQmVhbgogICAgCgo=</text>
       </register>
       <register name="v" type="4">
         <text>carlosvm</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC5jb250ZXh0Lmp1bml0NC5TcHJpbmdKVW5pdDRDbGFzc1J1bm5lcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1090,13 +1093,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nSlVuaXQ0Q2xhc3NSdW5uZXIuY2xhc3MpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC5jb250ZXh0Lmp1bml0NC5TcHJpbmdKVW5pdDRDbGFzc1J1bm5lcjsK</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">ICBoYXNWaWV3UGVybWlzc2lvbiggUEVSTUlTU0lPTl9PQkpFQ1RfUkVQT1JUU18gKSAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nSlVuaXQ0Q2xhc3NSdW5uZXIuY2xhc3MpCg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
