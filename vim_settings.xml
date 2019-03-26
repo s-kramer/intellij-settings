@@ -139,12 +139,12 @@
         <mark key="." line="50" column="53" />
         <mark key="^" line="50" column="62" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/context/LoginAppContext.java" timestamp="1553602934049">
-        <mark key="'" line="19" column="13" />
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="6" />
-        <mark key="^" line="5" column="20" />
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/context/LoginAppContext.java" timestamp="1553607144360">
+        <mark key="'" line="21" column="13" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="10" column="36" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/nfa/NfaStatusControllerTest.java" timestamp="1553597946098">
         <mark key="'" line="91" column="0" />
@@ -620,8 +620,8 @@
       <register name="a" type="4">
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>account fetching refactor</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjaGFsbGVuZ2UgPSBjaGFsbGVuZ2UgPT0gbnVsbCA/IG5ld0NoYWxsZW5nZSA6IGNoYWxsZW5nZTsK</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -796,7 +796,7 @@
         <text>iG8gQXIujYU/PAtBEht19XfLoJSi2eaN5408YK3J1f0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFsbGVuZ2UgPSBjaGFsbGVuZ2UgPT0gbnVsbCA/IG5ld0NoYWxsZW5nZSA6IGNoYWxsZW5nZTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1018,7 +1018,7 @@
         <text>app.facebook.client.secret</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1036,7 +1036,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFRvU3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1047,13 +1047,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEdldHRlcgpARXF1YWxzQW5kSGFzaENvZGUK</text>
+        <text encoding="base64">QFRvU3RyaW5nCg==</text>
       </register>
       <register name="v" type="4">
         <text>carlosvm</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">QEdldHRlcgpARXF1YWxzQW5kSGFzaENvZGUK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1066,13 +1066,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">ICBoYXNWaWV3UGVybWlzc2lvbiggUEVSTUlTU0lPTl9PQkpFQ1RfUkVQT1JUU18gKSAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
