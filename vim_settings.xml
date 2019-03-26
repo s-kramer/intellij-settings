@@ -169,10 +169,6 @@
         <mark key="^" line="88" column="47" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.12.RELEASE/2106c4c25ad9f0021109c2087d4c39b71ddcc6f4/spring-core-4.3.12.RELEASE-sources.jar!/org/springframework/core/serializer/support/DeserializingConverter.java" timestamp="1553518352803" />
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/LoginAppContextCacheConfiguration.java" timestamp="1553176828093">
-        <mark key="[" line="15" column="37" />
-        <mark key="]" line="15" column="64" />
-      </file>
       <file name="$USER_HOME$/Projects/Java/spring-kafka/samples/sample-01/pom.xml" timestamp="1548609501805">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -192,6 +188,7 @@
         <mark key="^" line="36" column="30" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/SpAccountsService.java" timestamp="1553600010643" />
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/login/mobileconnect/McLoginControllerTest.java" timestamp="1553597992237">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="81" column="0" />
@@ -423,11 +420,11 @@
         <mark key="." line="26" column="59" />
         <mark key="^" line="26" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553598021488">
+      <file name="/Dummy.txt" timestamp="1553600020769">
         <mark key="'" line="86" column="0" />
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="49" />
+        <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/Scala/lambdaconf_wt_2016/src/main/scala/fpgg/MonadTransformers.scala" timestamp="1551559769372">
@@ -442,10 +439,6 @@
         <mark key="]" line="13" column="9" />
         <mark key="." line="13" column="9" />
         <mark key="^" line="13" column="9" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/ApplicationTests.java" timestamp="1553590926664">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" timestamp="1553585494365">
         <mark key="'" line="116" column="18" />
@@ -629,7 +622,7 @@
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
       <register name="&quot;" type="4">
-        <text>JsonComponent</text>
+        <text>added missing test dependencies</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -741,7 +734,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>JsonComponent</text>
+        <text>added missing test dependencies</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -804,7 +797,7 @@
         <text>iG8gQXIujYU/PAtBEht19XfLoJSi2eaN5408YK3J1f0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5BbGxBcmdzQ29uc3RydWN0b3I7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PcHRpb25hbDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1008,7 +1001,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1020,13 +1013,13 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBIeWRyYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmxhCg==</text>
       </register>
       <register name="s" type="4">
         <text>app.facebook.client.secret</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNvbnRleHQuc3VwcG9ydC5TcHJpbmdCZWFuQXV0b3dpcmluZ1N1cHBvcnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWFwKCkK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1044,7 +1037,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMb2dpbkFwcENvbnRleHREZXNlcmlhbGl6ZXIoKSB7CiAgICAgICAgU3ByaW5nQmVhbkF1dG93aXJpbmdTdXBwb3J0LnByb2Nlc3NJbmplY3Rpb25CYXNlZE9uQ3VycmVudENvbnRleHQodGhpcyk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuKCkK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1055,13 +1048,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0T3JFbHNlKCkK</text>
       </register>
       <register name="v" type="4">
         <text>carlosvm</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LnNldEh5ZHJhU2VydmljZShoeWRyYVNlcnZpY2UpOwogICAgICAgIGNvbnRleHQuc2V0U3BBY2NvdW50c1NlcnZpY2Uoc3BBY2NvdW50c1NlcnZpY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAub25FbXB0eSgoKSAtPiBsb2cuaW5mbygiRW1wdHkgcmVzcG9uc2Ugb2YgYWNjb3VudCBmb3IgdWlkOid7fScgYW5kIGNsaWVudElkOid7fScuIiwgdWlkLCBjbGllbnRJZCkpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1074,13 +1067,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LnNldEh5ZHJhU2VydmljZShoeWRyYVNlcnZpY2UpOwogICAgICAgIGNvbnRleHQuc2V0U3BBY2NvdW50c1NlcnZpY2Uoc3BBY2NvdW50c1NlcnZpY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">ICBoYXNWaWV3UGVybWlzc2lvbiggUEVSTUlTU0lPTl9PQkpFQ1RfUkVQT1JUU18gKSAg</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>log.info(&quot;Empty response of account for uid:'{}' and clientId:'{}'.&quot;, uid, clientId)</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
