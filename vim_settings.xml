@@ -41,6 +41,11 @@
       <file name="$USER_HOME$/Projects/Java/AxonBank/web/src/main/resources/static/app/services.js" timestamp="1547905023515">
         <mark key="'" line="54" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/spodddify-api/src/main/java/org/skramer/spodddify/payment/event/BillingAccountCharged.java" timestamp="1553809492607">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Java/jhipster_test/src/main/resources/config/application.yml" timestamp="1546356619865">
         <mark key="'" line="63" column="58" />
       </file>
@@ -62,12 +67,12 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify/src/test/java/org/skramer/spodddify/payment/BillingAccountTest.java" timestamp="1550321417078">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="17" column="67" />
-        <mark key="]" line="18" column="106" />
-        <mark key="." line="18" column="106" />
-        <mark key="^" line="18" column="106" />
+      <file name="$USER_HOME$/Projects/Java/spodddify/src/test/java/org/skramer/spodddify/payment/BillingAccountTest.java" timestamp="1553809948893">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="19" column="67" />
+        <mark key="]" line="20" column="106" />
+        <mark key="." line="20" column="106" />
+        <mark key="^" line="20" column="106" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/axonframework/axon-spring/3.0.4/axon-spring-3.0.4-sources.jar!/org/axonframework/spring/config/AxonConfiguration.java" timestamp="1547763034515">
         <mark key="'" line="86" column="8" />
@@ -130,6 +135,12 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/spodddify-api/src/main/java/org/skramer/spodddify/payment/event/BillingAccountNotFoundEvent.java" timestamp="1553809487612">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/Java/spring-security/test/src/main/java/org/springframework/security/test/web/servlet/response/SecurityMockMvcResultMatchers.java" timestamp="1545414381760">
         <mark key="'" line="102" column="21" />
       </file>
@@ -183,9 +194,11 @@
       <file name="$MAVEN_REPOSITORY$/org/axonframework/axon-configuration/4.0/axon-configuration-4.0-sources.jar!/org/axonframework/config/DefaultConfigurer.java" timestamp="1547840262464">
         <mark key="'" line="80" column="53" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.1.1-sources.jar!/scalaz/Semigroup.scala" timestamp="1552132980013">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
+      <file name="$USER_HOME$/Projects/Java/spodddify/spodddify-api/src/main/java/org/skramer/spodddify/payment/event.java" timestamp="1553808302319">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="0" column="42" />
+        <mark key="." line="2" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/Java/es_cqrs_example/src/main/scala/bloggers/build_on_top_ap/readmodel/BloggerPersistentView.scala" timestamp="1551447483392">
         <mark key="'" line="2" column="18" />
@@ -201,10 +214,6 @@
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/LoginAppContextCacheConfiguration.java" timestamp="1553176828093">
-        <mark key="[" line="15" column="37" />
-        <mark key="]" line="15" column="64" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/netflix/archaius/archaius-core/0.7.6/archaius-core-0.7.6-sources.jar!/com/netflix/config/PropertyWrapper.java" timestamp="1542323993032">
         <mark key="'" line="34" column="36" />
@@ -230,6 +239,13 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.1.3.RELEASE/c5c56bc081d89e2929ffd335b9feb5ac31d7bbf8/spring-test-5.1.3.RELEASE-sources.jar!/org/springframework/test/context/transaction/TransactionalTestExecutionListener.java" timestamp="1545597916893">
         <mark key="'" line="208" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/spodddify-api/build.gradle" timestamp="1553809087465">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spring-kafka/samples/sample-01/pom.xml" timestamp="1548609501805">
         <mark key="[" line="31" column="0" />
@@ -264,11 +280,11 @@
       <file name="$USER_HOME$/Projects/Java/axon-quick-start/chat-scaling-out/src/main/java/io/axoniq/labs/chat/commandmodel/ChatRoom.java" timestamp="1547838893780">
         <mark key="'" line="47" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" timestamp="1550321550488">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="13" column="17" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" timestamp="1553809374268">
+        <mark key="[" line="23" column="59" />
+        <mark key="]" line="23" column="66" />
+        <mark key="^" line="23" column="66" />
+        <mark key="." line="23" column="66" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitService.java" timestamp="1552637183499">
         <mark key="'" line="69" column="57" />
@@ -283,11 +299,12 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/PartialFunction.scala" timestamp="1551464997008">
         <mark key="'" line="105" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify/build.gradle" timestamp="1553807876009">
-        <mark key="'" line="39" column="83" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Projects/Java/spodddify/build.gradle" timestamp="1553809226086">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="39" column="22" />
+        <mark key="]" line="39" column="34" />
+        <mark key="." line="39" column="34" />
+        <mark key="^" line="39" column="34" />
       </file>
       <file name="$USER_HOME$/verimi-auth/authorization-service/src/test/java/com/dipp/authorization/controller/LoginControllerTest.java" timestamp="1552474191060">
         <mark key="'" line="66" column="27" />
@@ -337,12 +354,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.5.23/e5c70a402738f0ab5153e11b16ec28fb5eb8da2/tomcat-embed-core-8.5.23-sources.jar!/org/apache/catalina/core/ApplicationHttpRequest.java" timestamp="1545475197928">
         <mark key="'" line="570" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountCommandHandler.java" timestamp="1550321365909">
-        <mark key="'" line="16" column="23" />
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="10" column="7" />
-        <mark key="." line="10" column="7" />
-        <mark key="^" line="10" column="7" />
+      <file name="$USER_HOME$/Projects/Java/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountCommandHandler.java" timestamp="1553810069383">
+        <mark key="'" line="18" column="23" />
+        <mark key="[" line="20" column="63" />
+        <mark key="]" line="20" column="87" />
+        <mark key="." line="20" column="87" />
+        <mark key="^" line="20" column="87" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.9.RELEASE/spring-beans-5.0.9.RELEASE-sources.jar!/org/springframework/beans/factory/config/PropertyResourceConfigurer.java" timestamp="1540853864540">
         <mark key="'" line="82" column="14" />
@@ -687,29 +704,13 @@
       <file name="/fragment.java" timestamp="1553184670317">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/spodddify-api/src/main/java/org/skramer/spodddify/payment/event/BillingAccountCreatedEvent.java" timestamp="1553809498448">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="8" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="245" column="19" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="186" column="27" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="296" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="261" column="108" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="130" column="80" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="148" column="75" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="64" column="0" filename="/NfaStatusService.java" />
-      <jump line="169" column="48" filename="/NfaStatusService.java" />
-      <jump line="135" column="23" filename="/NfaStatusService.java" />
-      <jump line="149" column="30" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusService.java" />
-      <jump line="139" column="17" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusService.java" />
-      <jump line="98" column="17" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusService.java" />
-      <jump line="155" column="122" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="151" column="30" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusService.java" />
-      <jump line="122" column="48" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusService.java" />
-      <jump line="152" column="8" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="103" column="8" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="104" column="8" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="149" column="75" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
-      <jump line="136" column="12" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
       <jump line="48" column="4" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
       <jump line="6" column="36" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
       <jump line="307" column="8" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/nfa/NfaSpec.groovy" />
@@ -789,13 +790,34 @@
       <jump line="81" column="4" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" />
       <jump line="273" column="18" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/account/AccountSpec.groovy" />
       <jump line="53" column="22" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/groovy/com/dipp/hydraloginapp/account/AccountSpec.groovy" />
+      <jump line="36" column="0" filename="$USER_HOME$/Projects/Java/spodddify/build.gradle" />
+      <jump line="30" column="28" filename="$USER_HOME$/Projects/Java/spodddify/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/spodddify/build.gradle" />
+      <jump line="12" column="0" filename="$USER_HOME$/Projects/Java/spodddify/build.gradle" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/Java/spodddify/build.gradle" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/Java/spodddify/build.gradle" />
+      <jump line="24" column="0" filename="$USER_HOME$/Projects/Java/spodddify/build.gradle" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/Java/spodddify/build.gradle" />
+      <jump line="37" column="0" filename="$USER_HOME$/Projects/Java/spodddify/build.gradle" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-api/build.gradle" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-api/build.gradle" />
+      <jump line="24" column="0" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-api/build.gradle" />
+      <jump line="20" column="1" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-api/build.gradle" />
+      <jump line="18" column="0" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-api/build.gradle" />
+      <jump line="7" column="1" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-api/build.gradle" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-api/build.gradle" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-api/build.gradle" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-api/build.gradle" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-api/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-api/build.gradle" />
+      <jump line="46" column="0" filename="$USER_HOME$/Projects/Java/spodddify/src/test/java/org/skramer/spodddify/payment/BillingAccountTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>APP_ATTACHMENT_SERVER</text>
       </register>
       <register name="&quot;" type="4">
-        <text>sp</text>
+        <text>aggregate.identifierAsString()</text>
       </register>
       <register name="b" type="4">
         <text>Optional.of</text>
@@ -907,7 +929,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sp</text>
+        <text>aggregate.identifierAsString()</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -958,19 +980,19 @@
         <text>ERROR_CUSTOMER_HAS_RELATED_</text>
       </register>
       <register name="/" type="4">
-        <text>cache</text>
+        <text>lombok</text>
       </register>
       <register name="o" type="4">
         <text>PERMISSION_OBJECT_OPTIMIZATION_OBJECTIVE_FUNCTION_YEARLY:PERMISSION_ACTION_OPTIMIZE_VIEW_OPTIMIZE</text>
       </register>
-      <register name="0" type="4">
-        <text>spAccountInternal</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZyBhY2NvdW50SWQ7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>iG8gQXIujYU/PAtBEht19XfLoJSi2eaN5408YK3J1f0=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>aggregate.identifierAsString()</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1174,7 +1196,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuc2tyYW1lcicsIG5hbWU6ICdzcG9kZGRpZnktZG9tYWluJywgdmVyc2lvbjogJzAuMC4xLVNOQVBTSE9UJwo=</text>
+        <text encoding="base64">QEJ1aWxkZXIKQFdpdGhlcgo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1186,13 +1208,13 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXR1cCgpIHsKICAgICAgICBfICogZXZlbnRQcm9kdWNlci5zZW5kKF8pCiAgICB9Cgo=</text>
+        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name="s" type="4">
         <text>app.facebook.client.secret</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLlByaW1hcnkK</text>
+        <text encoding="base64">QFZhbHVlCkBCdWlsZGVyCkBXaXRoZXIK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1210,7 +1232,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgU2ltcGxlQ2FjaGVNYW5hZ2VyKCkK</text>
+        <text encoding="base64">QEJ1aWxkZXIKQFdpdGhlcgpAQWxsQXJnc0NvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1221,25 +1243,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBDb25jdXJyZW50TWFwQ2FjaGUgZ2V0VXNlckFnZW50Q2FjaGUoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBDb25jdXJyZW50TWFwQ2FjaGUoCiAgICAgICAgICAgICAgICAidXNlckFnZW50IiwKICAgICAgICAgICAgICAgIENhY2hlQnVpbGRlci5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgLmV4cGlyZUFmdGVyQWNjZXNzKHVzZXJBZ2VudFBhcnNlckNhY2hlRHVyYXRpb24sIFRpbWVVbml0LkhPVVJTKQogICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKQogICAgICAgICAgICAgICAgICAgICAgICAuYXNNYXAoKSwKICAgICAgICAgICAgICAgIGZhbHNlCiAgICAgICAgKTsKICAgIH0KCg==</text>
+        <text encoding="base64">Ly9AQnVpbGRlcgovL0BXaXRoZXIK</text>
       </register>
       <register name="v" type="4">
         <text>carlosvm</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name="w" type="4">
         <text>nhd%n</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBQcmltYXJ5Cg==</text>
+        <text encoding="base64">LyoqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAyOC4wMy4xOSAyMjozOQogKi8K</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">ICBoYXNWaWV3UGVybWlzc2lvbiggUEVSTUlTU0lPTl9PQkpFQ1RfUkVQT1JUU18gKSAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICogQGF1dGhvciBjcmVhdGVkOiBza3JhbWVyIG9uIDI4LjAzLjE5IDIyOjM5CiAqLwo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
@@ -1252,9 +1274,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cache</last-search>
+      <last-search>lombok</last-search>
       <last-offset />
-      <last-pattern>cache</last-pattern>
+      <last-pattern>lombok</last-pattern>
       <last-replace>).isLeft()</last-replace>
       <last-substitute>.isLeft()).isTrue()</last-substitute>
       <last-dir>1</last-dir>
@@ -1262,7 +1284,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBbmRUaGVuXD4=</entry>
         <entry encoding="base64">XDxjb3N0UGVyUGVyc29uXD4=</entry>
         <entry encoding="base64">XDxEZWFsaW5nV2l0aENoYW5naW5nU3RhdGVcPg==</entry>
         <entry encoding="base64">XDxCb29raW5nU2VydmljZVw+</entry>
@@ -1282,6 +1303,7 @@
         <entry>2</entry>
         <entry encoding="base64">XDxJbml0aWFsaXplXD4=</entry>
         <entry>plugin</entry>
+        <entry>lombok</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorDuplicate</entry>
