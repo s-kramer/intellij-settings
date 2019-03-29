@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1553863917744">
+      <file name="/Dummy.txt" timestamp="1553866763984">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="46" />
+        <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/resources/application-local-env.yml" timestamp="1553866616225">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+        <mark key="^" line="5" column="5" />
       </file>
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" timestamp="1553863398453">
         <mark key="'" line="0" column="0" />
@@ -17,10 +23,6 @@
       </file>
       <file name="/postgres.serviceprovider.identity_provider_blz [postgres@mobile]" timestamp="1553852085704">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dipp-mobile.json" timestamp="1553853995137">
-        <mark key="[" line="43" column="28" />
-        <mark key="]" line="43" column="49" />
       </file>
       <file name="$USER_HOME$/sd/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountCommandHandler.java" timestamp="1553858584143">
         <mark key="[" line="7" column="0" />
@@ -44,6 +46,27 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="51" />
       </file>
+      <file name="/postgres.session.session [postgres@mobile]" timestamp="1553866718178">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1553866819619">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/resources/bootstrap.yml" timestamp="1553866628408">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/account/AccountSelectionEdgeCasesTest.java" timestamp="1553866645008">
+        <mark key="'" line="205" column="59" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/resources/bootstrap-local-env.yml" timestamp="1553866632192">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.yml" timestamp="1553863437035">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="16" />
@@ -54,7 +77,12 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1553852089034">
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/resources/application.yml" timestamp="1553866600098">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1553866722224">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1553862767414">
@@ -71,34 +99,50 @@
       <jump line="33" column="53" filename="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.yml" />
+      <jump line="280" column="13" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/account/AccountSelectionEdgeCasesTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/resources/bootstrap.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/resources/bootstrap-local-env.yml" />
+      <jump line="205" column="59" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/account/AccountSelectionEdgeCasesTest.java" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>disabled liquibase</text>
+      </register>
+      <register name="-" type="4">
+        <text>disabled liquibase</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxnZXRBY2NvdW50c0ZvclVpZEFuZExvZ2luUmVxdWVzdFw+</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXZlbnRCdXMucHVibGlzaCgKICAgICAgICAgICAgICAgICAgICBHZW5lcmljRXZlbnRNZXNzYWdlLmFzRXZlbnRNZXNzYWdlKAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9ARW5hYmxlRGVmYXVsdERpcHBKREJDQ29uZmlndXJhdGlvbgo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>disabled caching in login app context</text>
+        <text encoding="base64">CmxpcXVpYmFzZToKICBlbmFibGVkOiBmYWxzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ewogICJleHRlcm5hbCI6IHsKICAgICJtYWlsaG9nIjogImxhdGVzdCIsCiAgICAia2Fma2EiOiAiMndheXRscyIsCiAgICAicG9zdGdyZXMiOiAiMndheXRsc19pbnRlcm5hbCIsCiAgICAiemlwa2luIjogIjIuMTEuNiIsCiAgICAibHVmdGhhbnNhLW1vY2siOiAiODguMjQ5LTlmMDUwOWItU05BUFNIT1QiLAogICAgImRldXRzY2hlYmFuay1tb2NrIjogIjg4LjI0OS05ZjA1MDliLVNOQVBTSE9UIiwKICAgICJub3Jpc2JhbmstbW9jayI6ICI4OC4yMDktM2Y2ZGFkYy1TTkFQU0hPVCIsCiAgICAic3AzLW1vY2siOiAiMjA4LTc5Zjg1YjUtU05BUFNIT1QiLAogICAgIm1tLXNlcnZpY2UtbW9jayI6ICI5LTJkNTYxYzYtU05BUFNIT1QiLAogICAgInNlc3Npb24tZW5jcnlwdGlvbi1zZXJ2aWNlLW1vY2siOiAiMTYtMDRhYzZhZS1TTkFQU0hPVCIsCiAgICAic2hvcHN5c3RlbS1tb2NrIjogIjIyLWYyZDM3N2UtU05BUFNIT1QiLAogICAgImViaWNzLW1vY2siOiAiMTAwLTczNjk2N2QtU05BUFNIT1QiLAogICAgImVpZC1tb2NrIjogIjQtMWY2YjVkOS1TTkFQU0hPVCIsCiAgICAiZGItdHdvZmEtc2VydmljZS1tb2NrIjogIjY2LTY5NTFjMzQtU05BUFNIT1QiLAogICAgInR1cmJpbmUiOiAiMjQtNmU1ZTM2MC1TTkFQU0hPVCIsCiAgICAiaHlkcmEiOiAidjEuMC4wLWJldGEuOC1hbHBpbmUtdmVyaW1pLTIwMTgxMDI5LTAxIgogIH0sCiAgInBsYXRmb3JtIjogewogICAgInNlcnZpY2UtcmVnaXN0cnkiOiAiMTI3LWFiOWRmODYtU05BUFNIT1QiLAogICAgImNvbmZpZ3VyYXRpb24tc2VydmljZSI6ICIxMDEtNzJkYmUyZi1TTkFQU0hPVCIsCiAgICAiYXV0aG9yaXphdGlvbi1zZXJ2aWNlIjogIjExMTMtMjZhZWYwMC1TTkFQU0hPVCIsCiAgICAiYXBpLWdhdGV3YXktc2VydmljZSI6ICIxMjExLTZlNDlkN2YtU05BUFNIT1QiCiAgfSwKICAiYnVzaW5lc3MiOiB7CiAgICAiYWN0aXZpdHktbG9nLXNlcnZpY2UiOiAiMTUyLTQ4YWU5ZjAtU05BUFNIT1QiLAogICAgImRvY3VtZW50cy1zZXJ2aWNlIjogIjU1Ni0xZTI4MTg4LVNOQVBTSE9UIiwKICAgICJmYWNhZGUtc2VydmljZSI6ICI3NS04MTMxMzg2LVNOQVBTSE9UIiwKICAgICJmcmF1ZC1kZXRlY3Rpb24tc2VydmljZSI6ICI2My0xNjdjNjI4LVNOQVBTSE9UIiwKICAgICJpZGVudGl0eW93bmVyLXNlcnZpY2UiOiAiMjk5LWNjZGRkYWYtU05BUFNIT1QiLAogICAgImltcG9ydC1leHBvcnQtc2VydmljZSI6ICIxMTY2LWFjYjA2MjItU05BUFNIT1QiLAogICAgIm9wdGlucy1zZXJ2aWNlIjoiMjE2LTljNmRkOTAtU05BUFNIT1QiLAogICAgIm1hc3Rlci1kYXRhLXNlcnZpY2UiOiAiNDU2LTMyYjllYjYtU05BUFNIT1QiLAogICAgIm5vdGlmaWNhdGlvbi1zZXJ2aWNlIjogIjE3NS03NDRiYzI4LVNOQVBTSE9UIiwKICAgICJwYXltZW50LWRhdGEtc2VydmljZSI6ICI1MjMtOGQ3ZjFmNi1TTkFQU0hPVCIsCiAgICAicGF5bWVudC1mYWNhZGUtc2VydmljZSI6ICIxNjAtZTE3OTA4Ni1TTkFQU0hPVCIsCiAgICAicGF5bWVudC1zZXJ2aWNlIjogIjE5NC03MzY5NjdkLVNOQVBTSE9UIiwKICAgICJyZXBvcnRpbmctc2VydmljZSI6ICI1MC01ZTBjNWZiLVNOQVBTSE9UIiwKICAgICJzZWN1cml0eS1zZXJ2aWNlIjogIjU3Mi02ZjAyOGJmLVNOQVBTSE9UIiwKICAgICJmcm9udGVuZCI6ICIyODg4LTdmYmM2MDc5MC1TTkFQU0hPVCIsCiAgICAibW9iaWxlLXJlc291cmNlcyI6ICI4MC04ZWUzN2I4LVNOQVBTSE9UIiwKICAgICJoeWRyYS1wcm94eSI6ICIyNTgtZDAzMTU3Mi1TTkFQU0hPVCIsCiAgICAiaHlkcmEtbG9naW4tYXBwIjogIkRFVi0yMDA2OS12MDQtU05BUFNIT1QiCiAgfQp9Cg==</text>
+        <text encoding="base64">CmxpcXVpYmFzZToKICBkZWZhdWx0LXNjaGVtYTogJHtkYi5zY2hlbWF9CiAgZW5hYmxlZDogdHJ1ZQogIGNoYW5nZUxvZzogY2xhc3NwYXRoOi9jaGFuZ2Vsb2ctbWFzdGVyLnhtbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5heG9uZnJhbWV3b3JrLm1vZGVsbGluZy5jb21tYW5kLkFnZ3JlZ2F0ZUxpZmVjeWNsZTsK</text>
+        <text encoding="base64">ICBkYXRhc291cmNlOgogICAgdXJsOiBqZGJjOmgyOn4vdGVzdAogICAgdXNlcm5hbWU6IHNhCiAgICBwYXNzd29yZDoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRyaXZlci1jbGFzcy1uYW1lOiBvcmcuaDIuRHJpdmVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">REVWSU5UMiAtPiBNb2JpbGUgc3luYwo=</text>
+        <text encoding="base64">ICBzZXNzaW9uOgogICAgc3RvcmUtdHlwZTogamRiYwogICAgamRiYzoKICAgICAgdGFibGUtbmFtZTogU1BSSU5HX1NFU1NJT04K</text>
       </register>
-      <register name="-" type="4">
-        <text>disabled caching in login app context</text>
+      <register name="6" type="2">
+        <text encoding="base64">amRiYzoKICBqZGJjVXJsOiBqZGJjOmgyOm1lbTp0ZXN0ZGIKICB1c2VybmFtZTogc2EKICBwYXNzd29yZDoKICBkcml2ZXItY2xhc3MtbmFtZTogb3JnLmgyLkRyaXZlcgoK</text>
       </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxnZXRBY2NvdW50c0ZvclVpZEFuZExvZ2luUmVxdWVzdFw+</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZGI6CiAgc2NoZW1hOiBsb2dpbl9hcHBfc2Vzc2lvbgoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBkYXRhc291cmNlOgogICAgZHJpdmVyLWNsYXNzLW5hbWU6ICR7amRiYy5kcml2ZXJDbGFzc05hbWV9CiAgICBwYXNzd29yZDogJHtqZGJjLnBhc3N3b3JkfQogICAgdXJsOiAke2pkYmMuamRiY1VybH0KICAgIHVzZXJuYW1lOiAke2pkYmMudXNlcm5hbWV9Cgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBzZXNzaW9uOgogICAgc3RvcmUtdHlwZTogamRiYwogICAgamRiYzoKICAgICAgdGFibGUtbmFtZTogbG9naW5fYXBwX3Nlc3Npb24uTE9HSU5fQVBQX1NQUklOR19TRVNTSU9OCg==</text>
       </register>
     </registers>
     <search>
