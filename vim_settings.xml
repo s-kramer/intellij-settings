@@ -9,9 +9,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/postgres.serviceprovider.identity_provider_blz [postgres@mobile]" timestamp="1553852085704">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" timestamp="1553870906642">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -26,11 +23,10 @@
         <mark key="." line="148" column="8" />
         <mark key="^" line="148" column="8" />
       </file>
-      <file name="/postgres.session.session [postgres@mobile]" timestamp="1553866718178">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1553866819619">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/service/VerimiComplexStateService.java" timestamp="1553872972518">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/resources/bootstrap.yml" timestamp="1553870880499">
         <mark key="'" line="0" column="0" />
@@ -41,6 +37,11 @@
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/account/AccountSelectionEdgeCasesTest.java" timestamp="1553870758685">
         <mark key="'" line="205" column="59" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/Application.java" timestamp="1553863902398">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/bootstrap.yml" timestamp="1553867473724">
         <mark key="'" line="0" column="0" />
@@ -54,9 +55,6 @@
         <mark key="]" line="38" column="1" />
         <mark key="." line="38" column="1" />
         <mark key="^" line="38" column="1" />
-      </file>
-      <file name="/dummy.sql" timestamp="1553866722224">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.9.RELEASE/e8ec0872402f7a3d5c39c92009bd0d5fcb6783f6/spring-boot-autoconfigure-1.5.9.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/liquibase/LiquibaseAutoConfiguration.java" timestamp="1553868735581" />
       <file name="/bootstrap-local-env.yml" timestamp="1553870832424">
@@ -108,9 +106,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1553862767414">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -165,7 +160,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmxpcXVpYmFzZToKICBlbmFibGVkOiBmYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>removed persistence attributes</text>
@@ -177,31 +172,31 @@
         <text encoding="base64">bGlxdWliYXNlOgogIGVuYWJsZWQ6IGZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmxpcXVpYmFzZToKICBlbmFibGVkOiBmYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCmxpcXVpYmFzZToKICBlbmFibGVkOiBmYWxzZQo=</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGo7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIApsaXF1aWJhc2U6CiAgZW5hYmxlZDogZmFsc2UK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhbG9naW5hcHAubG9naW4uVmVyaW1pQ29tcGxleFN0YXRlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaHR0cC5OYW1lVmFsdWVQYWlyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CmxpcXVpYmFzZToKICBlbmFibGVkOiBmYWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCmxpcXVpYmFzZToKICBlbmFibGVkOiBmYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGlxdWliYXNlOgogIGVuYWJsZWQ6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIApsaXF1aWJhc2U6CiAgZW5hYmxlZDogZmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICJjb20uaDJkYXRhYmFzZTpoMiIK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
     </registers>
     <search>
