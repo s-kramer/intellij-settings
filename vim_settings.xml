@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6cfa95cf-bd66-4536-9d63-1c85797ecafa/console_6.sql" timestamp="1553857482576">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="/Dummy.txt" timestamp="1553854054666">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
@@ -22,6 +28,9 @@
         <mark key="[" line="43" column="28" />
         <mark key="]" line="43" column="49" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" timestamp="1553856824402">
+        <mark key="'" line="128" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1553852089034">
         <mark key="[" line="0" column="0" />
       </file>
@@ -31,16 +40,17 @@
       <jump line="43" column="49" filename="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" />
       <jump line="16" column="4" filename="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" />
       <jump line="0" column="0" filename="$USER_HOME$/sd/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountCommandHandler.java" />
+      <jump line="128" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">REVWSU5UMiAtPiBNb2JpbGUgc3luYwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>removed remainders of spring-session</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>removed remainders of spring-session</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>optin</text>
@@ -103,6 +113,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
