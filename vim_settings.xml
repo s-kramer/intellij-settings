@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6cfa95cf-bd66-4536-9d63-1c85797ecafa/console_6.sql" timestamp="1553857482576">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="9" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6cfa95cf-bd66-4536-9d63-1c85797ecafa/console_6.sql" timestamp="1553861639019">
+        <mark key="[" line="0" column="51" />
+        <mark key="]" line="0" column="51" />
         <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="." line="0" column="51" />
       </file>
       <file name="/Dummy.txt" timestamp="1553858599405">
         <mark key="[" line="0" column="0" />
@@ -21,6 +21,7 @@
         <mark key="]" line="43" column="50" />
         <mark key="." line="43" column="28" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/service-registry/src/main/java/com/core/dipp/serviceregistry/Application.java" timestamp="1553862258331" />
       <file name="/postgres.serviceprovider.identity_provider_blz [postgres@mobile]" timestamp="1553852085704">
         <mark key="[" line="0" column="0" />
       </file>
@@ -34,8 +35,8 @@
         <mark key="^" line="24" column="110" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" timestamp="1553856824402">
-        <mark key="'" line="128" column="0" />
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" timestamp="1553862070349">
+        <mark key="'" line="261" column="58" />
       </file>
       <file name="$USER_HOME$/sd/spodddify/src/test/java/org/skramer/spodddify/payment/BillingAccountTest.java" timestamp="1553858573438">
         <mark key="[" line="20" column="104" />
@@ -53,6 +54,7 @@
       <jump line="16" column="4" filename="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" />
       <jump line="0" column="0" filename="$USER_HOME$/sd/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountCommandHandler.java" />
       <jump line="128" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" />
+      <jump line="261" column="58" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -61,8 +63,8 @@
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5heG9uZnJhbWV3b3JrLm1vZGVsbGluZy5jb21tYW5kLkFnZ3JlZ2F0ZUxpZmVjeWNsZTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5heG9uZnJhbWV3b3JrLm1vZGVsbGluZy5jb21tYW5kLkFnZ3JlZ2F0ZUxpZmVjeWNsZTsK</text>
+      <register name="&quot;" type="4">
+        <text>testmail-a913fe7f2892449bb396646ec8a84519@dipp.com</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -71,22 +73,23 @@
         <text encoding="base64">REVWSU5UMiAtPiBNb2JpbGUgc3luYwo=</text>
       </register>
       <register name="-" type="4">
-        <text>AggregateLifecycle.apply</text>
+        <text>testmail-a913fe7f2892449bb396646ec8a84519@dipp.com</text>
       </register>
       <register name="/" type="4">
-        <text>optin</text>
+        <text encoding="base64">XDxnZXRBY2NvdW50c0ZvclVpZEFuZExvZ2luUmVxdWVzdFw+</text>
       </register>
     </registers>
     <search>
-      <last-search>optin</last-search>
+      <last-search encoding="base64">XDxnZXRBY2NvdW50c0ZvclVpZEFuZExvZ2luUmVxdWVzdFw+</last-search>
       <last-offset />
-      <last-pattern>optin</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxnZXRBY2NvdW50c0ZvclVpZEFuZExvZ2luUmVxdWVzdFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>optin</entry>
+        <entry encoding="base64">XDxnZXRBY2NvdW50c0ZvclVpZEFuZExvZ2luUmVxdWVzdFw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
