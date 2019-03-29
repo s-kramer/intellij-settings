@@ -3,25 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6cfa95cf-bd66-4536-9d63-1c85797ecafa/console_6.sql" timestamp="1553861639019">
-        <mark key="[" line="0" column="51" />
-        <mark key="]" line="0" column="51" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="51" />
+      <file name="/Dummy.txt" timestamp="1553863917744">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553858599405">
+      <file name="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" timestamp="1553863398453">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="45" column="1" />
+        <mark key="." line="43" column="41" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" timestamp="1553854019145">
-        <mark key="'" line="16" column="4" />
-        <mark key="[" line="43" column="28" />
-        <mark key="]" line="43" column="50" />
-        <mark key="." line="43" column="28" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/service-registry/src/main/java/com/core/dipp/serviceregistry/Application.java" timestamp="1553862258331" />
       <file name="/postgres.serviceprovider.identity_provider_blz [postgres@mobile]" timestamp="1553852085704">
         <mark key="[" line="0" column="0" />
       </file>
@@ -44,7 +37,27 @@
         <mark key="^" line="20" column="126" />
         <mark key="." line="20" column="126" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/mobileconnect/McLoginController.java" timestamp="1553862734147" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6cfa95cf-bd66-4536-9d63-1c85797ecafa/console_6.sql" timestamp="1553861639019">
+        <mark key="[" line="0" column="51" />
+        <mark key="]" line="0" column="51" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="51" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.yml" timestamp="1553863437035">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/Application.java" timestamp="1553863902398">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1553852089034">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1553862767414">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -55,25 +68,34 @@
       <jump line="0" column="0" filename="$USER_HOME$/sd/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountCommandHandler.java" />
       <jump line="128" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" />
       <jump line="261" column="58" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" />
+      <jump line="33" column="53" filename="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.yml" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXZlbnRCdXMucHVibGlzaCgKICAgICAgICAgICAgICAgICAgICBHZW5lcmljRXZlbnRNZXNzYWdlLmFzRXZlbnRNZXNzYWdlKAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5heG9uZnJhbWV3b3JrLm1vZGVsbGluZy5jb21tYW5kLkFnZ3JlZ2F0ZUxpZmVjeWNsZTsK</text>
+        <text encoding="base64">Ly9ARW5hYmxlRGVmYXVsdERpcHBKREJDQ29uZmlndXJhdGlvbgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>testmail-a913fe7f2892449bb396646ec8a84519@dipp.com</text>
+        <text>disabled caching in login app context</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewogICJleHRlcm5hbCI6IHsKICAgICJtYWlsaG9nIjogImxhdGVzdCIsCiAgICAia2Fma2EiOiAiMndheXRscyIsCiAgICAicG9zdGdyZXMiOiAiMndheXRsc19pbnRlcm5hbCIsCiAgICAiemlwa2luIjogIjIuMTEuNiIsCiAgICAibHVmdGhhbnNhLW1vY2siOiAiODguMjQ5LTlmMDUwOWItU05BUFNIT1QiLAogICAgImRldXRzY2hlYmFuay1tb2NrIjogIjg4LjI0OS05ZjA1MDliLVNOQVBTSE9UIiwKICAgICJub3Jpc2JhbmstbW9jayI6ICI4OC4yMDktM2Y2ZGFkYy1TTkFQU0hPVCIsCiAgICAic3AzLW1vY2siOiAiMjA4LTc5Zjg1YjUtU05BUFNIT1QiLAogICAgIm1tLXNlcnZpY2UtbW9jayI6ICI5LTJkNTYxYzYtU05BUFNIT1QiLAogICAgInNlc3Npb24tZW5jcnlwdGlvbi1zZXJ2aWNlLW1vY2siOiAiMTYtMDRhYzZhZS1TTkFQU0hPVCIsCiAgICAic2hvcHN5c3RlbS1tb2NrIjogIjIyLWYyZDM3N2UtU05BUFNIT1QiLAogICAgImViaWNzLW1vY2siOiAiMTAwLTczNjk2N2QtU05BUFNIT1QiLAogICAgImVpZC1tb2NrIjogIjQtMWY2YjVkOS1TTkFQU0hPVCIsCiAgICAiZGItdHdvZmEtc2VydmljZS1tb2NrIjogIjY2LTY5NTFjMzQtU05BUFNIT1QiLAogICAgInR1cmJpbmUiOiAiMjQtNmU1ZTM2MC1TTkFQU0hPVCIsCiAgICAiaHlkcmEiOiAidjEuMC4wLWJldGEuOC1hbHBpbmUtdmVyaW1pLTIwMTgxMDI5LTAxIgogIH0sCiAgInBsYXRmb3JtIjogewogICAgInNlcnZpY2UtcmVnaXN0cnkiOiAiMTI3LWFiOWRmODYtU05BUFNIT1QiLAogICAgImNvbmZpZ3VyYXRpb24tc2VydmljZSI6ICIxMDEtNzJkYmUyZi1TTkFQU0hPVCIsCiAgICAiYXV0aG9yaXphdGlvbi1zZXJ2aWNlIjogIjExMTMtMjZhZWYwMC1TTkFQU0hPVCIsCiAgICAiYXBpLWdhdGV3YXktc2VydmljZSI6ICIxMjExLTZlNDlkN2YtU05BUFNIT1QiCiAgfSwKICAiYnVzaW5lc3MiOiB7CiAgICAiYWN0aXZpdHktbG9nLXNlcnZpY2UiOiAiMTUyLTQ4YWU5ZjAtU05BUFNIT1QiLAogICAgImRvY3VtZW50cy1zZXJ2aWNlIjogIjU1Ni0xZTI4MTg4LVNOQVBTSE9UIiwKICAgICJmYWNhZGUtc2VydmljZSI6ICI3NS04MTMxMzg2LVNOQVBTSE9UIiwKICAgICJmcmF1ZC1kZXRlY3Rpb24tc2VydmljZSI6ICI2My0xNjdjNjI4LVNOQVBTSE9UIiwKICAgICJpZGVudGl0eW93bmVyLXNlcnZpY2UiOiAiMjk5LWNjZGRkYWYtU05BUFNIT1QiLAogICAgImltcG9ydC1leHBvcnQtc2VydmljZSI6ICIxMTY2LWFjYjA2MjItU05BUFNIT1QiLAogICAgIm9wdGlucy1zZXJ2aWNlIjoiMjE2LTljNmRkOTAtU05BUFNIT1QiLAogICAgIm1hc3Rlci1kYXRhLXNlcnZpY2UiOiAiNDU2LTMyYjllYjYtU05BUFNIT1QiLAogICAgIm5vdGlmaWNhdGlvbi1zZXJ2aWNlIjogIjE3NS03NDRiYzI4LVNOQVBTSE9UIiwKICAgICJwYXltZW50LWRhdGEtc2VydmljZSI6ICI1MjMtOGQ3ZjFmNi1TTkFQU0hPVCIsCiAgICAicGF5bWVudC1mYWNhZGUtc2VydmljZSI6ICIxNjAtZTE3OTA4Ni1TTkFQU0hPVCIsCiAgICAicGF5bWVudC1zZXJ2aWNlIjogIjE5NC03MzY5NjdkLVNOQVBTSE9UIiwKICAgICJyZXBvcnRpbmctc2VydmljZSI6ICI1MC01ZTBjNWZiLVNOQVBTSE9UIiwKICAgICJzZWN1cml0eS1zZXJ2aWNlIjogIjU3Mi02ZjAyOGJmLVNOQVBTSE9UIiwKICAgICJmcm9udGVuZCI6ICIyODg4LTdmYmM2MDc5MC1TTkFQU0hPVCIsCiAgICAibW9iaWxlLXJlc291cmNlcyI6ICI4MC04ZWUzN2I4LVNOQVBTSE9UIiwKICAgICJoeWRyYS1wcm94eSI6ICIyNTgtZDAzMTU3Mi1TTkFQU0hPVCIsCiAgICAiaHlkcmEtbG9naW4tYXBwIjogIkRFVi0yMDA2OS12MDQtU05BUFNIT1QiCiAgfQp9Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5heG9uZnJhbWV3b3JrLm1vZGVsbGluZy5jb21tYW5kLkFnZ3JlZ2F0ZUxpZmVjeWNsZTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">REVWSU5UMiAtPiBNb2JpbGUgc3luYwo=</text>
       </register>
       <register name="-" type="4">
-        <text>testmail-a913fe7f2892449bb396646ec8a84519@dipp.com</text>
+        <text>disabled caching in login app context</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRBY2NvdW50c0ZvclVpZEFuZExvZ2luUmVxdWVzdFw+</text>
@@ -143,6 +165,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
