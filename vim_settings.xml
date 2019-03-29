@@ -19,11 +19,12 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.13.RELEASE/5e55eefa667944084e88a16b71b83f8381afb69c/spring-beans-4.3.13.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1553868527179" />
       <file name="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/application.yml" timestamp="1553867780022" />
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/build.gradle" timestamp="1553868917126">
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/build.gradle" timestamp="1553869863548">
         <mark key="'" line="82" column="25" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
+        <mark key="[" line="148" column="4" />
+        <mark key="]" line="148" column="8" />
+        <mark key="." line="148" column="8" />
+        <mark key="^" line="148" column="8" />
       </file>
       <file name="$USER_HOME$/sd/spodddify/src/test/java/org/skramer/spodddify/payment/BillingAccountTest.java" timestamp="1553858573438">
         <mark key="[" line="20" column="104" />
@@ -57,15 +58,21 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/hydra-login-app.yml" timestamp="1553867795638" />
+      <file name="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/hydra-login-app.yml" timestamp="1553870023141">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="38" column="1" />
+        <mark key="." line="38" column="1" />
+        <mark key="^" line="38" column="1" />
+      </file>
       <file name="/dummy.sql" timestamp="1553866722224">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.9.RELEASE/e8ec0872402f7a3d5c39c92009bd0d5fcb6783f6/spring-boot-autoconfigure-1.5.9.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/liquibase/LiquibaseAutoConfiguration.java" timestamp="1553868735581" />
-      <file name="/Dummy.txt" timestamp="1553866763984">
-        <mark key="[" line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1553870120480">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="27" />
+        <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" timestamp="1553863398453">
@@ -107,10 +114,10 @@
         <mark key="]" line="3" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/resources/application.yml" timestamp="1553866600098">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/resources/application.yml" timestamp="1553870020728">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1553862767414">
         <mark key="[" line="0" column="0" />
@@ -148,6 +155,8 @@
       <jump line="888" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.13.RELEASE/5e55eefa667944084e88a16b71b83f8381afb69c/spring-beans-4.3.13.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java" />
       <jump line="886" column="77" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.13.RELEASE/5e55eefa667944084e88a16b71b83f8381afb69c/spring-beans-4.3.13.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java" />
       <jump line="21" column="14" filename="$USER_HOME$/verimi-auth/hydra-login-app/build.gradle" />
+      <jump line="10" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/build.gradle" />
       <jump line="32" column="19" filename="$USER_HOME$/verimi-auth/hydra-login-app/build.gradle" />
       <jump line="37" column="107" filename="$USER_HOME$/verimi-auth/hydra-login-app/build.gradle" />
       <jump line="45" column="13" filename="$USER_HOME$/verimi-auth/hydra-login-app/build.gradle" />
@@ -156,13 +165,15 @@
       <jump line="52" column="14" filename="$USER_HOME$/verimi-auth/hydra-login-app/build.gradle" />
       <jump line="81" column="25" filename="$USER_HOME$/verimi-auth/hydra-login-app/build.gradle" />
       <jump line="82" column="25" filename="$USER_HOME$/verimi-auth/hydra-login-app/build.gradle" />
+      <jump line="23" column="15" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/hydra-login-app.yml" />
+      <jump line="18" column="0" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/hydra-login-app.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICJjb20uaDJkYXRhYmFzZTpoMiIK</text>
+      <register name="&quot;" type="4">
+        <text>removed persistence attributes</text>
       </register>
       <register name="-" type="4">
-        <text>disabled liquibase</text>
+        <text>removed persistence attributes</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
@@ -171,31 +182,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZXZlbnRCdXMucHVibGlzaCgKICAgICAgICAgICAgICAgICAgICBHZW5lcmljRXZlbnRNZXNzYWdlLmFzRXZlbnRNZXNzYWdlKAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICJjb20uaDJkYXRhYmFzZTpoMiIK</text>
+        <text encoding="base64">bGlxdWliYXNlOgogIGVuYWJsZWQ6IGZhbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmxpcXVpYmFzZToKICBlbmFibGVkOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGlxdWliYXNlOgogIGVuYWJsZWQ6IGZhbHNlCgo=</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICJjb20uaDJkYXRhYmFzZTpoMiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzZXNzaW9uOgogICAgc3RvcmUtdHlwZTogamRiYwogICAgamRiYzoKICAgICAgdGFibGUtbmFtZTogU1BSSU5HX1NFU1NJT04KICAgICAgaW5pdGlhbGl6ZXI6CiAgICAgICAgZW5hYmxlZDogdHJ1ZQpqZGJjOgogIGpkYmMtdXJsOiBqZGJjOmgyOm1lbTp0ZXN0ZGIKICB1c2VybmFtZTogc2EKICBwYXNzd29yZDoKICBkcml2ZXItY2xhc3MtbmFtZTogb3JnLmgyLkRyaXZlcgogIGpkYmNVcmw6Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">CmxpcXVpYmFzZToKICBlbmFibGVkOiBmYWxzZQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">bGlxdWliYXNlOgogIGVuYWJsZWQ6IGZhbHNlCgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CmxpcXVpYmFzZToKICBkZWZhdWx0LXNjaGVtYTogJHtkYi5zY2hlbWF9CiAgZW5hYmxlZDogdHJ1ZQogIGNoYW5nZUxvZzogY2xhc3NwYXRoOi9jaGFuZ2Vsb2ctbWFzdGVyLnhtbAo=</text>
+        <text encoding="base64">ICBzZXNzaW9uOgogICAgc3RvcmUtdHlwZTogamRiYwogICAgamRiYzoKICAgICAgdGFibGUtbmFtZTogU1BSSU5HX1NFU1NJT04KICAgICAgaW5pdGlhbGl6ZXI6CiAgICAgICAgZW5hYmxlZDogdHJ1ZQpqZGJjOgogIGpkYmMtdXJsOiBqZGJjOmgyOm1lbTp0ZXN0ZGIKICB1c2VybmFtZTogc2EKICBwYXNzd29yZDoKICBkcml2ZXItY2xhc3MtbmFtZTogb3JnLmgyLkRyaXZlcgogIGpkYmNVcmw6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkYXRhc291cmNlOgogICAgdXJsOiBqZGJjOmgyOn4vdGVzdAogICAgdXNlcm5hbWU6IHNhCiAgICBwYXNzd29yZDoKCg==</text>
+        <text encoding="base64">CmxpcXVpYmFzZToKICBlbmFibGVkOiBmYWxzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRyaXZlci1jbGFzcy1uYW1lOiBvcmcuaDIuRHJpdmVyCg==</text>
+        <text encoding="base64">CmxpcXVpYmFzZToKICBkZWZhdWx0LXNjaGVtYTogJHtkYi5zY2hlbWF9CiAgZW5hYmxlZDogdHJ1ZQogIGNoYW5nZUxvZzogY2xhc3NwYXRoOi9jaGFuZ2Vsb2ctbWFzdGVyLnhtbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzZXNzaW9uOgogICAgc3RvcmUtdHlwZTogamRiYwogICAgamRiYzoKICAgICAgdGFibGUtbmFtZTogU1BSSU5HX1NFU1NJT04K</text>
+        <text encoding="base64">ICBkYXRhc291cmNlOgogICAgdXJsOiBqZGJjOmgyOn4vdGVzdAogICAgdXNlcm5hbWU6IHNhCiAgICBwYXNzd29yZDoKCg==</text>
       </register>
     </registers>
     <search>
@@ -214,6 +225,7 @@
         <entry encoding="base64">XDxzaGFyZWRCb21VcGRhdGVkXD4=</entry>
         <entry>bom</entry>
         <entry encoding="base64">XDxiZWFuRGVmaW5pdGlvbk5hbWVzXD4=</entry>
+        <entry>lombok</entry>
         <entry>db</entry>
       </history-search>
       <history-cmd />
