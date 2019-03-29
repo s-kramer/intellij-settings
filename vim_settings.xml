@@ -9,11 +9,11 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553854054666">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="45" />
-        <mark key="." line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1553858599405">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" timestamp="1553854019145">
         <mark key="'" line="16" column="4" />
@@ -28,8 +28,20 @@
         <mark key="[" line="43" column="28" />
         <mark key="]" line="43" column="49" />
       </file>
+      <file name="$USER_HOME$/sd/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountCommandHandler.java" timestamp="1553858584143">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="24" column="110" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" timestamp="1553856824402">
         <mark key="'" line="128" column="0" />
+      </file>
+      <file name="$USER_HOME$/sd/spodddify/src/test/java/org/skramer/spodddify/payment/BillingAccountTest.java" timestamp="1553858573438">
+        <mark key="[" line="20" column="104" />
+        <mark key="]" line="20" column="126" />
+        <mark key="^" line="20" column="126" />
+        <mark key="." line="20" column="126" />
       </file>
       <file name="/dummy.sql" timestamp="1553852089034">
         <mark key="[" line="0" column="0" />
@@ -43,14 +55,23 @@
       <jump line="128" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRCdXMucHVibGlzaCgKICAgICAgICAgICAgICAgICAgICBHZW5lcmljRXZlbnRNZXNzYWdlLmFzRXZlbnRNZXNzYWdlKAo=</text>
+      </register>
       <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5heG9uZnJhbWV3b3JrLm1vZGVsbGluZy5jb21tYW5kLkFnZ3JlZ2F0ZUxpZmVjeWNsZTsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5heG9uZnJhbWV3b3JrLm1vZGVsbGluZy5jb21tYW5kLkFnZ3JlZ2F0ZUxpZmVjeWNsZTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">REVWSU5UMiAtPiBNb2JpbGUgc3luYwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>*</text>
-      </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>AggregateLifecycle.apply</text>
       </register>
       <register name="/" type="4">
         <text>optin</text>
