@@ -62,8 +62,8 @@
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/account/AccountSelectionEdgeCasesTest.java" timestamp="1553870758685">
         <mark key="'" line="205" column="59" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/page/LoginPageController.java" timestamp="1554107330111">
-        <mark key="'" line="72" column="0" />
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/page/LoginPageController.java" timestamp="1554118951130">
+        <mark key="'" line="55" column="67" />
         <mark key="[" line="82" column="21" />
         <mark key="]" line="83" column="58" />
         <mark key="." line="83" column="58" />
@@ -111,6 +111,9 @@
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" timestamp="1553862070349">
         <mark key="'" line="261" column="58" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/domain/OpenIDConnectContext.java" timestamp="1554119113098">
+        <mark key="'" line="16" column="13" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.13.RELEASE/5e55eefa667944084e88a16b71b83f8381afb69c/spring-beans-4.3.13.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java" timestamp="1553868597902">
         <mark key="'" line="886" column="77" />
       </file>
@@ -128,7 +131,7 @@
         <mark key="." line="299" column="15" />
         <mark key="^" line="240" column="52" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/page/LoginPageService.java" timestamp="1554108955459">
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/page/LoginPageService.java" timestamp="1554118959652">
         <mark key="a" line="149" column="57" />
         <mark key="'" line="116" column="18" />
         <mark key="[" line="103" column="64" />
@@ -162,9 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="15" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/hydra-login-app.yml" />
-      <jump line="18" column="0" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/hydra-login-app.yml" />
-      <jump line="15" column="0" filename="/application-test.yml" />
       <jump line="27" column="0" filename="/application-test.yml" />
       <jump line="5" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/resources/application-local-env.yml" />
       <jump line="16" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/resources/application-local-env.yml" />
@@ -262,6 +262,9 @@
       <jump line="3" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.puml" />
       <jump line="37" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.puml" />
       <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.puml" />
+      <jump line="53" column="50" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/page/LoginPageController.java" />
+      <jump line="55" column="67" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/page/LoginPageController.java" />
+      <jump line="16" column="13" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/domain/OpenIDConnectContext.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -271,7 +274,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRDYW5jZWxVcmxcPg==</text>
+        <text encoding="base64">XDxjaGFsbGVuZ2VcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IDogW2lkY2FyZCxwYXNzcG9ydF0=</text>
@@ -305,15 +308,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRDYW5jZWxVcmxcPg==</last-search>
+      <last-search encoding="base64">XDxjaGFsbGVuZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRDYW5jZWxVcmxcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxjaGFsbGVuZ2VcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaGFyZWRCb21VcGRhdGVkXD4=</entry>
         <entry>bom</entry>
         <entry encoding="base64">XDxiZWFuRGVmaW5pdGlvbk5hbWVzXD4=</entry>
         <entry>lombok</entry>
@@ -333,6 +335,7 @@
         <entry encoding="base64">XDxzZXJ2aWNlUHJvdmlkZXJBcGlGYWNhZGVcPg==</entry>
         <entry encoding="base64">XDxnZXRTcENhbmNlbFVybFw+</entry>
         <entry encoding="base64">XDxnZXRDYW5jZWxVcmxcPg==</entry>
+        <entry encoding="base64">XDxjaGFsbGVuZ2VcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
