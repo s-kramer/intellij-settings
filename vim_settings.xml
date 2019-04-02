@@ -176,6 +176,13 @@
         <mark key="'" line="261" column="58" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/mobileconnect/McLoginController.java" timestamp="1553862734147" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" timestamp="1554193193650">
+        <mark key="'" line="59" column="29" />
+        <mark key="[" line="104" column="86" />
+        <mark key="]" line="104" column="91" />
+        <mark key="^" line="104" column="91" />
+        <mark key="." line="104" column="91" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.yml" timestamp="1553863437035">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="16" />
@@ -183,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/resources/application-local-env.yml" />
       <jump line="116" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/LoginService.java" />
       <jump line="155" column="77" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/LoginService.java" />
       <jump line="157" column="24" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/LoginService.java" />
@@ -283,16 +289,17 @@
       <jump line="44" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationResponseFactory.java" />
       <jump line="82" column="45" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
       <jump line="74" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/VerifiedDocumentService.java" />
+      <jump line="59" column="29" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>? 0 : 1</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>? 0 : 1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZWVkVG9BZGREcml2ZXJzTGljZW5zZVw+</text>
+        <text encoding="base64">XDxET0NVTUVOVF9SRVNQT05TRVNcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IDogW2lkY2FyZCxwYXNzcG9ydF0=</text>
@@ -326,15 +333,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZWVkVG9BZGREcml2ZXJzTGljZW5zZVw+</last-search>
+      <last-search encoding="base64">XDxET0NVTUVOVF9SRVNQT05TRVNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZWVkVG9BZGREcml2ZXJzTGljZW5zZVw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxET0NVTUVOVF9SRVNQT05TRVNcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>lombok</entry>
         <entry>db</entry>
         <entry encoding="base64">XDxhY2NlcHRMb2dpblJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxnZXRBY2NvdW50TGlzdFJlZGlyZWN0VXJsXD4=</entry>
@@ -354,6 +360,7 @@
         <entry encoding="base64">XDxjaGFsbGVuZ2VcPg==</entry>
         <entry encoding="base64">XDxnZXRTdGF0dXNlc0Jhc2VkT25TY29wZXNcPg==</entry>
         <entry encoding="base64">XDxuZWVkVG9BZGREcml2ZXJzTGljZW5zZVw+</entry>
+        <entry encoding="base64">XDxET0NVTUVOVF9SRVNQT05TRVNcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
