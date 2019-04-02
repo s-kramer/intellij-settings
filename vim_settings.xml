@@ -129,10 +129,8 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/VerifiedDocumentService.java" timestamp="1554191451327">
         <mark key="'" line="74" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_33.puml" timestamp="1554110648672">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="39" column="7" />
+      <file name="$USER_HOME$/verimi-auth/security-service/build.gradle" timestamp="1554206871735">
+        <mark key="'" line="67" column="8" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/java/com/dipp/hydraloginapp/login/page/LoginPageServiceTest.java" timestamp="1554108497351">
         <mark key="'" line="213" column="0" />
@@ -147,16 +145,17 @@
       <file name="/a.sql" timestamp="1553866819619">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/LoginService.java" timestamp="1554106229184">
-        <mark key="'" line="211" column="18" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="155" column="120" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/NfaConsentController.java" timestamp="1554199054016">
         <mark key="'" line="50" column="32" />
       </file>
       <file name="/dummy.sql" timestamp="1553866722224">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1554206950465">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.9.RELEASE/e8ec0872402f7a3d5c39c92009bd0d5fcb6783f6/spring-boot-autoconfigure-1.5.9.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration.java" timestamp="1553868264296">
         <mark key="'" line="78" column="49" />
@@ -177,6 +176,7 @@
         <mark key="." line="18" column="54" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/mobileconnect/McLoginController.java" timestamp="1553862734147" />
+      <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/nfauthentication/NFAuthenticationService.java" timestamp="1554206653835" />
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" timestamp="1554193193650">
         <mark key="'" line="59" column="29" />
         <mark key="[" line="104" column="86" />
@@ -196,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="15" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NFAStatusController.java" />
       <jump line="239" column="76" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NFAStatusController.java" />
       <jump line="315" column="89" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NFAStatusController.java" />
       <jump line="132" column="5" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/page/LoginPageController.java" />
@@ -296,6 +295,7 @@
       <jump line="34" column="24" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountController.java" />
       <jump line="50" column="32" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/NfaConsentController.java" />
       <jump line="52" column="31" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" />
+      <jump line="67" column="8" filename="$USER_HOME$/verimi-auth/security-service/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -305,7 +305,7 @@
         <text>/FE/Mobile</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxWRVJJTUlfTE9HSU5fSURcPg==</text>
+        <text>swagger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c3RhdGUgIkhhbmRsZSB0ZW1wIHVzZXIgY3JlYXRpb24gYW5kIGxvZ2luIiBhcyBURU1QX1VTRVJfQ1JFQVRJT05fTE9HSU4gOiBGRQo=</text>
@@ -340,15 +340,14 @@ state</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxWRVJJTUlfTE9HSU5fSURcPg==</last-search>
+      <last-search>swagger</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxWRVJJTUlfTE9HSU5fSURcPg==</last-pattern>
+      <last-pattern>swagger</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDYW5jZWxFbmRwb2ludFVybFw+</entry>
         <entry encoding="base64">XDxnZXRDbGllbnRSZWRpcmVjdFVyaUlmU2luZ2xlXD4=</entry>
         <entry encoding="base64">XDxSRURJUkVDVF9VUklfUEFSQU1cPg==</entry>
         <entry>facade</entry>
@@ -368,6 +367,7 @@ state</text>
         <entry encoding="base64">XDxURU1QX1VTRVJcPg==</entry>
         <entry>already</entry>
         <entry encoding="base64">XDxWRVJJTUlfTE9HSU5fSURcPg==</entry>
+        <entry>swagger</entry>
       </history-search>
       <history-cmd />
       <history-expr />
