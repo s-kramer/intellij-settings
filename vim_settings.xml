@@ -191,12 +191,11 @@
       <file name="/fragment.java" timestamp="1554213856099">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" timestamp="1554283936292">
+        <mark key="'" line="66" column="17" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/page/LoginPageController.java" />
-      <jump line="109" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/page/LoginPageController.java" />
-      <jump line="105" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/page/LoginPageController.java" />
-      <jump line="102" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/page/LoginPageController.java" />
       <jump line="96" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/page/LoginPageController.java" />
       <jump line="92" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/page/LoginPageController.java" />
       <jump line="76" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/page/LoginPageController.java" />
@@ -293,6 +292,10 @@
       <jump line="6" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/Jenkinsfile" />
       <jump line="5" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/Jenkinsfile" />
       <jump line="4" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/Jenkinsfile" />
+      <jump line="145" column="32" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
+      <jump line="106" column="75" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
+      <jump line="59" column="9" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
+      <jump line="66" column="17" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -302,7 +305,7 @@
         <text>/FE/Mobile</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxydEdyYWRsZVw+</text>
+        <text>authorization</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c3RhdGUgIkhhbmRsZSB0ZW1wIHVzZXIgY3JlYXRpb24gYW5kIGxvZ2luIiBhcyBURU1QX1VTRVJfQ1JFQVRJT05fTE9HSU4gOiBGRQo=</text>
@@ -337,15 +340,14 @@ state</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxydEdyYWRsZVw+</last-search>
+      <last-search>authorization</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxydEdyYWRsZVw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>authorization</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSRURJUkVDVF9VUklfUEFSQU1cPg==</entry>
         <entry>facade</entry>
         <entry encoding="base64">XDxTZXJ2aWNlUHJvdmlkZXJBcGlGYWNhZGVcPg==</entry>
         <entry encoding="base64">XDxzZXJ2aWNlUHJvdmlkZXJBcGlGYWNhZGVcPg==</entry>
@@ -365,6 +367,7 @@ state</text>
         <entry encoding="base64">XDxWRVJJTUlfTE9HSU5fSURcPg==</entry>
         <entry>swagger</entry>
         <entry encoding="base64">XDxydEdyYWRsZVw+</entry>
+        <entry>authorization</entry>
       </history-search>
       <history-cmd />
       <history-expr />
