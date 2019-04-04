@@ -3,6 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/resources/application-local-env.yml" timestamp="1554360205021">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="21" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" timestamp="1554366151415">
+        <mark key="'" line="14" column="10" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="66" column="22" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/build.gradle" timestamp="1554286596968">
         <mark key="'" line="138" column="26" />
         <mark key="[" line="147" column="0" />
@@ -10,14 +21,11 @@
         <mark key="." line="148" column="8" />
         <mark key="^" line="148" column="8" />
       </file>
-      <file name="/a.dummy" timestamp="1554369619729">
+      <file name="/a.dummy" timestamp="1554373165835">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountController.java" timestamp="1554199034424">
-        <mark key="'" line="34" column="24" />
       </file>
       <file name="$USER_HOME$/sd/spodddify/src/test/java/org/skramer/spodddify/payment/BillingAccountTest.java" timestamp="1553858573438">
         <mark key="[" line="20" column="104" />
@@ -46,17 +54,43 @@
         <mark key="." line="83" column="58" />
         <mark key="^" line="83" column="58" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/configuration/ScopeConstants.java" timestamp="1554359891287">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/nfa/NfaStatusServiceTest.java" timestamp="1554367912436">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="61" />
         <mark key="^" line="50" column="35" />
         <mark key="." line="50" column="35" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/configuration/ScopeConstants.java" timestamp="1554360045801">
-        <mark key="'" line="29" column="19" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/domain/OpenIDConnectContext.java" timestamp="1554372617958">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="17" column="18" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="17" column="18" />
       </file>
-      <file name="/postgres.session.session [postgres@sit-2]" timestamp="1554208574444">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/nfa/NfaSpecFixtures.groovy" timestamp="1554372898447">
+        <mark key="[" line="64" column="48" />
+        <mark key="]" line="64" column="47" />
+        <mark key="^" line="64" column="47" />
+        <mark key="." line="64" column="47" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/VerimiComplexStateService.java" timestamp="1554373120545">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="62" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/VerimiComplexStateService.java" timestamp="1554373124716">
+        <mark key="'" line="13" column="51" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="62" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/ClientCheckService.java" timestamp="1554365010408">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/LoginController.java" timestamp="1554106597065">
         <mark key="'" line="109" column="49" />
@@ -65,11 +99,20 @@
         <mark key="." line="344" column="66" />
         <mark key="^" line="344" column="66" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/client/HydraAdminClient.java" timestamp="1554372518993">
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="15" column="53" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6cfa95cf-bd66-4536-9d63-1c85797ecafa/console_6.sql" timestamp="1553861639019">
         <mark key="[" line="0" column="51" />
         <mark key="]" line="0" column="51" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="51" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/nfa/NfaDiscontinuationController.java" timestamp="1554286285288">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitControllerTest.java" timestamp="1554366869622">
         <mark key="[" line="19" column="0" />
@@ -77,8 +120,14 @@
         <mark key="^" line="103" column="35" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1554366498114">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.hydra.proxy/hydra-proxy-java-server-spring/9-SNAPSHOT/abbbce645c4aa0a323a9f293181e12f20991522/hydra-proxy-java-server-spring-9-SNAPSHOT-sources.jar!/com/dipp/hydra/proxy/api/TokenSignatureControllerApi.java" timestamp="1554275731256">
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="32" column="53" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/account/AccountControllerTest.java" timestamp="1554366672228">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/Cookies.java" timestamp="1554287652835">
         <mark key="[" line="52" column="4" />
@@ -92,11 +141,16 @@
         <mark key="^" line="74" column="19" />
         <mark key="." line="74" column="19" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/LoginService.java" timestamp="1554364317346">
-        <mark key="'" line="92" column="34" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/verimi/EuidService.java" timestamp="1554359178295">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/security-service/build.gradle" timestamp="1554206871735">
-        <mark key="'" line="67" column="8" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/controller/HydraClientSpec.groovy" timestamp="1554371520079">
+        <mark key="'" line="81" column="52" />
+        <mark key="[" line="288" column="8" />
+        <mark key="]" line="288" column="8" />
+        <mark key="." line="288" column="8" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/nfa/NfaService.java" timestamp="1554362152915">
         <mark key="'" line="82" column="15" />
@@ -117,20 +171,17 @@
         <mark key="^" line="87" column="35" />
         <mark key="." line="87" column="35" />
       </file>
-      <file name="/a.sql" timestamp="1553866819619">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/verimi/nfa/TokenServiceTest.java" timestamp="1554367202144">
         <mark key="[" line="21" column="45" />
         <mark key="]" line="21" column="56" />
         <mark key="^" line="21" column="56" />
         <mark key="." line="21" column="56" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/workflow/ScopePassingSpec.groovy" timestamp="1554275205407">
-        <mark key="[" line="57" column="54" />
-        <mark key="]" line="57" column="75" />
-        <mark key="^" line="57" column="54" />
-        <mark key="." line="57" column="54" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/workflow/ScopePassingSpec.groovy" timestamp="1554372456360">
+        <mark key="[" line="188" column="16" />
+        <mark key="]" line="188" column="16" />
+        <mark key="^" line="58" column="54" />
+        <mark key="." line="188" column="16" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/VerimiComplexStateSpec.groovy" timestamp="1554368791165">
         <mark key="[" line="2" column="43" />
@@ -138,12 +189,24 @@
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/LoginSpec.groovy" timestamp="1554372927056">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="220" column="12" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/nfa/NfaDiscontinuationServiceTest.java" timestamp="1554367820681">
         <mark key="'" line="110" column="14" />
         <mark key="[" line="187" column="38" />
         <mark key="]" line="187" column="41" />
         <mark key="." line="187" column="41" />
         <mark key="^" line="187" column="41" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/domain/OAuth2Client.java" timestamp="1554372626406">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="17" column="18" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="17" column="18" />
       </file>
       <file name="$USER_HOME$/sd/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountCommandHandler.java" timestamp="1553858584143">
         <mark key="[" line="7" column="0" />
@@ -185,11 +248,12 @@
         <mark key="^" line="104" column="91" />
         <mark key="." line="104" column="91" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/McLoginSpec.groovy" timestamp="1554369905240">
-        <mark key="[" line="55" column="56" />
-        <mark key="]" line="55" column="67" />
-        <mark key="^" line="55" column="67" />
-        <mark key="." line="55" column="67" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/McLoginSpec.groovy" timestamp="1554371117086">
+        <mark key="'" line="120" column="0" />
+        <mark key="[" line="51" column="36" />
+        <mark key="]" line="51" column="37" />
+        <mark key="^" line="58" column="80" />
+        <mark key="." line="51" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_36.puml" timestamp="1554197423262">
         <mark key="'" line="0" column="0" />
@@ -197,6 +261,30 @@
         <mark key="]" line="32" column="7" />
         <mark key="." line="30" column="16" />
         <mark key="^" line="30" column="16" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/HttpHeadersUtil.java" timestamp="1554365335696">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/nfa/NfaServiceSpec_checkNfaForLoginPage.groovy" timestamp="1554372818740">
+        <mark key="'" line="2" column="58" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" timestamp="1554286607044">
+        <mark key="'" line="133" column="0" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/nfa/NfaSpec.groovy" timestamp="1554372873761">
+        <mark key="'" line="136" column="27" />
+        <mark key="[" line="279" column="56" />
+        <mark key="]" line="279" column="60" />
+        <mark key="." line="279" column="60" />
+        <mark key="^" line="279" column="60" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/account/AccountSelectionEdgeCasesTest.java" timestamp="1554367069165">
         <mark key="'" line="0" column="0" />
@@ -212,17 +300,11 @@
         <mark key="^" line="67" column="35" />
         <mark key="." line="67" column="35" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/Cookies.java" timestamp="1554287457414">
-        <mark key="'" line="42" column="24" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/resources/banner.txt" timestamp="1554359598002">
         <mark key="[" line="5" column="63" />
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
         <mark key="^" line="6" column="5" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/McLoginSpecFixtures.groovy" timestamp="1554369842470">
-        <mark key="'" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/LoginServiceTest.java" timestamp="1554368626413">
         <mark key="'" line="316" column="14" />
@@ -230,6 +312,11 @@
         <mark key="]" line="87" column="28" />
         <mark key="." line="87" column="28" />
         <mark key="^" line="87" column="28" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/service/VerimiComplexStateService.java" timestamp="1554212948991">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/resources/bootstrap.yml" timestamp="1553870880499">
         <mark key="'" line="0" column="0" />
@@ -244,6 +331,13 @@
         <mark key="." line="141" column="66" />
         <mark key="^" line="141" column="66" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/account/AccountSpec.groovy" timestamp="1554371265343">
+        <mark key="'" line="255" column="0" />
+        <mark key="[" line="71" column="67" />
+        <mark key="]" line="71" column="68" />
+        <mark key="^" line="242" column="55" />
+        <mark key="." line="71" column="68" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/verimi/nfa/LoginNFAServicesAdapter.java" timestamp="1554363814338">
         <mark key="'" line="174" column="27" />
         <mark key="[" line="41" column="30" />
@@ -251,8 +345,15 @@
         <mark key="^" line="41" column="29" />
         <mark key="." line="41" column="29" />
       </file>
-      <file name="$USER_HOME$/.sdkman/candidates/java/current/src.zip!/java/lang/String.java" timestamp="1554107519687">
-        <mark key="'" line="110" column="19" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/controller/OpenIdClientSpec.groovy" timestamp="1554372193781">
+        <mark key="[" line="178" column="16" />
+        <mark key="]" line="178" column="16" />
+        <mark key="." line="178" column="16" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/Jenkinsfile" timestamp="1554275586864">
+        <mark key="'" line="4" column="8" />
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="50" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/configuration/LoginApiGatewayConfiguration.java" timestamp="1554364310901">
         <mark key="[" line="28" column="18" />
@@ -267,15 +368,17 @@
         <mark key="." line="141" column="0" />
         <mark key="^" line="122" column="3" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/hydra/client/HydraErrorDecoder.java" timestamp="1554372494057">
+        <mark key="'" line="15" column="54" />
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="15" column="54" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/hydra-login-app.yml" timestamp="1553870023141">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="37" column="21" />
         <mark key="]" line="38" column="1" />
         <mark key="." line="38" column="1" />
         <mark key="^" line="38" column="1" />
-      </file>
-      <file name="/postgres.user_status.userstatus [postgres@mobile]" timestamp="1554209598537">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/verimi/nfa/NFAServicesAdapterSpec.groovy" timestamp="1554366357606">
         <mark key="'" line="27" column="4" />
@@ -284,21 +387,34 @@
         <mark key="^" line="35" column="42" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" timestamp="1554366814459">
-        <mark key="'" line="77" column="9" />
-        <mark key="[" line="77" column="4" />
-        <mark key="]" line="77" column="9" />
-        <mark key="." line="77" column="9" />
-        <mark key="^" line="77" column="9" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/verimi/EuidServiceTest.java" timestamp="1554366747973">
+        <mark key="'" line="65" column="27" />
+        <mark key="[" line="53" column="40" />
+        <mark key="]" line="53" column="54" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/HydraITUtils.groovy" timestamp="1554372435536">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/nfa/NfaDiscontinuationControllerTest.java" timestamp="1554366538575">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="47" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" timestamp="1554372834614">
+        <mark key="'" line="78" column="9" />
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="23" column="86" />
+        <mark key="." line="23" column="86" />
+        <mark key="^" line="23" column="86" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/configuration/BlackListedHeadersConfig.java" timestamp="1554368577748">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="16" column="18" />
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/domain/OpenIDConnectContext.java" timestamp="1554119113098">
-        <mark key="'" line="16" column="13" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NFAStatusController.java" timestamp="1554106764760">
         <mark key="'" line="315" column="89" />
@@ -307,17 +423,11 @@
         <mark key="." line="299" column="15" />
         <mark key="^" line="240" column="52" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/submit/LoginSubmitController.java" timestamp="1554199066510">
-        <mark key="'" line="52" column="31" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/InlineIdentificationService.java" timestamp="1554362193241">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="2" column="26" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/login/service/MobileShortcutService.java" timestamp="1554286238988">
-        <mark key="'" line="245" column="27" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitServiceTest.java" timestamp="1554367923320">
         <mark key="'" line="123" column="8" />
@@ -333,14 +443,23 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/mobileconnect/McLoginService.java" timestamp="1554205212037">
-        <mark key="[" line="3" column="47" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/domain/MobileErrorDetailsTest.java" timestamp="1554367780892">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="14" column="29" />
         <mark key="^" line="14" column="29" />
         <mark key="." line="14" column="29" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/resources/application.yml" timestamp="1554360293783">
+        <mark key="'" line="23" column="31" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/controller/AcceptLoginRequest.groovy" timestamp="1554371449170">
+        <mark key="'" line="10" column="6" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="7" />
       </file>
       <file name="/application-test.yml" timestamp="1553870802160">
         <mark key="'" line="27" column="0" />
@@ -349,11 +468,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/postgres.serviceprovider.identity_provider_blz [postgres@mobile]" timestamp="1553852085704">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/VerifiedDocumentService.java" timestamp="1554191451327">
-        <mark key="'" line="74" column="20" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/nfa/NFAStatusController_reportLog_Spec.groovy" timestamp="1554372673770">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="57" column="37" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/mobileconnect/McLoginServiceTest.java" timestamp="1554367750205">
         <mark key="'" line="86" column="8" />
@@ -369,9 +488,6 @@
         <mark key="." line="312" column="59" />
         <mark key="^" line="311" column="43" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/LoginSpecFixtures.groovy" timestamp="1554368971300">
-        <mark key="'" line="132" column="38" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/resources/application-local-env.yml" timestamp="1554360295712">
         <mark key="'" line="50" column="22" />
         <mark key="[" line="31" column="0" />
@@ -379,23 +495,25 @@
         <mark key="^" line="50" column="22" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/postgres.session.session [postgres@mobile]" timestamp="1553866718178">
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/bootstrap.yml" timestamp="1554366233215">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/NfaConsentController.java" timestamp="1554199054016">
-        <mark key="'" line="50" column="32" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/consent/ConsentPageFactoryTest.java" timestamp="1554372576523">
+        <mark key="[" line="57" column="53" />
+        <mark key="]" line="57" column="52" />
+        <mark key="^" line="57" column="52" />
+        <mark key="." line="57" column="52" />
       </file>
-      <file name="/dummy.sql" timestamp="1554209600998">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/domain/LoginMobileResponse.java" timestamp="1554286119672">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="2" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554368048477">
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="0" column="35" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="35" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/nfa/NfaDiscontinuationService.java" timestamp="1554286255635">
-        <mark key="'" line="29" column="13" />
+      <file name="/Dummy.txt" timestamp="1554372990325">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/service/MobileShortcutServiceTest.java" timestamp="1554368545654">
         <mark key="'" line="32" column="8" />
@@ -403,9 +521,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="36" column="109" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.9.RELEASE/e8ec0872402f7a3d5c39c92009bd0d5fcb6783f6/spring-boot-autoconfigure-1.5.9.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration.java" timestamp="1553868264296">
-        <mark key="'" line="78" column="49" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/domain/VerimiComplexState.java" timestamp="1554369535097">
         <mark key="'" line="13" column="13" />
@@ -421,15 +536,18 @@
         <mark key="^" line="32" column="33" />
         <mark key="." line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" timestamp="1553862070349">
-        <mark key="'" line="261" column="58" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/DippTokenService.java" timestamp="1554284918416">
         <mark key="'" line="69" column="37" />
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="63" />
         <mark key="." line="2" column="63" />
         <mark key="^" line="2" column="63" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/workflow/AgeVerificationWorkflowSpec.groovy" timestamp="1554372133778">
+        <mark key="'" line="4" column="41" />
+        <mark key="[" line="283" column="27" />
+        <mark key="]" line="283" column="43" />
+        <mark key="." line="118" column="16" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/account/AccountService.java" timestamp="1554359964251">
         <mark key="'" line="43" column="18" />
@@ -438,58 +556,8 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1554369581770">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="34" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/MobileShortcutService.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" />
-      <jump line="19" column="32" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="5" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" />
-      <jump line="9" column="1" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="147" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="6" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="55" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" />
-      <jump line="50" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" />
-      <jump line="58" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" />
-      <jump line="54" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" />
-      <jump line="41" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" />
-      <jump line="138" column="5" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="231" column="2" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="215" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="184" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="180" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="173" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="169" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="163" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="160" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="157" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="154" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="151" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="148" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="115" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="68" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="80" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="59" column="2" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" />
-      <jump line="89" column="5" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="93" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="63" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" />
-      <jump line="67" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" />
-      <jump line="14" column="10" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/test/resources/application-test.yml" />
-      <jump line="99" column="4" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="29" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="26" column="4" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/verimi/nfa/NFAServicesAdapterSpec.groovy" />
-      <jump line="2" column="41" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/verimi/nfa/NFAServicesAdapterSpec.groovy" />
-      <jump line="36" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/verimi/nfa/NFAServicesAdapterSpec.groovy" />
-      <jump line="100" column="32" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/verimi/nfa/NFAServicesAdapterSpec.groovy" />
-      <jump line="28" column="4" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/verimi/nfa/NFAServicesAdapterSpec.groovy" />
-      <jump line="4" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/nfa/NfaDiscontinuationControllerTest.java" />
-      <jump line="22" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/verimi/EuidServiceTest.java" />
-      <jump line="65" column="27" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/verimi/EuidServiceTest.java" />
-      <jump line="80" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/mobileconnect/McLoginControllerTest.java" />
       <jump line="54" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/mobileconnect/McLoginControllerTest.java" />
       <jump line="77" column="9" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
       <jump line="11" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/mobileconnect/McLoginControllerTest.java" />
@@ -543,77 +611,127 @@
       <jump line="54" column="57" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/McLoginSpec.groovy" />
       <jump line="109" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/McLoginSpec.groovy" />
       <jump line="26" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/McLoginSpecFixtures.groovy" />
+      <jump line="103" column="31" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/McLoginSpec.groovy" />
+      <jump line="104" column="31" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/McLoginSpec.groovy" />
+      <jump line="67" column="59" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/McLoginSpec.groovy" />
+      <jump line="71" column="226" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/McLoginSpec.groovy" />
+      <jump line="70" column="244" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/McLoginSpec.groovy" />
+      <jump line="120" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/McLoginSpec.groovy" />
+      <jump line="34" column="22" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/account/AccountSpec.groovy" />
+      <jump line="5" column="34" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/account/AccountSpec.groovy" />
+      <jump line="249" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/account/AccountSpec.groovy" />
+      <jump line="223" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/account/AccountSpec.groovy" />
+      <jump line="195" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/account/AccountSpec.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/account/AccountSpec.groovy" />
+      <jump line="75" column="67" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/account/AccountSpec.groovy" />
+      <jump line="71" column="78" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/account/AccountSpec.groovy" />
+      <jump line="67" column="58" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/account/AccountSpec.groovy" />
+      <jump line="232" column="79" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/account/AccountSpec.groovy" />
+      <jump line="255" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/account/AccountSpec.groovy" />
+      <jump line="10" column="6" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/controller/AcceptLoginRequest.groovy" />
+      <jump line="262" column="62" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/controller/HydraClientSpec.groovy" />
+      <jump line="80" column="52" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/controller/HydraClientSpec.groovy" />
+      <jump line="73" column="37" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/controller/HydraClientSpec.groovy" />
+      <jump line="72" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/controller/HydraClientSpec.groovy" />
+      <jump line="263" column="16" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/controller/HydraClientSpec.groovy" />
+      <jump line="261" column="61" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/controller/HydraClientSpec.groovy" />
+      <jump line="79" column="52" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/controller/HydraClientSpec.groovy" />
+      <jump line="44" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/HydraITUtils.groovy" />
+      <jump line="57" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/HydraITUtils.groovy" />
+      <jump line="52" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/HydraITUtils.groovy" />
+      <jump line="45" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/HydraITUtils.groovy" />
+      <jump line="50" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/HydraITUtils.groovy" />
+      <jump line="58" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/HydraITUtils.groovy" />
+      <jump line="43" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/HydraITUtils.groovy" />
+      <jump line="290" column="16" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/workflow/AgeVerificationWorkflowSpec.groovy" />
+      <jump line="283" column="27" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/workflow/AgeVerificationWorkflowSpec.groovy" />
+      <jump line="4" column="41" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/workflow/AgeVerificationWorkflowSpec.groovy" />
+      <jump line="15" column="54" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/hydra/client/HydraErrorDecoder.java" />
+      <jump line="7" column="34" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/nfa/NFAStatusController_reportLog_Spec.groovy" />
+      <jump line="38" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/nfa/NfaServiceSpec_checkNfaForLoginPage.groovy" />
+      <jump line="40" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/nfa/NfaServiceSpec_checkNfaForLoginPage.groovy" />
+      <jump line="2" column="58" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/nfa/NfaServiceSpec_checkNfaForLoginPage.groovy" />
+      <jump line="43" column="22" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/nfa/NfaSpec.groovy" />
+      <jump line="136" column="27" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/nfa/NfaSpec.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/VerimiComplexStateService.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/VerimiComplexStateService.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/VerimiComplexStateService.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/VerimiComplexStateService.java" />
+      <jump line="13" column="51" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/VerimiComplexStateService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getCONSENT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmNvbW1vbnMubGFuZzMuU3RyaW5nVXRpbHMuaXNOb3RFbXB0eTsK</text>
       </register>
       <register name="-" type="4">
-        <text>getCONSENT</text>
+        <text>WIP - merge login app to proxy</text>
       </register>
       <register name="/" type="4">
-        <text>hydraerror</text>
+        <text encoding="base64">XDxpc05vdEVtcHR5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXNzZXJ0ai52YXZyLmFwaS5WYXZyQXNzZXJ0aW9ucy5hc3NlcnRUaGF0Owo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXBhY2hlLmNvbW1vbnMubGFuZzMuU3RyaW5nVXRpbHMuaXNOb3RFbXB0eTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhLnByb3h5LnNlcnZpY2UuSHlkcmFTZXJ2aWNlCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhLmxvZ2luLmh5ZHJhLkh5ZHJhU2VydmljZQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhLmxvZ2luLmh5ZHJhLkh5ZHJhU2VydmljZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFydDsK</text>
+        <text encoding="base64">ICAgIC8qKiB0b2RvOiBzcGxpdCB0aGUgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhLmNvbnNlbnQudmVyaW1pLm5mYS5ORkFTZXJ2aWNlc0FkYXB0ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhLmxvZ2luLmh5ZHJhLkxvZ2luSHlkcmFTZXJ2aWNlOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhLmxvZ2luLi52ZXJpbWkubmZhLk5GQVNlcnZpY2VzQWRhcHRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hc3NlcnRqLmNvcmUuYXBpLkphdmE2QXNzZXJ0aW9uczsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhLmxvZ2luLnZlcmltaS5uZmEuTkZBU2VydmljZXNBZGFwdGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hc3NlcnRqLmNvcmUuYXBpLkphdmE2QXNzZXJ0aW9uczsKaW1wb3J0IG9yZy5hc3NlcnRqLnZhdnIuYXBpLlZhdnJBc3NlcnRpb25zOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhLmxvZ2luLmxvZ2luLnNlcnZpY2UuSW5saW5lSWRlbnRpZmljYXRpb25TZXJ2aWNlCg==</text>
+      </register>
+      <register name="w" type="4">
+        <text>xxx~</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXNzZXJ0ai5jb3JlLmFwaS5KYXZhNkFzc2VydGlvbnMuYXNzZXJ0VGhhdDsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhLmxvZ2luLmNvbmZpZ3VyYXRpb24uQXBpR2F0ZXdheUNvbmZpZ3VyYXRpb24KaW1wb3J0IGNvbS5kaXBwLmh5ZHJhLmxvZ2luLmxvZ2luLmNvbmZpZ3VyYXRpb24uU2NvcGVDb25zdGFudHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhLnByb3h5LnNlcnZpY2UuSHlkcmFTZXJ2aWNlOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhLmxvZ2luLmh5ZHJhLkh5ZHJhU2VydmljZQo=</text>
       </register>
     </registers>
     <search>
-      <last-search>hydraerror</last-search>
+      <last-search encoding="base64">XDxpc05vdEVtcHR5XD4=</last-search>
       <last-offset />
-      <last-pattern>hydraerror</last-pattern>
+      <last-pattern encoding="base64">XDxpc05vdEVtcHR5XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZ2VWZXJpZmljYXRpb25cPg==</entry>
-        <entry encoding="base64">XDxtb2JpbGVDb25uZWN0XD4=</entry>
-        <entry encoding="base64">XDxoeWRyYVw+</entry>
-        <entry encoding="base64">XDxTZXJ2aWNlUHJvdmlkZXJBcGlGYWNhZGVcPg==</entry>
-        <entry encoding="base64">XDxORkFTZXJ2aWNlc0FkYXB0ZXJcPg==</entry>
-        <entry encoding="base64">XDxMb2dpbk5GQVNlcnZpY2VzQWRhcHRlclw+</entry>
-        <entry encoding="base64">XDxsb2dpbk5mYVNlcnZpY2VzQWRhcHRlclw+</entry>
-        <entry encoding="base64">XDxFdWlkU2VydmljZVw+</entry>
-        <entry encoding="base64">XDxldWlkU2VydmljZVw+</entry>
-        <entry encoding="base64">XDxJbmxpbmVJZGVudGlmaWNhdGlvblNlcnZpY2VcPg==</entry>
-        <entry encoding="base64">XDxIeWRyYVNlcnZpY2VcPg==</entry>
         <entry>assertThat</entry>
         <entry encoding="base64">XDxzdWJqZWN0XD4=</entry>
         <entry encoding="base64">XDxhc3NlcnRUaGF0XD4=</entry>
         <entry>loginh</entry>
-        <entry encoding="base64">XDxoeWRyYVNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxMb2dpblJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxsb2dpbkh5ZHJhU2VydmljZVw+</entry>
         <entry encoding="base64">XDxNY0xvZ2luU3BlY0ZpeHR1cmVzXD4=</entry>
         <entry>hydraerror</entry>
+        <entry encoding="base64">XDxsb2NhdGlvblN1ZmZpeFw+</entry>
+        <entry encoding="base64">XDxoeWRyYVNlcnZpY2VcPg==</entry>
+        <entry encoding="base64">XDxDbGllbnRDaGVja1NlcnZpY2VcPg==</entry>
+        <entry encoding="base64">XDxjbGllbnRDaGVja1NlcnZpY2VcPg==</entry>
+        <entry encoding="base64">XDxBY2NvdW50U3BlY0ZpeHR1cmVzXD4=</entry>
+        <entry encoding="base64">XDxhY2NlcHRMb2dpblJlcXVlc3RcPg==</entry>
+        <entry encoding="base64">XDxBY2NlcHRMb2dpblJlcXVlc3RcPg==</entry>
+        <entry encoding="base64">XDxDb21wbGV0ZWRSZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxIeWRyYVNlcnZpY2VcPg==</entry>
+        <entry encoding="base64">XDxORkFTZXJ2aWNlc0FkYXB0ZXJcPg==</entry>
+        <entry encoding="base64">XDxJbmxpbmVJZGVudGlmaWNhdGlvblNlcnZpY2VcPg==</entry>
+        <entry encoding="base64">XDxpc05vdEVtcHR5XD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -679,6 +797,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
