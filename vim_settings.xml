@@ -3,16 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6cfa95cf-bd66-4536-9d63-1c85797ecafa/console_6.sql" timestamp="1553861639019">
-        <mark key="[" line="0" column="51" />
-        <mark key="]" line="0" column="51" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="51" />
-      </file>
       <file name="/Dummy.txt" timestamp="1553858599405">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" timestamp="1554410046872">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="40" column="1" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" timestamp="1553854019145">
@@ -21,7 +20,6 @@
         <mark key="]" line="43" column="50" />
         <mark key="." line="43" column="28" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/service-registry/src/main/java/com/core/dipp/serviceregistry/Application.java" timestamp="1553862258331" />
       <file name="/postgres.serviceprovider.identity_provider_blz [postgres@mobile]" timestamp="1553852085704">
         <mark key="[" line="0" column="0" />
       </file>
@@ -38,11 +36,28 @@
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" timestamp="1553862070349">
         <mark key="'" line="261" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/settings.gradle" timestamp="1554409978660">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/sd/spodddify/src/test/java/org/skramer/spodddify/payment/BillingAccountTest.java" timestamp="1553858573438">
         <mark key="[" line="20" column="104" />
         <mark key="]" line="20" column="126" />
         <mark key="^" line="20" column="126" />
         <mark key="." line="20" column="126" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6cfa95cf-bd66-4536-9d63-1c85797ecafa/console_6.sql" timestamp="1553861639019">
+        <mark key="[" line="0" column="51" />
+        <mark key="]" line="0" column="51" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/build.gradle" timestamp="1554410117287">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1553852089034">
         <mark key="[" line="0" column="0" />
@@ -55,28 +70,53 @@
       <jump line="0" column="0" filename="$USER_HOME$/sd/spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountCommandHandler.java" />
       <jump line="128" column="0" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" />
       <jump line="261" column="58" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/account/AccountService.java" />
+      <jump line="0" column="22" filename="$USER_HOME$/Projects/Java/spodddify/settings.gradle" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/spodddify/build.gradle" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c291cmNlQ29tcGF0aWJpbGl0eSA9ICcxLjgnCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxnZXRBY2NvdW50c0ZvclVpZEFuZExvZ2luUmVxdWVzdFw+</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXZlbnRCdXMucHVibGlzaCgKICAgICAgICAgICAgICAgICAgICBHZW5lcmljRXZlbnRNZXNzYWdlLmFzRXZlbnRNZXNzYWdlKAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5heG9uZnJhbWV3b3JrLm1vZGVsbGluZy5jb21tYW5kLkFnZ3JlZ2F0ZUxpZmVjeWNsZTsK</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>testmail-a913fe7f2892449bb396646ec8a84519@dipp.com</text>
+        <text encoding="base64">c291cmNlQ29tcGF0aWJpbGl0eSA9ICcxLjgnCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">REVWSU5UMiAtPiBNb2JpbGUgc3luYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="-" type="4">
-        <text>testmail-a913fe7f2892449bb396646ec8a84519@dipp.com</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxnZXRBY2NvdW50c0ZvclVpZEFuZExvZ2luUmVxdWVzdFw+</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIEF4b24KICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuYXhvbmZyYW1ld29yaycsIG5hbWU6ICdheG9uLXNwcmluZycsIHZlcnNpb246ICc0LjAuMycKICAgIHRlc3RDb21waWxlIGdyb3VwOiAnb3JnLmF4b25mcmFtZXdvcmsnLCBuYW1lOiAnYXhvbi10ZXN0JywgdmVyc2lvbjogJzQuMC4zJwogICAgY29tcGlsZSBncm91cDogJ29yZy5heG9uZnJhbWV3b3JrJywgbmFtZTogJ2F4b24tZXZlbnRzb3VyY2luZycsIHZlcnNpb246ICc0LjAuMycKICAgIAogICAgLy8gc2VsZgogICAgY29tcGlsZSBwcm9qZWN0KCc6c3BvZGRkaWZ5LWFwaScpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1hY3R1YXRvcicKICAgIGltcGxlbWVudGF0aW9uICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1hb3AnCiAgICBpbXBsZW1lbnRhdGlvbiAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItdmFsaWRhdGlvbicKICAgIHJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3QtZGV2dG9vbHMnCiAgICBjb21waWxlT25seSAnb3JnLnByb2plY3Rsb21ib2s6bG9tYm9rJwogICAgdGVzdEltcGxlbWVudGF0aW9uICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci10ZXN0Jwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuQ2VudHJhbCgpCn0KCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">YXBwbHkgcGwKdWdpbjogJ2phdmEnCg==</text>
       </register>
     </registers>
     <search>
