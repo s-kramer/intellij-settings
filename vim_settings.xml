@@ -319,13 +319,6 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" timestamp="1554457022142">
-        <mark key="'" line="88" column="45" />
-        <mark key="[" line="22" column="6" />
-        <mark key="]" line="23" column="86" />
-        <mark key="." line="23" column="86" />
-        <mark key="^" line="23" column="86" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_27.txt" timestamp="1554468732055">
         <mark key="'" line="0" column="0" />
       </file>
@@ -388,7 +381,7 @@
       <file name="/dummy.sql" timestamp="1554469171005">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554460385748">
+      <file name="/Dummy.txt" timestamp="1554473666246">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="20" />
@@ -556,10 +549,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>devint2</text>
+        <text>WIP</text>
       </register>
       <register name="-" type="4">
-        <text>devint2</text>
+        <text>WIP</text>
       </register>
       <register name="/" type="4">
         <text>login-app</text>
@@ -567,35 +560,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIENMSUVOVF9JRCA9ICJjbGllbnRJZCIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBfICogaW5saW5lSWRlbnRpZmljYXRpb25TZXJ2aWNlLmlzSW5saW5lSWRlbnRpZmljYXRpb2BuRmxvdygpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CkRFVi0yMDA2OSBXSVAgLSBhZGRlZCBoeWRyYS1sb2dpbi1hcHAgdGVzdHMKCgpERVYtMjAwNjkgV0lQIC0gbWFkZSBhcHAgc3RhcnQgbG9jYWxseQoKCkRFVi0yMDA2OSBXSVAgLSBwYXJ0aWFsIHRlc3QgZml4CgoKREVWLTIwMDY5IFdJUCAtIGphdmEgdGVzdCBmaXhlcwoKCkRFVi0yMDA2OQpmaXhlZCBhbGwgamF2YSB0ZXN0cwoKCkRFVi0yMDA2OSBhZGRlZCByZW1hcmsKCgpERVYtMjAwNjkgZml4ZWQgYWxsIHRlc3RzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFNjb3BlQ29uc3RhbnRzIFNDT1BFX0NPTlNUQU5UUyA9IFNjb3BlQ29uc3RhbnRzLmJ1aWxkZXIoKS5pbmxpbmVJZGVudGlmaWNhdGlvblNjb3BlcyhbSURfQ0FSRF9TQ09QRSwgUEFTU1BPUlRfU0NPUEVdKS5yZWFkQmFza2V0U2NvcGUoUkVBRF9CQVNLRVRfU0NPUEUpLmJ1aWxkKCkK</text>
+        <text encoding="base64">ICAgICAgICBfICogaW5saW5lSWRlbnRpZmljYXRpb25TZXJ2aWNlLmlzSW5saW5lSWRlbnRpZmljYXRpb2BuRmxvdygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhLnByb3h5LmNvbmZpZ3VyYXRpb24uUG9ydGFsQ2xpZW50Q29uZmlnCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFNjb3BlQ29uc3RhbnRzIFNDT1BFX0NPTlNUQU5UUyA9IFNjb3BlQ29uc3RhbnRzLmJ1aWxkZXIoKS5pbmxpbmVJZGVudGlmaWNhdGlvblNjb3BlcyhbSURfQ0FSRF9TQ09QRSwgUEFTU1BPUlRfU0NPUEVdKS5yZWFkQmFza2V0U2NvcGUoUkVBRF9CQVNLRVRfU0NPUEUpLmJ1aWxkKCkK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhLnByb3h5LmNvbmZpZ3VyYXRpb24uUG9ydGFsQ2xpZW50Q29uZmlnCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgUG9ydGFsQ2xpZW50Q29uZmlnIHBvcnRhbENsaWVudENvbmZpZyA9IE1vY2soUG9ydGFsQ2xpZW50Q29uZmlnKQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>new InlineIdentificationService(Mock(VerifiedDocumentService), SCOPE_CONSTANTS, Mock(NFAServicesAdapter), portalClientConfig, Mock(InlineIdentificationResponseFactory))</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>Mock(PortalClientConfig)</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhLmxvZ2luLmh5ZHJhLkh5ZHJhU2VydmljZQo=</text>
       </register>
       <register name="w" type="4">
         <text>xxx~</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QElnbm9yZUlmKHsgIUJvb2xlYW5VdGlscy5pc1RydWUoQm9vbGVhbi52YWx1ZU9mKGVudlsnSFlEUkFfUlVOX0xPTkdfUlVOTklORyddKSkgfSkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhLmxvZ2luLmh5ZHJhLkh5ZHJhU2VydmljZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhLmxvZ2luLmxvZ2luLnNlcnZpY2UuVmVyaW1pQ29tcGxleFN0YXRlU2VydmljZQo=</text>
+        <text encoding="base64">QElnbm9yZUlmKHsgIUJvb2xlYW5VdGlscy5pc1RydWUoQm9vbGVhbi52YWx1ZU9mKGVudlsnSFlEUkFfUlVOX0xPTkdfUlVOTklORyddKSkgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
