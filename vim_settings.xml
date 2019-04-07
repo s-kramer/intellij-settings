@@ -683,12 +683,12 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/domain/NfaDiscontinuationResponse.java" timestamp="1554640780607">
         <mark key="[" line="8" column="41" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaCancellationContext.java" timestamp="1554653365651">
-        <mark key="'" line="37" column="4" />
-        <mark key="[" line="22" column="88" />
-        <mark key="]" line="22" column="101" />
-        <mark key="." line="22" column="101" />
-        <mark key="^" line="22" column="101" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaCancellationContext.java" timestamp="1554657996171">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="46" column="15" />
+        <mark key="]" line="46" column="58" />
+        <mark key="." line="46" column="58" />
+        <mark key="^" line="46" column="58" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/nfa/NfaStatusService.java" timestamp="1554550086755">
         <mark key="[" line="152" column="75" />
@@ -738,10 +738,10 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="2" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554644278914">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1554658128125">
+        <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="75" />
+        <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/service/MobileShortcutServiceTest.java" timestamp="1554368545654">
@@ -933,11 +933,11 @@
       <jump line="107" column="19" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaDiscontinuationService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Nfa cancellation alignment - first stage</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>Nfa cancellation alignment - first stage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW5jZWxOZmFPbkh5ZHJhXD4=</text>
