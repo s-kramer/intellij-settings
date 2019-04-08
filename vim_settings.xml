@@ -64,7 +64,7 @@
         <mark key="^" line="52" column="72" />
         <mark key="." line="164" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_37.puml" timestamp="1554723438274">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_37.puml" timestamp="1554724307424">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="7" />
@@ -313,6 +313,13 @@
         <mark key="^" line="112" column="62" />
         <mark key="." line="112" column="62" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.puml" timestamp="1554725518752">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="37" column="7" />
+        <mark key="." line="23" column="25" />
+        <mark key="^" line="23" column="25" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/TestUtils.java" timestamp="1554639483988">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="9" />
@@ -516,6 +523,11 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" timestamp="1554724827451">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="40" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitServiceTest.java" timestamp="1554367923320">
         <mark key="'" line="123" column="8" />
         <mark key="[" line="288" column="67" />
@@ -554,6 +566,13 @@
         <mark key="]" line="127" column="39" />
         <mark key="." line="127" column="39" />
         <mark key="^" line="127" column="39" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_38.puml" timestamp="1554725757872">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="61" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaConsentController.java" timestamp="1554586459829">
         <mark key="'" line="114" column="85" />
@@ -728,25 +747,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="85" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaConsentController.java" />
-      <jump line="82" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/hydra/LoginHydraService.java" />
-      <jump line="8" column="39" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaCancelationCapableService.java" />
-      <jump line="55" column="28" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaDiscontinuationService.java" />
-      <jump line="70" column="44" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaDiscontinuationController.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaDiscontinuationController.java" />
-      <jump line="44" column="18" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaDiscontinuationController.java" />
-      <jump line="7" column="42" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaDiscontinuationController.java" />
-      <jump line="45" column="45" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaDiscontinuationController.java" />
-      <jump line="53" column="113" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaDiscontinuationService.java" />
-      <jump line="35" column="13" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/nfa/NfaDiscontinuationServiceTest.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/nfa/NfaDiscontinuationServiceTest.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/nfa/NfaDiscontinuationServiceTest.java" />
-      <jump line="57" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/nfa/NfaDiscontinuationServiceTest.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/nfa/NfaDiscontinuationServiceTest.java" />
-      <jump line="152" column="43" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/nfa/NfaDiscontinuationControllerTest.java" />
-      <jump line="87" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/nfa/NfaDiscontinuationControllerTest.java" />
-      <jump line="14" column="42" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/nfa/NfaDiscontinuationControllerTest.java" />
-      <jump line="120" column="78" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/nfa/NfaDiscontinuationServiceTest.java" />
       <jump line="53" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/nfa/NfaDiscontinuationServiceTest.java" />
       <jump line="16" column="42" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/nfa/NfaDiscontinuationServiceTest.java" />
       <jump line="86" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/nfa/NfaDiscontinuationControllerTest.java" />
@@ -827,53 +827,72 @@
       <jump line="30" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_37.puml" />
       <jump line="15" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_37.puml" />
       <jump line="4" column="50" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_37.puml" />
+      <jump line="29" column="53" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_37.puml" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_37.puml" />
+      <jump line="24" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_38.puml" />
+      <jump line="0" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_38.puml" />
+      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.puml" />
+      <jump line="4" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.puml" />
+      <jump line="5" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.puml" />
+      <jump line="7" column="38" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.puml" />
+      <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.puml" />
+      <jump line="22" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.puml" />
+      <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.puml" />
+      <jump line="17" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.puml" />
+      <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.puml" />
+      <jump line="29" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.puml" />
+      <jump line="14" column="38" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.puml" />
+      <jump line="15" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.puml" />
+      <jump line="23" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.puml" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.puml" />
+      <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_38.puml" />
+      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_38.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QHN0YXJ0dW1sCmhpZGUgZW1wdHkgZGVzY3JpcHRpb24KCnN0YXRlICJDbGljayBWZXJpZnkgd2l0aCBWZXJpbWkgb24gU1Agd2ViIHBhZ2UiIGFzIFZFUklGWV9XSVRIX1ZFUklNSQpzdGF0ZSAiT3BlbiBWZXJpbWkgbG9naW4gcGFnZSIgYXMgVkVSSU1JX0xPR0lOX1BBR0UKc3RhdGUgIklPIFNlbGVjdHMgZ3Vlc3QgaWRlbnRpZmljYXRpb24iIGFzIEdVRVNUX0lERU5USUZJQ0FUSU9OCnN0YXRlICJJTyBzZWxlY3RzIG1vYmlsZSB2ZXJpZmljYWl0b24gbWV0aG9kOlxuZUlEIGFuZC9vciBJRE5vdyIgYXMgTU9CSUxFX1ZFUklGSUNBVElPTl9NRVRIT0QKc3RhdGUgIkZFIHByZXNlbnRzIG92ZXJsYXkgd2l0aCB0cmFuc2FjdGlvbiBudW1iZXIiIGFzIEZFX09WRVJMQVkKc3RhdGUgIkZFIHBvb2xzIGZvciBkb2N1bWVudCBhZGRlZCIgYXMgRkVfUE9PTFMKCnN0YXRlICJNb2JpbGUiIGFzIE1PQklMRSB7CnN0YXRlICJJTyBvcGVucyBtb2JpbGUgQVBQIiBhcyBNT0JJTEVfQVBQX09QRU4Kc3RhdGUgIklPIHByb3ZpZGVzIHRoZSB0cmFuc2FjdGlvbiBudW1iZXIgdG8gbW9iaWxlIGFwcCIgYXMgSU9fUFJPVklERVNfVFJBTlNBQ1RJT05fTlVNQkVSCnN0YXRlICJNb2JpbGUgYWRkcyBkb2N1bWVudHMgc3BlY2lmaWVkXG5ieSB0cmFuc2FjdGlvbiBudW1iZXIiIGFzIE1PQklMRV9WRVJJRklDQVRJT04Kc3RhdGUgIk1vYmlsZSB2ZXJpZmllZCBkb2N1bWVudCB3YXMgYWRkZWQiIGFzIE1PQklMRV9ET0NVTUVOVF9BRERFRF9DSEVDSwpzdGF0ZSAiTW9iaWxlIHJldHVybnMgdG8gTG9naW4gc2NyZWVuIiBhcyBNT0JJTEVfTE9HSU5fU0NSRUVOCk1PQklMRV9MT0dJTl9TQ1JFRU4gLS0+IFsqXQoKfQpzdGF0ZSAiRkUgcmVjZWl2ZXMgZG9jdW1lbnQgYWRkZWQgY29uZmlybWF0aW9uIiBhcyBET0NVTUVOVF9BRERFRApzdGF0ZSAiRkUgY29udGludWVzIHRoZSBJbmxpbmUtcmVnaXN0cmF0aW9uIiBhcyBGRV9DT05USU5VRVMKClZFUklGWV9XSVRIX1ZFUklNSSAtLT4gVkVSSU1JX0xPR0lOX1BBR0UKVkVSSU1JX0xPR0lOX1BBR0UgLS0+IEdVRVNUX0lERU5USUZJQ0FUSU9OCkdVRVNUX0lERU5USUZJQ0FUSU9OIC0tPiBNT0JJTEVfVkVSSUZJQ0FUSU9OX01FVEhPRApNT0JJTEVfVkVSSUZJQ0FUSU9OX01FVEhPRCAtLT4gRkVfT1ZFUkxBWQpGRV9PVkVSTEFZIC0tPiBGRV9QT09MUwpGRV9QT09MUyAtLT4gTU9CSUxFCk1PQklMRV9BUFBfT1BFTiAtLT4gSU9fUFJPVklERVNfVFJBTlNBQ1RJT05fTlVNQkVSCklPX1BST1ZJREVTX1RSQU5TQUNUSU9OX05VTUJFUiAtLT4gTU9CSUxFX1ZFUklGSUNBVElPTgpNT0JJTEVfVkVSSUZJQ0FUSU9OIC0tPiBNT0JJTEVfRE9DVU1FTlRfQURERURfQ0hFQ0sKTU9CSUxFX0RPQ1VNRU5UX0FEREVEX0NIRUNLIC0tPiBNT0JJTEVfTE9HSU5fU0NSRUVOCk1PQklMRSAtLT4gRE9DVU1FTlRfQURERUQKRkVfUE9PTFMgLS0+IERPQ1VNRU5UX0FEREVECkRPQ1VNRU5UX0FEREVEIC0tPiBGRV9DT05USU5VRVMKCkBlbmR1bWwK</text>
+        <text encoding="base64">bm90ZSByaWdodCBvZiBSRUFEWTogbmV3IHN0YXRlIGludHJvZHVjZWQgdG8gZmluaXNoXG50aGUgZmxvdwo=</text>
       </register>
       <register name="-" type="4">
-        <text>MOBILE_APP_OPEN</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNT0JJTEVfTE9HSU5fU0NSRUVOXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnaXZlbihsb2dpbkh5ZHJhU2VydmljZS5nZXRMb2dpblJlcXVlc3QoQ0hBTExFTkdFKSkud2lsbFJldHVybihFaXRoZXIucmlnaHQoTE9HSU5fUkVRVUVTVCkpOwo=</text>
+        <text encoding="base64">cGFydGljaXBhbnQgTW9iaWxlIGFzIE1BICM5OUZGOTkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TU9CSUxFX0xPR0lOX1NDUkVFTiAtLT4gWypdCg==</text>
+        <text encoding="base64">RkUgLT4gRFMgOiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RhdGUgIkZFIHBvb2xzIGZvciBkb2N1bWVudCBhZGRlZCIgYXMgRkVfUE9PTFMK</text>
+        <text encoding="base64">Li4uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RhdGUgIkZFIHBvb2xzIGZvciBkb2N1bWVudCBhZGRlZCIgYXMgRkVfUE9PTFMK</text>
+        <text encoding="base64">ClVBIC0+IEZFIDogCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RkVfUE9PTFMgLS0+IE1PQklMRQo=</text>
+        <text encoding="base64">cGFydGljaXBhbnQgSWRlbnRpdHlPd25lclNlcnZpY2UgYXMgSU8gIzMzRkZCQgpwYXJ0aWNpcGFudCBTZWN1cml0eVNlcnZpY2UgYXMgU1MgI0M5RUE5OQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3RhdGUgIk1vYmlsZSByZXR1cm5zIHRvIExvZ2luIHNjcmVlbiIgYXMgTU9CSUxFX0xPR0lOX1NDUkVFTgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TU9CSUxFX1ZFUklGSUNBVElPTgo=</text>
+        <text encoding="base64">cGFydGljaXBhbnQgSHlkcmEgYXMgSCAjQUEwNEQ0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYW5jZWxSZXNwb25zZS5zZXRMb2dpblJlcXVlc3QobG9naW5SZXF1ZXN0LmdldCgpKQo=</text>
+        <text encoding="base64">cGFydGljaXBhbnQgT1RQU2VydmljZSBhcyBPVFAgI0M5RUE5OQo=</text>
       </register>
       <register name="w" type="4">
         <text>xxx~</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC51aWQoVUlEX1ZBTFVFKTsK</text>
+        <text encoding="base64">WypdIC0tPiBQUlEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dpbklkUmVzcG9uc2UgbG9naW5JZFJlc3BvbnNlID0gbmV3IExvZ2luSWRSZXNwb25zZSgpCg==</text>
+        <text encoding="base64">Q1AgLS0+IE1BCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyAvXy9n</text>
+        <text>-11t-1</text>
       </register>
     </registers>
     <search>
@@ -915,6 +934,7 @@
         <entry encoding="base64">JzwsJz5zL30vIi8=</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC8=</entry>
         <entry encoding="base64">JzwsJz5zLyAvXy9n</entry>
+        <entry>-11t-1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
