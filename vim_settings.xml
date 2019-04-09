@@ -23,11 +23,11 @@
         <mark key="^" line="75" column="63" />
         <mark key="." line="75" column="63" />
       </file>
-      <file name="/a.dummy" timestamp="1554803967874">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="10" />
+      <file name="/a.dummy" timestamp="1554805884576">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-login-app/build.gradle" timestamp="1554286596968">
         <mark key="'" line="138" column="26" />
@@ -161,6 +161,9 @@
         <mark key="]" line="104" column="47" />
         <mark key="." line="104" column="47" />
         <mark key="^" line="104" column="47" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaStatusController.java" timestamp="1554806328726">
+        <mark key="." line="82" column="116" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaDiscontinuationController.java" timestamp="1554653292728">
         <mark key="'" line="51" column="30" />
@@ -326,6 +329,13 @@
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusService.java" timestamp="1554806107072">
+        <mark key="'" line="152" column="30" />
+        <mark key="[" line="153" column="75" />
+        <mark key="]" line="153" column="77" />
+        <mark key="^" line="153" column="77" />
+        <mark key="." line="153" column="77" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/nfa/NfaDiscontinuationServiceTest.java" timestamp="1554717166423">
         <mark key="'" line="123" column="0" />
@@ -752,8 +762,8 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaStatusService.java" timestamp="1554805338644">
-        <mark key="'" line="48" column="0" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaStatusService.java" timestamp="1554805770889">
+        <mark key="'" line="173" column="91" />
         <mark key="[" line="158" column="87" />
         <mark key="]" line="158" column="87" />
         <mark key="^" line="158" column="87" />
@@ -786,8 +796,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaCancellationContext.java" />
-      <jump line="23" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaCancellationContext.java" />
       <jump line="28" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaCancellationContext.java" />
       <jump line="34" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaCancellationContext.java" />
       <jump line="21" column="25" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaCancellationContext.java" />
@@ -886,13 +894,15 @@
       <jump line="41" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaStatusService.java" />
       <jump line="48" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaStatusService.java" />
       <jump line="48" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/ConsentNfaService.java" />
+      <jump line="173" column="91" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaStatusService.java" />
+      <jump line="152" column="30" filename="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/nfa/NfaStatusService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>removed redundant class</text>
+        <text>Controller</text>
       </register>
       <register name="-" type="4">
-        <text>removed redundant class</text>
+        <text>Controller</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcGlHYXRld2F5Q29uZmlndXJhdGlvblw+</text>
