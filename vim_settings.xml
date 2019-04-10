@@ -665,6 +665,9 @@
       <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/helpers/HydraPostAuthenticationFilterHelper.java" timestamp="1554876196408">
         <mark key="'" line="73" column="66" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/nfa/cancel/ConsentNfaDiscontinuationControllerTest.java" timestamp="1554881588613">
+        <mark key="'" line="158" column="48" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaDiscontinuationController.java" timestamp="1554653292728">
         <mark key="'" line="51" column="30" />
         <mark key="[" line="84" column="39" />
@@ -1058,7 +1061,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaServicesAdapter.java" />
       <jump line="72" column="3" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/NfaStatusServicesAdapter.java" />
       <jump line="82" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/NfaStatusServicesAdapter.java" />
       <jump line="13" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaServicesAdapter.java" />
@@ -1158,6 +1160,7 @@
       <jump line="115" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/NfaDiscontinuationController.java" />
       <jump line="34" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/NfaDiscontinuationController.java" />
       <jump line="44" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/NfaDiscontinuationController.java" />
+      <jump line="158" column="48" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/nfa/cancel/ConsentNfaDiscontinuationControllerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
