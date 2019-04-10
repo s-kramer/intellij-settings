@@ -177,10 +177,11 @@
         <mark key="^" line="197" column="61" />
         <mark key="." line="197" column="61" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NfaStatusServicesAdapterSpec.groovy" timestamp="1554823825600">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NfaStatusServicesAdapterSpec.groovy" timestamp="1554876637178">
+        <mark key="[" line="39" column="32" />
+        <mark key="]" line="39" column="33" />
+        <mark key="." line="39" column="32" />
+        <mark key="^" line="39" column="57" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaExecutionContext.java" timestamp="1554823095668">
         <mark key="[" line="5" column="0" />
@@ -206,6 +207,9 @@
         <mark key="]" line="13" column="9" />
         <mark key="." line="13" column="9" />
         <mark key="^" line="13" column="9" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/account/SpAccountsService.java" timestamp="1554815029015">
+        <mark key="'" line="24" column="52" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/nfa/status/NFAStatusController_reportLog_Spec.groovy" timestamp="1554820255240">
         <mark key="'" line="69" column="8" />
@@ -308,6 +312,9 @@
         <mark key="." line="67" column="79" />
         <mark key="^" line="67" column="79" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" timestamp="1554811829596">
+        <mark key="'" line="36" column="16" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/domain/NfaGrantedResponse.java" timestamp="1554813196419">
         <mark key="[" line="12" column="33" />
         <mark key="]" line="13" column="73" />
@@ -344,6 +351,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="53" column="56" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/PostAuthenticationFilter.java" timestamp="1554876141538">
+        <mark key="'" line="29" column="31" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitServiceTest.java" timestamp="1554367923320">
         <mark key="'" line="123" column="8" />
@@ -614,6 +624,9 @@
         <mark key="." line="64" column="21" />
         <mark key="^" line="63" column="105" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/helpers/HydraPostAuthenticationFilterHelper.java" timestamp="1554876196408">
+        <mark key="'" line="73" column="66" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaDiscontinuationController.java" timestamp="1554653292728">
         <mark key="'" line="51" column="30" />
         <mark key="[" line="84" column="39" />
@@ -781,6 +794,9 @@
         <mark key="]" line="28" column="21" />
         <mark key="." line="28" column="21" />
         <mark key="^" line="28" column="21" />
+      </file>
+      <file name="/NfaDiscontinuationService.java" timestamp="1554794634711">
+        <mark key="'" line="105" column="19" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaDiscontinuationService.java" timestamp="1554799012029">
         <mark key="'" line="33" column="12" />
@@ -982,10 +998,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="42" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaDiscontinuationController.java" />
-      <jump line="126" column="42" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaDiscontinuationController.java" />
-      <jump line="53" column="33" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaDiscontinuationController.java" />
-      <jump line="127" column="42" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaDiscontinuationController.java" />
       <jump line="92" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaConsentController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaConsentController.java" />
       <jump line="36" column="16" filename="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" />
@@ -1082,16 +1094,20 @@
       <jump line="55" column="32" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NfaServicesAdapterSpec.groovy" />
       <jump line="40" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NfaServicesAdapterSpec.groovy" />
       <jump line="32" column="29" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NfaServicesAdapterSpec.groovy" />
+      <jump line="29" column="31" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/PostAuthenticationFilter.java" />
+      <jump line="65" column="106" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/helpers/HydraPostAuthenticationFilterHelper.java" />
+      <jump line="71" column="54" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/helpers/HydraPostAuthenticationFilterHelper.java" />
+      <jump line="73" column="66" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/helpers/HydraPostAuthenticationFilterHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmh5ZHJhLm5mYS5zdGF0dXMuTmZhU3RhdHVzU2VydmljZXNBZGFwdGVyCg==</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>extracted NfaErrorService, renamed Login nfa-status service</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZmFTdGF0dXNTZXJ2aWNlc0FkYXB0ZXJcPg==</text>
+        <text encoding="base64">XDx0b2tlbktleVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5mYUludGVyYWN0aW9uU3RhdHVzLnJlcXVpcmVkKCk7Cg==</text>
@@ -1199,9 +1215,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZmFTdGF0dXNTZXJ2aWNlc0FkYXB0ZXJcPg==</last-search>
+      <last-search encoding="base64">XDx0b2tlbktleVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZmFTdGF0dXNTZXJ2aWNlc0FkYXB0ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0b2tlbktleVw+</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -1209,8 +1225,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2dpblJlcXVlc3RcPg==</entry>
-        <entry encoding="base64">XDxsb2dpblJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVHZXROZmFTdGF0dXNGb3JNb2JpbGVcPg==</entry>
         <entry encoding="base64">XDxnZXRVaWRCeUxvZ2luSWRcPg==</entry>
         <entry encoding="base64">XDxzcEFjY291bnRzQ2xpZW50XD4=</entry>
@@ -1229,6 +1243,8 @@
         <entry encoding="base64">XDxuRkFTZXJ2aWNlc0FkYXB0ZXJcPg==</entry>
         <entry encoding="base64">XDxnZXREZWxldGVJbnRlcmFjdGlvblJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxuZmFTdGF0dXNTZXJ2aWNlc0FkYXB0ZXJcPg==</entry>
+        <entry encoding="base64">XDxWRVJJTUlfQUNDRVNTX1RPS0VOXD4=</entry>
+        <entry encoding="base64">XDx0b2tlbktleVw+</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
