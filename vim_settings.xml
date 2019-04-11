@@ -33,6 +33,12 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/hydra/LoginHydraService.java" timestamp="1554800242378">
         <mark key="'" line="90" column="8" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_28.txt" timestamp="1554815481021">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2113" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/ConsentNfaStatusController.java" timestamp="1554812335302">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -86,6 +92,12 @@
         <mark key="]" line="112" column="28" />
         <mark key="^" line="112" column="28" />
         <mark key="." line="112" column="28" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/nfa/ConsentNfaStatusControllerTest.java" timestamp="1554879936918">
+        <mark key="'" line="100" column="39" />
+        <mark key="[" line="50" column="23" />
+        <mark key="]" line="50" column="23" />
+        <mark key="." line="50" column="23" />
       </file>
       <file name="/postgres.linked_provider.linkedprovider [postgres@mobile]" timestamp="1554811640777">
         <mark key="[" line="0" column="0" />
@@ -177,6 +189,12 @@
       </file>
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" timestamp="1554811829596">
         <mark key="'" line="36" column="16" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaConsentController.java" timestamp="1554806628391">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554816464341">
         <mark key="[" line="0" column="0" />
@@ -278,6 +296,12 @@
         <mark key="^" line="79" column="38" />
         <mark key="." line="79" column="38" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaCancellationContext.java" timestamp="1554814837284">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaStatusService.java" timestamp="1554817109959">
         <mark key="'" line="47" column="34" />
         <mark key="[" line="159" column="29" />
@@ -318,12 +342,11 @@
         <mark key="^" line="63" column="81" />
         <mark key="." line="63" column="81" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingService.java" timestamp="1554984838493">
-        <mark key="'" line="57" column="20" />
-        <mark key="[" line="44" column="45" />
-        <mark key="]" line="44" column="50" />
-        <mark key="." line="44" column="50" />
-        <mark key="^" line="44" column="50" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingService.java" timestamp="1554987057930">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="/postgres.session.session [postgres@sit-2]" timestamp="1554208574444">
         <mark key="[" line="0" column="0" />
@@ -529,9 +552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/nfa/status/LoginNfaStatusServiceIntegTest.java" />
-      <jump line="196" column="27" filename="/LoginNfaStatusController.java" />
-      <jump line="224" column="36" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/nfa/status/LoginNfaStatusServiceIntegTest.java" />
       <jump line="123" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/nfa/status/LoginNfaStatusControllerTest.java" />
       <jump line="133" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/nfa/status/LoginNfaStatusControllerTest.java" />
       <jump line="138" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/nfa/status/LoginNfaStatusControllerTest.java" />
@@ -629,10 +649,13 @@
       <jump line="58" column="17" filename="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/otp/service/OtpPhoneService.java" />
       <jump line="29" column="8" filename="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/otp/service/OtpPhoneService.java" />
       <jump line="49" column="8" filename="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/otp/service/OtpPhoneService.java" />
+      <jump line="52" column="15" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingService.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingService.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>consent nfa status service return type refactor</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>consent nfa status service return type refactor</text>
@@ -644,25 +667,25 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5GQV9TVEFUVVNfSEVBREVSX05BTUUgPSAibmZhU3RhdHVzIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgT3BlcmF0aW9uUmVzcG9uc2UuU3RhdHVzRW51bSBnZVN0YXR1c0VudW0oKSB7CiAgICAgICAgICAgIHJldHVybiBzdGF0dXNFbnVtOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2dpbkFQcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgT3BlcmF0aW9uUmVzcG9uc2UuU3RhdHVzRW51bSBnZVN0YXR1c0VudW0oKSB7CiAgICAgICAgICAgIHJldHVybiBzdGF0dXNFbnVtOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgT3BlcmF0aW9uUmVzcG9uc2UuU3RhdHVzRW51bSBnZVN0YXR1c0VudW0oKSB7CiAgICAgICAgICAgIHJldHVybiBzdGF0dXNFbnVtOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBFaXRoZXIubGVmdChOZmFFcnJvci5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgLmVycm9yQ29kZShOZmFFcnJvckNvZGUuRVJST1IpCiAgICAgICAgICAgICAgICAgICAgICAgIC5jYXVzZSgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>.build()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgT3BlcmF0aW9uUmVzcG9uc2UuU3RhdHVzRW51bSBnZVN0YXR1c0VudW0oKSB7CiAgICAgICAgICAgIHJldHVybiBzdGF0dXNFbnVtOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBFaXRoZXIubGVmdChOZmFFcnJvci5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgLmVycm9yQ29kZShOZmFFcnJvckNvZGUuRVJST1IpCiAgICAgICAgICAgICAgICAgICAgICAgIC5jYXVzZSgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>NfaDeclinedResponse.nfaError()</text>
+        <text>.build()</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -680,10 +703,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUV09fRkFfTUVTU0FHRV9URU1QTEFURSA9ICJ0d28tZmEtbWVzc2FnZSI7Cg==</text>
+      <register name="9" type="4">
+        <text>NfaDeclinedResponse.nfaError()</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
