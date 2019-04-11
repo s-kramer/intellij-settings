@@ -9,6 +9,11 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/domain/NfaNotFinishedResponse.java" timestamp="1554977790369">
+        <mark key="]" line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/domain/NfaAwareRedirectResponse.java" timestamp="1554894386976">
         <mark key="'" line="11" column="13" />
         <mark key="[" line="20" column="4" />
@@ -26,13 +31,6 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/LoginNfaStatusService.java" timestamp="1554975980008">
-        <mark key="'" line="200" column="35" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-        <mark key="^" line="126" column="94" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NfaServicesAdapterSpec.groovy" timestamp="1554823677344">
         <mark key="'" line="33" column="29" />
@@ -233,7 +231,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554973874687">
+      <file name="/Dummy.txt" timestamp="1554977706300">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="44" />
@@ -258,7 +256,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="57" column="109" />
       </file>
-      <file name="/fragment.java" timestamp="1554975658908">
+      <file name="/fragment.java" timestamp="1554977706307">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="72" />
         <mark key="." line="0" column="72" />
@@ -336,6 +334,9 @@
         <mark key="." line="80" column="90" />
         <mark key="^" line="80" column="90" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageService.java" timestamp="1554978237644">
+        <mark key="'" line="38" column="13" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaInteractionStatus.java" timestamp="1554822480775">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -389,12 +390,12 @@
         <mark key="." line="109" column="132" />
         <mark key="^" line="109" column="215" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/domain/NfaDeclinedResponse.java" timestamp="1554976281764">
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/domain/NfaDeclinedResponse.java" timestamp="1554977782630">
         <mark key="'" line="95" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="20" />
         <mark key="^" line="79" column="22" />
-        <mark key="." line="31" column="0" />
+        <mark key="." line="9" column="20" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/NfaCancellationContext.java" timestamp="1554895042703">
         <mark key="[" line="31" column="4" />
@@ -465,6 +466,16 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="40" column="18" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/nfa/ConsentNfaDiscontinuationControllerTest.java" timestamp="1554879957138">
+        <mark key="]" line="50" column="37" />
+        <mark key="^" line="50" column="37" />
+        <mark key="." line="50" column="37" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/common/LCancelResponse.java" timestamp="1554797771716">
+        <mark key="]" line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaErrorService.java" timestamp="1554878828829">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="20" column="35" />
@@ -480,7 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="338" column="15" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/account/AccountService.java" />
       <jump line="101" column="31" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/account/AccountService.java" />
       <jump line="188" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/nfa/status/LoginNfaStatusServiceIntegTest.java" />
       <jump line="89" column="31" filename="/LoginNfaStatusController.java" />
@@ -580,13 +590,14 @@
       <jump line="202" column="35" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/LoginNfaStatusService.java" />
       <jump line="49" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/domain/NfaDeclinedResponse.java" />
       <jump line="95" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/domain/NfaDeclinedResponse.java" />
+      <jump line="38" column="13" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgT3BlcmF0aW9uUmVzcG9uc2UuU3RhdHVzRW51bSBnZVN0YXR1c0VudW0oKSB7CiAgICAgICAgICAgIHJldHVybiBzdGF0dXNFbnVtOwogICAgICAgIH0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>Declined</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;Too many attempts. You have been blocked.&quot;</text>
+        <text>Declined</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRCYXNpY0Vycm9yXD4=</text>
