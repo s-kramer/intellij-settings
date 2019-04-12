@@ -61,6 +61,13 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="27" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/inlineregistration/InlineRegistrationUserStatusServiceSpec.groovy" timestamp="1555079295173">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="17" column="58" />
+        <mark key="]" line="17" column="60" />
+        <mark key="." line="17" column="60" />
+        <mark key="^" line="17" column="60" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/consent/ConsentController.java" timestamp="1554897372051">
         <mark key="[" line="91" column="15" />
         <mark key="]" line="91" column="37" />
@@ -89,6 +96,10 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/ConsentNfaStatusService.java" timestamp="1555077386443">
         <mark key="'" line="77" column="79" />
         <mark key="^" line="153" column="130" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.identityowner/identityowner-java-server-spring/228-d7e0eed-SNAPSHOT/15e81c28ff9eb9b5df94c216ebd53606c31dee8d/identityowner-java-server-spring-228-d7e0eed-SNAPSHOT-sources.jar!/com/dipp/identityowner/api/PhoneControllerApi.java" timestamp="1555055989828">
+        <mark key="[" line="91" column="29" />
+        <mark key="]" line="91" column="46" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/ConsentNfaStatusControllerService.java" timestamp="1554804320323">
         <mark key="'" line="43" column="0" />
@@ -243,6 +254,10 @@
         <mark key="." line="491" column="54" />
         <mark key="^" line="491" column="54" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/hydra/ConsentNfaCancellationInHydraService.java" timestamp="1555068673105">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="48" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/inlineregistration/InlineRegistrationServiceTest.java" timestamp="1554989930531">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -270,7 +285,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1555072232594">
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/controller/HydraController_auth2_Test.groovy" timestamp="1555078526811">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="132" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1555078609869">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="72" />
         <mark key="." line="0" column="95" />
@@ -331,6 +350,14 @@
         <mark key="^" line="63" column="81" />
         <mark key="." line="63" column="81" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-login-app/src/main/java/com/dipp/hydraloginapp/verimi/EuidService.java" timestamp="1555061059921">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="73" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.security/security-java-client-feign/DEV-21624-inline-registration-security-1-SNAPSHOT/7ea708d799b57f38392b137a08e7d9989d5fe650/security-java-client-feign-DEV-21624-inline-registration-security-1-SNAPSHOT-sources.jar!/com/dipp/security/client/feign/api/UserStatusControllerApiClient.java" timestamp="1555079172226">
+        <mark key="[" line="101" column="11" />
+        <mark key="]" line="101" column="33" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingService.java" timestamp="1555068722163">
         <mark key="'" line="53" column="20" />
         <mark key="[" line="94" column="44" />
@@ -357,9 +384,9 @@
         <mark key="." line="80" column="90" />
         <mark key="^" line="80" column="90" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/InlineRegistrationUserStatusService.java" timestamp="1555062721583">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="10" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/InlineRegistrationUserStatusService.java" timestamp="1555079162204">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="64" />
         <mark key="^" line="18" column="10" />
         <mark key="." line="18" column="10" />
       </file>
@@ -499,9 +526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="5" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageService.java" />
-      <jump line="58" column="17" filename="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/otp/service/OtpPhoneService.java" />
-      <jump line="29" column="8" filename="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/otp/service/OtpPhoneService.java" />
       <jump line="49" column="8" filename="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/otp/service/OtpPhoneService.java" />
       <jump line="52" column="15" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
@@ -599,40 +623,43 @@
       <jump line="228" column="18" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/LoginNfaStatusService.java" />
       <jump line="47" column="32" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/LoginNfaStatusService.java" />
       <jump line="83" column="58" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/LoginNfaStatusService.java" />
+      <jump line="13" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/inlineregistration/InlineRegistrationUserStatusServiceSpec.groovy" />
+      <jump line="12" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/inlineregistration/InlineRegistrationUserStatusServiceSpec.groovy" />
+      <jump line="9" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/inlineregistration/InlineRegistrationUserStatusServiceSpec.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgpERVYtMjE2MjkgcmV2aWV3IHJlbWFya3MKCgpERVYtMjE2MjkgcmV2aWV3IHJlbWFya3MKCgpERVYtMjE2MjkgcmV2aWV3IHJlbWFya3M=</text>
+        <text>uid</text>
       </register>
       <register name="-" type="4">
-        <text>log.error(&quot;Consent request rejection failed in Hydra. hint: {}&quot;, hydraError.getErrorHint())</text>
+        <text>uid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMT0dJTl9SRVFVRVNUX1JFSkVDVElPTl9GQUlMRURfSU5fSFlEUkFfSElOVFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pc0xvZ2luKHRydWUpCg==</text>
+      <register name="0" type="4">
+        <text>IsUserTemporaryResponse</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgpERVYtMjE2MjkgcmV2aWV3IHJlbWFya3MKCgpERVYtMjE2MjkgcmV2aWV3IHJlbWFya3MKCgpERVYtMjE2MjkgcmV2aWV3IHJlbWFya3M=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LyoqCiAqCiAqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAxMi4wNC4xOSAxNjoxNwogKi8K</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CgpERVYtMjE2MjkgcmV2aWV3IHJlbWFya3MKCgpERVYtMjE2MjkgcmV2aWV3IHJlbWFya3MKCgpERVYtMjE2MjkgcmV2aWV3IHJlbWFya3M=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>log.error(&quot;Consent request rejection failed in Hydra. hint: {}&quot;, hydraError.getErrorHint())</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIDsK</text>
-      </register>
-      <register name="5" type="4">
-        <text>log.trace(&quot;Hydra successfully cancel consent request with redirection {}&quot;, cancelResponse)</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>log.info(&quot;Not Found operation for: {}&quot;, nfaExecutionContext)</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -649,11 +676,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+      <register name="8" type="4">
+        <text>log.trace(&quot;Hydra successfully cancel consent request with redirection {}&quot;, cancelResponse)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
