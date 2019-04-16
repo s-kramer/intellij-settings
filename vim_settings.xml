@@ -28,11 +28,11 @@
         <mark key="^" line="14" column="27" />
         <mark key="." line="14" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1555335656219">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="0" column="6" />
+      <file name="/a.dummy" timestamp="1555398057028">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaStatusService.java" timestamp="1554817109959">
         <mark key="'" line="47" column="34" />
@@ -335,7 +335,8 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" timestamp="1554893809750">
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" timestamp="1555396920382">
+        <mark key="'" line="88" column="20" />
         <mark key="[" line="104" column="45" />
         <mark key="]" line="104" column="45" />
         <mark key="." line="104" column="45" />
@@ -414,13 +415,13 @@
         <mark key="." line="25" column="154" />
         <mark key="^" line="25" column="154" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" timestamp="1555336450414">
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" timestamp="1555397495000">
         <mark key="a" line="109" column="0" />
-        <mark key="'" line="77" column="32" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="116" column="76" />
+        <mark key="'" line="329" column="164" />
+        <mark key="[" line="352" column="0" />
+        <mark key="]" line="352" column="0" />
+        <mark key="." line="352" column="0" />
+        <mark key="^" line="344" column="79" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaCancellationCapableService.java" timestamp="1554796526102">
         <mark key="[" line="7" column="17" />
@@ -589,13 +590,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" timestamp="1555335704268">
-        <mark key="a" line="69" column="0" />
-        <mark key="'" line="85" column="20" />
-        <mark key="[" line="88" column="9" />
-        <mark key="]" line="89" column="7" />
-        <mark key="." line="89" column="7" />
-        <mark key="^" line="89" column="7" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" timestamp="1555398480802">
+        <mark key="'" line="128" column="20" />
+        <mark key="[" line="59" column="63" />
+        <mark key="]" line="59" column="68" />
+        <mark key="." line="59" column="68" />
+        <mark key="^" line="59" column="68" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/InlineRegistrationService.java" timestamp="1555058509592">
         <mark key="[" line="61" column="0" />
@@ -901,7 +901,7 @@
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="91" />
       </file>
-      <file name="/fragment.java" timestamp="1555394948931">
+      <file name="/fragment.java" timestamp="1555398097556">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="72" />
         <mark key="." line="0" column="95" />
@@ -913,45 +913,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/NfaDiscontinuationResponse.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/NfaCancellationContext.java" />
-      <jump line="22" column="21" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/domain/NfaDeclinedResponse.java" />
-      <jump line="91" column="53" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/domain/NfaDeclinedResponse.java" />
-      <jump line="93" column="69" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/domain/NfaDeclinedResponse.java" />
-      <jump line="137" column="44" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/ConsentNfaStatusService.java" />
-      <jump line="135" column="37" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/ConsentNfaStatusService.java" />
-      <jump line="132" column="69" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/ConsentNfaStatusService.java" />
-      <jump line="26" column="13" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaServicesAdapter.java" />
-      <jump line="77" column="79" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/ConsentNfaStatusService.java" />
-      <jump line="131" column="27" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/LoginNfaStatusService.java" />
-      <jump line="100" column="58" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/LoginNfaStatusService.java" />
-      <jump line="228" column="18" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/LoginNfaStatusService.java" />
-      <jump line="47" column="32" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/LoginNfaStatusService.java" />
-      <jump line="83" column="58" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/LoginNfaStatusService.java" />
-      <jump line="13" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/inlineregistration/InlineRegistrationUserStatusServiceSpec.groovy" />
-      <jump line="12" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/inlineregistration/InlineRegistrationUserStatusServiceSpec.groovy" />
-      <jump line="9" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/inlineregistration/InlineRegistrationUserStatusServiceSpec.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/resources/application-local-env.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="224" column="10" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
-      <jump line="264" column="44" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
-      <jump line="263" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
-      <jump line="292" column="58" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" />
-      <jump line="45" column="39" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/verimi/AuthenticationService.java" />
-      <jump line="30" column="50" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/verimi/AuthenticationService.java" />
-      <jump line="64" column="48" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingServiceTest.java" />
-      <jump line="7" column="41" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingServiceTest.java" />
-      <jump line="17" column="96" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/inlineregistration/InlineRegistrationUserStatusServiceSpec.groovy" />
-      <jump line="70" column="196" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/NfaServiceSpec_checkLoginNfaForLoginPage.groovy" />
-      <jump line="131" column="55" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
-      <jump line="132" column="16" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
-      <jump line="32" column="61" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
-      <jump line="129" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
-      <jump line="64" column="48" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
-      <jump line="68" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/NfaServiceSpec_checkLoginNfaForLoginPage.groovy" />
-      <jump line="72" column="22" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/ActivityLogService.java" />
-      <jump line="73" column="61" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/NfaServiceSpec_checkLoginNfaForLoginPage.groovy" />
-      <jump line="69" column="196" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/NfaServiceSpec_checkLoginNfaForLoginPage.groovy" />
       <jump line="12" column="42" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/NfaServiceSpec_checkLoginNfaForLoginPage.groovy" />
       <jump line="67" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/NfaServiceSpec_checkLoginNfaForLoginPage.groovy" />
       <jump line="65" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/NfaServiceSpec_checkLoginNfaForLoginPage.groovy" />
@@ -1013,86 +974,104 @@
       <jump line="89" column="31" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/hydra/LoginHydraService.java" />
       <jump line="117" column="23" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/hydra/LoginHydraService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
+      <jump line="182" column="16" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="82" column="94" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="84" column="106" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="83" column="107" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="319" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="95" column="32" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="128" column="95" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="136" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="143" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="150" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="158" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="169" column="95" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="166" column="95" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="157" column="95" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="149" column="95" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="142" column="95" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="135" column="95" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="110" column="5" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="186" column="5" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="259" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="88" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" />
+      <jump line="113" column="19" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
+      <jump line="291" column="164" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="298" column="164" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="305" column="164" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="313" column="164" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
+      <jump line="40" column="52" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
+      <jump line="67" column="61" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
+      <jump line="66" column="40" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
+      <jump line="62" column="44" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
+      <jump line="43" column="7" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
+      <jump line="73" column="88" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
+      <jump line="77" column="16" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
+      <jump line="76" column="26" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
+      <jump line="94" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rebased on inline-registration branch</text>
+        <text>notRequired</text>
       </register>
       <register name="-" type="4">
-        <text>rebased on inline-registration branch</text>
+        <text>notRequired</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJzZUh5ZHJhRXJyb3JcPg==</text>
+        <text encoding="base64">XDxpc1VzZXJUZW1wb3JhcnlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBfICogaW5saW5lUmVnaXN0cmF0aW9uVXNlclN0YXR1c1NlcnZpY2UuaXNVc2VyVGVtcG9yYXJ5KFVJRCkgPj4gZmFsc2UK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSW5saW5lSWRlbnRpZmljYXRpb25SZXNwb25zZSBkb0lubGluZUlkZW50aWZpY2F0aW9uKFN0cmluZyBjb25zZW50Q2hhbGxlbmdlLCBTdHJpbmcgY2xpZW50SWQsIFN0cmluZyB1aWQsIExpc3Q8U3RyaW5nPiBzY29wZXMpIHsKICAgICAgICBMaXN0PElubGluZUlkZW50aWZpY2F0aW9uU3RhdHVzPiBzdGF0dXNlcyA9IGdldElubGluZUlkZW50aWZpY2F0aW9uU3RhdHVzZXMoY2xpZW50SWQsIHVpZCwgc2NvcGVzKTsKCiAgICAgICAgaWYgKHN0YXR1c2VzLmNvbnRhaW5zKE5GQV9NSVNTSU5HKSkgewogICAgICAgICAgICByZXR1cm4gaW5saW5lSWRlbnRpZmljYXRpb25SZWRpcmVjdFJlc3BvbnNlRmFjdG9yeS5uZmFNaXNzaW5nKGNvbnNlbnRDaGFsbGVuZ2UsIHN0YXR1c2VzKTsKICAgICAgICB9CgogICAgICAgIGlmIChzdGF0dXNlcy5jb250YWlucyhWRVJJRklFRF9ET0NVTUVOVF9NSVNTSU5HKSB8fCBzdGF0dXNlcy5jb250YWlucyhEUklWRVJTX0xJQ0VOU0VfTUlTU0lORykpIHsKICAgICAgICAgICAgcmV0dXJuIGlubGluZUlkZW50aWZpY2F0aW9uUmVkaXJlY3RSZXNwb25zZUZhY3RvcnkudmVyaWZpZWREb2N1bWVudE1pc3NpbmcoY29uc2VudENoYWxsZW5nZSwgc3RhdHVzZXMpOwogICAgICAgIH0KCiAgICAgICAgaWYgKHN0YXR1c2VzLmNvbnRhaW5zKElOTElORV9JREVOVElGSUNBVElPTl9SRUFEWSkpIHsKICAgICAgICAgICAgcmV0dXJuIGlubGluZUlkZW50aWZpY2F0aW9uUmVkaXJlY3RSZXNwb25zZUZhY3RvcnkucmVhZHkoY29uc2VudENoYWxsZW5nZSk7CiAgICAgICAgfQoKICAgICAgICBpZiAoc3RhdHVzZXMuY29udGFpbnMoSU5MSU5FX0lERU5USUZJQ0FUSU9OX05PVF9SRVFVSVJFRCkpIHsKICAgICAgICAgICAgcmV0dXJuIGlubGluZUlkZW50aWZpY2F0aW9uUmVkaXJlY3RSZXNwb25zZUZhY3Rvcnkubm90UmVxdWlyZWQoY29uc2VudENoYWxsZW5nZSk7CiAgICAgICAgfQoKICAgICAgICBsb2cud2Fybigic3RhdHVzZXMgaXMgaW4gYW4gaWxsZWdhbCBzdGF0ZSAne30nLCByZXR1cm5pbmcgZXJyb3IiLCBzdGF0dXNlcyk7CiAgICAgICAgcmV0dXJuIGlubGluZUlkZW50aWZpY2F0aW9uUmVkaXJlY3RSZXNwb25zZUZhY3RvcnkudW5rbm93bkVycm9yKCk7CiAgICB9CiAgICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKHZhbHVlID0gIi9vYXV0aDIvYXV0aC9yZXF1ZXN0cy9sb2dpbi97Y2hhbGxlbmdlfSIsCiAgICAgICAgICAgIGNvbnN1bWVzID0gQVBQTElDQVRJT05fSlNPTl9WQUxVRSkKICAgIFJlc3BvbnNlRW50aXR5PFN0cmluZz4gZ2V0TG9naW5SZXF1ZXN0U3RyaW5nKAogICAgICAgICAgICBAUGF0aFZhcmlhYmxlKENIQUxMRU5HRSkgU3RyaW5nIGNoYWxsZW5nZSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RhdHVzZXMuY29udGFpbnMoTkZBX01JU1NJTkcpKSB7CiAgICAgICAgICAgIHJldHVybiBpbmxpbmVJZGVudGlmaWNhdGlvblJlZGlyZWN0UmVzcG9uc2VGYWN0b3J5Lm5mYU1pc3NpbmcoY29uc2VudENoYWxsZW5nZSwgc3RhdHVzZXMpOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSHlkcmFFcnJvciBwYXJzZUh5ZHJhRXJyb3IoVGhyb3dhYmxlIHRocikgewogICAgICAgIHJldHVybiBwYXJzZUh5ZHJhRXJyb3IodGhyKTsKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUb2RvICgwNi4wNC4xOSkgVGVjaCBkZWJ0IFNFVkVSRTogYW55IGNvZGUgb3ZlciAyeHggd2lsbCB0aHJvdyBhbiBleGNlcHRpb24KICAgICAgICBpZiAoY2FuY2VsUmVzcG9uc2VFbnRpdHkuZ2V0U3RhdHVzQ29kZSgpLmlzMnh4U3VjY2Vzc2Z1bCgpKSB7CiAgICAgICAgICAgIEVpdGhlcjxIeWRyYUVycm9yLCBDb21wbGV0ZWRSZXF1ZXN0PiBjb21wbGV0ZWRSZXF1ZXN0cyA9IHBhcnNlQ29tcGxldGVkUmVzcG9uc2UoY2FuY2VsUmVzcG9uc2VFbnRpdHksCiAgICAgICAgICAgICAgICAgICAgY2xpZW50SWQpOwogICAgICAgICAgICByZXR1cm4gY29tcGxldGVkUmVxdWVzdHMubWFwKGNvbXBsZXRlZFJlcXVlc3QgLT4KICAgICAgICAgICAgICAgICAgICBDYW5jZWxSZXNwb25zZS5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5jYW5jZWxVcmxSZXR1cm5lZEJ5SHlkcmEoY29tcGxldGVkUmVxdWVzdC5nZXRSZWRpcmVjdFRvKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY2xpZW50SWQoY2xpZW50SWQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKQogICAgICAgICAgICApOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIEh5ZHJhRXJyb3IgaHlkcmFFcnJvciA9IHBhcnNlSHlkcmFFcnJvcihjYW5jZWxSZXNwb25zZUVudGl0eSk7CiAgICAgICAgICAgIHJldHVybiBFaXRoZXIubGVmdChoeWRyYUVycm9yKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgYm9vbGVhbiBpc05mYUNvbmZpZ3VyYXRpb25SZXF1aXJlZCA9ICFpc05mYUNvbmZpZ3VyZWRGb3JVc2VyKHVpZCk7CiAgICAgICAgICAgIGlmIChpc05mYUNvbmZpZ3VyYXRpb25SZXF1aXJlZCkgewogICAgICAgICAgICAgICAgbG9nLmRlYnVnKCJOZmEgaXMgbWlzc2luZyBmb3IgdXNlciB7fSwgZGV0ZXJtaW5pbmcgc3RhdHVzZXMgYnkgc2NvcGVzIiwgdWlkKTsKICAgICAgICAgICAgICAgIHJldHVybiBnZXRTdGF0dXNlc0Jhc2VkT25TY29wZXMoc2NvcGVzKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZygiTmZhIGlzIGNvbmZpZ3VyZWQgZm9yIHVzZXIge30sIHF1ZXJ5aW5nIGRvY3VtZW50cyB0byBjb21wYXJlIHRoZW0gYWdhaW5zdCB0aGUgc2NvcGVzIiwgdWlkKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">JiYgaXNDbGllbnROb3RFeGNsdWRlZChjbGllbnRJZCk=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoUmVzcG9uc2VFbnRpdHk6OmdldEJvZHkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNVc2VyVGVtcG9yYXJ5KSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jbGllbnRJZChjbGllbnRJZCkK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIGlzVXNlclRlbXBvcmFyeSA9IGlzSW5saW5lUmVnaXN0cmF0aW9uKHVpZCk7Cg==</text>
       </register>
       <register name="w" type="4">
-        <keys>
-          <key char="102" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="91" mods="130" />
-          <key char="37" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-        </keys>
+        <text>2dWj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBQQVJTSU5HX0hZRFJBX0VSUk9SX0VSUk9SX0NPREUgPSAxMDAzOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBIWURSQV9FUlJPUl9QQVJTSU5HX0VSUk9SX0RFVEFJTCA9ICJIeWRyYSBlcnJvciBib2R5IHdhcyB1bnJlYWRhYmxlOiclcyciOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIEhZRFJBX0VSUk9SX1BBUlNJTkdfRVJST1JfTVNHID0gIkVycm9yIHBhcnNpbmcgcmVzcG9uc2UgZnJvbSBoeWRyYSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/;$//</text>
+        <text encoding="base64">JzwsJz5zL0VOQUJMRUQvRElTQUJMRUQv</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJzZUh5ZHJhRXJyb3JcPg==</last-search>
+      <last-search encoding="base64">XDxpc1VzZXJUZW1wb3JhcnlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJzZUh5ZHJhRXJyb3JcPg==</last-pattern>
-      <last-replace />
-      <last-substitute>;$</last-substitute>
+      <last-pattern encoding="base64">XDxpc1VzZXJUZW1wb3JhcnlcPg==</last-pattern>
+      <last-replace>DISABLED</last-replace>
+      <last-substitute>ENABLED</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2dpbk5GQVNlcnZpY2VzQWRhcHRlclw+</entry>
-        <entry>security</entry>
-        <entry>autowire</entry>
-        <entry encoding="base64">XDxnZXRJbmxpbmVJZGVudGlmaWNhdGlvblN0YXR1c2VzXD4=</entry>
-        <entry encoding="base64">XDxzdGF0dXNlc1w+</entry>
-        <entry encoding="base64">XDxpc05mYUNvbmZpZ3VyYXRpb25SZXF1aXJlZFw+</entry>
-        <entry>,$</entry>
-        <entry>;$</entry>
-        <entry encoding="base64">XDxVSURcPg==</entry>
         <entry encoding="base64">XDxnZXRBbGxHcmFudGVkSXRlbXNcPg==</entry>
         <entry encoding="base64">XDxleHBlY3RHZXRDb25zZW50UmVxdWVzdFw+</entry>
         <entry encoding="base64">XDxnZXRDb25zZW50UmVxdWVzdFw+</entry>
@@ -1104,6 +1083,15 @@
         <entry encoding="base64">XDxyZWplY3RMb2dpblw+</entry>
         <entry encoding="base64">XDxwYXJzZUNvbXBsZXRlZFJlc3BvbnNlXD4=</entry>
         <entry encoding="base64">XDxwYXJzZUh5ZHJhRXJyb3JcPg==</entry>
+        <entry encoding="base64">XDx0d29mYVw+</entry>
+        <entry>ENABLED</entry>
+        <entry encoding="base64">XDxFWENMVURFRF9DTElFTlRfSURcPg==</entry>
+        <entry encoding="base64">XDxVbnJvbGxcPg==</entry>
+        <entry encoding="base64">XDxpc0lubGluZUlkZW50aWZpY2F0aW9uRmxvd1w+</entry>
+        <entry encoding="base64">XDxBVVRIX0ZMT1dfQ09OVElOVUFUSU9OX1JFRElSRUNUX1VSSV9QQVJUXD4=</entry>
+        <entry encoding="base64">XDxnZXRJbmxpbmVJZGVudGlmaWNhdGlvblN0YXR1c2VzXD4=</entry>
+        <entry encoding="base64">XDxpc05mYUNvbmZpZ3VyYXRpb25SZXF1aXJlZFw+</entry>
+        <entry encoding="base64">XDxpc1VzZXJUZW1wb3JhcnlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
@@ -1118,6 +1106,7 @@
         <entry>action GotoSuperMethod</entry>
         <entry>%s/,$//</entry>
         <entry>%s/;$//</entry>
+        <entry encoding="base64">JzwsJz5zL0VOQUJMRUQvRElTQUJMRUQv</entry>
       </history-cmd>
       <history-expr />
       <history-input />
