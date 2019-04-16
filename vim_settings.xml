@@ -216,9 +216,9 @@
         <mark key="." line="25" column="154" />
         <mark key="^" line="25" column="154" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" timestamp="1555409568815">
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" timestamp="1555414656988">
         <mark key="a" line="109" column="0" />
-        <mark key="'" line="348" column="86" />
+        <mark key="'" line="31" column="6" />
         <mark key="[" line="355" column="105" />
         <mark key="]" line="355" column="105" />
         <mark key="." line="355" column="113" />
@@ -297,8 +297,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" timestamp="1555409658800">
-        <mark key="'" line="147" column="19" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" timestamp="1555414427840">
+        <mark key="'" line="146" column="19" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -427,8 +427,8 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" timestamp="1555400786278">
         <mark key="'" line="96" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555407595205">
-        <mark key="[" line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1555414150679">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="32" />
@@ -482,7 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="164" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="305" column="164" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="313" column="164" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="40" column="52" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
@@ -582,10 +581,11 @@
       <jump line="95" column="39" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineProcessesService.java" />
       <jump line="108" column="36" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineProcessesService.java" />
       <jump line="126" column="4" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineProcessesService.java" />
+      <jump line="31" column="6" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Identification</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gVG9kbyAoMDQuMDQuMTkpIFRlY2ggZGVidCBNSU5PUjogc3BsaXQgdGhpcyBzZXJ2aWNlIGludG8gcHJlcmVxdWlzaXRlIGFuZCBvcGVyYXRpb24/Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Identification</text>
@@ -600,16 +600,16 @@
         <text encoding="base64">Ly8gVG9kbyAoMDQuMDQuMTkpIFRlY2ggZGVidCBNSU5PUjogc3BsaXQgdGhpcyBzZXJ2aWNlIGludG8gcHJlcmVxdWlzaXRlIGFuZCBvcGVyYXRpb24/Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gVG9kbyAoMDQuMDQuMTkpIFRlY2ggZGVidCBNSU5PUjogc3BsaXQgdGhpcyBzZXJ2aWNlIGludG8gcHJlcmVxdWlzaXRlIGFuZCBvcGVyYXRpb24/Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXF1ZXN0Qm9keTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXF1ZXN0Qm9keTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -635,10 +635,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBudWxsICAgICAgICAgICAgICAgICB8IElSUkVMRVZBTlQgIHwgSVJSRUxFVkFOVCAgICB8IDAgICAgICAgICAgICAgICAgIHx8IENPTlNFTlRfQUNDRVBURURfSFlEUkFfUkVESVJFQ1RfVVJMCg==</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0VOQUJMRUQvRElTQUJMRUQv</text>
