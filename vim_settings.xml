@@ -70,11 +70,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="105" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountController.java" timestamp="1555349279481">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="13" column="14" />
-        <mark key="." line="13" column="14" />
-        <mark key="^" line="13" column="14" />
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountController.java" timestamp="1555517455700">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="27" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/domain/NfaAwareRedirectResponse.java" timestamp="1554894386976">
         <mark key="'" line="11" column="13" />
@@ -289,12 +289,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-test/4.0.3/a9c19894e2982ad69a0e9a49a56839eb3cffc34e/axon-test-4.0.3-sources.jar!/org/axonframework/test/aggregate/ResultValidator.java" timestamp="1555092236220">
         <mark key="'" line="160" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountQueryHandler.java" timestamp="1555349231662">
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountQueryHandler.java" timestamp="1555518750438">
         <mark key="'" line="18" column="73" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="19" column="27" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="18" column="83" />
+        <mark key="]" line="18" column="103" />
+        <mark key="^" line="18" column="103" />
+        <mark key="." line="18" column="103" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/page/LoginPageServiceTest.java" timestamp="1554989504021">
         <mark key="[" line="37" column="0" />
@@ -504,7 +504,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555349034411">
+      <file name="/Dummy.txt" timestamp="1555518030189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/inlineregistration/usercreation/InlineRegistrationUserCreationControllerTest.java" timestamp="1555060768119">
@@ -676,17 +676,17 @@
       <jump line="16" column="73" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountQueryHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getAllBillingAccounts</text>
       </register>
       <register name="-" type="4">
-        <text>BillingAccount.class</text>
+        <text>org.skramer.spodddify.payment.BillingAccount</text>
       </register>
       <register name="/" type="4">
         <text>commandgat</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnLCBuYW1lOiAnc3ByaW5nLWJvb3Qtc3RhcnRlci1hb3AnCg==</text>
+      <register name="0" type="4">
+        <text>getAllBillingAccounts</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
