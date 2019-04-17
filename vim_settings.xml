@@ -75,10 +75,6 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingService.java" timestamp="1555407180793">
-        <mark key="'" line="51" column="86" />
-        <mark key="^" line="53" column="11" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/hydra/LoginHydraService.java" timestamp="1555395555158">
         <mark key="'" line="118" column="23" />
         <mark key="[" line="71" column="0" />
@@ -161,6 +157,9 @@
         <mark key="]" line="74" column="19" />
         <mark key="^" line="74" column="19" />
         <mark key="." line="74" column="19" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.security/security-java-client-feign/DEV-21624-inline-registration-security-1-SNAPSHOT/7ea708d799b57f38392b137a08e7d9989d5fe650/security-java-client-feign-DEV-21624-inline-registration-security-1-SNAPSHOT-sources.jar!/com/dipp/security/client/feign/model/LoginIdResponse.java" timestamp="1555486783033">
+        <mark key="'" line="17" column="13" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/consent/ConsentController.java" timestamp="1554897372051">
         <mark key="[" line="91" column="15" />
@@ -278,9 +277,8 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageController.java" timestamp="1555068778750">
         <mark key="'" line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/templates/service.yml.j2" timestamp="1555407526294">
-        <mark key="'" line="379" column="53" />
-        <mark key="n" line="16" column="11" />
+      <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/inlineregistration/TemporaryUserExpiredSessionCleanup.java" timestamp="1555486298323">
+        <mark key="'" line="58" column="17" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/NfaDiscontinuationController.java" timestamp="1555072270277">
         <mark key="[" line="69" column="0" />
@@ -355,6 +353,9 @@
         <mark key="]" line="141" column="66" />
         <mark key="." line="141" column="66" />
         <mark key="^" line="141" column="66" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/repository/inlineregistration/JdbcTemporaryUserRepository.java" timestamp="1555486224284">
+        <mark key="'" line="38" column="28" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" timestamp="1555319058989">
         <mark key="'" line="292" column="58" />
@@ -461,6 +462,7 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" timestamp="1555315593041">
         <mark key="'" line="224" column="10" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/session/SessionService.java" timestamp="1555486604037" />
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/NfaPrerequisiteChecker.java" timestamp="1554500594345">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -595,11 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
-      <jump line="52" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
-      <jump line="73" column="88" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
       <jump line="77" column="16" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
       <jump line="76" column="26" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
       <jump line="94" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
@@ -695,6 +692,11 @@
       <jump line="2" column="89" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/usercreation/InlineRegistrationUserCreationService.java" />
       <jump line="3" column="107" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/usercreation/InlineRegistrationUserCreationService.java" />
       <jump line="33" column="84" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/usercreation/InlineRegistrationUserCreationService.java" />
+      <jump line="38" column="28" filename="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/repository/inlineregistration/JdbcTemporaryUserRepository.java" />
+      <jump line="54" column="29" filename="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/inlineregistration/TemporaryUserExpiredSessionCleanup.java" />
+      <jump line="46" column="8" filename="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/inlineregistration/TemporaryUserExpiredSessionCleanup.java" />
+      <jump line="58" column="17" filename="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/inlineregistration/TemporaryUserExpiredSessionCleanup.java" />
+      <jump line="17" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.security/security-java-client-feign/DEV-21624-inline-registration-security-1-SNAPSHOT/7ea708d799b57f38392b137a08e7d9989d5fe650/security-java-client-feign-DEV-21624-inline-registration-security-1-SNAPSHOT-sources.jar!/com/dipp/security/client/feign/model/LoginIdResponse.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -704,7 +706,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>ERROR</text>
+        <text>active</text>
       </register>
       <register name="0" type="4">
         <text>consentNfaService.getRedirectResponseForNfa(nfaInteraction, nfaConsentSession)</text>
@@ -758,9 +760,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ERROR</last-search>
+      <last-search>active</last-search>
       <last-offset />
-      <last-pattern>ERROR</last-pattern>
+      <last-pattern>active</last-pattern>
       <last-replace>DISABLED</last-replace>
       <last-substitute>ENABLED</last-substitute>
       <last-dir>1</last-dir>
@@ -768,9 +770,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxIWURSQV9SRURJUkVDVF9VUkxfQ09NUExFVEVEX1JFUVVFU1RcPg==</entry>
-        <entry encoding="base64">XDxpc1RlbXBvcmFyeVw+</entry>
-        <entry encoding="base64">XDxpc05mYVJlcXVpcmVkXD4=</entry>
         <entry encoding="base64">XDxzaG91bGROZmFCZUV4ZWN1dGVkQWZ0ZXJDb25zZW50XD4=</entry>
         <entry encoding="base64">XDxleHBlY3ROZmFSZXF1aXJlZFw+</entry>
         <entry encoding="base64">XDxORkFfSU5URVJBQ1RJT05cPg==</entry>
@@ -788,6 +787,9 @@
         <entry>identification</entry>
         <entry>error</entry>
         <entry>ERROR</entry>
+        <entry encoding="base64">XDxnZXRFeHBpcmVkVGVtcG9yYXJ5VXNlcnNcPg==</entry>
+        <entry encoding="base64">XDxkZWxldGVFeHBpcmVkVGVtcG9yYXJ5VXNlcnNcPg==</entry>
+        <entry>active</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
