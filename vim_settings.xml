@@ -265,12 +265,12 @@
         <mark key="." line="63" column="81" />
         <mark key="^" line="63" column="81" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/import-export-service/src/test/java/com/dipp/basket/service/query/email/EmailScopeDataProviderTest.java" timestamp="1555577403232">
-        <mark key="'" line="75" column="8" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="79" column="61" />
+      <file name="$USER_HOME$/verimi-auth/import-export-service/src/test/java/com/dipp/basket/service/query/email/EmailScopeDataProviderTest.java" timestamp="1555579108160">
+        <mark key="'" line="101" column="49" />
+        <mark key="[" line="89" column="43" />
+        <mark key="]" line="89" column="44" />
+        <mark key="." line="89" column="44" />
+        <mark key="^" line="82" column="98" />
       </file>
       <file name="/ConsentNfaStatusService.java" timestamp="1554974384483">
         <mark key="'" line="134" column="25" />
@@ -319,7 +319,6 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/ConsentNfaStatusService.java" timestamp="1555421487007" />
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaInteractionStatus.java" timestamp="1554822480775">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -638,7 +637,6 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" timestamp="1555315593041">
         <mark key="'" line="224" column="10" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/session/SessionService.java" timestamp="1555501033944" />
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/consent/ConsentPageFactory.java" timestamp="1555572765700">
         <mark key="'" line="35" column="68" />
       </file>
@@ -746,10 +744,12 @@
       <file name="/postgres.session.session [postgres@mobile]" timestamp="1555482606513">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/import-export-service/src/main/java/com/dipp/basket/service/query/email/EmailScopeDataProvider.java" timestamp="1555576698018">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/verimi-auth/import-export-service/src/main/java/com/dipp/basket/service/query/email/EmailScopeDataProvider.java" timestamp="1555579702810">
+        <mark key="'" line="34" column="41" />
+        <mark key="[" line="20" column="67" />
+        <mark key="]" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+        <mark key="^" line="21" column="3" />
       </file>
       <file name="/Dummy.groovy" timestamp="1555404855382">
         <mark key="[" line="0" column="0" />
@@ -777,6 +777,12 @@
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" timestamp="1555400786278">
         <mark key="'" line="96" column="41" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1555579706571">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="75" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileSpAuthShortcutService.java" timestamp="1555504608911">
         <mark key="'" line="69" column="18" />
@@ -859,13 +865,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="4" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/vars/dipp-mobile.yml" />
-      <jump line="241" column="6" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/vars/dipp-mobile.yml" />
-      <jump line="245" column="4" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/vars/dipp-mobile.yml" />
-      <jump line="250" column="6" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/vars/dipp-mobile.yml" />
-      <jump line="254" column="4" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/vars/dipp-mobile.yml" />
-      <jump line="286" column="17" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/vars/dipp-mobile.yml" />
-      <jump line="287" column="568" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/vars/dipp-mobile.yml" />
       <jump line="12" column="512" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/vars/dipp-mobile.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/templates/general.yml.j2" />
       <jump line="97" column="68" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/templates/general.yml.j2" />
@@ -959,40 +958,47 @@
       <jump line="97" column="76" filename="$USER_HOME$/verimi-auth/import-export-service/build.gradle" />
       <jump line="65" column="5" filename="$USER_HOME$/verimi-auth/import-export-service/build.gradle" />
       <jump line="51" column="8" filename="$USER_HOME$/verimi-auth/import-export-service/src/test/java/com/dipp/basket/service/query/email/EmailScopeDataProviderTest.java" />
+      <jump line="78" column="13" filename="$USER_HOME$/verimi-auth/import-export-service/src/test/java/com/dipp/basket/service/query/email/EmailScopeDataProviderTest.java" />
+      <jump line="56" column="13" filename="$USER_HOME$/verimi-auth/import-export-service/src/test/java/com/dipp/basket/service/query/email/EmailScopeDataProviderTest.java" />
+      <jump line="38" column="33" filename="$USER_HOME$/verimi-auth/import-export-service/src/test/java/com/dipp/basket/service/query/email/EmailScopeDataProviderTest.java" />
+      <jump line="74" column="62" filename="$USER_HOME$/verimi-auth/import-export-service/src/test/java/com/dipp/basket/service/query/email/EmailScopeDataProviderTest.java" />
+      <jump line="130" column="31" filename="$USER_HOME$/verimi-auth/import-export-service/src/test/java/com/dipp/basket/service/query/email/EmailScopeDataProviderTest.java" />
+      <jump line="101" column="49" filename="$USER_HOME$/verimi-auth/import-export-service/src/test/java/com/dipp/basket/service/query/email/EmailScopeDataProviderTest.java" />
+      <jump line="35" column="41" filename="$USER_HOME$/verimi-auth/import-export-service/src/main/java/com/dipp/basket/service/query/email/EmailScopeDataProvider.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>added temporary user check to decide which email address to return</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>added temporary user check to decide which email address to return</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcHRJbnNBcGlcPg==</text>
+        <text encoding="base64">XDxjcmVhdGVWZXJpZmllZEVtYWlsc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGVtYWlsUXVlcnlDbGllbnQuZmluZEFsbFZlcmlmaWVkRW1haWxCeVVpZChhbnkoKSkpLnRoZW5SZXR1cm4oY3JlYXRlRW1haWxzKCkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExpc3Q8RW1haWxSZXNwb25zZURlcHJlY2F0ZWQ+IGNyZWF0ZVZlcmlmaWVkRW1haWxzKCkgewogICAgICAgIEVtYWlsUmVzcG9uc2VEZXByZWNhdGVkIGVtYWlsMSA9IG5ldyBFbWFpbFJlc3BvbnNlRGVwcmVjYXRlZCgpOwogICAgICAgIGVtYWlsMS5zZXRQayhuZXcgRW1haWxSZXNwb25zZURlcHJlY2F0ZWRQaygpLmVtYWlsSWQoRU1BSUxfSUQpKTsKICAgICAgICBlbWFpbDEuc2V0RW1haWwoImpvbm55QHRyYXAuY29tIik7CiAgICAgICAgZW1haWwxLnNldENvbnRhY3QodHJ1ZSk7CiAgICAgICAgZW1haWwxLnNldFN0YW5kYXJkKHRydWUpOwogICAgICAgIGVtYWlsMS5zZXRWZXJpZmllZCh0cnVlKTsKCiAgICAgICAgRW1haWxSZXNwb25zZURlcHJlY2F0ZWQgZW1haWwyID0gbmV3IEVtYWlsUmVzcG9uc2VEZXByZWNhdGVkKCk7CiAgICAgICAgZW1haWwyLnNldFBrKG5ldyBFbWFpbFJlc3BvbnNlRGVwcmVjYXRlZFBrKCkuZW1haWxJZChFTUFJTF9JRCkpOwogICAgICAgIGVtYWlsMi5zZXRFbWFpbCgidXNlckBleGFtcGxlLm9yZyIpOwogICAgICAgIGVtYWlsMi5zZXRDb250YWN0KHRydWUpOwogICAgICAgIGVtYWlsMi5zZXRTdGFuZGFyZCh0cnVlKTsKICAgICAgICBlbWFpbDIuc2V0VmVyaWZpZWQodHJ1ZSk7CgogICAgICAgIExpc3Q8RW1haWxSZXNwb25zZURlcHJlY2F0ZWQ+IGVtYWlscyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGVtYWlscy5hZGQoZW1haWwxKTsKICAgICAgICBlbWFpbHMuYWRkKGVtYWlsMik7CiAgICAgICAgcmV0dXJuIGVtYWlsczsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLnV0aWwuc3RyZWFtLkNvbGxlY3RvcnMuKjsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGVtYWlsUXVlcnlDbGllbnQuZmluZEFsbFZlcmlmaWVkRW1haWxCeVVpZChhbnkoKSkpLnRoZW5SZXR1cm4oY3JlYXRlRW1haWxzKCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGVtYWlsUXVlcnlDbGllbnQuZmluZEFsbFZlcmlmaWVkRW1haWxCeVVpZChhbnkoKSkpLnRoZW5SZXR1cm4oY3JlYXRlRW1haWxzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBlbWFpbHMuYWRkKGVtYWlsMik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBFbWFpbFJlc3BvbnNlRGVwcmVjYXRlZCBlbWFpbDIgPSBuZXcgRW1haWxSZXNwb25zZURlcHJlY2F0ZWQoKTsKICAgICAgICBlbWFpbDIuc2V0UGsobmV3IEVtYWlsUmVzcG9uc2VEZXByZWNhdGVkUGsoKS5lbWFpbElkKEVNQUlMX0lEKSk7CiAgICAgICAgZW1haWwyLnNldEVtYWlsKCJ1c2VyQGV4YW1wbGUub3JnIik7CiAgICAgICAgZW1haWwyLnNldENvbnRhY3QodHJ1ZSk7CiAgICAgICAgZW1haWwyLnNldFN0YW5kYXJkKHRydWUpOwogICAgICAgIGVtYWlsMi5zZXRWZXJpZmllZCh0cnVlKTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LmdldAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVXNlclN0YXR1c0NvbnRyb2xsZXJBcGlDbGllbnQgdXNlclN0YXR1c0NvbnRyb2xsZXJBcGlDbGllbnQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrLnNlc3Npb24nLCBuYW1lOiAnc3ByaW5nLXNlc3Npb24nLCB2ZXJzaW9uOiAnMS4yLjIuUkVMRUFTRScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGVtYWlsQ2xpZW50LmZpbmRBbGxWZXJpZmllZEVtYWlsQnlVaWQoY29udGV4dC5nZXREaXBwVG9rZW4oKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3RNYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1012,19 +1018,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmltcG9ydGV4cG9ydC5jbGllbnQuZmVpZ24ubW9kZWwuSW5hY3RpdmVCYXNrZXRSZXNwb25zZTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZW1haWxDbGllbnQuZmluZEFsbFZlcmlmaWVkRW1haWxCeVVpZChjb250ZXh0LmdldERpcHBUb2tlbigpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0IGVtYWlsLCB1aWQgZnJvbSBjb250YWN0LmVtYWlsIHdoZXJlIGVtYWlsLmVtYWlsIGxpa2UgJ3NrMCVAdGUuc3QnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0VOQUJMRUQvRElTQUJMRUQv</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcHRJbnNBcGlcPg==</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVWZXJpZmllZEVtYWlsc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcHRJbnNBcGlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVWZXJpZmllZEVtYWlsc1w+</last-pattern>
       <last-replace>DISABLED</last-replace>
       <last-substitute>ENABLED</last-substitute>
       <last-dir>-1</last-dir>
@@ -1032,9 +1038,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isusertempo</entry>
-        <entry encoding="base64">XDxnZXRSZWRpcmVjdFJlc3BvbnNlRm9yTmZhXD4=</entry>
-        <entry>service_port</entry>
         <entry encoding="base64">XDxpc0lubGluZUlkZW50aWZpY2F0aW9uRmxvd1w+</entry>
         <entry>identification</entry>
         <entry>error</entry>
@@ -1052,6 +1055,9 @@
         <entry>security</entry>
         <entry encoding="base64">XDxzZWN1cml0eUFwaVw+</entry>
         <entry encoding="base64">XDxvcHRJbnNBcGlcPg==</entry>
+        <entry encoding="base64">XDx1c2VyU3RhdHVzQ29udHJvbGxlckFwaUNsaWVudFw+</entry>
+        <entry encoding="base64">XDxWRVJJRklFRFw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVWZXJpZmllZEVtYWlsc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
