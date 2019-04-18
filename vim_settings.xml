@@ -98,6 +98,12 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="18" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6cfa95cf-bd66-4536-9d63-1c85797ecafa/console_8.sql" timestamp="1555585137831">
+        <mark key="[" line="0" column="63" />
+        <mark key="]" line="0" column="63" />
+        <mark key="^" line="0" column="63" />
+        <mark key="." line="0" column="63" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/nfa/NfaSpecFixtures.groovy" timestamp="1554793449894">
         <mark key="'" line="51" column="76" />
         <mark key="[" line="63" column="78" />
@@ -447,7 +453,7 @@
         <mark key="'" line="103" column="80" />
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="89" />
-        <mark key="." line="144" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/WireMockIntegrationTest.java" timestamp="1554451355609">
         <mark key="[" line="22" column="21" />
@@ -530,6 +536,9 @@
         <mark key="]" line="109" column="132" />
         <mark key="." line="109" column="132" />
         <mark key="^" line="109" column="215" />
+      </file>
+      <file name="/postgres.user_status.userstatus [postgres@mobile]" timestamp="1555585006473">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/mobileflow/MobileAuthorizationControllerTest.groovy" timestamp="1554968950867">
         <mark key="[" line="105" column="60" />
@@ -772,7 +781,7 @@
         <mark key="^" line="57" column="52" />
         <mark key="." line="57" column="52" />
       </file>
-      <file name="/dummy.sql" timestamp="1555506411303">
+      <file name="/dummy.sql" timestamp="1555585008085">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" timestamp="1555400786278">
@@ -829,7 +838,7 @@
         <mark key="." line="99" column="39" />
         <mark key="^" line="99" column="39" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/import-export-service/build.gradle" timestamp="1555580779095">
+      <file name="$USER_HOME$/verimi-auth/import-export-service/build.gradle" timestamp="1555584851504">
         <mark key="'" line="65" column="5" />
         <mark key="[" line="82" column="36" />
         <mark key="]" line="82" column="36" />
@@ -955,7 +964,6 @@
       <jump line="105" column="0" filename="$USER_HOME$/verimi-auth/import-export-service/build.gradle" />
       <jump line="103" column="80" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
       <jump line="97" column="76" filename="$USER_HOME$/verimi-auth/import-export-service/build.gradle" />
-      <jump line="65" column="5" filename="$USER_HOME$/verimi-auth/import-export-service/build.gradle" />
       <jump line="51" column="8" filename="$USER_HOME$/verimi-auth/import-export-service/src/test/java/com/dipp/basket/service/query/email/EmailScopeDataProviderTest.java" />
       <jump line="78" column="13" filename="$USER_HOME$/verimi-auth/import-export-service/src/test/java/com/dipp/basket/service/query/email/EmailScopeDataProviderTest.java" />
       <jump line="56" column="13" filename="$USER_HOME$/verimi-auth/import-export-service/src/test/java/com/dipp/basket/service/query/email/EmailScopeDataProviderTest.java" />
@@ -965,16 +973,17 @@
       <jump line="101" column="49" filename="$USER_HOME$/verimi-auth/import-export-service/src/test/java/com/dipp/basket/service/query/email/EmailScopeDataProviderTest.java" />
       <jump line="35" column="41" filename="$USER_HOME$/verimi-auth/import-export-service/src/main/java/com/dipp/basket/service/query/email/EmailScopeDataProvider.java" />
       <jump line="228" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session-core/2.0.10.RELEASE/488569ea6aa376c704ae5414f1c4169fa10f7abb/spring-session-core-2.0.10.RELEASE-sources.jar!/org/springframework/session/web/http/SessionRepositoryFilter.java" />
+      <jump line="65" column="5" filename="$USER_HOME$/verimi-auth/import-export-service/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>added clarification variable</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>added clarification variable</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21taXRTZXNzaW9uXD4=</text>
+        <text encoding="base64">XDxzZWN1cml0eUFwaVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExpc3Q8RW1haWxSZXNwb25zZURlcHJlY2F0ZWQ+IGNyZWF0ZVZlcmlmaWVkRW1haWxzKCkgewogICAgICAgIEVtYWlsUmVzcG9uc2VEZXByZWNhdGVkIGVtYWlsMSA9IG5ldyBFbWFpbFJlc3BvbnNlRGVwcmVjYXRlZCgpOwogICAgICAgIGVtYWlsMS5zZXRQayhuZXcgRW1haWxSZXNwb25zZURlcHJlY2F0ZWRQaygpLmVtYWlsSWQoRU1BSUxfSUQpKTsKICAgICAgICBlbWFpbDEuc2V0RW1haWwoImpvbm55QHRyYXAuY29tIik7CiAgICAgICAgZW1haWwxLnNldENvbnRhY3QodHJ1ZSk7CiAgICAgICAgZW1haWwxLnNldFN0YW5kYXJkKHRydWUpOwogICAgICAgIGVtYWlsMS5zZXRWZXJpZmllZCh0cnVlKTsKCiAgICAgICAgRW1haWxSZXNwb25zZURlcHJlY2F0ZWQgZW1haWwyID0gbmV3IEVtYWlsUmVzcG9uc2VEZXByZWNhdGVkKCk7CiAgICAgICAgZW1haWwyLnNldFBrKG5ldyBFbWFpbFJlc3BvbnNlRGVwcmVjYXRlZFBrKCkuZW1haWxJZChFTUFJTF9JRCkpOwogICAgICAgIGVtYWlsMi5zZXRFbWFpbCgidXNlckBleGFtcGxlLm9yZyIpOwogICAgICAgIGVtYWlsMi5zZXRDb250YWN0KHRydWUpOwogICAgICAgIGVtYWlsMi5zZXRTdGFuZGFyZCh0cnVlKTsKICAgICAgICBlbWFpbDIuc2V0VmVyaWZpZWQodHJ1ZSk7CgogICAgICAgIExpc3Q8RW1haWxSZXNwb25zZURlcHJlY2F0ZWQ+IGVtYWlscyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGVtYWlscy5hZGQoZW1haWwxKTsKICAgICAgICBlbWFpbHMuYWRkKGVtYWlsMik7CiAgICAgICAgcmV0dXJuIGVtYWlsczsKICAgIH0K</text>
@@ -1028,12 +1037,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21taXRTZXNzaW9uXD4=</last-search>
+      <last-search encoding="base64">XDxzZWN1cml0eUFwaVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21taXRTZXNzaW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZWN1cml0eUFwaVw+</last-pattern>
       <last-replace>DISABLED</last-replace>
       <last-substitute>ENABLED</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1052,12 +1061,12 @@
         <entry encoding="base64">XDxDVVJSRU5UX1NFU1NJT05fQVRUUlw+</entry>
         <entry encoding="base64">XDxyZW5kZXJDb25zZW50UGFnZVw+</entry>
         <entry>security</entry>
-        <entry encoding="base64">XDxzZWN1cml0eUFwaVw+</entry>
         <entry encoding="base64">XDxvcHRJbnNBcGlcPg==</entry>
         <entry encoding="base64">XDx1c2VyU3RhdHVzQ29udHJvbGxlckFwaUNsaWVudFw+</entry>
         <entry encoding="base64">XDxWRVJJRklFRFw+</entry>
         <entry encoding="base64">XDxjcmVhdGVWZXJpZmllZEVtYWlsc1w+</entry>
         <entry encoding="base64">XDxjb21taXRTZXNzaW9uXD4=</entry>
+        <entry encoding="base64">XDxzZWN1cml0eUFwaVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
