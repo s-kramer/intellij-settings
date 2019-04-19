@@ -558,6 +558,12 @@
         <mark key="^" line="13" column="73" />
         <mark key="." line="13" column="73" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" timestamp="1555661341485">
+        <mark key="'" line="19" column="16" />
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="31" column="68" />
+        <mark key="." line="31" column="34" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1555506449030">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -787,11 +793,8 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" timestamp="1555400786278">
         <mark key="'" line="96" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555660384517">
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="1" />
-        <mark key="^" line="0" column="37" />
-        <mark key="." line="1" column="1" />
+      <file name="/Dummy.txt" timestamp="1555661347176">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileSpAuthShortcutService.java" timestamp="1555504608911">
         <mark key="'" line="69" column="18" />
@@ -874,7 +877,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/templates/general.yml.j2" />
       <jump line="97" column="68" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/templates/general.yml.j2" />
       <jump line="108" column="59" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/templates/general.yml.j2" />
       <jump line="113" column="59" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/templates/general.yml.j2" />
@@ -974,46 +976,44 @@
       <jump line="35" column="41" filename="$USER_HOME$/verimi-auth/import-export-service/src/main/java/com/dipp/basket/service/query/email/EmailScopeDataProvider.java" />
       <jump line="228" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session-core/2.0.10.RELEASE/488569ea6aa376c704ae5414f1c4169fa10f7abb/spring-session-core-2.0.10.RELEASE-sources.jar!/org/springframework/session/web/http/SessionRepositoryFilter.java" />
       <jump line="65" column="5" filename="$USER_HOME$/verimi-auth/import-export-service/build.gradle" />
+      <jump line="19" column="16" filename="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>EV-22422 added clarification variable
-
-
-DEV-22422 fixed dependency order</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW5saW5lLW9wZXJhdGlvbnMgaW50cm9kdWN0aW9uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>DEV-22316-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWN1cml0eUFwaVw+</text>
+        <text>import</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExpc3Q8RW1haWxSZXNwb25zZURlcHJlY2F0ZWQ+IGNyZWF0ZVZlcmlmaWVkRW1haWxzKCkgewogICAgICAgIEVtYWlsUmVzcG9uc2VEZXByZWNhdGVkIGVtYWlsMSA9IG5ldyBFbWFpbFJlc3BvbnNlRGVwcmVjYXRlZCgpOwogICAgICAgIGVtYWlsMS5zZXRQayhuZXcgRW1haWxSZXNwb25zZURlcHJlY2F0ZWRQaygpLmVtYWlsSWQoRU1BSUxfSUQpKTsKICAgICAgICBlbWFpbDEuc2V0RW1haWwoImpvbm55QHRyYXAuY29tIik7CiAgICAgICAgZW1haWwxLnNldENvbnRhY3QodHJ1ZSk7CiAgICAgICAgZW1haWwxLnNldFN0YW5kYXJkKHRydWUpOwogICAgICAgIGVtYWlsMS5zZXRWZXJpZmllZCh0cnVlKTsKCiAgICAgICAgRW1haWxSZXNwb25zZURlcHJlY2F0ZWQgZW1haWwyID0gbmV3IEVtYWlsUmVzcG9uc2VEZXByZWNhdGVkKCk7CiAgICAgICAgZW1haWwyLnNldFBrKG5ldyBFbWFpbFJlc3BvbnNlRGVwcmVjYXRlZFBrKCkuZW1haWxJZChFTUFJTF9JRCkpOwogICAgICAgIGVtYWlsMi5zZXRFbWFpbCgidXNlckBleGFtcGxlLm9yZyIpOwogICAgICAgIGVtYWlsMi5zZXRDb250YWN0KHRydWUpOwogICAgICAgIGVtYWlsMi5zZXRTdGFuZGFyZCh0cnVlKTsKICAgICAgICBlbWFpbDIuc2V0VmVyaWZpZWQodHJ1ZSk7CgogICAgICAgIExpc3Q8RW1haWxSZXNwb25zZURlcHJlY2F0ZWQ+IGVtYWlscyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGVtYWlscy5hZGQoZW1haWwxKTsKICAgICAgICBlbWFpbHMuYWRkKGVtYWlsMik7CiAgICAgICAgcmV0dXJuIGVtYWlsczsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW5saW5lLW9wZXJhdGlvbnMgaW50cm9kdWN0aW9uCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>EV-22422 added clarification variable
 
 
 DEV-22422 fixed dependency order</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICdzZWN1cml0eUFwaScgICAgICAgICAgOiAnREVWLTIxNjI0LWlubGluZS1yZWdpc3RyYXRpb24tc2VjdXJpdHktMS1TTkFQU0hPVCcK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLnV0aWwuc3RyZWFtLkNvbGxlY3RvcnMuKjsKCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBlbWFpbHMuYWRkKGVtYWlsMik7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBFbWFpbFJlc3BvbnNlRGVwcmVjYXRlZCBlbWFpbDIgPSBuZXcgRW1haWxSZXNwb25zZURlcHJlY2F0ZWQoKTsKICAgICAgICBlbWFpbDIuc2V0UGsobmV3IEVtYWlsUmVzcG9uc2VEZXByZWNhdGVkUGsoKS5lbWFpbElkKEVNQUlMX0lEKSk7CiAgICAgICAgZW1haWwyLnNldEVtYWlsKCJ1c2VyQGV4YW1wbGUub3JnIik7CiAgICAgICAgZW1haWwyLnNldENvbnRhY3QodHJ1ZSk7CiAgICAgICAgZW1haWwyLnNldFN0YW5kYXJkKHRydWUpOwogICAgICAgIGVtYWlsMi5zZXRWZXJpZmllZCh0cnVlKTsKCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVXNlclN0YXR1c0NvbnRyb2xsZXJBcGlDbGllbnQgdXNlclN0YXR1c0NvbnRyb2xsZXJBcGlDbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBFbWFpbFJlc3BvbnNlRGVwcmVjYXRlZCBlbWFpbDIgPSBuZXcgRW1haWxSZXNwb25zZURlcHJlY2F0ZWQoKTsKICAgICAgICBlbWFpbDIuc2V0UGsobmV3IEVtYWlsUmVzcG9uc2VEZXByZWNhdGVkUGsoKS5lbWFpbElkKEVNQUlMX0lEKSk7CiAgICAgICAgZW1haWwyLnNldEVtYWlsKCJ1c2VyQGV4YW1wbGUub3JnIik7CiAgICAgICAgZW1haWwyLnNldENvbnRhY3QodHJ1ZSk7CiAgICAgICAgZW1haWwyLnNldFN0YW5kYXJkKHRydWUpOwogICAgICAgIGVtYWlsMi5zZXRWZXJpZmllZCh0cnVlKTsKCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1033,19 +1033,19 @@ DEV-22422 fixed dependency order</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGVtYWlsQ2xpZW50LmZpbmRBbGxWZXJpZmllZEVtYWlsQnlVaWQoY29udGV4dC5nZXREaXBwVG9rZW4oKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVXNlclN0YXR1c0NvbnRyb2xsZXJBcGlDbGllbnQgdXNlclN0YXR1c0NvbnRyb2xsZXJBcGlDbGllbnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGVtYWlsQ2xpZW50LmZpbmRBbGxWZXJpZmllZEVtYWlsQnlVaWQoY29udGV4dC5nZXREaXBwVG9rZW4oKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0VOQUJMRUQvRElTQUJMRUQv</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWN1cml0eUFwaVw+</last-search>
+      <last-search>import</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWN1cml0eUFwaVw+</last-pattern>
+      <last-pattern>import</last-pattern>
       <last-replace>DISABLED</last-replace>
       <last-substitute>ENABLED</last-substitute>
       <last-dir>1</last-dir>
@@ -1053,7 +1053,6 @@ DEV-22422 fixed dependency order</text>
     </search>
     <history>
       <history-search>
-        <entry>identification</entry>
         <entry>error</entry>
         <entry>ERROR</entry>
         <entry encoding="base64">XDxnZXRFeHBpcmVkVGVtcG9yYXJ5VXNlcnNcPg==</entry>
@@ -1073,6 +1072,7 @@ DEV-22422 fixed dependency order</text>
         <entry encoding="base64">XDxjcmVhdGVWZXJpZmllZEVtYWlsc1w+</entry>
         <entry encoding="base64">XDxjb21taXRTZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxzZWN1cml0eUFwaVw+</entry>
+        <entry>import</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
