@@ -612,6 +612,9 @@
         <mark key="^" line="32" column="51" />
         <mark key="." line="32" column="51" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/MobileLoginShortcutService.java" timestamp="1556089779044">
+        <mark key="'" line="64" column="30" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/nfa/NfaConsentControllerTest.java" timestamp="1554804458233">
         <mark key="'" line="105" column="15" />
         <mark key="[" line="193" column="41" />
@@ -823,8 +826,10 @@
       <file name="/dummy.sql" timestamp="1555663106894">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" timestamp="1555400786278">
-        <mark key="'" line="96" column="41" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" timestamp="1556090819374">
+        <mark key="a" line="187" column="56" />
+        <mark key="'" line="184" column="0" />
+        <mark key="o" line="180" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1556016851903">
         <mark key="[" line="0" column="4" />
@@ -852,8 +857,8 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="67" column="100" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/MobileShortcutService.java" timestamp="1555505119853">
-        <mark key="'" line="202" column="36" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/MobileShortcutService.java" timestamp="1556090547698">
+        <mark key="'" line="239" column="36" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaConsentControllerService.java" timestamp="1554556428683">
         <mark key="[" line="60" column="76" />
@@ -909,12 +914,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="282" column="59" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/templates/service.yml.j2" />
-      <jump line="287" column="59" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/templates/service.yml.j2" />
-      <jump line="360" column="53" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/templates/service.yml.j2" />
-      <jump line="379" column="53" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/templates/service.yml.j2" />
-      <jump line="147" column="19" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
-      <jump line="348" column="86" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="123" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineProcessesService.java" />
       <jump line="51" column="31" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineProcessesService.java" />
       <jump line="41" column="27" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineProcessesService.java" />
@@ -1009,6 +1008,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/assembly/dipp-sit.json" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/assembly/dipp-sit-2.json" />
       <jump line="3" column="9" filename="$USER_HOME$/verimi-auth/assembly/dipp-sit-2.json" />
+      <jump line="112" column="81" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/MobileShortcutService.java" />
+      <jump line="64" column="30" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/MobileLoginShortcutService.java" />
+      <jump line="170" column="26" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
+      <jump line="239" column="36" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/MobileShortcutService.java" />
+      <jump line="187" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
+      <jump line="184" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1018,7 +1023,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>kafka</text>
+        <text encoding="base64">XDxhdXRoUmVzcG9uc2VcPg==</text>
       </register>
       <register name="0" type="4">
         <text>cancellationError</text>
@@ -1075,21 +1080,16 @@ DEV-22422 fixed dependency order</text>
       </register>
     </registers>
     <search>
-      <last-search>kafka</last-search>
+      <last-search encoding="base64">XDxhdXRoUmVzcG9uc2VcPg==</last-search>
       <last-offset />
-      <last-pattern>kafka</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRoUmVzcG9uc2VcPg==</last-pattern>
       <last-replace>DISABLED</last-replace>
       <last-substitute>ENABLED</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidWlsZFNwQXV0aGVudGljYXRpb25SZXNwb25zZVw+</entry>
-        <entry encoding="base64">XDxwb3N0UmVxdWVzdEZvclRva2VuS2V5XD4=</entry>
-        <entry encoding="base64">XDxhY2Nlc3NUb2tlblw+</entry>
-        <entry encoding="base64">XDxpbmFjdGl2ZUJhc2tldFw+</entry>
-        <entry>wrapper</entry>
         <entry encoding="base64">XDxDVVJSRU5UX1NFU1NJT05fQVRUUlw+</entry>
         <entry encoding="base64">XDxyZW5kZXJDb25zZW50UGFnZVw+</entry>
         <entry>security</entry>
@@ -1105,6 +1105,11 @@ DEV-22422 fixed dependency order</text>
         <entry encoding="base64">XDxhc3NlbWJsZVRlbXBvcmFyeVVzZXJDcmVhdGlvblJlc3BvbnNlXD4=</entry>
         <entry encoding="base64">XDxVc2VyU3RhdHVzRmV0Y2hFeGNlcHRpb25cPg==</entry>
         <entry>kafka</entry>
+        <entry encoding="base64">XDxidWlsZFNwTW9iaWxlQXV0aFJlc3BvbnNlXD4=</entry>
+        <entry encoding="base64">XDxhc3NlbWJsZUxvZ2luRm9yTW9iaWxlQ29udGVudFw+</entry>
+        <entry encoding="base64">XDxyZXNwb25zZUJvZHlcPg==</entry>
+        <entry encoding="base64">XDxidWlsZE1vYmlsZUFwcEF1dGhlbnRpY2F0aW9uUmVzcG9uc2VcPg==</entry>
+        <entry encoding="base64">XDxhdXRoUmVzcG9uc2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
