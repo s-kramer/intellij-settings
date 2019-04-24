@@ -527,13 +527,8 @@
       <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/repository/inlineregistration/JdbcTemporaryUserRepository.java" timestamp="1555486224284">
         <mark key="'" line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" timestamp="1556093037571">
-        <mark key="a" line="167" column="7" />
-        <mark key="'" line="295" column="58" />
-        <mark key="[" line="167" column="8" />
-        <mark key="]" line="167" column="30" />
-        <mark key="." line="167" column="30" />
-        <mark key="^" line="167" column="30" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" timestamp="1556100001478">
+        <mark key="'" line="228" column="58" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/configuration/LoginApiGatewayConfiguration.java" timestamp="1554364310901">
         <mark key="[" line="28" column="18" />
@@ -799,7 +794,7 @@
       <file name="$USER_HOME$/verimi-auth/contracts/identity/identityowner-service-contract/contract/swagger.yaml" timestamp="1556095435908">
         <mark key="'" line="2074" column="16" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" timestamp="1556092587677">
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" timestamp="1556099736966">
         <mark key="a" line="187" column="56" />
         <mark key="'" line="184" column="0" />
         <mark key="o" line="180" column="0" />
@@ -883,10 +878,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="34" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineProcessesService.java" />
-      <jump line="94" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineProcessesService.java" />
-      <jump line="95" column="39" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineProcessesService.java" />
-      <jump line="108" column="36" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineProcessesService.java" />
       <jump line="126" column="4" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineProcessesService.java" />
       <jump line="31" column="6" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="47" column="58" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/usercreation/InlineRegistrationUserCreationService.java" />
@@ -983,6 +974,10 @@
       <jump line="85" column="20" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NfaNecessityFilter.java" />
       <jump line="124" column="20" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NfaNecessityFilter.java" />
       <jump line="87" column="11" filename="$USER_HOME$/verimi-auth/contracts/identity/identityowner-service-contract/README.md" />
+      <jump line="148" column="60" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" />
+      <jump line="207" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" />
+      <jump line="232" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" />
+      <jump line="228" column="58" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -992,7 +987,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc05mYVByb3RlY3RlZE1ldGhvZFw+</text>
+        <text encoding="base64">XDxoYW5kbGVMb2dpblBhZ2VOZmFTdGF0dXNSZXNwb25zZVw+</text>
       </register>
       <register name="0" type="4">
         <text>cancellationError</text>
@@ -1049,9 +1044,9 @@ DEV-22422 fixed dependency order</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc05mYVByb3RlY3RlZE1ldGhvZFw+</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVMb2dpblBhZ2VOZmFTdGF0dXNSZXNwb25zZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc05mYVByb3RlY3RlZE1ldGhvZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVMb2dpblBhZ2VOZmFTdGF0dXNSZXNwb25zZVw+</last-pattern>
       <last-replace>DISABLED</last-replace>
       <last-substitute>ENABLED</last-substitute>
       <last-dir>-1</last-dir>
@@ -1059,9 +1054,6 @@ DEV-22422 fixed dependency order</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyU3RhdHVzQ29udHJvbGxlckFwaUNsaWVudFw+</entry>
-        <entry encoding="base64">XDxWRVJJRklFRFw+</entry>
-        <entry encoding="base64">XDxjcmVhdGVWZXJpZmllZEVtYWlsc1w+</entry>
         <entry encoding="base64">XDxjb21taXRTZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxzZWN1cml0eUFwaVw+</entry>
         <entry>import</entry>
@@ -1079,6 +1071,9 @@ DEV-22422 fixed dependency order</text>
         <entry encoding="base64">XDxORkFDb25maWd1cmF0aW9uVXBkYXRlUmVxdWVzdFw+</entry>
         <entry encoding="base64">XDxpc05mYVJlcXVpcmVkXD4=</entry>
         <entry encoding="base64">XDxpc05mYVByb3RlY3RlZE1ldGhvZFw+</entry>
+        <entry encoding="base64">XDxhdXRoZW50aWNhdGVJZGVudGl0eU93bmVyXD4=</entry>
+        <entry encoding="base64">XDxhY2NlcHRMb2dpblJlcXVlc3RcPg==</entry>
+        <entry encoding="base64">XDxoYW5kbGVMb2dpblBhZ2VOZmFTdGF0dXNSZXNwb25zZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
