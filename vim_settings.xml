@@ -243,6 +243,9 @@
         <mark key="." line="104" column="47" />
         <mark key="^" line="104" column="47" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/assembly/dipp-sit.json" timestamp="1556087161435">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaServicesAdapter.java" timestamp="1555077303393">
         <mark key="'" line="27" column="13" />
         <mark key="[" line="47" column="26" />
@@ -374,6 +377,9 @@
         <mark key="." line="105" column="21" />
         <mark key="^" line="105" column="21" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-1.json" timestamp="1556087153484">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/consent/ConsentRejectionServiceTest.java" timestamp="1554898278734">
         <mark key="'" line="69" column="8" />
         <mark key="[" line="11" column="0" />
@@ -478,6 +484,9 @@
         <mark key="]" line="148" column="67" />
         <mark key="^" line="148" column="67" />
         <mark key="." line="148" column="67" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/assembly/dipp-sit-2.json" timestamp="1556087169499">
+        <mark key="'" line="3" column="9" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaCancellationContest.java" timestamp="1554641207355">
         <mark key="[" line="5" column="26" />
@@ -900,10 +909,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="61" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/templates/service.yml.j2" />
-      <jump line="158" column="58" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/templates/service.yml.j2" />
-      <jump line="161" column="31" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/templates/service.yml.j2" />
-      <jump line="267" column="68" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/templates/service.yml.j2" />
       <jump line="282" column="59" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/templates/service.yml.j2" />
       <jump line="287" column="59" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/templates/service.yml.j2" />
       <jump line="360" column="53" filename="$USER_HOME$/verimi-auth/cort-devops/ansible/cd/roles/deploy-service-k8s/templates/service.yml.j2" />
@@ -1000,6 +1005,10 @@
       <jump line="41" column="16" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/common/api/client/CustomTemporaryRegistrationControllerApiClient.java" />
       <jump line="44" column="60" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/usercreation/InlineRegistrationUserCreationController.java" />
       <jump line="6" column="51" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/userstatus/InlineRegistrationUserStatusService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/assembly/dipp-dev-1.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/assembly/dipp-sit.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/assembly/dipp-sit-2.json" />
+      <jump line="3" column="9" filename="$USER_HOME$/verimi-auth/assembly/dipp-sit-2.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1009,7 +1018,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVc2VyU3RhdHVzRmV0Y2hFeGNlcHRpb25cPg==</text>
+        <text>kafka</text>
       </register>
       <register name="0" type="4">
         <text>cancellationError</text>
@@ -1066,17 +1075,16 @@ DEV-22422 fixed dependency order</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVc2VyU3RhdHVzRmV0Y2hFeGNlcHRpb25cPg==</last-search>
+      <last-search>kafka</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVc2VyU3RhdHVzRmV0Y2hFeGNlcHRpb25cPg==</last-pattern>
+      <last-pattern>kafka</last-pattern>
       <last-replace>DISABLED</last-replace>
       <last-substitute>ENABLED</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>active</entry>
         <entry encoding="base64">XDxidWlsZFNwQXV0aGVudGljYXRpb25SZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxwb3N0UmVxdWVzdEZvclRva2VuS2V5XD4=</entry>
         <entry encoding="base64">XDxhY2Nlc3NUb2tlblw+</entry>
@@ -1096,6 +1104,7 @@ DEV-22422 fixed dependency order</text>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxhc3NlbWJsZVRlbXBvcmFyeVVzZXJDcmVhdGlvblJlc3BvbnNlXD4=</entry>
         <entry encoding="base64">XDxVc2VyU3RhdHVzRmV0Y2hFeGNlcHRpb25cPg==</entry>
+        <entry>kafka</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
