@@ -596,11 +596,11 @@
         <mark key="." line="13" column="73" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" timestamp="1556104070933">
-        <mark key="'" line="98" column="56" />
-        <mark key="[" line="98" column="56" />
-        <mark key="]" line="98" column="79" />
-        <mark key="." line="98" column="79" />
-        <mark key="^" line="98" column="79" />
+        <mark key="'" line="96" column="56" />
+        <mark key="[" line="96" column="56" />
+        <mark key="]" line="96" column="79" />
+        <mark key="." line="96" column="79" />
+        <mark key="^" line="96" column="79" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/configuration/BlackListedHeadersConfig.java" timestamp="1554368577748">
         <mark key="[" line="15" column="8" />
@@ -874,11 +874,11 @@
         <mark key="'" line="184" column="0" />
         <mark key="o" line="180" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556103717013">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="0" column="35" />
+      <file name="/Dummy.txt" timestamp="1556106772212">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="48" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileSpAuthShortcutService.java" timestamp="1555504608911">
         <mark key="'" line="69" column="18" />
@@ -1062,11 +1062,11 @@
       <jump line="265" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmlkZW50aXR5b3duZXIuY2xpZW50LmZlaWduLm1vZGVsLk5GQUNvbmZpZ3VyYXRpb25SZXNwb25zZQo=</text>
+      <register name="&quot;" type="4">
+        <text>introduced enum for NFA required status</text>
       </register>
       <register name="-" type="4">
-        <text>new NFAConfigurationResponse().status(status)</text>
+        <text>introduced enum for NFA required status</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZmFDb25maWd1cmF0aW9uU2VydmljZVw+</text>
