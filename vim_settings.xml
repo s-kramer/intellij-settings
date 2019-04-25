@@ -121,8 +121,8 @@
         <mark key="^" line="13" column="44" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/translations/BasketTranslator.java" timestamp="1556194837678" />
-      <file name="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" timestamp="1556203684935">
-        <mark key="'" line="944" column="30" />
+      <file name="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" timestamp="1556205469252">
+        <mark key="'" line="125" column="13" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/hydra/LoginHydraService.java" timestamp="1555395555158">
         <mark key="'" line="118" column="23" />
@@ -927,11 +927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="11" filename="$USER_HOME$/verimi-auth/contracts/identity/identityowner-service-contract/README.md" />
-      <jump line="148" column="60" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" />
-      <jump line="207" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" />
-      <jump line="232" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" />
-      <jump line="228" column="58" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" />
       <jump line="89" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" />
       <jump line="81" column="43" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" />
       <jump line="86" column="16" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" />
@@ -1027,6 +1022,11 @@
       <jump line="941" column="31" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" />
       <jump line="944" column="30" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" />
       <jump line="357" column="23" filename="/api-gateway-service.yml" />
+      <jump line="994" column="16" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" />
+      <jump line="992" column="4" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" />
+      <jump line="122" column="16" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" />
+      <jump line="124" column="16" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" />
+      <jump line="125" column="13" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1036,7 +1036,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>account-selection</text>
+        <text>inline-registration</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBfICogc2VydmljZVByb3ZpZGVyQXBpRmFjYWRlLmlzTmZhUmVxdWlyZWQoQ0xJRU5UX0lEX1ZBTFVFLCBkaXBwVG9rZW4pID4+IGlzTmZhRW5hYmxlZAo=</text>
@@ -1090,9 +1090,9 @@
       </register>
     </registers>
     <search>
-      <last-search>account-selection</last-search>
+      <last-search>inline-registration</last-search>
       <last-offset />
-      <last-pattern>account-selection</last-pattern>
+      <last-pattern>inline-registration</last-pattern>
       <last-replace>DISABLED</last-replace>
       <last-substitute>ENABLED</last-substitute>
       <last-dir>1</last-dir>
@@ -1100,7 +1100,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxPVFBfUkVRVUlSRURcPg==</entry>
         <entry encoding="base64">XDxsb2dpbkFwcENvbnRleHRTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxsb2dpbkFwcENvbnRleHRcPg==</entry>
         <entry encoding="base64">XDxMb2dpbkFwcENvbnRleHRcPg==</entry>
@@ -1120,6 +1119,7 @@
         <entry>api-gateway</entry>
         <entry>account</entry>
         <entry>account-selection</entry>
+        <entry>inline-registration</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
