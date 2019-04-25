@@ -121,6 +121,9 @@
         <mark key="^" line="13" column="44" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/translations/BasketTranslator.java" timestamp="1556194837678" />
+      <file name="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" timestamp="1556203684935">
+        <mark key="'" line="944" column="30" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/hydra/LoginHydraService.java" timestamp="1555395555158">
         <mark key="'" line="118" column="23" />
         <mark key="[" line="71" column="0" />
@@ -919,12 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2151" column="14" filename="$USER_HOME$/verimi-auth/contracts/identity/identityowner-service-contract/contract/swagger.yaml" />
-      <jump line="4283" column="2" filename="$USER_HOME$/verimi-auth/contracts/identity/identityowner-service-contract/contract/swagger.yaml" />
-      <jump line="2069" column="31" filename="$USER_HOME$/verimi-auth/contracts/identity/identityowner-service-contract/contract/swagger.yaml" />
-      <jump line="4265" column="2" filename="$USER_HOME$/verimi-auth/contracts/identity/identityowner-service-contract/contract/swagger.yaml" />
-      <jump line="2074" column="16" filename="$USER_HOME$/verimi-auth/contracts/identity/identityowner-service-contract/contract/swagger.yaml" />
-      <jump line="85" column="20" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NfaNecessityFilter.java" />
       <jump line="124" column="20" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NfaNecessityFilter.java" />
       <jump line="87" column="11" filename="$USER_HOME$/verimi-auth/contracts/identity/identityowner-service-contract/README.md" />
       <jump line="148" column="60" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" />
@@ -1019,6 +1016,12 @@
       <jump line="94" column="2" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="93" column="2" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="1238" column="6" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="4" column="0" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" />
+      <jump line="464" column="46" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" />
+      <jump line="465" column="26" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" />
+      <jump line="940" column="37" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" />
+      <jump line="941" column="31" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" />
+      <jump line="944" column="30" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1028,7 +1031,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>api-gateway</text>
+        <text>account-selection</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBfICogc2VydmljZVByb3ZpZGVyQXBpRmFjYWRlLmlzTmZhUmVxdWlyZWQoQ0xJRU5UX0lEX1ZBTFVFLCBkaXBwVG9rZW4pID4+IGlzTmZhRW5hYmxlZAo=</text>
@@ -1082,9 +1085,9 @@
       </register>
     </registers>
     <search>
-      <last-search>api-gateway</last-search>
+      <last-search>account-selection</last-search>
       <last-offset />
-      <last-pattern>api-gateway</last-pattern>
+      <last-pattern>account-selection</last-pattern>
       <last-replace>DISABLED</last-replace>
       <last-substitute>ENABLED</last-substitute>
       <last-dir>1</last-dir>
@@ -1092,8 +1095,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dpblN1Ym1pdFJlc3BvbnNlMVw+</entry>
-        <entry encoding="base64">XDxtYXliZUxvZ2luUGFnZU5mYVN0YXR1c1w+</entry>
         <entry encoding="base64">XDxPVFBfUkVRVUlSRURcPg==</entry>
         <entry encoding="base64">XDxsb2dpbkFwcENvbnRleHRTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxsb2dpbkFwcENvbnRleHRcPg==</entry>
@@ -1112,6 +1113,8 @@
         <entry encoding="base64">XDxjcmVhdGVQb3J0YWxTZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDx3aGl0ZUxpc3RVcmxQYXR0ZXJuXD4=</entry>
         <entry>api-gateway</entry>
+        <entry>account</entry>
+        <entry>account-selection</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
