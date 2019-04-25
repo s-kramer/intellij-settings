@@ -442,6 +442,11 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageController.java" timestamp="1556192075655">
         <mark key="'" line="45" column="35" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/inlineregistration/TemporaryUserExpiredSessionCleanup.java" timestamp="1556200346861">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="114" />
+        <mark key="." line="40" column="111" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/verimi/domain/LoginPageNfaStatus.java" timestamp="1556107270950">
         <mark key="'" line="14" column="4" />
         <mark key="[" line="10" column="35" />
@@ -834,6 +839,12 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-1/security-service.yml" timestamp="1556200293189">
+        <mark key="[" line="215" column="4" />
+        <mark key="]" line="215" column="38" />
+        <mark key="^" line="215" column="44" />
+        <mark key="." line="215" column="44" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/consent/ConsentPageFactoryTest.java" timestamp="1554372576523">
         <mark key="[" line="57" column="53" />
         <mark key="]" line="57" column="52" />
@@ -1024,11 +1035,11 @@
       <jump line="96" column="36" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/PortalSessionFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBTY2hlZHVsZWQoZml4ZWREZWxheVN0cmluZyA9ICIke2lubGluZVJlZ2lzdHJhdGlvbi50ZW1wb3JhcnlVc2VyLmV4cGlyZWRTZXNzaW9uQ2xlYW51cEludGVydmFsTWlsbGlzOjYwMDAwfSIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVQb3J0YWxTZXNzaW9uXD4=</text>
