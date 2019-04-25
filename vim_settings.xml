@@ -545,6 +545,11 @@
         <mark key="." line="141" column="66" />
         <mark key="^" line="141" column="66" />
       </file>
+      <file name="/api-gateway-service.yml" timestamp="1556204545872">
+        <mark key="'" line="357" column="23" />
+        <mark key="[" line="967" column="0" />
+        <mark key="]" line="967" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" timestamp="1556110926862">
         <mark key="'" line="216" column="49" />
         <mark key="[" line="317" column="33" />
@@ -922,7 +927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="20" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NfaNecessityFilter.java" />
       <jump line="87" column="11" filename="$USER_HOME$/verimi-auth/contracts/identity/identityowner-service-contract/README.md" />
       <jump line="148" column="60" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" />
       <jump line="207" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" />
@@ -1022,13 +1026,14 @@
       <jump line="940" column="37" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" />
       <jump line="941" column="31" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" />
       <jump line="944" column="30" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/api-gateway-service.yml" />
+      <jump line="357" column="23" filename="/api-gateway-service.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBTY2hlZHVsZWQoZml4ZWREZWxheVN0cmluZyA9ICIke2lubGluZVJlZ2lzdHJhdGlvbi50ZW1wb3JhcnlVc2VyLmV4cGlyZWRTZXNzaW9uQ2xlYW51cEludGVydmFsTWlsbGlzOjYwMDAwfSIpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>account-selection</text>
