@@ -886,6 +886,9 @@
         <mark key="]" line="54" column="21" />
         <mark key="." line="54" column="21" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/ActivityFilter.java" timestamp="1556201707413">
+        <mark key="'" line="95" column="37" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaConsentControllerService.java" timestamp="1554556428683">
         <mark key="[" line="60" column="76" />
         <mark key="]" line="60" column="76" />
@@ -933,9 +936,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="30" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/MobileLoginShortcutService.java" />
-      <jump line="170" column="26" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
-      <jump line="187" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
       <jump line="184" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
       <jump line="239" column="36" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/MobileShortcutService.java" />
       <jump line="62" column="27" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/VerifiedDocumentService.java" />
@@ -1033,6 +1033,9 @@
       <jump line="97" column="9" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
       <jump line="33" column="0" filename="$USER_HOME$/verimi-auth/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="96" column="36" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/PortalSessionFilter.java" />
+      <jump line="43" column="26" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/ActivityFilter.java" />
+      <jump line="68" column="13" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/ActivityFilter.java" />
+      <jump line="95" column="37" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/ActivityFilter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1042,7 +1045,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVQb3J0YWxTZXNzaW9uXD4=</text>
+        <text encoding="base64">XDx3aGl0ZUxpc3RVcmxQYXR0ZXJuXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBfICogc2VydmljZVByb3ZpZGVyQXBpRmFjYWRlLmlzTmZhUmVxdWlyZWQoQ0xJRU5UX0lEX1ZBTFVFLCBkaXBwVG9rZW4pID4+IGlzTmZhRW5hYmxlZAo=</text>
@@ -1096,9 +1099,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVQb3J0YWxTZXNzaW9uXD4=</last-search>
+      <last-search encoding="base64">XDx3aGl0ZUxpc3RVcmxQYXR0ZXJuXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVQb3J0YWxTZXNzaW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx3aGl0ZUxpc3RVcmxQYXR0ZXJuXD4=</last-pattern>
       <last-replace>DISABLED</last-replace>
       <last-substitute>ENABLED</last-substitute>
       <last-dir>-1</last-dir>
@@ -1106,7 +1109,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZmFDb25maWd1cmF0aW9uU2VydmljZVw+</entry>
         <entry encoding="base64">XDxsb2dpblN1Ym1pdFJlc3BvbnNlXD4=</entry>
         <entry encoding="base64">XDxsb2dpblN1Ym1pdFJlc3BvbnNlMVw+</entry>
         <entry encoding="base64">XDxtYXliZUxvZ2luUGFnZU5mYVN0YXR1c1w+</entry>
@@ -1126,6 +1128,7 @@
         <entry>EXCLUDE</entry>
         <entry>exclude</entry>
         <entry encoding="base64">XDxjcmVhdGVQb3J0YWxTZXNzaW9uXD4=</entry>
+        <entry encoding="base64">XDx3aGl0ZUxpc3RVcmxQYXR0ZXJuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
