@@ -34,9 +34,6 @@
         <mark key="^" line="14" column="27" />
         <mark key="." line="14" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1556108707019">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaStatusService.java" timestamp="1554817109959">
         <mark key="'" line="47" column="34" />
         <mark key="[" line="159" column="29" />
@@ -76,9 +73,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="19" column="75" />
       </file>
-      <file name="/postgres.documents.document [postgres@mobile]" timestamp="1555663103512">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/domain/NfaAwareRedirectResponse.java" timestamp="1554894386976">
         <mark key="'" line="11" column="13" />
         <mark key="[" line="20" column="4" />
@@ -116,6 +110,9 @@
         <mark key="]" line="63" column="81" />
         <mark key="^" line="63" column="81" />
         <mark key="." line="63" column="81" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" timestamp="1556202859790">
+        <mark key="'" line="1238" column="6" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/domain/NfaErrorCode.java" timestamp="1555077044963">
         <mark key="[" line="13" column="45" />
@@ -571,9 +568,6 @@
         <mark key="." line="109" column="132" />
         <mark key="^" line="109" column="215" />
       </file>
-      <file name="/postgres.user_status.userstatus [postgres@mobile]" timestamp="1555585006473">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/mobileflow/MobileAuthorizationControllerTest.groovy" timestamp="1554968950867">
         <mark key="[" line="105" column="60" />
         <mark key="]" line="105" column="60" />
@@ -814,18 +808,12 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="18" />
       </file>
-      <file name="/postgres.session.session [postgres@mobile]" timestamp="1555482606513">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/import-export-service/src/main/java/com/dipp/basket/service/query/email/EmailScopeDataProvider.java" timestamp="1555579702810">
         <mark key="'" line="34" column="41" />
         <mark key="[" line="20" column="67" />
         <mark key="]" line="21" column="3" />
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
-      </file>
-      <file name="/Dummy.groovy" timestamp="1555404855382">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/nfa/NfaStatusService.java" timestamp="1554550086755">
         <mark key="[" line="152" column="75" />
@@ -850,9 +838,6 @@
         <mark key="]" line="57" column="52" />
         <mark key="^" line="57" column="52" />
         <mark key="." line="57" column="52" />
-      </file>
-      <file name="/dummy.sql" timestamp="1555663106894">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1556184111580">
         <mark key="[" line="0" column="0" />
@@ -886,9 +871,10 @@
         <mark key="]" line="54" column="21" />
         <mark key="." line="54" column="21" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/ActivityFilter.java" timestamp="1556201707413">
+      <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/ActivityFilter.java" timestamp="1556202639581">
         <mark key="'" line="95" column="37" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" timestamp="1556202655011" />
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaConsentControllerService.java" timestamp="1554556428683">
         <mark key="[" line="60" column="76" />
         <mark key="]" line="60" column="76" />
@@ -931,15 +917,8 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="63" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1556185510671">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
-      <jump line="239" column="36" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/MobileShortcutService.java" />
-      <jump line="62" column="27" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/VerifiedDocumentService.java" />
-      <jump line="132" column="0" filename="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/session/SessionService.java" />
       <jump line="2151" column="14" filename="$USER_HOME$/verimi-auth/contracts/identity/identityowner-service-contract/contract/swagger.yaml" />
       <jump line="4283" column="2" filename="$USER_HOME$/verimi-auth/contracts/identity/identityowner-service-contract/contract/swagger.yaml" />
       <jump line="2069" column="31" filename="$USER_HOME$/verimi-auth/contracts/identity/identityowner-service-contract/contract/swagger.yaml" />
@@ -1036,6 +1015,10 @@
       <jump line="43" column="26" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/ActivityFilter.java" />
       <jump line="68" column="13" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/ActivityFilter.java" />
       <jump line="95" column="37" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/ActivityFilter.java" />
+      <jump line="32" column="13" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="94" column="2" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="93" column="2" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="1238" column="6" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1045,7 +1028,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3aGl0ZUxpc3RVcmxQYXR0ZXJuXD4=</text>
+        <text>api-gateway</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBfICogc2VydmljZVByb3ZpZGVyQXBpRmFjYWRlLmlzTmZhUmVxdWlyZWQoQ0xJRU5UX0lEX1ZBTFVFLCBkaXBwVG9rZW4pID4+IGlzTmZhRW5hYmxlZAo=</text>
@@ -1099,17 +1082,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3aGl0ZUxpc3RVcmxQYXR0ZXJuXD4=</last-search>
+      <last-search>api-gateway</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3aGl0ZUxpc3RVcmxQYXR0ZXJuXD4=</last-pattern>
+      <last-pattern>api-gateway</last-pattern>
       <last-replace>DISABLED</last-replace>
       <last-substitute>ENABLED</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dpblN1Ym1pdFJlc3BvbnNlXD4=</entry>
         <entry encoding="base64">XDxsb2dpblN1Ym1pdFJlc3BvbnNlMVw+</entry>
         <entry encoding="base64">XDxtYXliZUxvZ2luUGFnZU5mYVN0YXR1c1w+</entry>
         <entry encoding="base64">XDxPVFBfUkVRVUlSRURcPg==</entry>
@@ -1129,6 +1111,7 @@
         <entry>exclude</entry>
         <entry encoding="base64">XDxjcmVhdGVQb3J0YWxTZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDx3aGl0ZUxpc3RVcmxQYXR0ZXJuXD4=</entry>
+        <entry>api-gateway</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
