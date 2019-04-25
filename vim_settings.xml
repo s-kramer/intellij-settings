@@ -436,6 +436,9 @@
         <mark key="^" line="63" column="3" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/PortalSessionFilter.java" timestamp="1556198262364">
+        <mark key="'" line="96" column="36" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageController.java" timestamp="1556192075655">
         <mark key="'" line="45" column="35" />
       </file>
@@ -919,7 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="81" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/MobileShortcutService.java" />
       <jump line="64" column="30" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/MobileLoginShortcutService.java" />
       <jump line="170" column="26" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
       <jump line="187" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
@@ -1019,6 +1021,7 @@
       <jump line="96" column="9" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
       <jump line="97" column="9" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
       <jump line="33" column="0" filename="$USER_HOME$/verimi-auth/contracts/authentication/security-service-contract/contract/swagger.yaml" />
+      <jump line="96" column="36" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/PortalSessionFilter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1028,7 +1031,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>exclude</text>
+        <text encoding="base64">XDxjcmVhdGVQb3J0YWxTZXNzaW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBfICogc2VydmljZVByb3ZpZGVyQXBpRmFjYWRlLmlzTmZhUmVxdWlyZWQoQ0xJRU5UX0lEX1ZBTFVFLCBkaXBwVG9rZW4pID4+IGlzTmZhRW5hYmxlZAo=</text>
@@ -1082,17 +1085,16 @@
       </register>
     </registers>
     <search>
-      <last-search>exclude</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVQb3J0YWxTZXNzaW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>exclude</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVQb3J0YWxTZXNzaW9uXD4=</last-pattern>
       <last-replace>DISABLED</last-replace>
       <last-substitute>ENABLED</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxOZmFDb25maWd1cmF0aW9uU2VydmljZVw+</entry>
         <entry encoding="base64">XDxuZmFDb25maWd1cmF0aW9uU2VydmljZVw+</entry>
         <entry encoding="base64">XDxsb2dpblN1Ym1pdFJlc3BvbnNlXD4=</entry>
         <entry encoding="base64">XDxsb2dpblN1Ym1pdFJlc3BvbnNlMVw+</entry>
@@ -1112,6 +1114,7 @@
         <entry>business</entry>
         <entry>EXCLUDE</entry>
         <entry>exclude</entry>
+        <entry encoding="base64">XDxjcmVhdGVQb3J0YWxTZXNzaW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
