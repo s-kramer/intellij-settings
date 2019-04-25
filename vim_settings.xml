@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/verimi/domain/CommonAuthenticationResponse.java" timestamp="1556197318901">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" timestamp="1554963916821">
         <mark key="'" line="45" column="29" />
         <mark key="[" line="78" column="40" />
@@ -497,6 +503,9 @@
         <mark key="^" line="32" column="71" />
         <mark key="." line="31" column="26" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/contracts/authentication/security-service-contract/contract/swagger.yaml" timestamp="1556197479532">
+        <mark key="'" line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/page/LoginPageServiceTest.java" timestamp="1556102607592">
         <mark key="[" line="90" column="82" />
         <mark key="]" line="90" column="93" />
@@ -910,7 +919,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="9" filename="$USER_HOME$/verimi-auth/assembly/dipp-sit-2.json" />
       <jump line="112" column="81" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/MobileShortcutService.java" />
       <jump line="64" column="30" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/MobileLoginShortcutService.java" />
       <jump line="170" column="26" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
@@ -1010,13 +1018,14 @@
       <jump line="95" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
       <jump line="96" column="9" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
       <jump line="97" column="9" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
+      <jump line="33" column="0" filename="$USER_HOME$/verimi-auth/contracts/authentication/security-service-contract/contract/swagger.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vVE9ETyBkZXBlbmRpbmcgb24gbmV3IGZyb250ZW5kLWF1dGhvcml6YXRpb24gdGVtcGxhdGUKICAgIEBJZ25vcmUK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>exclude</text>
