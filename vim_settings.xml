@@ -466,8 +466,8 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="105" column="7" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" timestamp="1556192504567">
-        <mark key="'" line="67" column="9" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" timestamp="1556195332603">
+        <mark key="'" line="97" column="9" />
         <mark key="[" line="141" column="4" />
         <mark key="]" line="141" column="6" />
         <mark key="." line="141" column="6" />
@@ -910,10 +910,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="51" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/userstatus/InlineRegistrationUserStatusService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/assembly/dipp-dev-1.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/assembly/dipp-sit.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/assembly/dipp-sit-2.json" />
       <jump line="3" column="9" filename="$USER_HOME$/verimi-auth/assembly/dipp-sit-2.json" />
       <jump line="112" column="81" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/MobileShortcutService.java" />
       <jump line="64" column="30" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/MobileLoginShortcutService.java" />
@@ -996,7 +992,6 @@
       <jump line="45" column="35" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageController.java" />
       <jump line="1" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
       <jump line="59" column="9" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
-      <jump line="111" column="67" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
       <jump line="67" column="9" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
       <jump line="71" column="37" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/ActivityLogService.java" />
       <jump line="46" column="47" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
@@ -1010,6 +1005,11 @@
       <jump line="167" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
       <jump line="161" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
       <jump line="24" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp/eds-translations/1.3-LEGACY/e7306423c5350dcbb4645e4be2dacea184139b40/eds-translations-1.3-LEGACY.jar!/i18n/eds_de.xml" />
+      <jump line="111" column="24" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
+      <jump line="98" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
+      <jump line="95" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
+      <jump line="96" column="9" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
+      <jump line="97" column="9" filename="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1019,7 +1019,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>business</text>
+        <text>exclude</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBfICogc2VydmljZVByb3ZpZGVyQXBpRmFjYWRlLmlzTmZhUmVxdWlyZWQoQ0xJRU5UX0lEX1ZBTFVFLCBkaXBwVG9rZW4pID4+IGlzTmZhRW5hYmxlZAo=</text>
@@ -1073,9 +1073,9 @@
       </register>
     </registers>
     <search>
-      <last-search>business</last-search>
+      <last-search>exclude</last-search>
       <last-offset />
-      <last-pattern>business</last-pattern>
+      <last-pattern>exclude</last-pattern>
       <last-replace>DISABLED</last-replace>
       <last-substitute>ENABLED</last-substitute>
       <last-dir>1</last-dir>
@@ -1083,8 +1083,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleHBlY3ROb1VzZXJOZmFTdGF0dXNGZXRjaFw+</entry>
-        <entry encoding="base64">XDxleHBlY3RVc2VyTmZhU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxOZmFDb25maWd1cmF0aW9uU2VydmljZVw+</entry>
         <entry encoding="base64">XDxuZmFDb25maWd1cmF0aW9uU2VydmljZVw+</entry>
         <entry encoding="base64">XDxsb2dpblN1Ym1pdFJlc3BvbnNlXD4=</entry>
@@ -1103,6 +1101,8 @@
         <entry encoding="base64">XDxmcm9udGVuZEF1dGhvcml6YXRpb25cPg==</entry>
         <entry encoding="base64">XDxEaXBwVG9rZW5SZXF1ZXN0XD4=</entry>
         <entry>business</entry>
+        <entry>EXCLUDE</entry>
+        <entry>exclude</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
