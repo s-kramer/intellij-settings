@@ -75,7 +75,7 @@
         <mark key="^" line="0" column="63" />
         <mark key="." line="0" column="63" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/resources/application.yml" timestamp="1556280660662">
+      <file name="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/resources/application.yml" timestamp="1556282842393">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="29" column="59" />
@@ -120,8 +120,8 @@
         <mark key="^" line="246" column="24" />
         <mark key="." line="246" column="24" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/config/ConfigurationFactory.java" timestamp="1556273348711">
-        <mark key="'" line="23" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/config/ConfigurationFactory.java" timestamp="1556282882946">
+        <mark key="'" line="94" column="18" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NFAConsentSession.java" timestamp="1554557348628">
         <mark key="[" line="13" column="16" />
@@ -518,6 +518,9 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="67" column="100" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/service/dipp/DippService.java" timestamp="1556283389215">
+        <mark key="'" line="208" column="61" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/ActivityFilter.java" timestamp="1556202639581">
         <mark key="'" line="95" column="37" />
       </file>
@@ -580,11 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="7" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" />
-      <jump line="13" column="4" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/verimi/domain/LoginPageNfaStatus.java" />
-      <jump line="246" column="54" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" />
-      <jump line="248" column="32" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" />
-      <jump line="215" column="49" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" />
       <jump line="56" column="47" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
       <jump line="209" column="96" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
       <jump line="214" column="39" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
@@ -664,11 +662,9 @@
       <jump line="31" column="19" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/config/ConfigurationFactory.java" />
       <jump line="30" column="14" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/config/ConfigurationFactory.java" />
       <jump line="8" column="0" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/resources/application.yml" />
-      <jump line="28" column="19" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/config/ConfigurationFactory.java" />
       <jump line="29" column="58" filename="$USER_HOME$/verimi-auth/service-provider-mock/src/main/resources/application.yml" />
       <jump line="25" column="41" filename="$USER_HOME$/verimi-auth/service-provider-mock/src/main/java/com/dipp/serviceprovider/config/ConfigurationFactory.java" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/service-provider-mock/src/main/java/com/dipp/serviceprovider/config/ConfigurationFactory.java" />
-      <jump line="27" column="34" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/config/ConfigurationFactory.java" />
       <jump line="137" column="59" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/config/ConfigurationFactory.java" />
       <jump line="156" column="0" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/config/ConfigurationFactory.java" />
       <jump line="98" column="4" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/config/ConfigurationFactory.java" />
@@ -680,6 +676,13 @@
       <jump line="7" column="21" filename="$USER_HOME$/verimi-auth/service-provider-mock/src/main/resources/application.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/service-provider-mock/src/main/resources/application.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/resources/application.yml" />
+      <jump line="28" column="19" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/config/ConfigurationFactory.java" />
+      <jump line="27" column="14" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/config/ConfigurationFactory.java" />
+      <jump line="94" column="18" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/config/ConfigurationFactory.java" />
+      <jump line="45" column="33" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/service/dipp/DippService.java" />
+      <jump line="212" column="12" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/service/dipp/DippService.java" />
+      <jump line="59" column="43" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/service/dipp/DippService.java" />
+      <jump line="208" column="61" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/service/dipp/DippService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -689,7 +692,7 @@
         <text>level</text>
       </register>
       <register name="/" type="4">
-        <text>\\n</text>
+        <text encoding="base64">XDxlbmRwb2ludFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBfICogc2VydmljZVByb3ZpZGVyQXBpRmFjYWRlLmlzTmZhUmVxdWlyZWQoQ0xJRU5UX0lEX1ZBTFVFLCBkaXBwVG9rZW4pID4+IGlzTmZhRW5hYmxlZAo=</text>
@@ -743,9 +746,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\\n</last-search>
+      <last-search encoding="base64">XDxlbmRwb2ludFw+</last-search>
       <last-offset />
-      <last-pattern>\\n</last-pattern>
+      <last-pattern encoding="base64">XDxlbmRwb2ludFw+</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -753,11 +756,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZmFDb25maWd1cmF0aW9uUmVzcG9uc2VcPg==</entry>
-        <entry encoding="base64">XDxpc05mYUVuYWJsZWRcPg==</entry>
-        <entry encoding="base64">XDxsb2dpblBhZ2VTZXJ2aWNlXD4=</entry>
-        <entry>authorization</entry>
-        <entry encoding="base64">XDxmcm9udGVuZEF1dGhvcml6YXRpb25cPg==</entry>
         <entry encoding="base64">XDxEaXBwVG9rZW5SZXF1ZXN0XD4=</entry>
         <entry>business</entry>
         <entry>EXCLUDE</entry>
@@ -770,9 +768,14 @@
         <entry>inline-registration</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZUF1dGhlbnRpY2F0aW9uTm90TnVsbFw+</entry>
         <entry encoding="base64">XDxhc3NlbWJsZVN1Ym1pdExvZ2luRm9yTW9iaWxlUmVzcG9uc2VcPg==</entry>
-        <entry encoding="base64">XDxkaXBwT2F1dGhUb2tlblBhdGhcPg==</entry>
         <entry encoding="base64">XDxkaXBwT2F1dGgyQXV0aFBhdGhcPg==</entry>
         <entry>\\n</entry>
+        <entry encoding="base64">XDxkaXBwT2F1dGhUb2tlblBhdGhcPg==</entry>
+        <entry encoding="base64">XDxjb25maWdcPg==</entry>
+        <entry encoding="base64">XDx1cmxcPg==</entry>
+        <entry encoding="base64">XDxyZXN0RXhjaGFuZ2VcPg==</entry>
+        <entry encoding="base64">XDxvYXV0aFRva2VuRW5kcG9pbnRcPg==</entry>
+        <entry encoding="base64">XDxlbmRwb2ludFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
