@@ -164,11 +164,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="108" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556551560052">
+      <file name="/Dummy.txt" timestamp="1556553280957">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
-        <mark key="^" line="0" column="35" />
+        <mark key="^" line="0" column="57" />
       </file>
       <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/ActivityFilter.java" timestamp="1556551956848">
         <mark key="'" line="151" column="36" />
@@ -277,6 +277,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="34" column="8" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/PostZuulExceptionFilter.java" timestamp="1556553836957" />
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" timestamp="1556537740642">
         <mark key="'" line="2" column="0" />
       </file>
@@ -302,11 +303,11 @@
       <file name="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/service/dipp/DippService.java" timestamp="1556283389215">
         <mark key="'" line="208" column="61" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" timestamp="1556551554257">
-        <mark key="'" line="1190" column="34" />
-        <mark key="[" line="1207" column="0" />
-        <mark key="]" line="1207" column="0" />
-        <mark key="." line="1207" column="0" />
+      <file name="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" timestamp="1556553271628">
+        <mark key="[" line="1190" column="21" />
+        <mark key="]" line="1190" column="20" />
+        <mark key="." line="1190" column="20" />
+        <mark key="^" line="1190" column="20" />
       </file>
       <file name="/postgres.authentication.authentication [postgres@mobile]" timestamp="1556389767996">
         <mark key="[" line="0" column="0" />
@@ -319,9 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="22" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
-      <jump line="153" column="72" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
-      <jump line="154" column="46" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
       <jump line="195" column="96" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
       <jump line="200" column="54" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
       <jump line="240" column="21" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitControllerTest.java" />
@@ -400,7 +398,6 @@
       <jump line="29" column="56" filename="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" />
       <jump line="41" column="0" filename="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
-      <jump line="873" column="18" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
       <jump line="1057" column="2" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
       <jump line="94" column="2" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
       <jump line="2" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" />
@@ -419,67 +416,60 @@
       <jump line="99" column="8" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/ActivityFilter.java" />
       <jump line="151" column="36" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/ActivityFilter.java" />
       <jump line="1190" column="34" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
+      <jump line="1202" column="21" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
+      <jump line="873" column="18" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
+      <jump line="1191" column="0" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
+      <jump line="1185" column="0" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXh0ZXJuYWxfaWQgPSAnN2Q5ZjhlODYtYjQxZC00MDA1LThlMjEtOTZlNGJjMjRjYWE0Jwo=</text>
+      <register name="&quot;" type="4">
+        <text>temporarily removed nfa-protection from endpoint</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>temporarily removed nfa-protection from endpoint</text>
       </register>
       <register name="/" type="4">
-        <text>actuator</text>
+        <text>tempuser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dQYXJhbXMoImdldEFjY2Vzc1Rva2VuIiwgcGFyYW1zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXh0ZXJuYWxfaWQgPSAnN2Q5ZjhlODYtYjQxZC00MDA1LThlMjEtOTZlNGJjMjRjYWE0Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gL3YxL3VzZXJzL2RyaXZlcnMtbGljZW5zZXMvaWRlbnRpZmljYXRpb24tc3RhdGVzCg==</text>
+        <text encoding="base64">Ck5mYU5lY2Vzc2l0eUNvbmZpZzoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXh0ZXJuYWxfaWQgPSAnNjI1MTdlNWUtY2MyYS00ZGMwLWE1ZjctOGZiMTdhNmE0M2M2Jwo=</text>
+        <text encoding="base64">ZXh0ZXJuYWxfaWQgPSAnN2Q5ZjhlODYtYjQxZC00MDA1LThlMjEtOTZlNGJjMjRjYWE0Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXh0ZXJuYWxfaWQ9ICAnNzE5MDQxM2QtMmU0MC00ZDI2LTgxMzQtMjljZmUwOWVjZDRkJwo=</text>
+        <text encoding="base64">ICAgIC0gL3YxL3VzZXJzL2RyaXZlcnMtbGljZW5zZXMvaWRlbnRpZmljYXRpb24tc3RhdGVzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gaW5saW5lLXJlZ2lzdHJhdGlvbi9tb2JpbGUtZG9jdW1lbnQtdmVyaWZpY2F0aW9uLW1ldGhvZC8uKwo=</text>
+        <text encoding="base64">ZXh0ZXJuYWxfaWQgPSAnNjI1MTdlNWUtY2MyYS00ZGMwLWE1ZjctOGZiMTdhNmE0M2M2Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBVbnJvbGwK</text>
+        <text encoding="base64">ZXh0ZXJuYWxfaWQ9ICAnNzE5MDQxM2QtMmU0MC00ZDI2LTgxMzQtMjljZmUwOWVjZDRkJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnaXZlbihyZXF1ZXN0U2NvcGVQYXJzZXIuZ2V0T3JpZ2luYWxseVJlcXVlc3RlZFNjb3BlcyhMT0dJTl9SRVFVRVNUX1dJVEhfU0tJUCkpLndpbGxSZXR1cm4oZW1wdHlMaXN0KCkpOwogICAgICAgIGdpdmVuKHNjb3BlQ29uc3RhbnRzLmlzUmVhZEJhc2tldE9ubHkoZW1wdHlMaXN0KCkpKS53aWxsUmV0dXJuKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgIC0gaW5saW5lLXJlZ2lzdHJhdGlvbi9tb2JpbGUtZG9jdW1lbnQtdmVyaWZpY2F0aW9uLW1ldGhvZC8uKwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
-          <key char="70" code="0" mods="0" />
-          <key char="76" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="91" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="91" mods="130" />
-          <key char="102" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
           <key char="50" code="0" mods="0" />
           <key char="100" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="37" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="37" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+          <key char="94" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnaXZlbihyZXF1ZXN0U2NvcGVQYXJzZXIuZ2V0T3JpZ2luYWxseVJlcXVlc3RlZFNjb3BlcyhMT0dJTl9SRVFVRVNUX1dJVEhfU0tJUCkpLndpbGxSZXR1cm4oZW1wdHlMaXN0KCkpOwogICAgICAgIGdpdmVuKHNjb3BlQ29uc3RhbnRzLmlzUmVhZEJhc2tldE9ubHkoZW1wdHlMaXN0KCkpKS53aWxsUmV0dXJuKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgIEBVbnJvbGwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBnaXZlbihyZXF1ZXN0U2NvcGVQYXJzZXIuZ2V0T3JpZ2luYWxseVJlcXVlc3RlZFNjb3BlcyhMT0dJTl9SRVFVRVNUX1dJVEhfU0tJUCkpLndpbGxSZXR1cm4oZW1wdHlMaXN0KCkpOwogICAgICAgIGdpdmVuKHNjb3BlQ29uc3RhbnRzLmlzUmVhZEJhc2tldE9ubHkoZW1wdHlMaXN0KCkpKS53aWxsUmV0dXJuKGZhbHNlKTsK</text>
@@ -489,9 +479,9 @@
       </register>
     </registers>
     <search>
-      <last-search>actuator</last-search>
+      <last-search>tempuser</last-search>
       <last-offset />
-      <last-pattern>actuator</last-pattern>
+      <last-pattern>tempuser</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -499,7 +489,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcmlnaW5hbFNjb3BlXD4=</entry>
         <entry>email</entry>
         <entry>front</entry>
         <entry encoding="base64">XDxyZXF1ZXN0U2NvcGVQYXJzZXJcPg==</entry>
@@ -516,9 +505,10 @@
         <entry>auth header</entry>
         <entry>inline</entry>
         <entry encoding="base64">XDxpc05mYVJlcXVpcmVkXD4=</entry>
-        <entry>temp</entry>
         <entry>states</entry>
         <entry>actuator</entry>
+        <entry>temp</entry>
+        <entry>tempuser</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
