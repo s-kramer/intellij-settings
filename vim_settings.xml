@@ -303,7 +303,8 @@
       <file name="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/service/dipp/DippService.java" timestamp="1556283389215">
         <mark key="'" line="208" column="61" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" timestamp="1556553271628">
+      <file name="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" timestamp="1556554513373">
+        <mark key="'" line="1160" column="47" />
         <mark key="[" line="1190" column="21" />
         <mark key="]" line="1190" column="20" />
         <mark key="." line="1190" column="20" />
@@ -320,10 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="96" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
-      <jump line="200" column="54" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
-      <jump line="240" column="21" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitControllerTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitControllerTest.java" />
       <jump line="34" column="50" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitControllerTest.java" />
       <jump line="96" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test/1.5.9.RELEASE/b537dbbe815b97f42ba0080c1e4793eacec765d8/spring-boot-test-1.5.9.RELEASE-sources.jar!/org/springframework/boot/test/mock/mockito/MockBean.java" />
       <jump line="24" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/ConsentNfaDiscontinuationController.java" />
@@ -420,6 +417,10 @@
       <jump line="873" column="18" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
       <jump line="1191" column="0" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
       <jump line="1185" column="0" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
+      <jump line="1192" column="0" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
+      <jump line="797" column="36" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
+      <jump line="798" column="54" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
+      <jump line="1160" column="47" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -429,7 +430,7 @@
         <text>temporarily removed nfa-protection from endpoint</text>
       </register>
       <register name="/" type="4">
-        <text>tempuser</text>
+        <text>states</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dQYXJhbXMoImdldEFjY2Vzc1Rva2VuIiwgcGFyYW1zKTsK</text>
@@ -479,9 +480,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tempuser</last-search>
+      <last-search>states</last-search>
       <last-offset />
-      <last-pattern>tempuser</last-pattern>
+      <last-pattern>states</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -505,10 +506,10 @@
         <entry>auth header</entry>
         <entry>inline</entry>
         <entry encoding="base64">XDxpc05mYVJlcXVpcmVkXD4=</entry>
-        <entry>states</entry>
         <entry>actuator</entry>
         <entry>temp</entry>
         <entry>tempuser</entry>
+        <entry>states</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
