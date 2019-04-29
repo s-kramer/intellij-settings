@@ -224,11 +224,11 @@
         <mark key="^" line="13" column="73" />
         <mark key="." line="13" column="73" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" timestamp="1556531594448">
-        <mark key="'" line="42" column="42" />
-        <mark key="[" line="42" column="24" />
-        <mark key="]" line="42" column="44" />
-        <mark key="." line="42" column="24" />
+      <file name="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" timestamp="1556534323837">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="39" column="29" />
+        <mark key="]" line="39" column="47" />
+        <mark key="." line="39" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1556396066419">
         <mark key="[" line="0" column="0" />
@@ -303,11 +303,11 @@
       <file name="/dummy.sql" timestamp="1556396059301">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556448825971">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-        <mark key="^" line="0" column="31" />
+      <file name="/Dummy.txt" timestamp="1556534391811">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="62" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaConsentControllerService.java" timestamp="1554556428683">
         <mark key="[" line="60" column="76" />
@@ -699,8 +699,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="43" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/service/dipp/DippService.java" />
-      <jump line="208" column="61" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/service/dipp/DippService.java" />
       <jump line="97" column="87" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitServiceTest.java" />
       <jump line="106" column="38" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitServiceTest.java" />
       <jump line="131" column="58" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitServiceTest.java" />
@@ -799,16 +797,18 @@
       <jump line="355" column="55" filename="$USER_HOME$/verimi-auth/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="396" column="55" filename="$USER_HOME$/verimi-auth/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="61" column="30" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/transactionnumber/TnAuthenticationController.java" />
+      <jump line="29" column="56" filename="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" />
+      <jump line="41" column="0" filename="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/v2/authenticate/transaction</text>
+        <text>518 limited scopes that trigger inline-registration section on login page</text>
       </register>
       <register name="-" type="4">
-        <text>initial implementation</text>
+        <text>518 limited scopes that trigger inline-registration section on login page</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXBFcnJvclw+</text>
+        <text>secu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzaG91bGRSZXR1cm5Db250ZW50V2l0aE5vQ2FuY2VsVXJsV2hlbk5vU2tpcEFuZE5vQ2FuY2VsVXJsV2l0aFJlZ2lzdHJhdGlvbkVuYWJsZWQoKSB7CiAgICAgICAgLy9naXZlbgogICAgICAgIGdpdmVuKGxvZ2luSHlkcmFTZXJ2aWNlLmdldExvZ2luUmVxdWVzdChDSEFMTEVOR0VfVkFMVUUpKQogICAgICAgICAgICAgICAgLndpbGxSZXR1cm4oRWl0aGVyLnJpZ2h0KExPR0lOX1JFUVVFU1RfV0lUSE9VVF9TS0lQKSk7CiAgICAgICAgZ2l2ZW4oY2xpZW50Q2hlY2tTZXJ2aWNlLmlzSW50ZXJuYWxDbGllbnQoQ0xJRU5UX0lEX1ZBTFVFKSkKICAgICAgICAgICAgICAgIC53aWxsUmV0dXJuKGZhbHNlKTsKICAgICAgICBnaXZlbihsb2dpblNlcnZpY2UuZ2V0Q2FuY2VsVXJsKExPR0lOX1JFUVVFU1RfV0lUSE9VVF9TS0lQKSkKICAgICAgICAgICAgICAgIC53aWxsUmV0dXJuKG51bGwpOwogICAgICAgIGdpdmVuKGxvZ2luU2VydmljZS5pc01vYmlsZUNvbm5lY3REaXNhYmxlZEZvckNsaWVudChDTElFTlRfSURfVkFMVUUpKQogICAgICAgICAgICAgICAgLndpbGxSZXR1cm4odHJ1ZSk7CiAgICAgICAgZ2l2ZW4oc2NvcGVDb25zdGFudHMuaXNWZXJpZmllZERvY3VtZW50c1Njb3BlUmVxdWVzdGVkKGFueSgpKSkud2lsbFJldHVybih0cnVlKTsKICAgICAgICBnaXZlbihzY29wZUNvbnN0YW50cy5pc1JlYWRCYXNrZXQoYW55KCkpKS53aWxsUmV0dXJuKHRydWUpOwogICAgICAgIGV4cGVjdE5vdEltcGxpY2l0UmVhZEJhc2tldFNjb3BlKGZhbHNlKTsKICAgICAgICAvL3doZW4KICAgICAgICBFaXRoZXI8TG9naW5QYWdlRXJyb3IsIExvZ2luUGFnZVJlc3BvbnNlPiBhY3R1YWxSZXN1bHQgPSB1bmRlclRlc3QuaGFuZGxlR2V0TG9naW5QYWdlKENIQUxMRU5HRV9WQUxVRSwgRVJST1JfVkFMVUUpOwoKICAgICAgICAvL3RoZW4KICAgICAgICBMb2dpblBhZ2VSZXNwb25zZSBleHBlY3RlZFJlc3VsdCA9IExvZ2luUGFnZUNvbnRlbnRSZXNwb25zZS5idWlsZGVyKCkKICAgICAgICAgICAgICAgIC5jaGFsbGVuZ2UoQ0hBTExFTkdFX1ZBTFVFKQogICAgICAgICAgICAgICAgLmNsaWVudElkKENMSUVOVF9JRF9WQUxVRSkKICAgICAgICAgICAgICAgIC5jYW5jZWxVcmwobnVsbCkKICAgICAgICAgICAgICAgIC5wcmVmaWxsVXNlcm5hbWUoTE9HSU5fSElOVF9WQUxVRSkKICAgICAgICAgICAgICAgIC5pc01vYmlsZUNvbm5lY3RFbmFibGVkKGZhbHNlKQogICAgICAgICAgICAgICAgLmlzQXV0aGVudGljYXRlKHRydWUpCiAgICAgICAgICAgICAgICAuaXNSZWdpc3RyYXRpb25FbmFibGVkKHRydWUpCiAgICAgICAgICAgICAgICAuZXJyb3IoRVJST1JfVkFMVUUpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICBhc3NlcnRUaGF0KGFjdHVhbFJlc3VsdCkuY29udGFpbnNPblJpZ2h0KGV4cGVjdGVkUmVzdWx0KTsKICAgIH0KCg==</text>
@@ -869,17 +869,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXBFcnJvclw+</last-search>
+      <last-search>secu</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXBFcnJvclw+</last-pattern>
+      <last-pattern>secu</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>frontend</entry>
         <entry encoding="base64">XDxnZXRPdHBSZWRlZW1SZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxyZWRlZW1PdHBcPg==</entry>
         <entry encoding="base64">XDxhc3NlbWJsZVN1Ym1pdExvZ2luRXJyb3JcPg==</entry>
@@ -899,6 +898,7 @@
         <entry>authenticate</entry>
         <entry>authenticate\/transaction</entry>
         <entry encoding="base64">XDxtYXBFcnJvclw+</entry>
+        <entry>secu</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
