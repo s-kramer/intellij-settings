@@ -245,6 +245,13 @@
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="27" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NfaNecessityFilter.java" timestamp="1556546776090">
+        <mark key="'" line="65" column="18" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="68" column="52" />
+        <mark key="^" line="143" column="50" />
+        <mark key="." line="143" column="50" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/enhancer/MobileDippTokenRequestEnhancer.java" timestamp="1556539461367" />
       <file name="$USER_HOME$/verimi-auth/contracts/authentication/security-service-contract/contract/swagger.yaml" timestamp="1556532128436">
         <mark key="'" line="396" column="55" />
@@ -306,9 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="28" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
-      <jump line="224" column="106" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
-      <jump line="249" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
       <jump line="247" column="4" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
       <jump line="246" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
       <jump line="57" column="31" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
@@ -406,16 +410,19 @@
       <jump line="114" column="8" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/ActivityFilter.java" />
       <jump line="110" column="0" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/ActivityFilter.java" />
       <jump line="107" column="0" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/ActivityFilter.java" />
+      <jump line="92" column="8" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NfaNecessityFilter.java" />
+      <jump line="66" column="33" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NfaNecessityFilter.java" />
+      <jump line="65" column="18" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NfaNecessityFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getExposedUid</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzVGVtcG9yYXJ5VXNlciA9IFp1dWxGaWx0ZXJVdGlsLmlzVGVtcG9yYXJ5VXNlcihyZXF1ZXN0Q29udGV4dCk7CiAgICAgICAgYm9vbGVhbiBzaG91bGRGaWx0ZXIgPSBpc1RlbXBvcmFyeVVzZXIgPyBmYWxzZSA6IGlzRGlwcFRva2VuUHJlc2VudChkaXBwVG9rZW4pCiAgICAgICAgICAgICAgICAmJiBpc05mYVJlcXVpcmVkKHJlcXVlc3RVcmksIGRpcHBUb2tlbikKICAgICAgICAgICAgICAgICYmIGlzTmZhUHJvdGVjdGVkTWV0aG9kKHJlcXVlc3RVcmkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>getExposedUid</text>
       </register>
       <register name="/" type="4">
-        <text>auth header</text>
+        <text>temp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dQYXJhbXMoImdldEFjY2Vzc1Rva2VuIiwgcGFyYW1zKTsK</text>
@@ -476,9 +483,9 @@
       </register>
     </registers>
     <search>
-      <last-search>auth header</last-search>
+      <last-search>temp</last-search>
       <last-offset />
-      <last-pattern>auth header</last-pattern>
+      <last-pattern>temp</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -486,7 +493,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0RhdGFUcmFuc2Zlclw+</entry>
         <entry>scope</entry>
         <entry encoding="base64">XDxnZXRMb2dpblJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxpc09yaWdpbmFsbHlSZXF1ZXN0ZWRTY29wZVBhcmFtXD4=</entry>
@@ -502,10 +508,11 @@
         <entry>authenticate\/transaction</entry>
         <entry encoding="base64">XDxtYXBFcnJvclw+</entry>
         <entry>secu</entry>
-        <entry>temp</entry>
         <entry>whitelist</entry>
         <entry>dipptoken.isempty</entry>
         <entry>auth header</entry>
+        <entry>inline</entry>
+        <entry>temp</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
