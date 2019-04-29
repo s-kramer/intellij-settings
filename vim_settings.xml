@@ -79,11 +79,12 @@
         <mark key="." line="50" column="27" />
         <mark key="^" line="50" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6cfa95cf-bd66-4536-9d63-1c85797ecafa/console_9.sql" timestamp="1556552499585">
-        <mark key="[" line="1" column="121" />
-        <mark key="]" line="2" column="3" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="2" column="3" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6cfa95cf-bd66-4536-9d63-1c85797ecafa/console_9.sql" timestamp="1556556946276">
+        <mark key="'" line="5" column="77" />
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="78" />
+        <mark key="^" line="5" column="77" />
+        <mark key="." line="5" column="40" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/page/LoginPageServiceTest.java" timestamp="1556447369665">
         <mark key="'" line="266" column="0" />
@@ -321,7 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="50" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitControllerTest.java" />
       <jump line="96" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test/1.5.9.RELEASE/b537dbbe815b97f42ba0080c1e4793eacec765d8/spring-boot-test-1.5.9.RELEASE-sources.jar!/org/springframework/boot/test/mock/mockito/MockBean.java" />
       <jump line="24" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/ConsentNfaDiscontinuationController.java" />
       <jump line="84" column="13" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/LoginSpec.groovy" />
@@ -421,13 +421,14 @@
       <jump line="797" column="36" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
       <jump line="798" column="54" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
       <jump line="1160" column="47" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
+      <jump line="5" column="77" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6cfa95cf-bd66-4536-9d63-1c85797ecafa/console_9.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>temporarily removed nfa-protection from endpoint</text>
+        <text>a5c3d39c-a341-4972-b9be-ca7f901d051atemporarily removed nfa-protection from endpoint</text>
       </register>
       <register name="-" type="4">
-        <text>temporarily removed nfa-protection from endpoint</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>states</text>
