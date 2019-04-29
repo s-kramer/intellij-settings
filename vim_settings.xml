@@ -405,7 +405,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>states</text>
+        <text>actuator</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dQYXJhbXMoImdldEFjY2Vzc1Rva2VuIiwgcGFyYW1zKTsK</text>
@@ -455,9 +455,9 @@
       </register>
     </registers>
     <search>
-      <last-search>states</last-search>
+      <last-search>actuator</last-search>
       <last-offset />
-      <last-pattern>states</last-pattern>
+      <last-pattern>actuator</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -481,10 +481,10 @@
         <entry>auth header</entry>
         <entry>inline</entry>
         <entry encoding="base64">XDxpc05mYVJlcXVpcmVkXD4=</entry>
-        <entry>actuator</entry>
         <entry>temp</entry>
         <entry>tempuser</entry>
         <entry>states</entry>
+        <entry>actuator</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
