@@ -54,6 +54,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/MobileShortcutService.java" timestamp="1556264817052" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/LoginSpec.groovy" timestamp="1556359607545">
+        <mark key="'" line="240" column="0" />
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="0" />
+        <mark key="." line="240" column="0" />
+      </file>
       <file name="/postgres.linked_provider.linkedprovider [postgres@mobile]" timestamp="1556390082595">
         <mark key="[" line="0" column="0" />
       </file>
@@ -201,12 +207,6 @@
         <mark key="." line="27" column="74" />
         <mark key="^" line="27" column="74" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/enhancer/PortalDippTokenRequestEnhancer.java" timestamp="1556537968328">
-        <mark key="a" line="59" column="36" />
-        <mark key="'" line="59" column="36" />
-        <mark key="[" line="29" column="13" />
-        <mark key="]" line="29" column="42" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationController.java" timestamp="1556447901219" />
       <file name="/Clipboard.txt" timestamp="1556360090086">
         <mark key="[" line="0" column="0" />
@@ -245,6 +245,12 @@
       <file name="/postgres.user_status.userstatus [postgres@mobile]" timestamp="1556555345356">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.json" timestamp="1556559983217">
+        <mark key="'" line="185" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="514" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" timestamp="1556194019725">
         <mark key="'" line="161" column="0" />
       </file>
@@ -278,6 +284,12 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/otp/OtpLoginService.java" timestamp="1556362629778">
         <mark key="'" line="102" column="43" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/ActivityLogService.java" timestamp="1556193330098">
+        <mark key="'" line="71" column="37" />
+        <mark key="[" line="54" column="21" />
+        <mark key="]" line="54" column="21" />
+        <mark key="." line="54" column="21" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" timestamp="1556554513373">
         <mark key="'" line="1160" column="47" />
         <mark key="[" line="1190" column="21" />
@@ -296,9 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test/1.5.9.RELEASE/b537dbbe815b97f42ba0080c1e4793eacec765d8/spring-boot-test-1.5.9.RELEASE-sources.jar!/org/springframework/boot/test/mock/mockito/MockBean.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/ConsentNfaDiscontinuationController.java" />
-      <jump line="84" column="13" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/LoginSpec.groovy" />
       <jump line="203" column="11" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/LoginSpec.groovy" />
       <jump line="240" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/LoginSpec.groovy" />
       <jump line="61" column="51" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutService.java" />
@@ -396,6 +405,9 @@
       <jump line="798" column="54" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
       <jump line="1160" column="47" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
       <jump line="5" column="77" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6cfa95cf-bd66-4536-9d63-1c85797ecafa/console_9.sql" />
+      <jump line="514" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.json" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.json" />
+      <jump line="185" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -405,7 +417,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>actuator</text>
+        <text>level</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dQYXJhbXMoImdldEFjY2Vzc1Rva2VuIiwgcGFyYW1zKTsK</text>
@@ -455,9 +467,9 @@
       </register>
     </registers>
     <search>
-      <last-search>actuator</last-search>
+      <last-search>level</last-search>
       <last-offset />
-      <last-pattern>actuator</last-pattern>
+      <last-pattern>level</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -465,7 +477,6 @@
     </search>
     <history>
       <history-search>
-        <entry>email</entry>
         <entry>front</entry>
         <entry encoding="base64">XDxyZXF1ZXN0U2NvcGVQYXJzZXJcPg==</entry>
         <entry encoding="base64">XDxjb25zZW50UmVxdWVzdFw+</entry>
@@ -485,6 +496,7 @@
         <entry>tempuser</entry>
         <entry>states</entry>
         <entry>actuator</entry>
+        <entry>level</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
