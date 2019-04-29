@@ -303,11 +303,11 @@
       <file name="/dummy.sql" timestamp="1556396059301">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556534391811">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-        <mark key="^" line="0" column="62" />
+      <file name="/Dummy.txt" timestamp="1556535782796">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="31" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/nfa/NfaConsentControllerService.java" timestamp="1554556428683">
         <mark key="[" line="60" column="76" />
@@ -663,7 +663,12 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="67" column="100" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" timestamp="1556202655011" />
+      <file name="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" timestamp="1556535776039">
+        <mark key="'" line="1057" column="2" />
+        <mark key="[" line="1184" column="0" />
+        <mark key="]" line="1184" column="0" />
+        <mark key="." line="1184" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.java" timestamp="1555573643593">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="69" />
@@ -699,9 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="87" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitServiceTest.java" />
-      <jump line="106" column="38" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitServiceTest.java" />
-      <jump line="131" column="58" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitServiceTest.java" />
       <jump line="133" column="33" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitServiceTest.java" />
       <jump line="149" column="54" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitServiceTest.java" />
       <jump line="159" column="38" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitServiceTest.java" />
@@ -799,25 +801,28 @@
       <jump line="61" column="30" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/transactionnumber/TnAuthenticationController.java" />
       <jump line="29" column="56" filename="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" />
       <jump line="41" column="0" filename="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
+      <jump line="873" column="18" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
+      <jump line="1057" column="2" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>518 limited scopes that trigger inline-registration section on login page</text>
+        <text>transaction number fix</text>
       </register>
       <register name="-" type="4">
-        <text>518 limited scopes that trigger inline-registration section on login page</text>
+        <text>transaction number fix</text>
       </register>
       <register name="/" type="4">
-        <text>secu</text>
+        <text>whitelist</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzaG91bGRSZXR1cm5Db250ZW50V2l0aE5vQ2FuY2VsVXJsV2hlbk5vU2tpcEFuZE5vQ2FuY2VsVXJsV2l0aFJlZ2lzdHJhdGlvbkVuYWJsZWQoKSB7CiAgICAgICAgLy9naXZlbgogICAgICAgIGdpdmVuKGxvZ2luSHlkcmFTZXJ2aWNlLmdldExvZ2luUmVxdWVzdChDSEFMTEVOR0VfVkFMVUUpKQogICAgICAgICAgICAgICAgLndpbGxSZXR1cm4oRWl0aGVyLnJpZ2h0KExPR0lOX1JFUVVFU1RfV0lUSE9VVF9TS0lQKSk7CiAgICAgICAgZ2l2ZW4oY2xpZW50Q2hlY2tTZXJ2aWNlLmlzSW50ZXJuYWxDbGllbnQoQ0xJRU5UX0lEX1ZBTFVFKSkKICAgICAgICAgICAgICAgIC53aWxsUmV0dXJuKGZhbHNlKTsKICAgICAgICBnaXZlbihsb2dpblNlcnZpY2UuZ2V0Q2FuY2VsVXJsKExPR0lOX1JFUVVFU1RfV0lUSE9VVF9TS0lQKSkKICAgICAgICAgICAgICAgIC53aWxsUmV0dXJuKG51bGwpOwogICAgICAgIGdpdmVuKGxvZ2luU2VydmljZS5pc01vYmlsZUNvbm5lY3REaXNhYmxlZEZvckNsaWVudChDTElFTlRfSURfVkFMVUUpKQogICAgICAgICAgICAgICAgLndpbGxSZXR1cm4odHJ1ZSk7CiAgICAgICAgZ2l2ZW4oc2NvcGVDb25zdGFudHMuaXNWZXJpZmllZERvY3VtZW50c1Njb3BlUmVxdWVzdGVkKGFueSgpKSkud2lsbFJldHVybih0cnVlKTsKICAgICAgICBnaXZlbihzY29wZUNvbnN0YW50cy5pc1JlYWRCYXNrZXQoYW55KCkpKS53aWxsUmV0dXJuKHRydWUpOwogICAgICAgIGV4cGVjdE5vdEltcGxpY2l0UmVhZEJhc2tldFNjb3BlKGZhbHNlKTsKICAgICAgICAvL3doZW4KICAgICAgICBFaXRoZXI8TG9naW5QYWdlRXJyb3IsIExvZ2luUGFnZVJlc3BvbnNlPiBhY3R1YWxSZXN1bHQgPSB1bmRlclRlc3QuaGFuZGxlR2V0TG9naW5QYWdlKENIQUxMRU5HRV9WQUxVRSwgRVJST1JfVkFMVUUpOwoKICAgICAgICAvL3RoZW4KICAgICAgICBMb2dpblBhZ2VSZXNwb25zZSBleHBlY3RlZFJlc3VsdCA9IExvZ2luUGFnZUNvbnRlbnRSZXNwb25zZS5idWlsZGVyKCkKICAgICAgICAgICAgICAgIC5jaGFsbGVuZ2UoQ0hBTExFTkdFX1ZBTFVFKQogICAgICAgICAgICAgICAgLmNsaWVudElkKENMSUVOVF9JRF9WQUxVRSkKICAgICAgICAgICAgICAgIC5jYW5jZWxVcmwobnVsbCkKICAgICAgICAgICAgICAgIC5wcmVmaWxsVXNlcm5hbWUoTE9HSU5fSElOVF9WQUxVRSkKICAgICAgICAgICAgICAgIC5pc01vYmlsZUNvbm5lY3RFbmFibGVkKGZhbHNlKQogICAgICAgICAgICAgICAgLmlzQXV0aGVudGljYXRlKHRydWUpCiAgICAgICAgICAgICAgICAuaXNSZWdpc3RyYXRpb25FbmFibGVkKHRydWUpCiAgICAgICAgICAgICAgICAuZXJyb3IoRVJST1JfVkFMVUUpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICBhc3NlcnRUaGF0KGFjdHVhbFJlc3VsdCkuY29udGFpbnNPblJpZ2h0KGV4cGVjdGVkUmVzdWx0KTsKICAgIH0KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBVbnJvbGwK</text>
+        <text encoding="base64">ICAgIC0gaW5saW5lLXJlZ2lzdHJhdGlvbi9tb2JpbGUtZG9jdW1lbnQtdmVyaWZpY2F0aW9uLW1ldGhvZC8uKwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnaXZlbihyZXF1ZXN0U2NvcGVQYXJzZXIuZ2V0T3JpZ2luYWxseVJlcXVlc3RlZFNjb3BlcyhMT0dJTl9SRVFVRVNUX1dJVEhfU0tJUCkpLndpbGxSZXR1cm4oZW1wdHlMaXN0KCkpOwogICAgICAgIGdpdmVuKHNjb3BlQ29uc3RhbnRzLmlzUmVhZEJhc2tldE9ubHkoZW1wdHlMaXN0KCkpKS53aWxsUmV0dXJuKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgIEBVbnJvbGwK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBnaXZlbihyZXF1ZXN0U2NvcGVQYXJzZXIuZ2V0T3JpZ2luYWxseVJlcXVlc3RlZFNjb3BlcyhMT0dJTl9SRVFVRVNUX1dJVEhfU0tJUCkpLndpbGxSZXR1cm4oZW1wdHlMaXN0KCkpOwogICAgICAgIGdpdmVuKHNjb3BlQ29uc3RhbnRzLmlzUmVhZEJhc2tldE9ubHkoZW1wdHlMaXN0KCkpKS53aWxsUmV0dXJuKGZhbHNlKTsK</text>
@@ -832,7 +837,7 @@
         <text encoding="base64">ICAgICAgICBnaXZlbihyZXF1ZXN0U2NvcGVQYXJzZXIuZ2V0T3JpZ2luYWxseVJlcXVlc3RlZFNjb3BlcyhMT0dJTl9SRVFVRVNUX1dJVEhfU0tJUCkpLndpbGxSZXR1cm4oZW1wdHlMaXN0KCkpOwogICAgICAgIGdpdmVuKHNjb3BlQ29uc3RhbnRzLmlzUmVhZEJhc2tldE9ubHkoZW1wdHlMaXN0KCkpKS53aWxsUmV0dXJuKGZhbHNlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnaXZlbihzY29wZUNvbnN0YW50cy5pc1JlYWRCYXNrZXQoYW55KCkpKS53aWxsUmV0dXJuKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBnaXZlbihyZXF1ZXN0U2NvcGVQYXJzZXIuZ2V0T3JpZ2luYWxseVJlcXVlc3RlZFNjb3BlcyhMT0dJTl9SRVFVRVNUX1dJVEhfU0tJUCkpLndpbGxSZXR1cm4oZW1wdHlMaXN0KCkpOwogICAgICAgIGdpdmVuKHNjb3BlQ29uc3RhbnRzLmlzUmVhZEJhc2tldE9ubHkoZW1wdHlMaXN0KCkpKS53aWxsUmV0dXJuKGZhbHNlKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -859,7 +864,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnaXZlbihzY29wZUNvbnN0YW50cy5pc1JlYWRCYXNrZXQoYW55KCkpKS53aWxsUmV0dXJuKHRydWUpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -869,9 +874,9 @@
       </register>
     </registers>
     <search>
-      <last-search>secu</last-search>
+      <last-search>whitelist</last-search>
       <last-offset />
-      <last-pattern>secu</last-pattern>
+      <last-pattern>whitelist</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -879,8 +884,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRPdHBSZWRlZW1SZXF1ZXN0XD4=</entry>
-        <entry encoding="base64">XDxyZWRlZW1PdHBcPg==</entry>
         <entry encoding="base64">XDxhc3NlbWJsZVN1Ym1pdExvZ2luRXJyb3JcPg==</entry>
         <entry encoding="base64">XDxuZWVkVG9BZGRJZENhcmRPclBhc3Nwb3J0XD4=</entry>
         <entry encoding="base64">XDxpc0RhdGFUcmFuc2Zlclw+</entry>
@@ -899,6 +902,8 @@
         <entry>authenticate\/transaction</entry>
         <entry encoding="base64">XDxtYXBFcnJvclw+</entry>
         <entry>secu</entry>
+        <entry>temp</entry>
+        <entry>whitelist</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
