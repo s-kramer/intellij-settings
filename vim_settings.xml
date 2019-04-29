@@ -19,7 +19,7 @@
       <file name="/postgres.documents.document [postgres@devint2]" timestamp="1556396057358">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/postgres.linked_provider.linkedprovider [postgres@devint2]" timestamp="1556541446884">
+      <file name="/postgres.linked_provider.linkedprovider [postgres@devint2]" timestamp="1556542761243">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/config/ConfigurationFactory.java" timestamp="1556282882946">
@@ -73,7 +73,12 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageController.java" timestamp="1556192075655">
         <mark key="'" line="45" column="35" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/inlineregistration/MobileVerificationService.java" timestamp="1556540919920" />
+      <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/inlineregistration/MobileVerificationService.java" timestamp="1556543094770">
+        <mark key="[" line="50" column="28" />
+        <mark key="]" line="50" column="27" />
+        <mark key="." line="50" column="27" />
+        <mark key="^" line="50" column="27" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/page/LoginPageServiceTest.java" timestamp="1556447369665">
         <mark key="'" line="266" column="0" />
         <mark key="[" line="227" column="51" />
@@ -104,7 +109,7 @@
       <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" timestamp="1556207600083">
         <mark key="'" line="57" column="17" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" timestamp="1556534323837">
+      <file name="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" timestamp="1556543492279">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="39" column="29" />
         <mark key="]" line="39" column="47" />
@@ -404,10 +409,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>getExposedUid</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>getExposedUid</text>
       </register>
       <register name="/" type="4">
         <text>auth header</text>
