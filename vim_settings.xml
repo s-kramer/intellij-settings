@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/inlineregistration/MobileVerificationService.java" timestamp="1556543094770">
-        <mark key="[" line="50" column="28" />
-        <mark key="]" line="50" column="27" />
-        <mark key="." line="50" column="27" />
-        <mark key="^" line="50" column="27" />
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="52" column="27" />
+        <mark key="." line="52" column="27" />
+        <mark key="^" line="52" column="27" />
       </file>
       <file name="/a.dummy" timestamp="1556396898947">
         <mark key="[" line="0" column="0" />
@@ -202,11 +202,11 @@
       <file name="/postgres.linked_provider.linkedprovider [postgres@mobile]" timestamp="1556390082595">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556604884921">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="0" column="48" />
+      <file name="/Dummy.txt" timestamp="1556609573066">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="47" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" timestamp="1556358183127">
         <mark key="[" line="38" column="142" />
@@ -219,6 +219,11 @@
         <mark key="[" line="54" column="21" />
         <mark key="]" line="54" column="21" />
         <mark key="." line="54" column="21" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/assembly/dipp-devint-2.json" timestamp="1556609545609">
+        <mark key="[" line="38" column="29" />
+        <mark key="]" line="38" column="49" />
+        <mark key="." line="38" column="29" />
       </file>
       <file name="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" timestamp="1556554513373">
         <mark key="'" line="1160" column="47" />
@@ -358,10 +363,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2175 added endpoints to temp user white list</text>
+        <text>525 removed redundant entry from whitelist</text>
       </register>
       <register name="-" type="4">
-        <text>2175 added endpoints to temp user white list</text>
+        <text>525 removed redundant entry from whitelist</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
