@@ -64,12 +64,12 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/ShortcutServiceRestAdapter.java" timestamp="1556637943481">
         <mark key="'" line="63" column="30" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/README.md" timestamp="1557138530180">
-        <mark key="'" line="45" column="23" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="21" column="54" />
+      <file name="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/README.md" timestamp="1557147617377">
+        <mark key="'" line="57" column="32" />
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/PrerequisitesService.java" timestamp="1556632971902">
         <mark key="[" line="33" column="21" />
@@ -261,7 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1160" column="47" filename="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" />
       <jump line="5" column="77" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6cfa95cf-bd66-4536-9d63-1c85797ecafa/console_9.sql" />
       <jump line="514" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.json" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.json" />
@@ -361,19 +360,20 @@
       <jump line="210" column="58" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" />
       <jump line="23" column="0" filename="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/README.md" />
       <jump line="22" column="23" filename="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/README.md" />
+      <jump line="57" column="32" filename="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>mailhog</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mailhog</text>
       </register>
       <register name="/" type="4">
         <text>original</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWFpbGhvZyB8IDgwMjUgfCAxODAyNSB8IDI4MDI1Cg==</text>
+        <text encoding="base64">YC4vcG9ydC11bmZvcndhcmQtbWFpbGhvZyBkZXYxYAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
