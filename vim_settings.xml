@@ -64,7 +64,7 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/ShortcutServiceRestAdapter.java" timestamp="1556637943481">
         <mark key="'" line="63" column="30" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/README.md" timestamp="1557214199169">
+      <file name="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/README.md" timestamp="1557214209474">
         <mark key="'" line="57" column="32" />
         <mark key="[" line="44" column="31" />
         <mark key="]" line="45" column="0" />
@@ -207,6 +207,9 @@
         <mark key="." line="1190" column="20" />
         <mark key="^" line="1190" column="20" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" timestamp="1557214590619">
+        <mark key="'" line="128" column="20" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" timestamp="1556629673956">
         <mark key="'" line="107" column="0" />
         <mark key="[" line="273" column="0" />
@@ -261,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="77" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6cfa95cf-bd66-4536-9d63-1c85797ecafa/console_9.sql" />
       <jump line="514" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.json" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.json" />
       <jump line="185" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.json" />
@@ -361,6 +363,7 @@
       <jump line="23" column="0" filename="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/README.md" />
       <jump line="22" column="23" filename="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/README.md" />
       <jump line="57" column="32" filename="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/README.md" />
+      <jump line="128" column="20" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -370,7 +373,7 @@
         <text>mailhog</text>
       </register>
       <register name="/" type="4">
-        <text>original</text>
+        <text encoding="base64">XDxjaGVja1ByZWNvbmRpdGlvbnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YC4vcG9ydC11bmZvcndhcmQtbWFpbGhvZyBkZXYxYAo=</text>
@@ -420,17 +423,16 @@
       </register>
     </registers>
     <search>
-      <last-search>original</last-search>
+      <last-search encoding="base64">XDxjaGVja1ByZWNvbmRpdGlvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern>original</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVja1ByZWNvbmRpdGlvbnNcPg==</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbmxpbmVJZGVudGlmaWNhdGlvbkV4Y2x1c2lvbkNvbmZpZ3VyYXRpb25cPg==</entry>
         <entry encoding="base64">XDxJbmxpbmVJZGVudGlmaWNhdGlvbkV4Y2x1c2lvbkNvbmZpZ3VyYXRpb25cPg==</entry>
         <entry>client</entry>
         <entry>exclu</entry>
@@ -450,6 +452,7 @@
         <entry encoding="base64">XDxnZXRRdWVyeVBhcmFtc1w+</entry>
         <entry encoding="base64">XDxlbmZvcmNlTG9naW5cPg==</entry>
         <entry>original</entry>
+        <entry encoding="base64">XDxjaGVja1ByZWNvbmRpdGlvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
