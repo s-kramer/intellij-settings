@@ -43,6 +43,7 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/src/main/java/com/dipp/basket/service/query/documents/IdCardScopeDataProvider.java" timestamp="1557306674342" />
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/PrerequisitesService.java" timestamp="1556632971902">
         <mark key="[" line="33" column="21" />
         <mark key="]" line="33" column="31" />
@@ -389,7 +390,7 @@
         <text>dev:6632-68d5e9c6-maWster</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja1ByZWNvbmRpdGlvbnNcPg==</text>
+        <text>service</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YC4vcG9ydC11bmZvcndhcmQtbWFpbGhvZyBkZXYxYAo=</text>
@@ -439,18 +440,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja1ByZWNvbmRpdGlvbnNcPg==</last-search>
+      <last-search>service</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja1ByZWNvbmRpdGlvbnNcPg==</last-pattern>
+      <last-pattern>service</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJbmxpbmVJZGVudGlmaWNhdGlvbkV4Y2x1c2lvbkNvbmZpZ3VyYXRpb25cPg==</entry>
-        <entry>client</entry>
         <entry>exclu</entry>
         <entry encoding="base64">XDxpc0NsaWVudE5vdEV4Y2x1ZGVkXD4=</entry>
         <entry encoding="base64">XDxnZXRJbmxpbmVSZWdpc3RyYXRpb25TdGF0dXNlc1w+</entry>
@@ -469,6 +468,8 @@
         <entry encoding="base64">XDxlbmZvcmNlTG9naW5cPg==</entry>
         <entry>original</entry>
         <entry encoding="base64">XDxjaGVja1ByZWNvbmRpdGlvbnNcPg==</entry>
+        <entry>servicename</entry>
+        <entry>service</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
