@@ -83,6 +83,9 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="/hydra-consent-app.yaml" timestamp="1557218795717" />
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/JWTService.java" timestamp="1557318183279">
+        <mark key="'" line="145" column="32" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" timestamp="1556631360389">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="42" column="24" />
@@ -208,11 +211,6 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileAuthorizationController.java" timestamp="1556636252283">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1557299368756">
         <mark key="[" line="0" column="0" />
       </file>
@@ -222,11 +220,6 @@
         <mark key="]" line="38" column="140" />
         <mark key="." line="38" column="140" />
         <mark key="^" line="38" column="140" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/assembly/dipp-devint-2.json" timestamp="1556609545609">
-        <mark key="[" line="38" column="29" />
-        <mark key="]" line="38" column="49" />
-        <mark key="." line="38" column="29" />
       </file>
       <file name="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" timestamp="1556554513373">
         <mark key="'" line="1160" column="47" />
@@ -272,8 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.json" />
-      <jump line="80" column="38" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
       <jump line="321" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
       <jump line="2" column="82" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
       <jump line="68" column="39" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
@@ -372,6 +363,8 @@
       <jump line="128" column="20" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" />
       <jump line="116" column="8" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" />
       <jump line="140" column="73" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" />
+      <jump line="168" column="17" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/JWTService.java" />
+      <jump line="145" column="32" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/JWTService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -381,7 +374,7 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>acr</text>
+        <text encoding="base64">XDxnZXRBY2Nlc3NUb2tlbkNsYWltc1w+</text>
       </register>
       <register name="0" type="4">
         <text>'testmail-09fae1f54617405da8e89f22f5372d85@dipp.com'</text>
@@ -431,18 +424,16 @@
       </register>
     </registers>
     <search>
-      <last-search>acr</last-search>
+      <last-search encoding="base64">XDxnZXRBY2Nlc3NUb2tlbkNsYWltc1w+</last-search>
       <last-offset />
-      <last-pattern>acr</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRBY2Nlc3NUb2tlbkNsYWltc1w+</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0NsaWVudE5vdEV4Y2x1ZGVkXD4=</entry>
-        <entry encoding="base64">XDxnZXRJbmxpbmVSZWdpc3RyYXRpb25TdGF0dXNlc1w+</entry>
         <entry encoding="base64">XDxnZXRJbmxpbmVJZGVudGlmaWNhdGlvblN0YXR1c2VzXD4=</entry>
         <entry encoding="base64">XDxpc0lubGluZUlkZW50aWZpY2F0aW9uRmxvd1w+</entry>
         <entry encoding="base64">XDxzaG91bGROZmFCZUV4ZWN1dGVkXD4=</entry>
@@ -461,6 +452,8 @@
         <entry>servicename</entry>
         <entry>service</entry>
         <entry>acr</entry>
+        <entry encoding="base64">XDxjaGVja0lzc1ZhbHVlQW5kQ2hhbmdlSWZBcHBsaWNhYmxlXD4=</entry>
+        <entry encoding="base64">XDxnZXRBY2Nlc3NUb2tlbkNsYWltc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
