@@ -32,6 +32,9 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" timestamp="1557314093894">
         <mark key="'" line="140" column="73" />
       </file>
+      <file name="/postgres.nfa_configuration.nfa_configuration [postgres@dev1]" timestamp="1557319449201">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/NfaServiceSpec_checkLoginNfaForLoginPage.groovy" timestamp="1556629550442">
         <mark key="'" line="12" column="42" />
         <mark key="[" line="91" column="8" />
@@ -202,7 +205,7 @@
         <mark key="." line="47" column="30" />
         <mark key="^" line="48" column="59" />
       </file>
-      <file name="/dummy.sql" timestamp="1557311223449">
+      <file name="/dummy.sql" timestamp="1557319449756">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -247,11 +250,14 @@
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd80fbb8-ff24-4442-b66a-5d398bbe84f6/console_1.sql" timestamp="1557311340644">
-        <mark key="[" line="4" column="117" />
-        <mark key="]" line="4" column="116" />
-        <mark key="." line="4" column="116" />
-        <mark key="^" line="4" column="116" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd80fbb8-ff24-4442-b66a-5d398bbe84f6/console_1.sql" timestamp="1557319462963">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="52" />
+        <mark key="." line="1" column="52" />
+        <mark key="^" line="1" column="52" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/test-frontend/src/test/java/com/dipp/frontendtest/TwoFaTest.java" timestamp="1557319322045">
+        <mark key="'" line="813" column="76" />
       </file>
       <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NfaNecessityFilter.java" timestamp="1556550980621">
         <mark key="'" line="86" column="20" />
@@ -265,7 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
       <jump line="2" column="82" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
       <jump line="68" column="39" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
       <jump line="52" column="25" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
@@ -365,19 +370,20 @@
       <jump line="140" column="73" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" />
       <jump line="168" column="17" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/JWTService.java" />
       <jump line="145" column="32" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/JWTService.java" />
+      <jump line="813" column="76" filename="$USER_HOME$/verimi-auth-verimi/test-frontend/src/test/java/com/dipp/frontendtest/TwoFaTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'testmail-09fae1f54617405da8e89f22f5372d85@dipp.com'</text>
+        <text>documents.document</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>documents.document</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRBY2Nlc3NUb2tlbkNsYWltc1w+</text>
+        <text>before</text>
       </register>
-      <register name="0" type="4">
-        <text>'testmail-09fae1f54617405da8e89f22f5372d85@dipp.com'</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBkb2N1bWVudHMuZG9jdW1lbnQgd2hlcmUgdWlkIGluICgK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VsZWN0IHVpZCBmcm9tIGNvbnRhY3QuZW1haWwgd2hlcmUgZW1haWwuZW1haWwgPSAnc2tAdGUuc3QnOwo=</text>
@@ -424,9 +430,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRBY2Nlc3NUb2tlbkNsYWltc1w+</last-search>
+      <last-search>before</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRBY2Nlc3NUb2tlbkNsYWltc1w+</last-pattern>
+      <last-pattern>before</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>-1</last-dir>
@@ -434,7 +440,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRJbmxpbmVJZGVudGlmaWNhdGlvblN0YXR1c2VzXD4=</entry>
         <entry encoding="base64">XDxpc0lubGluZUlkZW50aWZpY2F0aW9uRmxvd1w+</entry>
         <entry encoding="base64">XDxzaG91bGROZmFCZUV4ZWN1dGVkXD4=</entry>
         <entry>scopes</entry>
@@ -454,6 +459,7 @@
         <entry>acr</entry>
         <entry encoding="base64">XDxjaGVja0lzc1ZhbHVlQW5kQ2hhbmdlSWZBcHBsaWNhYmxlXD4=</entry>
         <entry encoding="base64">XDxnZXRBY2Nlc3NUb2tlbkNsYWltc1w+</entry>
+        <entry>before</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
