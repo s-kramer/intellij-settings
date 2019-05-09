@@ -20,6 +20,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/frontend.yaml" timestamp="1557390478809">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="42" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" timestamp="1557314093894">
         <mark key="'" line="140" column="73" />
       </file>
@@ -293,8 +297,8 @@
       <jump line="32" column="7" filename="$USER_HOME$/sd/spodddify/axon-spodddify/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{billingAccountId}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAtIHd3dy1kZXYyLmRldi5zYW5kYm94LnZlcmltaS5jbG91ZAogIC0gcmVkaXItd3d3LWRldjIuZGV2LnNhbmRib3gudmVyaW1pLmNsb3VkCiAgLSB2aWRlb2lkZW50LWRldjIuZGV2LnNhbmRib3gudmVyaW1pLmNsb3VkCiAgLSBkZWVwbGluay1kZXYyLmRldi5zYW5kYm94LnZlcmltaS5jbG91ZAo=</text>
       </register>
       <register name="-" type="4">
         <text>{billingAccountId}</text>
