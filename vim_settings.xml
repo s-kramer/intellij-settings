@@ -30,7 +30,6 @@
       <file name="/postgres.nfa_configuration.nfa_configuration [postgres@dev1]" timestamp="1557319449201">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/src/main/java/com/dipp/basket/service/query/documents/IdCardScopeDataProvider.java" timestamp="1557306674342" />
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/PrerequisitesService.java" timestamp="1556632971902">
         <mark key="[" line="33" column="21" />
         <mark key="]" line="33" column="31" />
@@ -64,7 +63,6 @@
         <mark key="^" line="11" column="11" />
         <mark key="." line="11" column="11" />
       </file>
-      <file name="/hydra-consent-app.yaml" timestamp="1557218795717" />
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/JWTService.java" timestamp="1557318183279">
         <mark key="'" line="145" column="32" />
       </file>
@@ -112,6 +110,9 @@
         <mark key="." line="14" column="83" />
         <mark key="^" line="14" column="83" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" timestamp="1557395025197">
+        <mark key="'" line="125" column="53" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/mobileflow/translations/BasketTranslatorTest.groovy" timestamp="1556194720322">
         <mark key="[" line="29" column="5" />
         <mark key="]" line="30" column="3" />
@@ -146,6 +147,12 @@
         <mark key="]" line="215" column="38" />
         <mark key="^" line="215" column="44" />
         <mark key="." line="215" column="44" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageService.java" timestamp="1557394996278">
+        <mark key="'" line="127" column="88" />
+        <mark key="[" line="153" column="19" />
+        <mark key="]" line="153" column="19" />
+        <mark key="." line="153" column="19" />
       </file>
       <file name="/dummy.sql" timestamp="1556555347113">
         <mark key="[" line="0" column="0" />
@@ -195,9 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="38" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
-      <jump line="321" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
-      <jump line="2" column="82" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
       <jump line="68" column="39" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
       <jump line="52" column="25" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
       <jump line="60" column="32" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
@@ -295,16 +299,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/sd/spodddify/axon-spodddify/build.gradle" />
       <jump line="17" column="47" filename="$USER_HOME$/sd/spodddify/axon-spodddify/build.gradle" />
       <jump line="32" column="7" filename="$USER_HOME$/sd/spodddify/axon-spodddify/build.gradle" />
+      <jump line="145" column="24" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageService.java" />
+      <jump line="127" column="88" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageService.java" />
+      <jump line="125" column="53" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAtIHd3dy1kZXYyLmRldi5zYW5kYm94LnZlcmltaS5jbG91ZAogIC0gcmVkaXItd3d3LWRldjIuZGV2LnNhbmRib3gudmVyaW1pLmNsb3VkCiAgLSB2aWRlb2lkZW50LWRldjIuZGV2LnNhbmRib3gudmVyaW1pLmNsb3VkCiAgLSBkZWVwbGluay1kZXYyLmRldi5zYW5kYm94LnZlcmltaS5jbG91ZAo=</text>
+      <register name="&quot;" type="4">
+        <text>(LoginPageResponse)</text>
       </register>
       <register name="-" type="4">
-        <text>{billingAccountId}</text>
+        <text>(LoginPageResponse)</text>
       </register>
       <register name="/" type="4">
-        <text>axon</text>
+        <text encoding="base64">XDxnZXROZmFTdGF0dXNGb3JMb2dpblBhZ2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAicGF5bWVudF9wbGFuIjogIkZSRUUiCg==</text>
@@ -354,17 +361,16 @@
       </register>
     </registers>
     <search>
-      <last-search>axon</last-search>
+      <last-search encoding="base64">XDxnZXROZmFTdGF0dXNGb3JMb2dpblBhZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>axon</last-pattern>
+      <last-pattern encoding="base64">XDxnZXROZmFTdGF0dXNGb3JMb2dpblBhZ2VcPg==</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG91bGROZmFCZUV4ZWN1dGVkXD4=</entry>
         <entry>scopes</entry>
         <entry>request</entry>
         <entry encoding="base64">XDxsb2dpbklkXD4=</entry>
@@ -379,11 +385,12 @@
         <entry encoding="base64">XDxjaGVja1ByZWNvbmRpdGlvbnNcPg==</entry>
         <entry>servicename</entry>
         <entry>service</entry>
-        <entry>acr</entry>
         <entry encoding="base64">XDxjaGVja0lzc1ZhbHVlQW5kQ2hhbmdlSWZBcHBsaWNhYmxlXD4=</entry>
         <entry encoding="base64">XDxnZXRBY2Nlc3NUb2tlbkNsYWltc1w+</entry>
         <entry>before</entry>
         <entry>axon</entry>
+        <entry>acr</entry>
+        <entry encoding="base64">XDxnZXROZmFTdGF0dXNGb3JMb2dpblBhZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
