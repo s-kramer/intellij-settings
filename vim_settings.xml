@@ -335,7 +335,7 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557484363881">
+      <file name="/Dummy.txt" timestamp="1557488202364">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" timestamp="1556632383252">
@@ -344,6 +344,12 @@
         <mark key="]" line="38" column="140" />
         <mark key="." line="38" column="140" />
         <mark key="^" line="38" column="140" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build.gradle" timestamp="1557488198255">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="88" />
+        <mark key="." line="104" column="65" />
+        <mark key="^" line="104" column="65" />
       </file>
       <file name="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" timestamp="1556554513373">
         <mark key="'" line="1160" column="47" />
@@ -497,11 +503,11 @@
       <jump line="18" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>io.spring.dependency-management</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWFjdHVhdG9yOiR7c3ByaW5nQm9vdFZlcnNpb259Igo=</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>undertow</text>
       </register>
       <register name="/" type="4">
         <text>plugin</text>
