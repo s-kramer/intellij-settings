@@ -15,16 +15,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/frontend.yaml" timestamp="1557390478809">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="42" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/service-registry/src/main/resources/application-local-env.yml" timestamp="1557484135729">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="4" column="10" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/service-registry/src/main/resources/application-local-env.yml" timestamp="1557484264762">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="1" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6cfa95cf-bd66-4536-9d63-1c85797ecafa/console_9.sql" timestamp="1556556946276">
         <mark key="'" line="5" column="77" />
@@ -85,6 +80,12 @@
         <mark key="." line="134" column="60" />
         <mark key="^" line="134" column="27" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/hydra.yaml" timestamp="1557219165723">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="52" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="4" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/Application.java" timestamp="1557349001064">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="11" column="11" />
@@ -116,7 +117,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="/serviceprovider [postgres@devint2]" timestamp="1557473803317">
+      <file name="/serviceprovider [postgres@devint2]" timestamp="1557484163830">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/service/ConsentRequestParser.java" timestamp="1556396453385">
@@ -313,7 +314,7 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557482522828">
+      <file name="/Dummy.txt" timestamp="1557484363881">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" timestamp="1556632383252">
@@ -349,6 +350,12 @@
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="27" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd80fbb8-ff24-4442-b66a-5d398bbe84f6/console_1.sql" timestamp="1557319462963">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="52" />
+        <mark key="." line="1" column="52" />
+        <mark key="^" line="1" column="52" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NfaNecessityFilter.java" timestamp="1556550980621">
         <mark key="'" line="86" column="20" />
         <mark key="[" line="65" column="0" />
@@ -359,7 +366,7 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/service/RequestScopeParser.java" timestamp="1556636592806">
         <mark key="'" line="30" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1557348878630">
+      <file name="/fragment.java" timestamp="1557484363872">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="50" />
         <mark key="^" line="0" column="50" />
@@ -465,15 +472,15 @@
       <jump line="164" column="51" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/gradle.properties" />
       <jump line="9" column="53" filename="$USER_HOME$/verimi-auth-verimi/service-registry/src/main/resources/application-local-env.yml" />
-      <jump line="2" column="0" filename="$USER_HOME$/verimi-auth-verimi/service-registry/src/main/resources/application-local-env.yml" />
       <jump line="21" column="4" filename="$USER_HOME$/verimi-auth-verimi/service-registry/src/main/resources/application-local-env.yml" />
+      <jump line="2" column="0" filename="$USER_HOME$/verimi-auth-verimi/service-registry/src/main/resources/application-local-env.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBoZWFsdGhjaGVjazoKICAgIGVuYWJsZWQ6IHRydWUK</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text># Not a client, don't register with yourself</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJpbWlEZXBlbmRlbmN5VmVyc2lvblw+</text>
@@ -482,25 +489,25 @@
         <text>SERVICE_REGISTRY_HOST</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBoZWFsdGhjaGVjazoKICAgIGVuYWJsZWQ6IHRydWUK</text>
+        <text encoding="base64">CmV1cmVrYToKICBjbGllbnQ6CiAgICBlbmFibGVkOiBmYWxzZQogICAgcmVnaXN0ZXJXaXRoRXVyZWthOiBmYWxzZQogICAgZmV0Y2hSZWdpc3RyeTogZmFsc2UKCnNlcnZlcjoKICBwb3J0OiAke1NFUlZJQ0VfUkVHSVNUUllfUE9SVH0gICAjIEhUVFAgKFRvbWNhdCkgcG9ydAoKIyBEaXNjb3ZlcnkgU2VydmVyIERhc2hib2FyZCB1c2VzIEZyZWVNYXJrZXIuICBEb24ndCB3YW50IFRoeW1lbGVhZiB0ZW1wbGF0ZXMKc3ByaW5nOgogIHRoeW1lbGVhZjoKICAgIGVuYWJsZWQ6IGZhbHNlICAgICAjIERpc2FibGUgVGh5bWVsZWFmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2UtdXJsOgogICAgICBkZWZhdWx0Wm9uZTogaHR0cDovLyR7U0VSVklDRV9SRUdJU1RSWV9IT1NUfToke1NFUlZJQ0VfUkVHSVNUUllfUE9SVH0vZXVyZWthCg==</text>
+        <text encoding="base64">U0VSVklDRV9SRUdJU1RSWV9IT1NUOiBsb2NhbGhvc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBDb25maWd1cmUgdGhpcyBEaXNjb3ZlcnkgU2VydmVyCg==</text>
+        <text encoding="base64">U0VSVklDRV9SRUdJU1RSWV9QT1JUOiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoZWFsdGhjaGVjazoKICAgIGVuYWJsZWQ6IHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbnN0YW5jZToKICAgIGhvc3RuYW1lOiAke1NFUlZJQ0VfUkVHSVNUUllfSE9TVH0KICAgIHByZWZlcklwQWRkcmVzczogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIHNlcnZpY2UtdXJsOgogICAgICBkZWZhdWx0Wm9uZTogaHR0cDovLyR7U0VSVklDRV9SRUdJU1RSWV9IT1NUfToke1NFUlZJQ0VfUkVHSVNUUllfUE9SVH0vZXVyZWthCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuYWJsZWQ6IGZhbHNlCg==</text>
+        <text encoding="base64">IyBDb25maWd1cmUgdGhpcyBEaXNjb3ZlcnkgU2VydmVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -516,10 +523,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICBpbnN0YW5jZToKICAgIGhvc3RuYW1lOiAke1NFUlZJQ0VfUkVHSVNUUllfSE9TVH0KICAgIHByZWZlcklwQWRkcmVzczogdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QWRkZWQgc3ByaW5nLWFjdHVhdG9yIHBvcnQgZm9yd2FyZGluZyBzY3JpcHRzCg==</text>
+        <text encoding="base64">ICAgIGVuYWJsZWQ6IGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
