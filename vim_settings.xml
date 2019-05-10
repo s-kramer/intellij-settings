@@ -3,6 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" timestamp="1557511765743">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="83" />
+        <mark key="^" line="36" column="10" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountBalanceQuery.java" timestamp="1557512842500">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/inlineregistration/MobileVerificationService.java" timestamp="1556543094770">
         <mark key="[" line="52" column="28" />
         <mark key="]" line="52" column="27" />
@@ -27,12 +40,22 @@
         <mark key="^" line="5" column="77" />
         <mark key="." line="5" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountQueryHandler.java" timestamp="1557513273617">
+        <mark key="[" line="29" column="114" />
+        <mark key="]" line="30" column="46" />
+        <mark key="." line="30" column="46" />
+        <mark key="^" line="30" column="46" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/page/LoginPageServiceTest.java" timestamp="1556447369665">
         <mark key="'" line="266" column="0" />
         <mark key="[" line="227" column="51" />
         <mark key="]" line="227" column="71" />
         <mark key="." line="227" column="71" />
         <mark key="^" line="227" column="71" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/spodddify-api/src/main/java/org/skramer/spodddify/payment/event/BillingAccountCharged.java" timestamp="1557512279386">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="34" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/NfaServiceSpec_checkLoginNfaForLoginPage.groovy" timestamp="1556629550442">
         <mark key="'" line="12" column="42" />
@@ -48,17 +71,25 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/spodddify-api/src/main/java/org/skramer/spodddify/payment/command/CreateBillingAccountCommand.java" timestamp="1557513335212">
+        <mark key="'" line="10" column="13" />
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="30" />
+        <mark key="." line="22" column="30" />
+        <mark key="^" line="22" column="30" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/PrerequisitesService.java" timestamp="1556632971902">
         <mark key="[" line="33" column="21" />
         <mark key="]" line="33" column="31" />
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountController.java" timestamp="1557349609098">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="28" column="7" />
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountController.java" timestamp="1557513559700">
+        <mark key="'" line="42" column="36" />
+        <mark key="[" line="38" column="35" />
+        <mark key="]" line="38" column="82" />
+        <mark key="." line="38" column="82" />
+        <mark key="^" line="38" column="82" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/LoginSessionClaims.java" timestamp="1556363079902">
         <mark key="'" line="4" column="12" />
@@ -86,14 +117,6 @@
         <mark key="^" line="15" column="120" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileSpAuthShortcutServiceTest.java" timestamp="1556633186603">
-        <mark key="a" line="486" column="13" />
-        <mark key="'" line="110" column="39" />
-        <mark key="[" line="486" column="62" />
-        <mark key="]" line="486" column="121" />
-        <mark key="^" line="486" column="121" />
-        <mark key="." line="486" column="121" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" timestamp="1556631360389">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="42" column="24" />
@@ -101,17 +124,18 @@
         <mark key="." line="42" column="24" />
         <mark key="^" line="42" column="27" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/common/api/client/feign/HydraClient.java" timestamp="1556636232998">
-        <mark key="'" line="24" column="27" />
-        <mark key="[" line="28" column="35" />
-        <mark key="]" line="28" column="47" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/service/ConsentRequestParser.java" timestamp="1556396453385">
         <mark key="'" line="48" column="20" />
         <mark key="[" line="27" column="63" />
         <mark key="]" line="27" column="74" />
         <mark key="." line="27" column="74" />
         <mark key="^" line="27" column="74" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/invoice/InvoiceCommandsTargetResolver.java" timestamp="1557513776417">
+        <mark key="[" line="23" column="90" />
+        <mark key="]" line="23" column="110" />
+        <mark key="." line="23" column="110" />
+        <mark key="^" line="23" column="110" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" timestamp="1556636521900">
         <mark key="'" line="90" column="44" />
@@ -132,6 +156,12 @@
         <mark key="]" line="268" column="71" />
         <mark key="^" line="268" column="71" />
         <mark key="." line="268" column="71" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountModel.java" timestamp="1557511413613">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+        <mark key="^" line="13" column="38" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" timestamp="1557214590619">
         <mark key="'" line="128" column="20" />
@@ -159,7 +189,11 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" timestamp="1556628918197">
         <mark key="'" line="235" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" timestamp="1557348799156" />
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" timestamp="1557513139392">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/InlineIdentificationChecker.java" timestamp="1556633088692">
         <mark key="[" line="37" column="70" />
         <mark key="]" line="37" column="99" />
@@ -185,17 +219,17 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" timestamp="1556638059934">
-        <mark key="'" line="210" column="58" />
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="0" />
-        <mark key="." line="233" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" timestamp="1557513855655">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" timestamp="1557347396178">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/Projects/Java/spodddify/spodddify-api/src/main/java/org/skramer/spodddify/payment/command/ChargeBillingAccountCommand.java" timestamp="1557513711559">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/ShortcutServiceRestAdapter.java" timestamp="1556637943481">
         <mark key="'" line="63" column="30" />
@@ -208,6 +242,12 @@
         <mark key="]" line="27" column="98" />
         <mark key="." line="27" column="98" />
         <mark key="^" line="27" column="98" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountChargedModel.java" timestamp="1557512353071">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="124" />
+        <mark key="." line="12" column="124" />
+        <mark key="^" line="12" column="124" />
       </file>
       <file name="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-1/security-service.yml" timestamp="1556200293189">
         <mark key="[" line="215" column="4" />
@@ -239,14 +279,6 @@
       <file name="/Dummy.txt" timestamp="1557349622952">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileSpAuthShortcutService.java" timestamp="1556633554033">
-        <mark key="a" line="198" column="42" />
-        <mark key="'" line="110" column="96" />
-        <mark key="[" line="198" column="43" />
-        <mark key="]" line="198" column="102" />
-        <mark key="^" line="198" column="102" />
-        <mark key="." line="198" column="102" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" timestamp="1556632383252">
         <mark key="'" line="94" column="20" />
         <mark key="[" line="38" column="142" />
@@ -266,11 +298,11 @@
         <mark key="." line="1190" column="20" />
         <mark key="^" line="1190" column="20" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" timestamp="1556629673956">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="273" column="0" />
-        <mark key="." line="273" column="0" />
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountBalance.java" timestamp="1557512688814">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="7" column="24" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/verimi/domain/LoginPageNfaStatus.java" timestamp="1556359414771">
         <mark key="'" line="23" column="0" />
@@ -289,7 +321,7 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/service/RequestScopeParser.java" timestamp="1556636592806">
         <mark key="'" line="30" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1557348878630">
+      <file name="/fragment.java" timestamp="1557512661997">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="50" />
         <mark key="^" line="0" column="50" />
@@ -297,31 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="514" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.json" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.json" />
-      <jump line="185" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.json" />
-      <jump line="80" column="38" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
-      <jump line="321" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
-      <jump line="2" column="82" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
-      <jump line="68" column="39" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
-      <jump line="52" column="25" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
-      <jump line="60" column="32" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
-      <jump line="264" column="31" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
-      <jump line="262" column="51" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
-      <jump line="240" column="14" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
-      <jump line="239" column="77" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
-      <jump line="104" column="43" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
-      <jump line="253" column="52" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" />
-      <jump line="214" column="30" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutService.java" />
-      <jump line="28" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" />
-      <jump line="31" column="18" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" />
-      <jump line="32" column="49" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" />
-      <jump line="68" column="52" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
-      <jump line="124" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
-      <jump line="170" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" />
-      <jump line="275" column="76" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
-      <jump line="375" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
-      <jump line="377" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="93" column="38" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="98" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="101" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
@@ -397,40 +404,65 @@
       <jump line="22" column="23" filename="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/README.md" />
       <jump line="57" column="32" filename="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/README.md" />
       <jump line="128" column="20" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" />
+      <jump line="8" column="37" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountModel.java" />
+      <jump line="23" column="77" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountController.java" />
+      <jump line="22" column="35" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountController.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
+      <jump line="70" column="32" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" />
+      <jump line="41" column="35" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountController.java" />
+      <jump line="59" column="41" filename="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" />
+      <jump line="24" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" />
+      <jump line="60" column="77" filename="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" />
+      <jump line="10" column="13" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-api/src/main/java/org/skramer/spodddify/payment/command/CreateBillingAccountCommand.java" />
+      <jump line="10" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" />
+      <jump line="61" column="42" filename="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" />
+      <jump line="42" column="36" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountController.java" />
+      <jump line="6" column="13" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-api/src/main/java/org/skramer/spodddify/payment/command/ChargeBillingAccountCommand.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-api/src/main/java/org/skramer/spodddify/payment/command/ChargeBillingAccountCommand.java" />
+      <jump line="52" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" />
+      <jump line="53" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" />
+      <jump line="54" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" />
+      <jump line="78" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" />
+      <jump line="0" column="24" filename="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" />
+      <jump line="55" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWRkZWQgYmlsbGluZyBhY2NvdW50IHF1ZXJ5aW5nIChub3QgZXMtc3R5bGUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>FREE</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q29tcGxldGFibGVGdXR1cmU8T2JqZWN0Pg==</text>
+        <text>FREE</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja1ByZWNvbmRpdGlvbnNcPg==</text>
+        <text encoding="base64">XDxiaWxsaW5nQWNjb3VudElkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAicGF5bWVudF9wbGFuIjogIkZSRUUiCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQ3JlYXRlSW52b2ljZUNvbW1hbmQuY2xhc3MuaXNBc3NpZ25hYmxlRnJvbShjb21tYW5kLmdldFBheWxvYWRUeXBlKCkpKSB7CiAgICAgICAgICAgIGZpbmFsIFN0cmluZyBpbnZvaWNlSWQgPSAoKENyZWF0ZUludm9pY2VDb21tYW5kKSBjb21tYW5kLmdldFBheWxvYWQoKSkuZ2V0SW52b2ljZUlkKCk7CiAgICAgICAgICAgIHJldHVybiBuZXcgVmVyc2lvbmVkQWdncmVnYXRlSWRlbnRpZmllcihpbnZvaWNlSWQsIG51bGwpOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRkZWQgYmlsbGluZyBhY2NvdW50IHF1ZXJ5aW5nIChub3QgZXMtc3R5bGUpCg==</text>
+        <text encoding="base64">ICAgIEBJZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5PYmplY3RNYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEJpbGxpbmdBY2NvdW50QmFsYW5jZShyZXN1bHQuaWRlbnRpZmllckFzU3RyaW5nKCksIGJhbGFuY2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgT2JqZWN0TWFwcGVyIG9iamVjdE1hcHBlcjsK</text>
+        <text encoding="base64">ICAgICAgICBDb21wbGV0YWJsZUZ1dHVyZTxCaWxsaW5nQWNjb3VudEJhbGFuY2U+IGJpbGxpbmdBY2NvdW50Q29tcGxldGFibGVGdXR1cmUgPSBuZXcgQ29tcGxldGFibGVGdXR1cmU8PigpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>createBillingAccountRequest.getPaymentPlan()</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHQuZXhlY3V0ZShiaWxsaW5nQWNjb3VudENvbXBsZXRhYmxlRnV0dXJlOjpjb21wbGV0ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYmlsbGluZ0FjY291bnRDb21wbGV0YWJsZUZ1dHVyZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ewogICJwYXltZW50UGxhbiI6ICJGUkVFIgp9Cgo=</text>
+        <text encoding="base64">ICAgIEBRdWVyeUhhbmRsZXIKICAgIHByaXZhdGUgQmlsbGluZ0FjY291bnRCYWxhbmNlIGdldEJhbGFuY2UoQmlsbGluZ0FjY291bnRCYWxhbmNlUXVlcnkgcXVlcnkpIHsKICAgICAgICByZXR1cm4gbmV3IEJpbGxpbmdBY2NvdW50QmFsYW5jZShhY2NvdW50SWQsIGJhbGFuY2UpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAicGF5bWVudF9wbGFuIjogIkZSRUUiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -446,29 +478,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5hbm5vdGF0aW9uLkpzb25EZXNlcmlhbGl6ZTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2VuKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5za3JhbWVyLnNwb2RkZGlmeS5wYXltZW50LmRvbWFpbi5QYXltZW50UGxhbjsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoSuperMethod</text>
+        <text>-20t-1</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja1ByZWNvbmRpdGlvbnNcPg==</last-search>
+      <last-search encoding="base64">XDxiaWxsaW5nQWNjb3VudElkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja1ByZWNvbmRpdGlvbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxiaWxsaW5nQWNjb3VudElkXD4=</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJbmxpbmVJZGVudGlmaWNhdGlvbkV4Y2x1c2lvbkNvbmZpZ3VyYXRpb25cPg==</entry>
-        <entry>client</entry>
-        <entry>exclu</entry>
         <entry encoding="base64">XDxpc0NsaWVudE5vdEV4Y2x1ZGVkXD4=</entry>
         <entry encoding="base64">XDxnZXRJbmxpbmVSZWdpc3RyYXRpb25TdGF0dXNlc1w+</entry>
         <entry encoding="base64">XDxnZXRJbmxpbmVJZGVudGlmaWNhdGlvblN0YXR1c2VzXD4=</entry>
@@ -486,6 +515,9 @@
         <entry encoding="base64">XDxlbmZvcmNlTG9naW5cPg==</entry>
         <entry>original</entry>
         <entry encoding="base64">XDxjaGVja1ByZWNvbmRpdGlvbnNcPg==</entry>
+        <entry>vavr</entry>
+        <entry>uuid</entry>
+        <entry encoding="base64">XDxiaWxsaW5nQWNjb3VudElkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
@@ -502,6 +534,8 @@
         <entry encoding="base64">JzwsJz5zL0VOQUJMRUQvRElTQUJMRUQv</entry>
         <entry>%s/\\n/\r/g</entry>
         <entry>action GotoSuperMethod</entry>
+        <entry>-15t-1</entry>
+        <entry>-20t-1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
