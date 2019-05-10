@@ -9,6 +9,12 @@
         <mark key="." line="52" column="27" />
         <mark key="^" line="52" column="27" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/gradle.properties" timestamp="1557491223340">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+        <mark key="^" line="4" column="29" />
+      </file>
       <file name="/a.dummy" timestamp="1556396898947">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -345,7 +351,7 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557490814337">
+      <file name="/Dummy.txt" timestamp="1557491642692">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
@@ -359,11 +365,12 @@
         <mark key="." line="38" column="140" />
         <mark key="^" line="38" column="140" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build.gradle" timestamp="1557488198255">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="88" />
-        <mark key="." line="104" column="65" />
-        <mark key="^" line="104" column="65" />
+      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build.gradle" timestamp="1557491608957">
+        <mark key="'" line="137" column="46" />
+        <mark key="[" line="104" column="66" />
+        <mark key="]" line="104" column="66" />
+        <mark key="." line="104" column="66" />
+        <mark key="^" line="104" column="66" />
       </file>
       <file name="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" timestamp="1556554513373">
         <mark key="'" line="1160" column="47" />
@@ -415,7 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/README.md" />
       <jump line="64" column="0" filename="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/README.md" />
       <jump line="62" column="0" filename="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/README.md" />
       <jump line="60" column="0" filename="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/README.md" />
@@ -515,13 +521,14 @@
       <jump line="138" column="20" filename="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" />
       <jump line="4" column="0" filename="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" />
       <jump line="141" column="42" filename="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" />
+      <jump line="137" column="46" filename="$USER_HOME$/verimi-auth-verimi/import-export-service/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-SNAPSHOT</text>
+        <text>:${springBootVersion}&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>-SNAPSHOT</text>
+        <text>:${springBootVersion}&quot;</text>
       </register>
       <register name="/" type="4">
         <text>actuator</text>
