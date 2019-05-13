@@ -563,7 +563,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>hystrix</text>
+        <text>hystirx</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29tbW9uc0NvbGxlY3Rpb25zPTMuMi4yCg==</text>
@@ -613,9 +613,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hystrix</last-search>
+      <last-search>hystirx</last-search>
       <last-offset />
-      <last-pattern>hystrix</last-pattern>
+      <last-pattern>hystirx</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -623,7 +623,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2ZXJpbWlEZXBlbmRlbmN5VmVyc2lvblw+</entry>
         <entry>spring-kafka</entry>
         <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
         <entry>parent</entry>
@@ -643,6 +642,7 @@
         <entry>tostring</entry>
         <entry encoding="base64">XDxjb21tb25zQ29sbGVjdGlvbnNcPg==</entry>
         <entry>hystrix</entry>
+        <entry>hystirx</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
