@@ -422,6 +422,11 @@
         <mark key="." line="1" column="52" />
         <mark key="^" line="1" column="52" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/resources/hydra-in-memory-compose.yml" timestamp="1557739478549">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/sd/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/CreateBillingAccountRequest.java" timestamp="1557729885152">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -552,13 +557,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2.5</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>2.5</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21tb25zQ29sbGVjdGlvbnNcPg==</text>
+        <text>hystrix</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29tbW9uc0NvbGxlY3Rpb25zPTMuMi4yCg==</text>
@@ -608,9 +613,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21tb25zQ29sbGVjdGlvbnNcPg==</last-search>
+      <last-search>hystrix</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21tb25zQ29sbGVjdGlvbnNcPg==</last-pattern>
+      <last-pattern>hystrix</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -628,7 +633,6 @@
         <entry>spring-boot</entry>
         <entry encoding="base64">XDxzcHJpbmdCb290VmVyc2lvblw+</entry>
         <entry>actuator</entry>
-        <entry>hystrix</entry>
         <entry encoding="base64">XDxFbmFibGVIeXN0cml4XD4=</entry>
         <entry>exclude</entry>
         <entry>jose</entry>
@@ -638,6 +642,7 @@
         <entry encoding="base64">XDxJT1V0aWxzXD4=</entry>
         <entry>tostring</entry>
         <entry encoding="base64">XDxjb21tb25zQ29sbGVjdGlvbnNcPg==</entry>
+        <entry>hystrix</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
