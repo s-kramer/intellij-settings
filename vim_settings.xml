@@ -327,10 +327,10 @@
         <mark key="." line="27" column="98" />
         <mark key="^" line="27" column="98" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/build.gradle" timestamp="1557486538060">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="40" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/build.gradle" timestamp="1557741487279">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="/postgres.serviceprovider.serviceprovider [postgres@dev2]" timestamp="1557410540117">
         <mark key="[" line="0" column="0" />
@@ -341,6 +341,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/Application.java" timestamp="1557741491804">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-1/security-service.yml" timestamp="1556200293189">
         <mark key="[" line="215" column="4" />
@@ -370,7 +376,7 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557736656515">
+      <file name="/Dummy.txt" timestamp="1557741568508">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -460,8 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="20" filename="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" />
-      <jump line="122" column="0" filename="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" />
       <jump line="134" column="22" filename="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" />
       <jump line="135" column="21" filename="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" />
       <jump line="94" column="21" filename="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" />
@@ -493,7 +497,6 @@
       <jump line="15" column="63" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
       <jump line="19" column="6" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
       <jump line="20" column="6" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
-      <jump line="23" column="0" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/build.gradle" />
       <jump line="178" column="0" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/build.gradle" />
       <jump line="50" column="14" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/build.gradle" />
       <jump line="176" column="0" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/build.gradle" />
@@ -560,10 +563,13 @@
       <jump line="38" column="19" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/gradle.properties" />
       <jump line="78" column="13" filename="$USER_HOME$/verimi-auth-verimi/documents-service/src/main/java/com/dipp/documents/DocumentsService.java" />
       <jump line="73" column="13" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/Application.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/build.gradle" />
+      <jump line="65" column="68" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/build.gradle" />
+      <jump line="49" column="0" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/Application.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QEVuYWJsZUh5c3RyaXgK</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -575,25 +581,25 @@
         <text encoding="base64">Y29tbW9uc0NvbGxlY3Rpb25zPTMuMi4yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2xvdWQubmV0ZmxpeC5oeXN0cml4LkVuYWJsZUh5c3RyaXg7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">QEVuYWJsZUh5c3RyaXgK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgIm9yZy5zcHJpbmdmcmFtZXdvcmsuY2xvdWQ6c3ByaW5nLWNsb3VkLXN0YXJ0ZXItbmV0ZmxpeC1oeXN0cml4OiR7c3ByaW5nQ2xvdWRTdGFydGVyVmVyc2lvbn0iCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgIm9yZy5zcHJpbmdmcmFtZXdvcmsuY2xvdWQ6c3ByaW5nLWNsb3VkLXN0YXJ0ZXItbmV0ZmxpeC1oeXN0cml4Igo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2xvdWQubmV0ZmxpeC5oeXN0cml4LkVuYWJsZUh5c3RyaXg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">QEVuYWJsZUh5c3RyaXgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBKc29uUE9KT0J1aWxkZXIod2l0aFByZWZpeCA9ICIiKQogICAgcHVibGljIHN0YXRpYyBmaW5hbCBjbGFzcyBDcmVhdGVCaWxsaW5nQWNjb3VudFJlcXVlc3RCdWlsZGVyIHsKICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgIm9yZy5zcHJpbmdmcmFtZXdvcmsuY2xvdWQ6c3ByaW5nLWNsb3VkLXN0YXJ0ZXItbmV0ZmxpeC1oeXN0cml4Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEpzb25EZXNlcmlhbGl6ZShidWlsZGVyID0gQ3JlYXRlQmlsbGluZ0FjY291bnRSZXF1ZXN0QlYpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -609,10 +615,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uUE9KT0J1aWxkZXIod2l0aFByZWZpeCA9ICIiKQogICAgcHVibGljIHN0YXRpYyBmaW5hbCBjbGFzcyBDcmVhdGVCaWxsaW5nQWNjb3VudFJlcXVlc3RCdWlsZGVyIHsKICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QEpzb25EZXNlcmlhbGl6ZShidWlsZGVyID0gQ3JlYXRlQmlsbGluZ0FjY291bnRSZXF1ZXN0QlYpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
