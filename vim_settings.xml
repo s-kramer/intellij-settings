@@ -82,12 +82,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/hydra-proxy.yaml" timestamp="1557744672236">
-        <mark key="'" line="159" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/hydra-proxy.yaml" timestamp="1557745514926">
+        <mark key="'" line="6" column="2" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="4" />
         <mark key="^" line="13" column="49" />
-        <mark key="." line="12" column="0" />
+        <mark key="." line="158" column="4" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/LoginSessionClaims.java" timestamp="1556363079902">
         <mark key="'" line="4" column="12" />
@@ -359,7 +359,7 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557744675418">
+      <file name="/Dummy.txt" timestamp="1557745395562">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
@@ -443,8 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="21" filename="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" />
-      <jump line="164" column="73" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
       <jump line="123" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
       <jump line="113" column="58" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
       <jump line="134" column="12" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
@@ -543,6 +541,8 @@
       <jump line="49" column="0" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/Application.java" />
       <jump line="12" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/hydra-proxy.yaml" />
       <jump line="159" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/hydra-proxy.yaml" />
+      <jump line="15" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/hydra-proxy.yaml" />
+      <jump line="6" column="2" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/hydra-proxy.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
