@@ -256,7 +256,7 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557747001351">
+      <file name="/Dummy.txt" timestamp="1557751298034">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
@@ -307,6 +307,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/configuration-service/src/main/resources/application.yml" timestamp="1557750832812" />
       <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NfaNecessityFilter.java" timestamp="1556550980621">
         <mark key="'" line="86" column="20" />
         <mark key="[" line="65" column="0" />
@@ -317,8 +318,8 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/service/RequestScopeParser.java" timestamp="1556636592806">
         <mark key="'" line="30" column="32" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" timestamp="1557746964466">
-        <mark key="'" line="97" column="52" />
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" timestamp="1557751291511">
+        <mark key="'" line="99" column="4" />
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="50" />
         <mark key="." line="103" column="0" />
@@ -328,8 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
-      <jump line="72" column="4" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
       <jump line="15" column="63" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
       <jump line="19" column="6" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
@@ -420,24 +419,26 @@
       <jump line="136" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
       <jump line="129" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
-      <jump line="99" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
       <jump line="100" column="12" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
-      <jump line="97" column="52" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
       <jump line="15" column="33" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
       <jump line="371" column="23" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
       <jump line="1045" column="14" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
       <jump line="1282" column="69" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
       <jump line="370" column="44" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
+      <jump line="93" column="24" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
+      <jump line="103" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
+      <jump line="97" column="52" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
+      <jump line="99" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYm9vdHN0cmFwLXNlcnZlcnM6IHtrYWZrYS5ob3N0fTp7a2Fma2EucG9ydH0K</text>
       </register>
       <register name="-" type="4">
         <text>86 removed hystrix dependency</text>
       </register>
       <register name="/" type="4">
-        <text>blacklist</text>
+        <text>kafka</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29tbW9uc0NvbGxlY3Rpb25zPTMuMi4yCg==</text>
@@ -487,9 +488,9 @@
       </register>
     </registers>
     <search>
-      <last-search>blacklist</last-search>
+      <last-search>kafka</last-search>
       <last-offset />
-      <last-pattern>blacklist</last-pattern>
+      <last-pattern>kafka</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -515,8 +516,8 @@
         <entry encoding="base64">XDxrYWZrYVw+</entry>
         <entry encoding="base64">XDxIeXN0cml4SW52b2thYmxlXD4=</entry>
         <entry encoding="base64">XDxIeXN0cml4UnVudGltZUV4Y2VwdGlvblw+</entry>
-        <entry>kafka</entry>
         <entry>blacklist</entry>
+        <entry>kafka</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
