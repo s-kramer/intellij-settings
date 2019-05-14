@@ -61,11 +61,11 @@
         <mark key="'" line="58" column="32" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/1.3.1/a1f807b002b8e90033b7799c78c69f798a69511e/json-smart-1.3.1-sources.jar!/net/minidev/json/parser/JSONParserReader.java" timestamp="1557735201296" />
-      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" timestamp="1557828986313">
-        <mark key="'" line="1420" column="0" />
-        <mark key="[" line="1650" column="0" />
-        <mark key="]" line="1650" column="50" />
-        <mark key="." line="1650" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" timestamp="1557835363370">
+        <mark key="'" line="1300" column="4" />
+        <mark key="[" line="1498" column="0" />
+        <mark key="]" line="1498" column="0" />
+        <mark key="." line="1498" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/JWTService.java" timestamp="1557318183279">
         <mark key="'" line="145" column="32" />
@@ -456,12 +456,12 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557828999437">
+      <file name="/Dummy.txt" timestamp="1557835375549">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="26" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build.gradle" timestamp="1557491608957">
         <mark key="'" line="137" column="46" />
@@ -495,16 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="52" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
-      <jump line="109" column="52" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
-      <jump line="132" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
-      <jump line="133" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
-      <jump line="134" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
-      <jump line="135" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
-      <jump line="136" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
-      <jump line="156" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
-      <jump line="157" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
-      <jump line="158" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
       <jump line="159" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
       <jump line="160" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
       <jump line="161" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
@@ -584,8 +574,6 @@
       <jump line="58" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp/dipp-event-kafka/1_3_APRIL_MASTER/4ebb23cca26dc4f8bf835433f5d0af2e996b8606/dipp-event-kafka-1_3_APRIL_MASTER-sources.jar!/com/dipp/event/kafka/producer/config/KafkaProducerConfiguration.java" />
       <jump line="5" column="1" filename="$USER_HOME$/verimi-auth-verimi/import-export-service/src/main/resources/application.yaml" />
       <jump line="29" column="57" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="46" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="1300" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="1498" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="1491" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="1470" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
@@ -595,13 +583,25 @@
       <jump line="1439" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="1424" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="1420" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="1650" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="1717" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="2030" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="21215" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="38229" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="38413" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="38594" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="38622" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="38630" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="6" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="46" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="1300" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYm9vdHN0cmFwLnNlcnZlcnM6IHtrYWZrYS5ob3N0fTp7a2Fma2EucG9ydH0K</text>
+      <register name="&quot;" type="4">
+        <text>kafka warning fix</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>kafka warning fix</text>
       </register>
       <register name="/" type="4">
         <text>kafka</text>
@@ -610,25 +610,25 @@
         <text encoding="base64">ICAgIGNvbnN1bWVyOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGthZmthOgo=</text>
+        <text encoding="base64">ICAgICAgYm9vdHN0cmFwLnNlcnZlcnM6IHtrYWZrYS5ob3N0fTp7a2Fma2EucG9ydH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICAKICAgIApzcHJpbmc6CiAga2Fma2E6CiAgICBjb25zdW1lcjoKICAgICAgYm9vdHN0cmFwLXNlcnZlcnM6CiAgICBib290c3RyYXAtc2VydmVyczoKICAgIHByb2R1Y2VyOgogICAgICBib290c3RyYXAtc2VydmVyczogCg==</text>
+        <text encoding="base64">ICAgICAgYm9vdHN0cmFwLnNlcnZlcnM6IHtrYWZrYS5ob3N0fTp7a2Fma2EucG9ydH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9nZ2luZzoKICBvcmc6CiAgICBzcHJpbmdmcmFtZXdvcms6IERFQlVHCg==</text>
+        <text encoding="base64">ICAgIGthZmthOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYm9vdHN0cmFwLXNlcnZlcnM6IHtrYWZrYS5ob3N0fTp7a2Fma2EucG9ydH0K</text>
+        <text encoding="base64">ICAKICAKICAgIApzcHJpbmc6CiAga2Fma2E6CiAgICBjb25zdW1lcjoKICAgICAgYm9vdHN0cmFwLXNlcnZlcnM6CiAgICBib290c3RyYXAtc2VydmVyczoKICAgIHByb2R1Y2VyOgogICAgICBib290c3RyYXAtc2VydmVyczogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9nZ2luZzoKICBvcmc6CiAgICBzcHJpbmdmcmFtZXdvcms6IERFQlVHCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGthZmthOgogICAgICBib290c3RyYXAtc2VydmVyczoge2thZmthLmhvc3R9OntrYWZrYS5wb3J0fQo=</text>
+        <text encoding="base64">ICAgICAgYm9vdHN0cmFwLXNlcnZlcnM6IHtrYWZrYS5ob3N0fTp7a2Fma2EucG9ydH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGthZmthOgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -644,10 +644,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYm9vdHN0cmFwLXNlcnZlcnM6IHtrYWZrYS5ob3N0fTp7a2Fma2EucG9ydH0K</text>
+        <text encoding="base64">ICAgIGthZmthOgogICAgICBib290c3RyYXAtc2VydmVyczoge2thZmthLmhvc3R9OntrYWZrYS5wb3J0fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGthZmthOgogICAgICBib290c3RyYXAtc2VydmVyczoge2thZmthLmhvc3R9OntrYWZrYS5wb3J0fQoK</text>
+        <text encoding="base64">ICAgIGthZmthOgoK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
