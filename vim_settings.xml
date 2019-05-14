@@ -56,6 +56,9 @@
         <mark key="^" line="11" column="11" />
         <mark key="." line="11" column="11" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp/dipp-event-kafka/1_3_APRIL_MASTER/4ebb23cca26dc4f8bf835433f5d0af2e996b8606/dipp-event-kafka-1_3_APRIL_MASTER-sources.jar!/com/dipp/event/kafka/producer/config/KafkaProducerConfiguration.java" timestamp="1557821590165">
+        <mark key="'" line="58" column="32" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/1.3.1/a1f807b002b8e90033b7799c78c69f798a69511e/json-smart-1.3.1-sources.jar!/net/minidev/json/parser/JSONParserReader.java" timestamp="1557735201296" />
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/JWTService.java" timestamp="1557318183279">
         <mark key="'" line="145" column="32" />
@@ -160,10 +163,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/common-apache-kafka.yaml" timestamp="1557815746351">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="52" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/common-apache-kafka.yaml" timestamp="1557821602622">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java" timestamp="1557821485694">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/src/main/resources/application-local-env.yaml" timestamp="1557820709342">
         <mark key="'" line="0" column="20" />
@@ -203,10 +210,12 @@
         <mark key="^" line="143" column="50" />
         <mark key="." line="143" column="50" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" timestamp="1557815739420">
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" timestamp="1557821758944">
         <mark key="'" line="103" column="41" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="52" />
+        <mark key="[" line="103" column="15" />
+        <mark key="]" line="104" column="7" />
+        <mark key="." line="104" column="7" />
+        <mark key="^" line="104" column="7" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" timestamp="1557735194281">
         <mark key="'" line="154" column="26" />
@@ -240,6 +249,9 @@
         <mark key="]" line="227" column="71" />
         <mark key="." line="227" column="71" />
         <mark key="^" line="227" column="71" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" timestamp="1557821533894">
+        <mark key="'" line="40" column="71" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/README.md" timestamp="1557482500185">
         <mark key="'" line="47" column="56" />
@@ -437,7 +449,7 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557820717167">
+      <file name="/Dummy.txt" timestamp="1557821765003">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
@@ -476,27 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/hydra-proxy.yaml" />
-      <jump line="159" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/hydra-proxy.yaml" />
-      <jump line="15" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/hydra-proxy.yaml" />
-      <jump line="6" column="2" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/hydra-proxy.yaml" />
-      <jump line="30" column="27" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/test/java/com/dipp/api/gateway/filters/EidAuthFilterTest.java" />
-      <jump line="199" column="12" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/test/java/com/dipp/api/gateway/filters/EidAuthFilterTest.java" />
-      <jump line="31" column="37" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/test/java/com/dipp/api/gateway/filters/EidAuthFilterTest.java" />
-      <jump line="193" column="8" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/test/java/com/dipp/api/gateway/filters/EidAuthFilterTest.java" />
-      <jump line="204" column="0" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/test/java/com/dipp/api/gateway/filters/EidAuthFilterTest.java" />
-      <jump line="17" column="37" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/test/java/com/dipp/api/gateway/filters/NfaDeactivationFilterTest.java" />
-      <jump line="240" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
-      <jump line="100" column="12" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/hydra-proxy.yaml" />
-      <jump line="153" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
-      <jump line="129" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
-      <jump line="15" column="33" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
-      <jump line="371" column="23" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
-      <jump line="1045" column="14" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
-      <jump line="1282" column="69" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
-      <jump line="370" column="44" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
-      <jump line="93" column="24" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
-      <jump line="37" column="20" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
       <jump line="45" column="44" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
       <jump line="46" column="52" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
       <jump line="51" column="44" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
@@ -576,16 +567,37 @@
       <jump line="32" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/documents-service.yaml" />
       <jump line="103" column="41" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
       <jump line="0" column="20" filename="$USER_HOME$/verimi-auth-verimi/import-export-service/src/main/resources/application-local-env.yaml" />
+      <jump line="50" column="102" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" />
+      <jump line="58" column="178" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" />
+      <jump line="61" column="211" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" />
+      <jump line="41" column="82" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" />
+      <jump line="55" column="186" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" />
+      <jump line="75" column="74" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" />
+      <jump line="76" column="246" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" />
+      <jump line="18" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" />
+      <jump line="19" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" />
+      <jump line="20" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" />
+      <jump line="21" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" />
+      <jump line="22" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" />
+      <jump line="24" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" />
+      <jump line="25" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" />
+      <jump line="26" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" />
+      <jump line="27" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" />
+      <jump line="40" column="71" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" />
+      <jump line="61" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp/dipp-event-kafka/1_3_APRIL_MASTER/4ebb23cca26dc4f8bf835433f5d0af2e996b8606/dipp-event-kafka-1_3_APRIL_MASTER-sources.jar!/com/dipp/event/kafka/producer/config/KafkaProducerConfiguration.java" />
+      <jump line="58" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp/dipp-event-kafka/1_3_APRIL_MASTER/4ebb23cca26dc4f8bf835433f5d0af2e996b8606/dipp-event-kafka-1_3_APRIL_MASTER-sources.jar!/com/dipp/event/kafka/producer/config/KafkaProducerConfiguration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}/eureka/</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>}/eureka/</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>8091</text>
+        <text>bootstrap</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZGVmYXVsdFpvbmU6IGh0dHA6Ly8ke1NFUlZJQ0VfUkVHSVNUUllfSE9TVH06JHtTRVJWSUNFX1JFR0lTVFJZX1BPUlR9L2V1cmVrYS8K</text>
@@ -635,9 +647,9 @@
       </register>
     </registers>
     <search>
-      <last-search>8091</last-search>
+      <last-search>bootstrap</last-search>
       <last-offset />
-      <last-pattern>8091</last-pattern>
+      <last-pattern>bootstrap</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -645,9 +657,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcHJpbmdCb290VmVyc2lvblw+</entry>
-        <entry>actuator</entry>
-        <entry encoding="base64">XDxFbmFibGVIeXN0cml4XD4=</entry>
         <entry>exclude</entry>
         <entry>jose</entry>
         <entry encoding="base64">XDxuaW1idXNcPg==</entry>
@@ -665,6 +674,9 @@
         <entry>-</entry>
         <entry>kafka</entry>
         <entry>8091</entry>
+        <entry>host</entry>
+        <entry>port</entry>
+        <entry>bootstrap</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
