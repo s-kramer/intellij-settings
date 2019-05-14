@@ -67,7 +67,7 @@
         <mark key="]" line="233" column="0" />
         <mark key="." line="233" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/documents-service.yaml" timestamp="1557755809863">
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/documents-service.yaml" timestamp="1557815734824">
         <mark key="'" line="32" column="4" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/port-forward-psql" timestamp="1557481469513">
@@ -94,6 +94,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/common-apache-kafka.yaml" timestamp="1557815746351">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="52" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" timestamp="1556629673956">
         <mark key="'" line="107" column="0" />
         <mark key="[" line="273" column="0" />
@@ -119,8 +124,10 @@
         <mark key="^" line="143" column="50" />
         <mark key="." line="143" column="50" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" timestamp="1557755804981">
-        <mark key="'" line="103" column="27" />
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" timestamp="1557815739420">
+        <mark key="'" line="103" column="41" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="52" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" timestamp="1557735194281">
         <mark key="'" line="154" column="26" />
@@ -302,7 +309,7 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557754303365">
+      <file name="/Dummy.txt" timestamp="1557815752051">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
@@ -329,8 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/build.gradle" />
-      <jump line="65" column="68" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/build.gradle" />
       <jump line="49" column="0" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/Application.java" />
       <jump line="12" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/hydra-proxy.yaml" />
       <jump line="159" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/hydra-proxy.yaml" />
@@ -426,13 +431,15 @@
       <jump line="97" column="52" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
       <jump line="99" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
       <jump line="100" column="12" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
-      <jump line="103" column="27" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
       <jump line="30" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/documents-service.yaml" />
+      <jump line="33" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/documents-service.yaml" />
+      <jump line="31" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/documents-service.yaml" />
       <jump line="32" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/documents-service.yaml" />
+      <jump line="103" column="41" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYm9vdHN0cmFwLXNlcnZlcnM6IHtrYWZrYS5ob3N0fTp7a2Fma2EucG9ydH0K</text>
+        <text encoding="base64">ICAgICAgYm9vdHN0cmFwLXNlcnZlcnM6ICR7a2Fma2EuaG9zdH06JHtrYWZrYS5wb3J0fQo=</text>
       </register>
       <register name="-" type="4">
         <text>86 removed hystrix dependency</text>
