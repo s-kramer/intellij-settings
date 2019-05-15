@@ -128,14 +128,14 @@
         <mark key="[" line="7" column="26" />
         <mark key="]" line="7" column="46" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0af659f0-65dc-4fcd-83d6-cb90c2b0f976/console_1.sql" timestamp="1557909563581">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0af659f0-65dc-4fcd-83d6-cb90c2b0f976/console_1.sql" timestamp="1557928523512">
         <mark key="'" line="5" column="49" />
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="6" column="46" />
-        <mark key="." line="6" column="46" />
-        <mark key="^" line="6" column="46" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="144" />
+        <mark key="." line="10" column="142" />
+        <mark key="^" line="10" column="142" />
       </file>
-      <file name="/a.sql" timestamp="1557908779810">
+      <file name="/a.sql" timestamp="1557928559972">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/CreateBillingAccountRequest.java" timestamp="1557348277527">
@@ -146,6 +146,11 @@
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" timestamp="1557747183090">
         <mark key="'" line="370" column="44" />
+      </file>
+      <file name="$USER_HOME$/sd/spodddify/axon-spodddify/src/main/resources/lombok.config" timestamp="1557729418305">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/common-apache-kafka.yaml" timestamp="1557822369292">
         <mark key="[" line="10" column="15" />
@@ -165,6 +170,11 @@
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/resources/hydra-in-memory-compose.yml" timestamp="1557739478549">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/sd/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/CreateBillingAccountRequest.java" timestamp="1557729885152">
         <mark key="[" line="16" column="0" />
@@ -283,6 +293,11 @@
         <mark key="]" line="40" column="64" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.13.RELEASE/d225d6480b69dc70a04e332a348b448bf276f7f3/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/http/ResponseEntity.java" timestamp="1557921470916" />
+      <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/build.gradle" timestamp="1557741487279">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="/postgres.serviceprovider.serviceprovider [postgres@dev2]" timestamp="1557410540117">
         <mark key="[" line="0" column="0" />
       </file>
@@ -295,7 +310,7 @@
         <mark key="^" line="215" column="44" />
         <mark key="." line="215" column="44" />
       </file>
-      <file name="/dummy.sql" timestamp="1557921229173">
+      <file name="/dummy.sql" timestamp="1557928178297">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -304,12 +319,17 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557908788079">
+      <file name="/Dummy.txt" timestamp="1557928559978">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3a944e8f-607b-4250-bb80-efe206202a20/console_1.sql" timestamp="1557928535876">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="144" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/postgres.documents.document [postgres@dev5]" timestamp="1557906864706">
         <mark key="[" line="0" column="0" />
@@ -438,11 +458,11 @@
       <jump line="75" column="37" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>verificationMethodResponse</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0IHNlcnZpY2Vwcm92aWRlcmlkLCBhdXRoZW50aWNhdGVfaW5fYnJvd3NlciBmcm9tIHNlcnZpY2Vwcm92aWRlci5zZXJ2aWNlcHJvdmlkZXIgd2hlcmUgc2VydmljZXByb3ZpZGVyaWQgaW4gKCdsdWZ0aGFuc2EnLCAnZGV1dHNjaGViYW5rJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>VERIFICATION</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2NlcHRDb25zZW50XD4=</text>
