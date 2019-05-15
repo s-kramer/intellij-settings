@@ -21,6 +21,11 @@
         <mark key="." line="171" column="21" />
         <mark key="^" line="171" column="21" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/notification-service.yaml" timestamp="1557905183705">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="50" />
+        <mark key="." line="4" column="7" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/NfaServiceSpec_checkLoginNfaForLoginPage.groovy" timestamp="1556629550442">
         <mark key="'" line="12" column="42" />
         <mark key="[" line="91" column="8" />
@@ -90,12 +95,6 @@
         <mark key="^" line="268" column="71" />
         <mark key="." line="268" column="71" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1557496201272">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="515" column="10" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" timestamp="1557214590619">
         <mark key="'" line="128" column="20" />
       </file>
@@ -151,6 +150,11 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/hydra-proxy.yaml" timestamp="1557905160471">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="50" />
+        <mark key="." line="4" column="7" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/ShortcutServiceRestAdapter.java" timestamp="1556637943481">
         <mark key="'" line="63" column="30" />
@@ -304,9 +308,6 @@
         <mark key="^" line="15" column="120" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/common/api/client/feign/configuration/ClientErrorGenericDecoder.java" timestamp="1557735872414">
-        <mark key="'" line="2" column="29" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" timestamp="1556631360389">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="42" column="24" />
@@ -357,12 +358,6 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" timestamp="1556628918197">
         <mark key="'" line="235" column="6" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/test/java/com/dipp/api/gateway/filters/EidAuthFilterTest.java" timestamp="1557746330911">
-        <mark key="'" line="227" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/test-frontend/src/test/java/com/dipp/frontendtest/smoketest/AddRemoveVerifiedDocumentsThroughDeutscheBank.java" timestamp="1557471527530">
         <mark key="'" line="111" column="66" />
       </file>
@@ -389,6 +384,11 @@
         <mark key="^" line="38" column="11" />
         <mark key="." line="38" column="11" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/api-gateway-service.yaml" timestamp="1557905095092">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="50" />
+        <mark key="." line="4" column="7" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/port-forward" timestamp="1557481580055">
         <mark key="'" line="16" column="38" />
         <mark key="[" line="17" column="26" />
@@ -402,9 +402,6 @@
         <mark key="]" line="83" column="0" />
         <mark key="^" line="82" column="3" />
         <mark key="." line="83" column="0" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/test/java/com/dipp/api/gateway/filters/NfaDeactivationFilterTest.java" timestamp="1557746356426">
-        <mark key="'" line="17" column="37" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/port-forward-mailhog" timestamp="1557481252802">
         <mark key="'" line="3" column="0" />
@@ -588,11 +585,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYm9vdHN0cmFwLnNlcnZlcnM6ICR7a2Fma2EuaG9zdH06JHtrYWZrYS5wb3J0fQo=</text>
+      <register name="&quot;" type="4">
+        <text>dev:10749-96c9280a-DEV-22685-actuator</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dev:10749-96c9280a-DEV-22685-actuator</text>
       </register>
       <register name="/" type="4">
         <text>kafka</text>
