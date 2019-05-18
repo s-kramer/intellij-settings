@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" timestamp="1558182187221">
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" timestamp="1558194241483">
         <mark key="'" line="20" column="32" />
-        <mark key="[" line="79" column="67" />
-        <mark key="]" line="79" column="70" />
-        <mark key="." line="79" column="70" />
-        <mark key="^" line="79" column="70" />
+        <mark key="[" line="82" column="48" />
+        <mark key="]" line="82" column="52" />
+        <mark key="." line="82" column="52" />
+        <mark key="^" line="82" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/spodddify-api/src/main/java/org/skramer/spodddify/invoice/InvoiceCreatedEvent.java" timestamp="1557589794534">
         <mark key="[" line="14" column="39" />
@@ -424,17 +424,17 @@
       <jump line="18" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/test/groovy/BaseMockMvcSpec.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBQcm9kdQo=</text>
+      <register name="&quot;" type="4">
+        <text>Contract</text>
       </register>
       <register name="-" type="4">
-        <text>Spec</text>
+        <text>Contract</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJpZmllclZlcnNpb25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CWJhc2VDbGFzc0ZvclRlc3RzID0gJ29yZy5za3JhbWVyLmNvbnRyYWN0LkJhc2VNb2NrTXZjU3BlYycK</text>
+      <register name="0" type="4">
+        <text>project.file('src/generatedContract')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBQcm9kdQo=</text>
