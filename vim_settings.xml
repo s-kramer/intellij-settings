@@ -22,9 +22,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/BillingAccountCommandsTargetResolver.java" timestamp="1557609506909">
-        <mark key="." line="12" column="6" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/inlineregistration/MobileVerificationService.java" timestamp="1556543094770">
         <mark key="[" line="52" column="28" />
         <mark key="]" line="52" column="27" />
@@ -70,12 +67,12 @@
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountController.java" timestamp="1558181737923">
-        <mark key="'" line="28" column="43" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="28" column="88" />
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountController.java" timestamp="1558192590803">
+        <mark key="'" line="29" column="43" />
+        <mark key="[" line="27" column="56" />
+        <mark key="]" line="27" column="87" />
+        <mark key="." line="27" column="87" />
+        <mark key="^" line="27" column="87" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/test/java/org/skramer/spodddify/payment/BillingAccountTest.java" timestamp="1557609490265">
         <mark key="[" line="110" column="9" />
@@ -123,6 +120,12 @@
         <mark key="]" line="9" column="6" />
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/test/java/org/skramer/spodddify/contract/BaseMockMvcTest.java" timestamp="1558183878753">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/invoice/InvoiceController.java" timestamp="1557609621555">
         <mark key="[" line="22" column="27" />
@@ -311,11 +314,11 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1558181662637">
+      <file name="/fragment.java" timestamp="1558192552752">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="50" />
-        <mark key="^" line="0" column="50" />
-        <mark key="." line="0" column="50" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+        <mark key="." line="0" column="55" />
       </file>
     </filemarks>
     <jumps>
@@ -421,8 +424,8 @@
       <jump line="18" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/test/groovy/BaseMockMvcSpec.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Spec</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBQcm9kdQo=</text>
       </register>
       <register name="-" type="4">
         <text>Spec</text>
@@ -434,25 +437,25 @@
         <text encoding="base64">CWJhc2VDbGFzc0ZvclRlc3RzID0gJ29yZy5za3JhbWVyLmNvbnRyYWN0LkJhc2VNb2NrTXZjU3BlYycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWJhc2VDbGFzc0ZvclRlc3RzID0gJ29yZy5za3JhbWVyLmNvbnRyYWN0LkJhc2VNb2NrTXZjU3BlYycK</text>
+        <text encoding="base64">ICAgIEBQcm9kdQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAxOC4wNS4xOSAxNDoyMQogKi8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICB0ZXN0RnJhbWV3b3JrID0gVGVzdEZyYW1ld29yawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljCg==</text>
+        <text encoding="base64">QEF1dG9Db25maWd1cmVNb2NrTXZjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBNb2NrTXZjIG1vY2tNdmM7CiAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWJhc2VDbGFzc0ZvclRlc3RzID0gJ29yZy5za3JhbWVyLmNvbnRyYWN0LkJhc2VNb2NrTXZjU3BlYycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAxOC4wNS4xOSAxNDoyMQogKi8K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -468,10 +471,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZvaWQgaXNQcm9wZXJDb3JyZWxhdGlvbklkKEludGVnZXIgY29ycmVsYXRpb25JZCkgewoJCWFzc2VydCBjb3JyZWxhdGlvbklkID09IDEyMzQ1NgoJfQoKCXZvaWQgaXNFbXB0eShTdHJpbmcgdmFsdWUpIHsKCQlhc3NlcnQgdmFsdWUgPT0gbnVsbAoJfQo=</text>
+        <text encoding="base64">ICAgICB0ZXN0RnJhbWV3b3JrID0gVGVzdEZyYW1ld29yawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWRlZiBzZXR1cCgpIHsKCg==</text>
+        <text encoding="base64">cHVibGljCg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Copy</text>
