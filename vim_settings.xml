@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" timestamp="1558194241483">
-        <mark key="'" line="20" column="32" />
-        <mark key="[" line="82" column="48" />
-        <mark key="]" line="82" column="52" />
-        <mark key="." line="82" column="52" />
-        <mark key="^" line="82" column="52" />
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" timestamp="1558197405415">
+        <mark key="'" line="90" column="96" />
+        <mark key="[" line="90" column="21" />
+        <mark key="]" line="90" column="23" />
+        <mark key="." line="90" column="23" />
+        <mark key="^" line="90" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/spodddify-api/src/main/java/org/skramer/spodddify/invoice/InvoiceCreatedEvent.java" timestamp="1557589794534">
         <mark key="[" line="14" column="39" />
@@ -162,10 +162,10 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/test/resources/contracts/spodddify/shouldFetchBillingAccountBalance.groovy" timestamp="1558178432296">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-gradle-plugin/2.1.0.RELEASE/2a4e35b1d26e7a1f186557dfce82122b0f0b93e4/spring-cloud-contract-gradle-plugin-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/contract/verifier/plugin/ContractVerifierExtension.groovy" timestamp="1558197433342">
+        <mark key="'" line="260" column="16" />
+        <mark key="[" line="22" column="7" />
+        <mark key="]" line="22" column="60" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/domain/LoginSubmitResponse.java" timestamp="1556359141488">
         <mark key="[" line="12" column="47" />
@@ -322,22 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="36" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountController.java" />
-      <jump line="6" column="13" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-api/src/main/java/org/skramer/spodddify/payment/command/ChargeBillingAccountCommand.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-api/src/main/java/org/skramer/spodddify/payment/command/ChargeBillingAccountCommand.java" />
-      <jump line="52" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" />
-      <jump line="53" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" />
-      <jump line="54" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" />
-      <jump line="78" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" />
-      <jump line="55" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/axon-spodddify.http" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/spodddify/spodddify-api/src/main/java/org/skramer/spodddify/payment/PaymentPlanChanged.java" />
-      <jump line="22" column="4" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountQueryHandler.java" />
-      <jump line="25" column="53" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountController.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
-      <jump line="16" column="33" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/InvoiceController.java" />
-      <jump line="52" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
-      <jump line="23" column="39" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/invoice/InvoiceCommandsTargetResolver.java" />
-      <jump line="6" column="45" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountCommandsTargetResolver.java" />
       <jump line="16" column="12" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountCommandsTargetResolver.java" />
       <jump line="6" column="45" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/invoice/InvoiceCommandsTargetResolver.java" />
       <jump line="37" column="4" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" />
@@ -422,40 +406,56 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/test/groovy/BaseMockMvcSpec.groovy" />
       <jump line="11" column="29" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/test/groovy/BaseMockMvcSpec.groovy" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/test/groovy/BaseMockMvcSpec.groovy" />
+      <jump line="83" column="27" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" />
+      <jump line="157" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-gradle-plugin/2.1.0.RELEASE/2a4e35b1d26e7a1f186557dfce82122b0f0b93e4/spring-cloud-contract-gradle-plugin-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/contract/verifier/plugin/ContractVerifierExtension.groovy" />
+      <jump line="90" column="96" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" />
+      <jump line="366" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-gradle-plugin/2.1.0.RELEASE/2a4e35b1d26e7a1f186557dfce82122b0f0b93e4/spring-cloud-contract-gradle-plugin-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/contract/verifier/plugin/ContractVerifierExtension.groovy" />
+      <jump line="365" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-gradle-plugin/2.1.0.RELEASE/2a4e35b1d26e7a1f186557dfce82122b0f0b93e4/spring-cloud-contract-gradle-plugin-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/contract/verifier/plugin/ContractVerifierExtension.groovy" />
+      <jump line="337" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-gradle-plugin/2.1.0.RELEASE/2a4e35b1d26e7a1f186557dfce82122b0f0b93e4/spring-cloud-contract-gradle-plugin-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/contract/verifier/plugin/ContractVerifierExtension.groovy" />
+      <jump line="261" column="44" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-gradle-plugin/2.1.0.RELEASE/2a4e35b1d26e7a1f186557dfce82122b0f0b93e4/spring-cloud-contract-gradle-plugin-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/contract/verifier/plugin/ContractVerifierExtension.groovy" />
+      <jump line="262" column="39" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-gradle-plugin/2.1.0.RELEASE/2a4e35b1d26e7a1f186557dfce82122b0f0b93e4/spring-cloud-contract-gradle-plugin-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/contract/verifier/plugin/ContractVerifierExtension.groovy" />
+      <jump line="263" column="39" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-gradle-plugin/2.1.0.RELEASE/2a4e35b1d26e7a1f186557dfce82122b0f0b93e4/spring-cloud-contract-gradle-plugin-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/contract/verifier/plugin/ContractVerifierExtension.groovy" />
+      <jump line="264" column="40" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-gradle-plugin/2.1.0.RELEASE/2a4e35b1d26e7a1f186557dfce82122b0f0b93e4/spring-cloud-contract-gradle-plugin-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/contract/verifier/plugin/ContractVerifierExtension.groovy" />
+      <jump line="265" column="40" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-gradle-plugin/2.1.0.RELEASE/2a4e35b1d26e7a1f186557dfce82122b0f0b93e4/spring-cloud-contract-gradle-plugin-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/contract/verifier/plugin/ContractVerifierExtension.groovy" />
+      <jump line="266" column="55" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-gradle-plugin/2.1.0.RELEASE/2a4e35b1d26e7a1f186557dfce82122b0f0b93e4/spring-cloud-contract-gradle-plugin-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/contract/verifier/plugin/ContractVerifierExtension.groovy" />
+      <jump line="138" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-gradle-plugin/2.1.0.RELEASE/2a4e35b1d26e7a1f186557dfce82122b0f0b93e4/spring-cloud-contract-gradle-plugin-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/contract/verifier/plugin/ContractVerifierExtension.groovy" />
+      <jump line="223" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-gradle-plugin/2.1.0.RELEASE/2a4e35b1d26e7a1f186557dfce82122b0f0b93e4/spring-cloud-contract-gradle-plugin-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/contract/verifier/plugin/ContractVerifierExtension.groovy" />
+      <jump line="224" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-gradle-plugin/2.1.0.RELEASE/2a4e35b1d26e7a1f186557dfce82122b0f0b93e4/spring-cloud-contract-gradle-plugin-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/contract/verifier/plugin/ContractVerifierExtension.groovy" />
+      <jump line="260" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-gradle-plugin/2.1.0.RELEASE/2a4e35b1d26e7a1f186557dfce82122b0f0b93e4/spring-cloud-contract-gradle-plugin-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/contract/verifier/plugin/ContractVerifierExtension.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Contract</text>
+        <text>org.springframework.cloud.contract.stubrunner.spring.SStubRunnerProperties.StubsMode.LOCAL</text>
       </register>
       <register name="-" type="4">
-        <text>Contract</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2ZXJpZmllclZlcnNpb25cPg==</text>
+        <text encoding="base64">XDxjb250cmFjdFJlcG9zaXRvcnlcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>project.file('src/generatedContract')</text>
+        <text>org.springframework.cloud.contract.stubrunner.spring.S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBQcm9kdQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJlcG9zaXRvcnlSZGQK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0dWJydW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEF1dG9Db25maWd1cmVNb2NrTXZjCg==</text>
+        <text encoding="base64">c3R1YnJ1bm5lcjoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBNb2NrTXZjIG1vY2tNdmM7CiAgICAK</text>
+        <text encoding="base64">ICAgIHJlcG9zaXRvcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWJhc2VDbGFzc0ZvclRlc3RzID0gJ29yZy5za3JhbWVyLmNvbnRyYWN0LkJhc2VNb2NrTXZjU3BlYycK</text>
+        <text encoding="base64">ICAgIEBQcm9kdQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAxOC4wNS4xOSAxNDoyMQogKi8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -471,30 +471,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICB0ZXN0RnJhbWV3b3JrID0gVGVzdEZyYW1ld29yawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljCg==</text>
+        <text encoding="base64">QEF1dG9Db25maWd1cmVNb2NrTXZjCg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Copy</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2ZXJpZmllclZlcnNpb25cPg==</last-search>
+      <last-search encoding="base64">XDxjb250cmFjdFJlcG9zaXRvcnlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2ZXJpZmllclZlcnNpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb250cmFjdFJlcG9zaXRvcnlcPg==</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>oroginal</entry>
-        <entry encoding="base64">XDxvcmlnaW5hbFNjb3BlXD4=</entry>
-        <entry encoding="base64">XDxzY29wZVw+</entry>
-        <entry>fetching</entry>
         <entry encoding="base64">XDxnZXRRdWVyeVBhcmFtc1w+</entry>
         <entry encoding="base64">XDxlbmZvcmNlTG9naW5cPg==</entry>
         <entry>original</entry>
@@ -511,6 +507,10 @@
         <entry encoding="base64">XDxzdWJzY3JpcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxzcHJpbmdib290VmVyc2lvblw+</entry>
         <entry encoding="base64">XDx2ZXJpZmllclZlcnNpb25cPg==</entry>
+        <entry>stubrunner</entry>
+        <entry encoding="base64">XDxTdHViUnVubmVyUHJvcGVydGllc1w+</entry>
+        <entry encoding="base64">XDxyZXBvc2l0b3J5VXJsXD4=</entry>
+        <entry encoding="base64">XDxjb250cmFjdFJlcG9zaXRvcnlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
