@@ -6,12 +6,11 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingService.java" timestamp="1557912496915">
         <mark key="'" line="75" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" timestamp="1558291193826">
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" timestamp="1558300162718">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="29" />
-        <mark key="^" line="82" column="64" />
-        <mark key="." line="21" column="0" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/gradle.properties" timestamp="1557491223340">
         <mark key="[" line="4" column="28" />
@@ -199,6 +198,9 @@
         <mark key="." line="45" column="12" />
         <mark key="^" line="45" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/ddd-paynow/api-gateway/src/main/kotlin/pl/melements/poc/dddpaynow/apigateway/PaymentAuthorizationConfiguration.kt" timestamp="1558386748718">
+        <mark key="'" line="15" column="16" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/documents-service.yaml" timestamp="1557815734824">
         <mark key="'" line="32" column="4" />
       </file>
@@ -327,7 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1683" column="21" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="1711" column="24" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="1712" column="31" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="1713" column="32" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
@@ -427,40 +428,41 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" />
+      <jump line="15" column="16" filename="$USER_HOME$/Projects/Java/ddd-paynow/api-gateway/src/main/kotlin/pl/melements/poc/dddpaynow/apigateway/PaymentAuthorizationConfiguration.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdAo=</text>
       </register>
       <register name="-" type="4">
         <text>VERIFICATION</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY2NlcHRDb25zZW50XD4=</text>
+        <text encoding="base64">XDxBUElfUEFZTk9XX0RPTUFJTlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">d2hlcmUgY2xpZW50bG9naW5yZWRpcmVjdHVyaSA9ICdodHRwczovL3NwMy1tb2NrLnVhdC52ZXJpbWkuY2xvdWQvc3RhcnQtbG9naW4td2l0aC12ZXJpbWknOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay51YXQudmVyaW1pLmNsb3VkL2F1dG8tc3RhcnQtcmVnaXN0cmF0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay1kZXY1LmRldi5zYW5kYm94LnZlcmltaS5jbG91ZC9odHRwczovL2RiLW1vY2sudWF0LnZlcmltaS5jbG91ZAo=</text>
+        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay51YXQudmVyaW1pLmNsb3VkL2F1dG8tc3RhcnQtcmVnaXN0cmF0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay51YXQudmVyaW1pLmNsb3VkL3N0YXJ0LWxvZ2luLXdpdGgtdmVyaW1pCg==</text>
+        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay1kZXY1LmRldi5zYW5kYm94LnZlcmltaS5jbG91ZC9odHRwczovL2RiLW1vY2sudWF0LnZlcmltaS5jbG91ZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lcjoKICAgICAgICAgIGJvb3RzdHJhcC1zZXJ2ZXJzOiAke2thZmthLmhvc3R9OiR7a2Fma2EucG9ydH0K</text>
+        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay51YXQudmVyaW1pLmNsb3VkL3N0YXJ0LWxvZ2luLXdpdGgtdmVyaW1pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWNlcjoK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lcjoKICAgICAgICAgIGJvb3RzdHJhcC1zZXJ2ZXJzOiAke2thZmthLmhvc3R9OiR7a2Fma2EucG9ydH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYm9vdHN0cmFwLnNlcnZlcnM6ICR7a2Fma2EuaG9zdH06JHtrYWZrYS5wb3J0fQo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWNlcjoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -476,27 +478,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnNwcmluZzoKICBmcmVlbWFya2VyOgogICAgZW5hYmxlZDogZmFsc2UKICB6aXBraW46CiAgICBlbmFibGVkOiB0cnVlCiAgICBiYXNlVXJsOiBodHRwOi8vemlwa2luLmRldjUtc2VydmljZTo5NDExCiAgc2xldXRoOgogICAgZW5hYmxlZDogdHJ1ZQogICAgc2FtcGxlcjoKICAgICAgcGVyY2VudGFnZTogMS4wCiAgbXZjOgogICAgbG9nUmVzb2x2ZWRFeGNlcHRpb246IHRydWUKICBrYWZrYToKICAgIHByb2R1Y2VyOgogICAgICBib290c3RyYXAtc2VydmVyczogJHtrYWZrYS5ob3N0fToke2thZmthLnBvcnR9CiAgICBjb25zdW1lcjoKICAgICAgYm9vdHN0cmFwLXNlcnZlcnM6ICR7a2Fma2EuaG9zdH06JHtrYWZrYS5wb3J0fQo=</text>
+        <text encoding="base64">ICAgICAgYm9vdHN0cmFwLnNlcnZlcnM6ICR7a2Fma2EuaG9zdH06JHtrYWZrYS5wb3J0fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CnNwcmluZzoKICBmcmVlbWFya2VyOgogICAgZW5hYmxlZDogZmFsc2UKICB6aXBraW46CiAgICBlbmFibGVkOiB0cnVlCiAgICBiYXNlVXJsOiBodHRwOi8vemlwa2luLmRldjUtc2VydmljZTo5NDExCiAgc2xldXRoOgogICAgZW5hYmxlZDogdHJ1ZQogICAgc2FtcGxlcjoKICAgICAgcGVyY2VudGFnZTogMS4wCiAgbXZjOgogICAgbG9nUmVzb2x2ZWRFeGNlcHRpb246IHRydWUKICBrYWZrYToKICAgIHByb2R1Y2VyOgogICAgICBib290c3RyYXAtc2VydmVyczogJHtrYWZrYS5ob3N0fToke2thZmthLnBvcnR9CiAgICBjb25zdW1lcjoKICAgICAgYm9vdHN0cmFwLXNlcnZlcnM6ICR7a2Fma2EuaG9zdH06JHtrYWZrYS5wb3J0fQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY2NlcHRDb25zZW50XD4=</last-search>
+      <last-search encoding="base64">XDxBUElfUEFZTk9XX0RPTUFJTlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY2NlcHRDb25zZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxBUElfUEFZTk9XX0RPTUFJTlw+</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuaW1idXNcPg==</entry>
         <entry>nimbus</entry>
         <entry encoding="base64">XDxuaW1idXNWZXJzaW9uXD4=</entry>
         <entry encoding="base64">XDxJT1V0aWxzXD4=</entry>
@@ -516,6 +517,7 @@
         <entry encoding="base64">XDxrYWZrYVw+</entry>
         <entry>kafka</entry>
         <entry encoding="base64">XDxhY2NlcHRDb25zZW50XD4=</entry>
+        <entry encoding="base64">XDxBUElfUEFZTk9XX0RPTUFJTlw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
