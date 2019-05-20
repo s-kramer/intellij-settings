@@ -389,6 +389,12 @@
       <file name="/postgres.documents.document_country [postgres@dev2]" timestamp="1558003441955">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_43.puml" timestamp="1558356204168">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/documents-service/src/main/java/com/dipp/documents/DocumentsService.java" timestamp="1557740112795">
         <mark key="'" line="78" column="13" />
       </file>
@@ -689,11 +695,11 @@
       <jump line="22" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Zml4ZWQga2Fma2EgYm9vc3RyYXAgdXJsCg==</text>
+      <register name="&quot;" type="4">
+        <text>actor</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsdWUgPSA=</text>
+        <text>actor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2NlcHRDb25zZW50XD4=</text>
@@ -702,25 +708,25 @@
         <text encoding="base64">d2hlcmUgY2xpZW50bG9naW5yZWRpcmVjdHVyaSA9ICdodHRwczovL3NwMy1tb2NrLnVhdC52ZXJpbWkuY2xvdWQvc3RhcnQtbG9naW4td2l0aC12ZXJpbWknOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4ZWQga2Fma2EgYm9vc3RyYXAgdXJsCg==</text>
+        <text encoding="base64">YWN0b3IgSHlkcmFQcm94eSBhcyBIUAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay51YXQudmVyaW1pLmNsb3VkL2F1dG8tc3RhcnQtcmVnaXN0cmF0aW9uCg==</text>
+        <text encoding="base64">Zml4ZWQga2Fma2EgYm9vc3RyYXAgdXJsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay1kZXY1LmRldi5zYW5kYm94LnZlcmltaS5jbG91ZC9odHRwczovL2RiLW1vY2sudWF0LnZlcmltaS5jbG91ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay51YXQudmVyaW1pLmNsb3VkL3N0YXJ0LWxvZ2luLXdpdGgtdmVyaW1pCg==</text>
+        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay51YXQudmVyaW1pLmNsb3VkL2F1dG8tc3RhcnQtcmVnaXN0cmF0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lcjoKICAgICAgICAgIGJvb3RzdHJhcC1zZXJ2ZXJzOiAke2thZmthLmhvc3R9OiR7a2Fma2EucG9ydH0K</text>
+        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay1kZXY1LmRldi5zYW5kYm94LnZlcmltaS5jbG91ZC9odHRwczovL2RiLW1vY2sudWF0LnZlcmltaS5jbG91ZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWNlcjoK</text>
+        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay51YXQudmVyaW1pLmNsb3VkL3N0YXJ0LWxvZ2luLXdpdGgtdmVyaW1pCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -736,10 +742,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYm9vdHN0cmFwLnNlcnZlcnM6ICR7a2Fma2EuaG9zdH06JHtrYWZrYS5wb3J0fQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lcjoKICAgICAgICAgIGJvb3RzdHJhcC1zZXJ2ZXJzOiAke2thZmthLmhvc3R9OiR7a2Fma2EucG9ydH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnNwcmluZzoKICBmcmVlbWFya2VyOgogICAgZW5hYmxlZDogZmFsc2UKICB6aXBraW46CiAgICBlbmFibGVkOiB0cnVlCiAgICBiYXNlVXJsOiBodHRwOi8vemlwa2luLmRldjUtc2VydmljZTo5NDExCiAgc2xldXRoOgogICAgZW5hYmxlZDogdHJ1ZQogICAgc2FtcGxlcjoKICAgICAgcGVyY2VudGFnZTogMS4wCiAgbXZjOgogICAgbG9nUmVzb2x2ZWRFeGNlcHRpb246IHRydWUKICBrYWZrYToKICAgIHByb2R1Y2VyOgogICAgICBib290c3RyYXAtc2VydmVyczogJHtrYWZrYS5ob3N0fToke2thZmthLnBvcnR9CiAgICBjb25zdW1lcjoKICAgICAgYm9vdHN0cmFwLXNlcnZlcnM6ICR7a2Fma2EuaG9zdH06JHtrYWZrYS5wb3J0fQo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWNlcjoK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
