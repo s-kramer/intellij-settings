@@ -70,6 +70,13 @@
         <mark key="^" line="11" column="11" />
         <mark key="." line="11" column="11" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/sql/postgres_1_serviceprovider.sql" timestamp="1558521749796">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="83" column="1837" />
+        <mark key="^" line="83" column="1837" />
+      </file>
       <file name="/postgres.payment_data.service_providers [postgres@dev2]" timestamp="1558079085829">
         <mark key="[" line="0" column="0" />
       </file>
@@ -98,13 +105,7 @@
       <file name="/postgres.master_data.localized_text [postgres@devint]" timestamp="1558511632833">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/serviceprovider_identity.sql" timestamp="1558514725504">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1423" column="54" />
-        <mark key="." line="1423" column="54" />
-      </file>
-      <file name="/postgres.serviceprovider.serviceprovider [postgres@dev5]" timestamp="1558520625132">
+      <file name="/postgres.serviceprovider.serviceprovider [postgres@dev5]" timestamp="1558521767172">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/postgres.serviceprovider.description [postgres@dev5]" timestamp="1558511319575">
@@ -191,6 +192,9 @@
       <file name="/postgres.payment_data.bank_codes [postgres@devint]" timestamp="1558511787416">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/test-frontend/src/test/java/com/dipp/frontendtest/smoketest/inlineRegistrationStartingFromLufthansaMockDataTransferWithDB.java" timestamp="1558521548102">
+        <mark key="'" line="133" column="29" />
+      </file>
       <file name="/postgres.serviceprovider.identity_provider_blz [postgres@dev5]" timestamp="1558514819001">
         <mark key="[" line="0" column="0" />
       </file>
@@ -208,12 +212,6 @@
       </file>
       <file name="/postgres.nfactor_authentication.nfactor_authentication [postgres@devint]" timestamp="1558437260751">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0af659f0-65dc-4fcd-83d6-cb90c2b0f976/console_3.sql" timestamp="1558511489405">
-        <mark key="'" line="0" column="1436" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="41" column="1334" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/postgres.serviceprovider.serviceprovider_document_verification_methods [postgres@devint]" timestamp="1558511577671">
         <mark key="[" line="0" column="0" />
@@ -257,12 +255,6 @@
       </file>
       <file name="/postgres.basket.basket [postgres@dev1]" timestamp="1557299320378">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0af659f0-65dc-4fcd-83d6-cb90c2b0f976/console_5.sql" timestamp="1558514740421">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1423" column="138" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/sp3-mock.yaml" timestamp="1558015900553">
         <mark key="[" line="28" column="17" />
@@ -400,7 +392,7 @@
         <mark key="^" line="215" column="44" />
         <mark key="." line="215" column="44" />
       </file>
-      <file name="/dummy.sql" timestamp="1558520631021">
+      <file name="/dummy.sql" timestamp="1558521767702">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -458,13 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2032" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="21217" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="38231" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="38415" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="38596" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="38624" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="38632" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="6" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="46" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="1301" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
@@ -558,6 +543,13 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_47.puml" />
       <jump line="13" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_48.puml" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_48.puml" />
+      <jump line="134" column="82" filename="$USER_HOME$/verimi-auth-verimi/test-frontend/src/test/java/com/dipp/frontendtest/smoketest/inlineRegistrationStartingFromLufthansaMockDataTransferWithDB.java" />
+      <jump line="70" column="15" filename="$USER_HOME$/verimi-auth-verimi/test-frontend/src/test/java/com/dipp/frontendtest/smoketest/inlineRegistrationStartingFromLufthansaMockDataTransferWithDB.java" />
+      <jump line="79" column="90" filename="$USER_HOME$/verimi-auth-verimi/test-frontend/src/test/java/com/dipp/frontendtest/smoketest/inlineRegistrationStartingFromLufthansaMockDataTransferWithDB.java" />
+      <jump line="119" column="99" filename="$USER_HOME$/verimi-auth-verimi/test-frontend/src/test/java/com/dipp/frontendtest/smoketest/inlineRegistrationStartingFromLufthansaMockDataTransferWithDB.java" />
+      <jump line="133" column="29" filename="$USER_HOME$/verimi-auth-verimi/test-frontend/src/test/java/com/dipp/frontendtest/smoketest/inlineRegistrationStartingFromLufthansaMockDataTransferWithDB.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/sql/postgres_1_serviceprovider.sql" />
+      <jump line="81" column="0" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/sql/postgres_1_serviceprovider.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -567,7 +559,7 @@
         <text>int</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text>clientlogin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVsZXRlIGZyb20gbmZhY3Rvcl9kZXZpY2UuZGV2aWNlIHdoZXJlIGRldmljZV9uYW1lID0gJ2RldmludF90ZXN0X3VzZXJfMmZhJzsK</text>
@@ -617,9 +609,9 @@
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search>clientlogin</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
+      <last-pattern>clientlogin</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -627,11 +619,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dev2</entry>
-        <entry>devint</entry>
-        <entry>xsrf</entry>
-        <entry encoding="base64">XDxYU1JGRmlsdGVyXD4=</entry>
-        <entry encoding="base64">XDxmYWxzZVw+</entry>
         <entry encoding="base64">XDxlbmFibGVkXD4=</entry>
         <entry>zuul:</entry>
         <entry encoding="base64">XDxhY3JWYWx1ZXNcPg==</entry>
@@ -647,6 +634,11 @@
         <entry>herta</entry>
         <entry>hert</entry>
         <entry>;</entry>
+        <entry encoding="base64">XDxFbWFpbFw+</entry>
+        <entry encoding="base64">XDxlbWFpbFw+</entry>
+        <entry>authenticateInBrowser</entry>
+        <entry>authenticate</entry>
+        <entry>clientlogin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
