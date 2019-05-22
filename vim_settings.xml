@@ -300,10 +300,10 @@
       <file name="/postgres.payment_data.bank_codes [postgres@dev5]" timestamp="1558511773225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9a80ca46-1177-4b44-9266-1de5fecb96df/console_2.sql" timestamp="1558510582367">
-        <mark key="'" line="0" column="35" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="12" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9a80ca46-1177-4b44-9266-1de5fecb96df/console_2.sql" timestamp="1558512516113">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="124" />
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
@@ -372,6 +372,11 @@
       </file>
       <file name="/postgres.master_data.localized_text [postgres@dev5]" timestamp="1558511623068">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0af659f0-65dc-4fcd-83d6-cb90c2b0f976/console_4.sql" timestamp="1558512533868">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="124" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/postgres.serviceprovider.serviceprovider_cancels [postgres@devint]" timestamp="1558511571901">
         <mark key="[" line="0" column="0" />
@@ -475,7 +480,6 @@
       <jump line="91" column="1268" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/sql/postgres_1_serviceprovider.sql" />
       <jump line="101" column="1233" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/sql/postgres_1_serviceprovider.sql" />
       <jump line="120" column="1856" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/sql/postgres_1_serviceprovider.sql" />
-      <jump line="0" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9a80ca46-1177-4b44-9266-1de5fecb96df/console_2.sql" />
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_44.puml" />
       <jump line="2" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_45.puml" />
       <jump line="25" column="40" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_44.puml" />
@@ -506,10 +510,11 @@
       <jump line="36" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0af659f0-65dc-4fcd-83d6-cb90c2b0f976/console_2.sql" />
       <jump line="0" column="65" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0af659f0-65dc-4fcd-83d6-cb90c2b0f976/console_2.sql" />
       <jump line="35" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0af659f0-65dc-4fcd-83d6-cb90c2b0f976/console_2.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9a80ca46-1177-4b44-9266-1de5fecb96df/console_2.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBuZmFjdG9yX2RldmljZS5kZXZpY2U7CgpzZWxlY3QgdWlkIGZyb20gY29udGFjdC5lbWFpbCB3aGVyZSBlbWFpbC5lbWFpbCA9ICdza0B0ZS5zdCc7CgpzZWxlY3QgKiBmcm9tIG5mYWN0b3JfZGV2aWNlLmRldmljZSB3aGVyZSBkZXZpY2VfbmFtZSA9ICdkZXZpbnRfdGVzdF91c2VyXzJmYSc7CgpkZWxldGUgZnJvbSBuZmFjdG9yX2RldmljZS5kZXZpY2Ugd2hlcmUgZGV2aWNlX25hbWUgPSAnZGV2aW50X3Rlc3RfdXNlcl8yZmEnOwoKc2VsZWN0ICogZnJvbSBuZmFjdG9yX2F1dGhlbnRpY2F0aW9uLm5mYWN0b3JfYXV0aGVudGljYXRpb24gd2hlcmUgdWlkID0gKHNlbGVjdCB1aWQgZnJvbSBjb250YWN0LmVtYWlsIHdoZXJlIGVtYWlsLmVtYWlsID0gJ3NrQHRlLnN0Jyk7CgpkZWxldGUgZnJvbSBuZmFjdG9yX2F1dGhlbnRpY2F0aW9uLm5mYWN0b3JfYXV0aGVudGljYXRpb24gd2hlcmUgdWlkID0oIHNlbGVjdCB1aWQgZnJvbSBjb250YWN0LmVtYWlsIHdoZXJlIGVtYWlsLmVtYWlsID0gJ3NrQHRlLnN0Jyk7CgpzZWxlY3QgKiBmcm9tIG5mYV9jb25maWd1cmF0aW9uLm5mYV9jb25maWd1cmF0aW9uIHdoZXJlIHVpZCA9ICggc2VsZWN0IHVpZCBmcm9tIGNvbnRhY3QuZW1haWwgd2hlcmUgZW1haWwuZW1haWwgPSAnc2tAdGUuc3QnKTsKCmRlbGV0ZSBmcm9tIG5mYV9jb25maWd1cmF0aW9uLm5mYV9jb25maWd1cmF0aW9uIHdoZXJlIHVpZCA9ICggc2VsZWN0IHVpZCBmcm9tIGNvbnRhY3QuZW1haWwgd2hlcmUgZW1haWwuZW1haWwgPSAnc2tAdGUuc3QnKTsK</text>
       </register>
       <register name="-" type="4">
         <text />
