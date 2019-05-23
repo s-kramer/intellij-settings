@@ -62,6 +62,12 @@
       <file name="/postgres.master_data.localized_text [postgres@devint]" timestamp="1558511632833">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/contract/TwoFAaaSRequestBase.java" timestamp="1558621817504">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="8" column="20" />
+      </file>
       <file name="/postgres.serviceprovider.serviceprovider [postgres@dev5]" timestamp="1557927729827">
         <mark key="[" line="0" column="0" />
       </file>
@@ -114,16 +120,15 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1558520702282">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-      </file>
       <file name="$USER_HOME$/Projects/Java/ddd-paynow/api-gateway/src/main/kotlin/pl/melements/poc/dddpaynow/apigateway/PaymentAuthorizationConfiguration.kt" timestamp="1558386748718">
         <mark key="'" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" timestamp="1558524771189">
-        <mark key="'" line="65" column="17" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" timestamp="1558621800364">
+        <mark key="'" line="181" column="60" />
+        <mark key="[" line="173" column="45" />
+        <mark key="]" line="173" column="45" />
+        <mark key="." line="173" column="48" />
+        <mark key="^" line="181" column="60" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/DippTokenService.java" timestamp="1558611408317">
         <mark key="'" line="34" column="13" />
@@ -225,8 +230,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" timestamp="1557821533894">
         <mark key="'" line="40" column="71" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" timestamp="1558617691605">
-        <mark key="'" line="10" column="44" />
+      <file name="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" timestamp="1558620005937">
+        <mark key="'" line="80" column="7" />
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="38" />
         <mark key="." line="4" column="27" />
@@ -342,6 +347,12 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" timestamp="1557395025197">
         <mark key="'" line="125" column="53" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldDoOtherWhatever.yml" timestamp="1558621257316">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97d33e6f-5a57-4386-a53f-111264649dcf/console.sql" timestamp="1557998416346">
         <mark key="[" line="2" column="211" />
         <mark key="]" line="3" column="0" />
@@ -380,11 +391,11 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558612403540">
+      <file name="/Dummy.txt" timestamp="1558621823147">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="5" />
+        <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build.gradle" timestamp="1557491608957">
@@ -435,8 +446,19 @@
         <mark key="." line="4" column="29" />
         <mark key="^" line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1558524775684">
-        <mark key="'" line="27" column="46" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1558620269137">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="39" />
+        <mark key="^" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnWhatever.groovy" timestamp="1558620774904">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+        <mark key="^" line="18" column="17" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/NfaServiceSpec_checkLoginNfaForLoginPage.groovy" timestamp="1556629550442">
         <mark key="'" line="12" column="42" />
@@ -515,8 +537,8 @@
         <mark key="." line="27" column="74" />
         <mark key="^" line="27" column="74" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" timestamp="1557214590619">
-        <mark key="'" line="128" column="20" />
+      <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" timestamp="1558620517879">
+        <mark key="'" line="149" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97d33e6f-5a57-4386-a53f-111264649dcf/console_1.sql" timestamp="1557999868078">
         <mark key="'" line="0" column="31" />
@@ -830,33 +852,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1503" column="6" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="1655" column="6" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="1496" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="1497" column="12" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="1500" column="41" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="1647" column="16" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="1649" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="1774" column="16" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="1776" column="6" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="1777" column="27" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="1778" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="1779" column="12" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="1849" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="2162" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="21347" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="38357" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="38541" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="38722" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="38750" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="38758" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="1653" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="1719" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="2032" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="21217" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="38231" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="38415" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="38596" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="38624" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="38632" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="6" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
@@ -905,7 +900,6 @@
       <jump line="41" column="77" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneMessageSender.java" />
       <jump line="51" column="18" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
       <jump line="62" column="52" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
-      <jump line="65" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" />
       <jump line="27" column="46" filename="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" />
       <jump line="16" column="26" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneRequestBuilder.java" />
@@ -928,42 +922,70 @@
       <jump line="34" column="13" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/DippTokenService.java" />
       <jump line="27" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/gradle.properties" />
       <jump line="54" column="61" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/gradle.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" />
       <jump line="10" column="44" filename="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" />
+      <jump line="34" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="3" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="13" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="18" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="21" column="37" filename="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" />
+      <jump line="79" column="33" filename="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" />
+      <jump line="80" column="7" filename="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" />
+      <jump line="28" column="14" filename="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" />
+      <jump line="24" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" />
+      <jump line="16" column="82" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="26" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" />
+      <jump line="27" column="80" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="66" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="100" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="112" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="129" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="123" column="4" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="65" column="15" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="46" column="15" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="45" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="20" column="21" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="149" column="24" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnWhatever.groovy" />
+      <jump line="28" column="28" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="171" column="50" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="173" column="36" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="181" column="60" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>expose cancel method endpoint on additional path</text>
+        <text>added initial spring-cloud-contract spec</text>
       </register>
       <register name="-" type="4">
-        <text>expose cancel method endpoint on additional path</text>
+        <text>added initial spring-cloud-contract spec</text>
       </register>
       <register name="/" type="4">
-        <text>cloud</text>
+        <text encoding="base64">XDxnZW5lcmF0ZWRDb250cmFjdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">d2hlcmUgY2xpZW50bG9naW5yZWRpcmVjdHVyaSA9ICdodHRwczovL3NwMy1tb2NrLnVhdC52ZXJpbWkuY2xvdWQvc3RhcnQtbG9naW4td2l0aC12ZXJpbWknOwo=</text>
+      <register name="0" type="4">
+        <text>springCloudContractVersion</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC5jb250ZXh0Lmp1bml0NC5TcHJpbmdKVW5pdDRDbGFzc1J1bm5lcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpdAo=</text>
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZXMuc3JjRGlyICIkcHJvamVjdERpci9zcmMvaW50ZWdyYXRpb25UZXN0L3Jlc291cmNlcyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay51YXQudmVyaW1pLmNsb3VkL2F1dG8tc3RhcnQtcmVnaXN0cmF0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay1kZXY1LmRldi5zYW5kYm94LnZlcmltaS5jbG91ZC9odHRwczovL2RiLW1vY2sudWF0LnZlcmltaS5jbG91ZAo=</text>
+        <text encoding="base64">LyoqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAyMy4wNS4xOSAxNjoyMwogKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay51YXQudmVyaW1pLmNsb3VkL3N0YXJ0LWxvZ2luLXdpdGgtdmVyaW1pCg==</text>
+        <text encoding="base64">ICB1cmw6IC9mb28K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lcjoKICAgICAgICAgIGJvb3RzdHJhcC1zZXJ2ZXJzOiAke2thZmthLmhvc3R9OiR7a2Fma2EucG9ydH0K</text>
+        <text encoding="base64">cHJpb3JpdHk6IDgK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -979,34 +1001,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWNlcjoK</text>
+        <text encoding="base64">bmFtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYm9vdHN0cmFwLnNlcnZlcnM6ICR7a2Fma2EuaG9zdH06JHtrYWZrYS5wb3J0fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>cloud</last-search>
+      <last-search encoding="base64">XDxnZW5lcmF0ZWRDb250cmFjdFw+</last-search>
       <last-offset />
-      <last-pattern>cloud</last-pattern>
+      <last-pattern encoding="base64">XDxnZW5lcmF0ZWRDb250cmFjdFw+</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFbWFpbFw+</entry>
-        <entry encoding="base64">XDxlbWFpbFw+</entry>
-        <entry>authenticateInBrowser</entry>
-        <entry>authenticate</entry>
-        <entry>clientlogin</entry>
-        <entry>httpcompon</entry>
-        <entry>httpclient</entry>
-        <entry>security-</entry>
         <entry>security-service.ym</entry>
         <entry encoding="base64">XDxyZXF1ZXN0QnVpbGRlclw+</entry>
         <entry encoding="base64">XDx0cmFuc2FjdGlvbklkXD4=</entry>
@@ -1019,6 +1033,14 @@
         <entry>second</entry>
         <entry>edg</entry>
         <entry>cloud</entry>
+        <entry>plugin</entry>
+        <entry>gradle</entry>
+        <entry>springbootversion</entry>
+        <entry encoding="base64">XDxzcHJpbmdDbG91ZENPbnRyYWN0VmVyc2lvblw+</entry>
+        <entry encoding="base64">XDxzcHJpbmdDbG91ZENvbnRyYWN0VmVyc2lvblw+</entry>
+        <entry>depen</entry>
+        <entry>COntra</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZWRDb250cmFjdFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
