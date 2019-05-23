@@ -125,6 +125,9 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" timestamp="1558524771189">
         <mark key="'" line="65" column="17" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/DippTokenService.java" timestamp="1558611408317">
+        <mark key="'" line="34" column="13" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0af659f0-65dc-4fcd-83d6-cb90c2b0f976/console_1.sql" timestamp="1557909563581">
         <mark key="'" line="5" column="49" />
         <mark key="[" line="3" column="6" />
@@ -821,7 +824,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/resources/application-local-env.yml" />
       <jump line="172" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/resources/application-local-env.yml" />
       <jump line="1480" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="1654" column="6" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
@@ -921,6 +923,7 @@
       <jump line="108" column="64" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneServiceListener.java" />
       <jump line="7" column="13" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneRequestBuilder.java" />
       <jump line="53" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sealone.client/so-client-api/1.11/5a0db3522168c7f6f40dc5bb543bbc0c1b7dc9ba/so-client-api-1.11.jar!/com/sealone/client/api/util/RequestBuilder.class" />
+      <jump line="34" column="13" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/DippTokenService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
