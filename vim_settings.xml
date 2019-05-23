@@ -160,6 +160,12 @@
       <file name="/postgres.serviceprovider.identity_provider_blz [postgres@dev5]" timestamp="1558514819001">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/helper/TokenRequestHandler.java" timestamp="1558612265804">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="13" />
+        <mark key="^" line="65" column="33" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="/postgres.payment_data.bank_account [postgres@dev2]" timestamp="1558004251841">
         <mark key="[" line="0" column="0" />
       </file>
@@ -219,8 +225,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" timestamp="1557821533894">
         <mark key="'" line="40" column="71" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" timestamp="1558335581803">
-        <mark key="'" line="141" column="42" />
+      <file name="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" timestamp="1558612559230">
+        <mark key="'" line="10" column="44" />
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="38" />
         <mark key="." line="4" column="27" />
@@ -374,12 +380,12 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558293186995">
+      <file name="/Dummy.txt" timestamp="1558612403540">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="26" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build.gradle" timestamp="1557491608957">
         <mark key="'" line="137" column="46" />
@@ -522,8 +528,8 @@
       <file name="/Clipboard.txt" timestamp="1557494461427">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/gradle.properties" timestamp="1557736199093">
-        <mark key="'" line="38" column="19" />
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/gradle.properties" timestamp="1558612551079">
+        <mark key="'" line="54" column="61" />
         <mark key="[" line="45" column="10" />
         <mark key="]" line="45" column="12" />
         <mark key="." line="45" column="12" />
@@ -824,10 +830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/resources/application-local-env.yml" />
-      <jump line="1480" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="1654" column="6" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="1493" column="10" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="1503" column="6" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="1655" column="6" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="1496" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
@@ -924,40 +926,44 @@
       <jump line="7" column="13" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneRequestBuilder.java" />
       <jump line="53" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sealone.client/so-client-api/1.11/5a0db3522168c7f6f40dc5bb543bbc0c1b7dc9ba/so-client-api-1.11.jar!/com/sealone/client/api/util/RequestBuilder.class" />
       <jump line="34" column="13" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/DippTokenService.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/gradle.properties" />
+      <jump line="54" column="61" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/gradle.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" />
+      <jump line="10" column="44" filename="$USER_HOME$/verimi-auth-verimi/dependency-bom/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>expose cancel method endpoint on additional path</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>expose cancel method endpoint on additional path</text>
       </register>
       <register name="/" type="4">
-        <text>second</text>
+        <text>cloud</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">d2hlcmUgY2xpZW50bG9naW5yZWRpcmVjdHVyaSA9ICdodHRwczovL3NwMy1tb2NrLnVhdC52ZXJpbWkuY2xvdWQvc3RhcnQtbG9naW4td2l0aC12ZXJpbWknOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay51YXQudmVyaW1pLmNsb3VkL2F1dG8tc3RhcnQtcmVnaXN0cmF0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay1kZXY1LmRldi5zYW5kYm94LnZlcmltaS5jbG91ZC9odHRwczovL2RiLW1vY2sudWF0LnZlcmltaS5jbG91ZAo=</text>
+        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay51YXQudmVyaW1pLmNsb3VkL2F1dG8tc3RhcnQtcmVnaXN0cmF0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay51YXQudmVyaW1pLmNsb3VkL3N0YXJ0LWxvZ2luLXdpdGgtdmVyaW1pCg==</text>
+        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay1kZXY1LmRldi5zYW5kYm94LnZlcmltaS5jbG91ZC9odHRwczovL2RiLW1vY2sudWF0LnZlcmltaS5jbG91ZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lcjoKICAgICAgICAgIGJvb3RzdHJhcC1zZXJ2ZXJzOiAke2thZmthLmhvc3R9OiR7a2Fma2EucG9ydH0K</text>
+        <text encoding="base64">aHR0cHM6Ly9sdWZ0aGFuc2EtbW9jay51YXQudmVyaW1pLmNsb3VkL3N0YXJ0LWxvZ2luLXdpdGgtdmVyaW1pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWNlcjoK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lcjoKICAgICAgICAgIGJvb3RzdHJhcC1zZXJ2ZXJzOiAke2thZmthLmhvc3R9OiR7a2Fma2EucG9ydH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -973,19 +979,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYm9vdHN0cmFwLnNlcnZlcnM6ICR7a2Fma2EuaG9zdH06JHtrYWZrYS5wb3J0fQo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWNlcjoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnNwcmluZzoKICBmcmVlbWFya2VyOgogICAgZW5hYmxlZDogZmFsc2UKICB6aXBraW46CiAgICBlbmFibGVkOiB0cnVlCiAgICBiYXNlVXJsOiBodHRwOi8vemlwa2luLmRldjUtc2VydmljZTo5NDExCiAgc2xldXRoOgogICAgZW5hYmxlZDogdHJ1ZQogICAgc2FtcGxlcjoKICAgICAgcGVyY2VudGFnZTogMS4wCiAgbXZjOgogICAgbG9nUmVzb2x2ZWRFeGNlcHRpb246IHRydWUKICBrYWZrYToKICAgIHByb2R1Y2VyOgogICAgICBib290c3RyYXAtc2VydmVyczogJHtrYWZrYS5ob3N0fToke2thZmthLnBvcnR9CiAgICBjb25zdW1lcjoKICAgICAgYm9vdHN0cmFwLXNlcnZlcnM6ICR7a2Fma2EuaG9zdH06JHtrYWZrYS5wb3J0fQo=</text>
+        <text encoding="base64">ICAgICAgYm9vdHN0cmFwLnNlcnZlcnM6ICR7a2Fma2EuaG9zdH06JHtrYWZrYS5wb3J0fQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>second</last-search>
+      <last-search>cloud</last-search>
       <last-offset />
-      <last-pattern>second</last-pattern>
+      <last-pattern>cloud</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -993,8 +999,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hert</entry>
-        <entry>;</entry>
         <entry encoding="base64">XDxFbWFpbFw+</entry>
         <entry encoding="base64">XDxlbWFpbFw+</entry>
         <entry>authenticateInBrowser</entry>
@@ -1013,6 +1017,8 @@
         <entry encoding="base64">XDxzZWFsT25lQ2xpZW50XD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlSWRcPg==</entry>
         <entry>second</entry>
+        <entry>edg</entry>
+        <entry>cloud</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
