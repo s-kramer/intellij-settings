@@ -31,7 +31,7 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/2faaas-request-contract.json" timestamp="1558683460440">
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/2faaas-request-contract.json" timestamp="1558687687366">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="39" column="1" />
         <mark key="." line="0" column="0" />
@@ -61,11 +61,12 @@
       <file name="$USER_HOME$/Projects/Java/ddd-paynow/api-gateway/src/main/kotlin/pl/melements/poc/dddpaynow/apigateway/PaymentAuthorizationConfiguration.kt" timestamp="1558386748718">
         <mark key="'" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" timestamp="1558685762597">
-        <mark key="'" line="182" column="45" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="." line="174" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" timestamp="1558687858855">
+        <mark key="'" line="183" column="45" />
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="20" column="18" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/DippTokenService.java" timestamp="1558611408317">
         <mark key="'" line="34" column="13" />
@@ -271,6 +272,12 @@
         <mark key="." line="104" column="66" />
         <mark key="^" line="104" column="66" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldAllowToQueryNfaStatus.groovy" timestamp="1558688509659">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="5" column="48" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingService.java" timestamp="1557912496915">
         <mark key="'" line="75" column="37" />
       </file>
@@ -295,7 +302,13 @@
         <mark key="^" line="26" column="39" />
         <mark key="." line="26" column="39" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnWhatever.groovy" timestamp="1558682875697" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnWhatever.groovy" timestamp="1558688736503">
+        <mark key="'" line="17" column="22" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="62" column="1" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="9" column="13" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/NfaServiceSpec_checkLoginNfaForLoginPage.groovy" timestamp="1556629550442">
         <mark key="'" line="12" column="42" />
         <mark key="[" line="91" column="8" />
@@ -534,13 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="21" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="327" column="21" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="99" column="25" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneMessageSender.java" />
-      <jump line="40" column="46" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneMessageSender.java" />
-      <jump line="41" column="77" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneMessageSender.java" />
-      <jump line="51" column="18" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
-      <jump line="62" column="52" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" />
       <jump line="27" column="46" filename="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" />
       <jump line="16" column="26" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneRequestBuilder.java" />
@@ -583,7 +589,6 @@
       <jump line="46" column="15" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
       <jump line="20" column="21" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
       <jump line="149" column="24" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnWhatever.groovy" />
       <jump line="28" column="28" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
       <jump line="171" column="50" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
       <jump line="137" column="4" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/application-test.yml" />
@@ -634,40 +639,48 @@
       <jump line="183" column="45" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
       <jump line="169" column="4" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
       <jump line="182" column="45" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="18" column="62" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnWhatever.groovy" />
+      <jump line="52" column="22" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnWhatever.groovy" />
+      <jump line="27" column="21" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnWhatever.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnWhatever.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldAllowToQueryNfaStatus.groovy" />
+      <jump line="2" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnWhatever.groovy" />
+      <jump line="28" column="20" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnWhatever.groovy" />
+      <jump line="17" column="22" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnWhatever.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fixed contract format</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CScnJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>fixed contract format</text>
+        <text>POST</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnRlZ3JhdGlvblRlc3RcPg==</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBEYXRhSnBhVGVzdAogICAgQEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCiAgICBAQ29tcG9uZW50U2NhbigiY29tLmRpcHAuc2VjdXJpdHkuaW5saW5lcmVnaXN0cmF0aW9uIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ0dWlkIjogIjJlMmM1MGI1LTUxNzQtNGJkMS04ZjA1LTE3YzBiODMxNjIyNiIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CScnJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0U291cmNlRGlycyArPSBwcm9qZWN0LnNvdXJjZVNldHMuaW50ZWdyYXRpb25UZXN0LnNjYWxhLnNyY0RpcnMK</text>
+        <text encoding="base64">ICAgICAgICBib2R5ICcnJ1wKCQl7CiAgICAgICAgICAgICAgIjJmYV9yZXF1ZXN0IjogewogICAgICAgICAgICAgICAgImV1aWQiOiAiOGU5MGU3ODYtMDFmMy00ODU3LWE2YjktOTZjOGNhN2Y1NmM0IiwKICAgICAgICAgICAgICAgICJ0dWlkIjogIjJlMmM1MGI1LTUxNzQtNGJkMS04ZjA1LTE3YzBiODMxNjIyNiIsCiAgICAgICAgICAgICAgICAidGltZXN0YW1wIjogIjIwMTktMDQtMTBUMTM6Mzk6MzgrMDA6MDAiCiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAic2NvcGVJZCI6ICJtb25leVRyYW5zZmVyIiwKICAgICAgICAgICAgICAiZGF0YSI6IFsKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJlbWFpbCIsCiAgICAgICAgICAgICAgICAgICAgICAidmFsdWUiOiAiZXJpa2FAbXVzdGVybWFubi5kZSIsCiAgICAgICAgICAgICAgICAgICAgICAid2VpZ2h0IjogMQogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAiYmVuZWZpY2lhcnkiLAogICAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogIkVyaWthIE11c3Rlcm1hbm4iLAogICAgICAgICAgICAgICAgICAgICAgIndlaWdodCI6IDUKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICJuYW1lIjogImFtb3VudCIsCiAgICAgICAgICAgICAgICAgICAgICAidmFsdWUiOiAiMTIsMzQgRVVSIiwKICAgICAgICAgICAgICAgICAgICAgICJ3ZWlnaHQiOiA0CiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJ0cmFuc2FjdGlvbklkIiwKICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6ICJmODliODY5NzdlZWM3MDNkOTE4NmUzYiIsCiAgICAgICAgICAgICAgICAgICAgICAid2VpZ2h0IjogMwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAiYWN0aW9uIiwKICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6ICJUcmFuc2ZlciBvcmRlciAoZG9tZXN0aWMpIiwKICAgICAgICAgICAgICAgICAgICAgICJ3ZWlnaHQiOiAyCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJpYmFuIiwKICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6ICJERTEyIDM0NTYgNzg5MCAxMjM0IDU2NzggOTAiLAogICAgICAgICAgICAgICAgICAgICAgIndlaWdodCI6IDYKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgXQogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyoqCiAqCiAqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAyNC4wNS4xOSAxMTowMAogKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdEQK</text>
+        <text encoding="base64">LyoqCiAqCiAqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAyMy4wNS4xOSAxNjoxMAogKi8KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc291cmNlRGlycyAtPSBmaWxlKCdzcmMvZ2VuZXJhdGVkVGVzdCcpCiAgICAgICAgICAgIHRlc3RTb3VyY2VEaXJzICs9IGZpbGUoJ3NyYy9nZW5lcmF0ZWRUZXN0JykK</text>
+        <text encoding="base64">ICAgICcnJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdAo=</text>
+        <text encoding="base64">JycnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2VzLnNyYwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -683,19 +696,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3JjCg==</text>
+        <text encoding="base64">JycnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdERpcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInRyYW5zYWN0aW9uSWQiOiAiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnRlZ3JhdGlvblRlc3RcPg==</last-search>
+      <last-search>}</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnRlZ3JhdGlvblRlc3RcPg==</last-pattern>
+      <last-pattern>}</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -703,7 +716,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sealone</entry>
         <entry encoding="base64">XDxjcmVhdGVCU0FBdXRoRmFpbGVkUmVxdWVzdFw+</entry>
         <entry encoding="base64">XDxJU2VhbE9uZUNsaWVudFw+</entry>
         <entry encoding="base64">XDxzZWFsT25lQ2xpZW50XD4=</entry>
@@ -723,6 +735,7 @@
         <entry encoding="base64">XDxUd29GQWFhc0NvbmZpZ3VyYXRpb25cPg==</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZWRUZXN0XD4=</entry>
         <entry encoding="base64">XDxpbnRlZ3JhdGlvblRlc3RcPg==</entry>
+        <entry>}</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Njb3BlfS8iLw==</entry>
