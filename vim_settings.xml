@@ -291,7 +291,7 @@
         <mark key="^" line="14" column="44" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1557494461427">
+      <file name="/Clipboard.txt" timestamp="1558697785723">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/postgres.serviceprovider.serviceprovider_allowed_payment_methods [postgres@devint]" timestamp="1558514196611">
@@ -309,6 +309,12 @@
       </file>
       <file name="/postgres.payment_data.bank_codes [postgres@dev2]" timestamp="1558004271070">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.txt" timestamp="1558697845061">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="46" column="14" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/postgres.documents.document [postgres@dev1]" timestamp="1557311203602">
         <mark key="[" line="0" column="0" />
@@ -462,8 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="39" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneServiceListener.java" />
-      <jump line="107" column="76" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneServiceListener.java" />
       <jump line="108" column="64" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneServiceListener.java" />
       <jump line="7" column="13" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneRequestBuilder.java" />
       <jump line="53" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sealone.client/so-client-api/1.11/5a0db3522168c7f6f40dc5bb543bbc0c1b7dc9ba/so-client-api-1.11.jar!/com/sealone/client/api/util/RequestBuilder.class" />
@@ -562,6 +566,8 @@
       <jump line="15" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldAllowToQueryNfaStatus.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldAllowToQueryNfaStatus.groovy" />
       <jump line="11" column="62" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
+      <jump line="46" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.txt" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
