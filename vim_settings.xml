@@ -85,12 +85,11 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" timestamp="1558687858855">
-        <mark key="'" line="183" column="45" />
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="18" />
-        <mark key="." line="20" column="18" />
-        <mark key="^" line="20" column="18" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" timestamp="1558707392917">
+        <mark key="'" line="197" column="0" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="146" column="9" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="/a.sql" timestamp="1558695161913">
         <mark key="[" line="0" column="0" />
@@ -473,10 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="4" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/application-test.yml" />
-      <jump line="131" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/application-test.yml" />
-      <jump line="118" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/application-test.yml" />
-      <jump line="111" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/application-test.yml" />
       <jump line="166" column="4" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/application-test.yml" />
       <jump line="16" column="52" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/contract/TwoFAaaSRequestBase.java" />
       <jump line="16" column="32" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFAaaSRequestBase.java" />
@@ -573,40 +568,44 @@
       <jump line="2" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldAllowToQueryNfaStatus.groovy" />
       <jump line="3" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnFailureOnNfaQuery.groovy" />
       <jump line="69" column="20" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/generatedTest/com/dipp/security/ContractVerifierTest.java" />
+      <jump line="22" column="36" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="194" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="141" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="193" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fixed contract format</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN0dWJzKE1hdmVuUHVibGljYXRpb24pIHsKICAgICAgICBhcnRpZmFjdElkICIke3Byb2plY3QubmFtZX0tc3R1YnMiCiAgICAgICAgYXJ0aWZhY3QgdmVyaWZpZXJTdHVic0phcgogICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>fixed contract format</text>
       </register>
       <register name="/" type="4">
-        <text>\\</text>
+        <text encoding="base64">XDxwdWJsaXNoaW5nXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2xvdWQuY29udHJhY3Quc3BlYy5Db250cmFjdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXMgNDA0Cg==</text>
+        <text encoding="base64">ICAgIHN0dWJzKE1hdmVuUHVibGljYXRpb24pIHsKICAgICAgICBhcnRpZmFjdElkICIke3Byb2plY3QubmFtZX0tc3R1YnMiCiAgICAgICAgYXJ0aWZhY3QgdmVyaWZpZXJTdHVic0phcgogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqCiAqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAyNC4wNS4xOSAxNTo1NgogKi8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q29udHJhY3QubWFrZSB7CiAgICByZXF1ZXN0IHsKICAgICAgICBtZXRob2QgJ0dFVCcKICAgICAgICB1cmwgJy8yZmFhYXMvc3RhdHVzLzMzMzMnCiAgICAgICAgaGVhZGVycyB7CiAgICAgICAgICAgIGFjY2VwdChhcHBsaWNhdGlvbkpzb24oKSkKICAgICAgICB9CiAgICB9CgogICAgcmVzcG9uc2UgewogICAgICAgIHN0YXR1cyAyMDAKICAgICAgICBib2R5KAovLyAgICAgICAgICAgICAgICAidHVpZCI6ICQoY29uc3VtZXIoJzhlOTBlNzg2LTAxZjMtNDg1Ny1hNmI5LTk2YzhjYTdmNTZjNCcpLCBwcm9kdWNlcihyZWdleCh1dWlkKCkpKSksCiAgICAgICAgICAgICAgICAic3RhdHVzIjogIkZBSUxVUkUiCiAgICAgICAgKQoKICAgIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">cHVibGlzaGluZyB7CiAgICBwdWJsaWNhdGlvbnMgewogICAgfQp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqCiAqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAyNC4wNS4xOSAxNTo1NgogKi8K</text>
+        <text encoding="base64">ICAgICAgICBzdHVicyhNYXZlblB1YmxpY2F0aW9uKSB7CiAgICAgICAgICAgIGFydGlmYWN0SWQgIiR7cHJvamVjdC5uYW1lfS1zdHVicyIKICAgICAgICAgICAgYXJ0aWZhY3QgdmVyaWZpZXJTdHVic0phcgogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q29udHJhY3QubWFrZSB7CiAgICByZXF1ZXN0IHsKICAgICAgICBtZXRob2QgJ0dFVCcKICAgICAgICB1cmwgJy8yZmFhYXMvc3RhdHVzLzIyMjInCiAgICAgICAgaGVhZGVycyB7CiAgICAgICAgICAgIGFjY2VwdChhcHBsaWNhdGlvbkpzb24oKSkKICAgICAgICB9CiAgICB9CgogICAgcmVzcG9uc2UgewogICAgICAgIHN0YXR1cyAyMDAKICAgICAgICBib2R5KAovLyAgICAgICAgICAgICAgICAidHVpZCI6ICQoY29uc3VtZXIoJzhlOTBlNzg2LTAxZjMtNDg1Ny1hNmI5LTk2YzhjYTdmNTZjNCcpLCBwcm9kdWNlcihyZWdleCh1dWlkKCkpKSksCiAgICAgICAgICAgICAgICAic3RhdHVzIjogIlBFTkRJTkciCiAgICAgICAgKQoKICAgIH0KfQo=</text>
+        <text encoding="base64">cHVibGlzaGluZyB7CglwdWJsaWNhdGlvbnMgewoJCXN0dWJzKE1hdmVuUHVibGljYXRpb24pIHsKCQkJYXJ0aWZhY3RJZCAiJHtwcm9qZWN0Lm5hbWV9LXN0dWJzIgoJCQlhcnRpZmFjdCB2ZXJpZmllclN0dWJzSmFyCgkJfQoJfQp9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -622,27 +621,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q29udHJhY3QubWFrZSB7CiAgICByZXF1ZXN0IHsKICAgICAgICBtZXRob2QgJ0dFVCcKICAgICAgICB1cmwgJy8yZmFhYXMvc3RhdHVzLzExMTEnCiAgICAgICAgaGVhZGVycyB7CiAgICAgICAgICAgIGFjY2VwdChhcHBsaWNhdGlvbkpzb24oKSkKICAgICAgICB9CiAgICB9CgogICAgcmVzcG9uc2UgewogICAgICAgIHN0YXR1cyAyMDAKICAgICAgICBzdGF0dXMgNDA0CiAgICAgICAgYm9keSgKLy8gICAgICAgICAgICAgICAgInR1aWQiOiAkKGNvbnN1bWVyKCc4ZTkwZTc4Ni0wMWYzLTQ4NTctYTZiOS05NmM4Y2E3ZjU2YzQnKSwgcHJvZHVjZXIocmVnZXgodXVpZCgpKSkpLAogICAgICAgICAgICAgICAgInN0YXR1cyI6ICJTVUNDRVNTIgogICAgICAgICkKCiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXMgNDA0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqCiAqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAyNC4wNS4xOSAxNTo1NgogKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s:\\::g</text>
       </register>
     </registers>
     <search>
-      <last-search>\\</last-search>
+      <last-search encoding="base64">XDxwdWJsaXNoaW5nXD4=</last-search>
       <last-offset />
-      <last-pattern>\\</last-pattern>
+      <last-pattern encoding="base64">XDxwdWJsaXNoaW5nXD4=</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>plugin</entry>
         <entry>gradle</entry>
         <entry>springbootversion</entry>
         <entry encoding="base64">XDxzcHJpbmdDbG91ZENPbnRyYWN0VmVyc2lvblw+</entry>
@@ -662,6 +660,7 @@
         <entry>\&quot;</entry>
         <entry>\\&quot;</entry>
         <entry>\\</entry>
+        <entry encoding="base64">XDxwdWJsaXNoaW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>-11t-1</entry>
