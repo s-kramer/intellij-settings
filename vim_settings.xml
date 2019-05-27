@@ -146,8 +146,8 @@
       <file name="$USER_HOME$/Projects/Java/ddd-paynow/api-gateway/src/main/kotlin/pl/melements/poc/dddpaynow/apigateway/PaymentAuthorizationConfiguration.kt" timestamp="1558386748718">
         <mark key="'" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" timestamp="1558944348126">
-        <mark key="'" line="195" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" timestamp="1558946762999">
+        <mark key="'" line="145" column="21" />
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
@@ -380,12 +380,12 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" timestamp="1557395025197">
         <mark key="'" line="125" column="53" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/run-stub.sh" timestamp="1558944930641">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="7" column="41" />
-        <mark key="]" line="7" column="46" />
-        <mark key="^" line="7" column="46" />
-        <mark key="." line="7" column="46" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/run-stub.sh" timestamp="1558946639044">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="9" column="46" />
+        <mark key="." line="9" column="46" />
+        <mark key="^" line="9" column="46" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97d33e6f-5a57-4386-a53f-111264649dcf/console.sql" timestamp="1557998416346">
         <mark key="[" line="2" column="211" />
@@ -1042,44 +1042,44 @@
       <jump line="173" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
       <jump line="142" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
       <jump line="9" column="16" filename="$USER_HOME$/verimi-auth-verimi/security-service/run-stub.sh" />
-      <jump line="145" column="39" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
       <jump line="196" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
       <jump line="10" column="187" filename="$USER_HOME$/verimi-auth-verimi/security-service/run-stub.sh" />
       <jump line="5" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/run-stub.sh" />
+      <jump line="145" column="21" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJ0aWZhY3RJZCAiJHtwcm9qZWN0Lm5hbWV9Igo=</text>
+      <register name="&quot;" type="4">
+        <text>-e &quot;LOG_LEVEL_ROOT=${LOG_LEVEL}&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>stubs</text>
+        <text>springcloud/spring-cloud-contract-stub-runner:&quot;${SC_CONTRACT_DOCKER_VERSION}&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTVFVCUlVOTkVSX1BPUlRcPg==</text>
+        <text encoding="base64">XDx2ZXJpZmllclN0dWJzSmFyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJ0aWZhY3RJZCAiJHtwcm9qZWN0Lm5hbWV9LXN0dWJzIgo=</text>
+      <register name="0" type="4">
+        <text>-e &quot;LOG_LEVEL_ROOT=${LOG_LEVEL}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJ0aWZhY3RJZCAiJHtwcm9qZWN0Lm5hbWV9Igo=</text>
+        <text encoding="base64">TE9HX0xFVkVMPURFQlVHCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGlzaFN0dWJzVG9TY20gewogICAgLy8gV2Ugd2FudCB0byBtb2RpZnkgdGhlIGRlZmF1bHQgc2V0IHVwIG9mIHRoZSBwbHVnaW4gd2hlbiBwdWJsaXNoIHN0dWJzIHRvIHNjbSBpcyBjYWxsZWQKICAgIGN1c3RvbWl6ZSB7CiAgICAgICAgLy8gV2Ugd2FudCB0byBwaWNrIGNvbnRyYWN0cyBmcm9tIGEgR2l0IHJlcG9zaXRvcnkKICAgICAgICBjb250cmFjdERlcGVuZGVuY3kgewogICAgICAgICAgICBzdHJpbmdOb3RhdGlvbiA9ICIke3Byb2plY3QuZ3JvdXB9OiR7cHJvamVjdC5uYW1lfToke3Byb2plY3QudmVyc2lvbn0iCiAgICAgICAgfQogICAgICAgIC8qCiAgICAgICAgV2UgcmV1c2UgdGhlIGNvbnRyYWN0IGRlcGVuZGVuY3kgc2VjdGlvbiB0byBzZXQgdXAgdGhlIHBhdGgKICAgICAgICB0byB0aGUgZm9sZGVyIHRoYXQgY29udGFpbnMgdGhlIGNvbnRyYWN0IGRlZmluaXRpb25zLiBJbiBvdXIgY2FzZSB0aGUKICAgICAgICBwYXRoIHdpbGwgYmUgL2dyb3VwSWQvYXJ0aWZhY3RJZC92ZXJzaW9uL2NvbnRyYWN0cwogICAgICAgICAqLwogICAgICAgIGNvbnRyYWN0UmVwb3NpdG9yeSB7CiAgICAgICAgICAgIHJlcG9zaXRvcnlVcmwgPSAiZ2l0Oi8vZmlsZTovLy9ob21lL3NrcmFtZXIvUHJvamVjdHMvSmF2YS9zcG9kZGRpZnkvc3BvZGRkaWZ5LWNvbnRyYWN0LyIKLy8JCQlyZXBvc2l0b3J5VXJsID0gImdpdDovL2ZpbGU6Ly8ke1N5c3RlbS5nZXRlbnYoIlJPT1QiKX0vdGFyZ2V0L2NvbnRyYWN0X2VtcHR5X2dpdC8iCiAgICAgICAgfQogICAgICAgIC8vIFRoZSBtb2RlIGNhbid0IGJlIGNsYXNzcGF0aAogICAgICAgIGNvbnRyYWN0c01vZGUgPSAiTE9DQUwiCiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJ0aWZhY3RJZCAiJHtwcm9qZWN0Lm5hbWV9Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHVibGlzaFN0dWJzVG9TY20gewoJLy8gV2Ugd2FudCB0byBtb2RpZnkgdGhlIGRlZmF1bHQgc2V0IHVwIG9mIHRoZSBwbHVnaW4gd2hlbiBwdWJsaXNoIHN0dWJzIHRvIHNjbSBpcyBjYWxsZWQKCWN1c3RvbWl6ZSB7CgkJLy8gV2Ugd2FudCB0byBwaWNrIGNvbnRyYWN0cyBmcm9tIGEgR2l0IHJlcG9zaXRvcnkKCQljb250cmFjdERlcGVuZGVuY3kgewoJCQlzdHJpbmdOb3RhdGlvbiA9ICIke3Byb2plY3QuZ3JvdXB9OiR7cHJvamVjdC5uYW1lfToke3Byb2plY3QudmVyc2lvbn0iCgkJfQoJCS8qCgkJV2UgcmV1c2UgdGhlIGNvbnRyYWN0IGRlcGVuZGVuY3kgc2VjdGlvbiB0byBzZXQgdXAgdGhlIHBhdGgKCQl0byB0aGUgZm9sZGVyIHRoYXQgY29udGFpbnMgdGhlIGNvbnRyYWN0IGRlZmluaXRpb25zLiBJbiBvdXIgY2FzZSB0aGUKCQlwYXRoIHdpbGwgYmUgL2dyb3VwSWQvYXJ0aWZhY3RJZC92ZXJzaW9uL2NvbnRyYWN0cwoJCSAqLwoJCWNvbnRyYWN0UmVwb3NpdG9yeSB7CiAgICAgICAgICAgIHJlcG9zaXRvcnlVcmwgPSAiZ2l0Oi8vZmlsZTovLy9ob21lL3NrcmFtZXIvUHJvamVjdHMvSmF2YS9zcG9kZGRpZnkvc3BvZGRkaWZ5LWNvbnRyYWN0LyIKLy8JCQlyZXBvc2l0b3J5VXJsID0gImdpdDovL2ZpbGU6Ly8ke1N5c3RlbS5nZXRlbnYoIlJPT1QiKX0vdGFyZ2V0L2NvbnRyYWN0X2VtcHR5X2dpdC8iCgkJfQoJCS8vIFRoZSBtb2RlIGNhbid0IGJlIGNsYXNzcGF0aAoJCWNvbnRyYWN0c01vZGUgPSAiTE9DQUwiCgl9Cn0K</text>
+        <text encoding="base64">cHVibGlzaFN0dWJzVG9TY20gewogICAgLy8gV2Ugd2FudCB0byBtb2RpZnkgdGhlIGRlZmF1bHQgc2V0IHVwIG9mIHRoZSBwbHVnaW4gd2hlbiBwdWJsaXNoIHN0dWJzIHRvIHNjbSBpcyBjYWxsZWQKICAgIGN1c3RvbWl6ZSB7CiAgICAgICAgLy8gV2Ugd2FudCB0byBwaWNrIGNvbnRyYWN0cyBmcm9tIGEgR2l0IHJlcG9zaXRvcnkKICAgICAgICBjb250cmFjdERlcGVuZGVuY3kgewogICAgICAgICAgICBzdHJpbmdOb3RhdGlvbiA9ICIke3Byb2plY3QuZ3JvdXB9OiR7cHJvamVjdC5uYW1lfToke3Byb2plY3QudmVyc2lvbn0iCiAgICAgICAgfQogICAgICAgIC8qCiAgICAgICAgV2UgcmV1c2UgdGhlIGNvbnRyYWN0IGRlcGVuZGVuY3kgc2VjdGlvbiB0byBzZXQgdXAgdGhlIHBhdGgKICAgICAgICB0byB0aGUgZm9sZGVyIHRoYXQgY29udGFpbnMgdGhlIGNvbnRyYWN0IGRlZmluaXRpb25zLiBJbiBvdXIgY2FzZSB0aGUKICAgICAgICBwYXRoIHdpbGwgYmUgL2dyb3VwSWQvYXJ0aWZhY3RJZC92ZXJzaW9uL2NvbnRyYWN0cwogICAgICAgICAqLwogICAgICAgIGNvbnRyYWN0UmVwb3NpdG9yeSB7CiAgICAgICAgICAgIHJlcG9zaXRvcnlVcmwgPSAiZ2l0Oi8vZmlsZTovLy9ob21lL3NrcmFtZXIvUHJvamVjdHMvSmF2YS9zcG9kZGRpZnkvc3BvZGRkaWZ5LWNvbnRyYWN0LyIKLy8JCQlyZXBvc2l0b3J5VXJsID0gImdpdDovL2ZpbGU6Ly8ke1N5c3RlbS5nZXRlbnYoIlJPT1QiKX0vdGFyZ2V0L2NvbnRyYWN0X2VtcHR5X2dpdC8iCiAgICAgICAgfQogICAgICAgIC8vIFRoZSBtb2RlIGNhbid0IGJlIGNsYXNzcGF0aAogICAgICAgIGNvbnRyYWN0c01vZGUgPSAiTE9DQUwiCiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I1NUVUJSVU5ORVJfSURTPSJjb20uZGlwcDpzZWN1cml0eS1zZXJ2aWNlLXN0dWJzOjEuMC4wLVNOQVBTSE9UOnN0dWJzOjk4NzYiCiNTVFVCUlVOTkVSX0lEUz0iY29tLmRpcHA6c2VjdXJpdHktc2VydmljZS1zdHViczoxLjAuMC1TTkFQU0hPVDpzdHViczo5ODc2Igo=</text>
+        <text encoding="base64">cHVibGlzaFN0dWJzVG9TY20gewoJLy8gV2Ugd2FudCB0byBtb2RpZnkgdGhlIGRlZmF1bHQgc2V0IHVwIG9mIHRoZSBwbHVnaW4gd2hlbiBwdWJsaXNoIHN0dWJzIHRvIHNjbSBpcyBjYWxsZWQKCWN1c3RvbWl6ZSB7CgkJLy8gV2Ugd2FudCB0byBwaWNrIGNvbnRyYWN0cyBmcm9tIGEgR2l0IHJlcG9zaXRvcnkKCQljb250cmFjdERlcGVuZGVuY3kgewoJCQlzdHJpbmdOb3RhdGlvbiA9ICIke3Byb2plY3QuZ3JvdXB9OiR7cHJvamVjdC5uYW1lfToke3Byb2plY3QudmVyc2lvbn0iCgkJfQoJCS8qCgkJV2UgcmV1c2UgdGhlIGNvbnRyYWN0IGRlcGVuZGVuY3kgc2VjdGlvbiB0byBzZXQgdXAgdGhlIHBhdGgKCQl0byB0aGUgZm9sZGVyIHRoYXQgY29udGFpbnMgdGhlIGNvbnRyYWN0IGRlZmluaXRpb25zLiBJbiBvdXIgY2FzZSB0aGUKCQlwYXRoIHdpbGwgYmUgL2dyb3VwSWQvYXJ0aWZhY3RJZC92ZXJzaW9uL2NvbnRyYWN0cwoJCSAqLwoJCWNvbnRyYWN0UmVwb3NpdG9yeSB7CiAgICAgICAgICAgIHJlcG9zaXRvcnlVcmwgPSAiZ2l0Oi8vZmlsZTovLy9ob21lL3NrcmFtZXIvUHJvamVjdHMvSmF2YS9zcG9kZGRpZnkvc3BvZGRkaWZ5LWNvbnRyYWN0LyIKLy8JCQlyZXBvc2l0b3J5VXJsID0gImdpdDovL2ZpbGU6Ly8ke1N5c3RlbS5nZXRlbnYoIlJPT1QiKX0vdGFyZ2V0L2NvbnRyYWN0X2VtcHR5X2dpdC8iCgkJfQoJCS8vIFRoZSBtb2RlIGNhbid0IGJlIGNsYXNzcGF0aAoJCWNvbnRyYWN0c01vZGUgPSAiTE9DQUwiCgl9Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QVBQX0lQPSIkKCAuL3doYXRzX215X2lwLnNoICkiCg==</text>
+        <text encoding="base64">I1NUVUJSVU5ORVJfSURTPSJjb20uZGlwcDpzZWN1cml0eS1zZXJ2aWNlLXN0dWJzOjEuMC4wLVNOQVBTSE9UOnN0dWJzOjk4NzYiCiNTVFVCUlVOTkVSX0lEUz0iY29tLmRpcHA6c2VjdXJpdHktc2VydmljZS1zdHViczoxLjAuMC1TTkFQU0hPVDpzdHViczo5ODc2Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QVBQX0lQPSIkKCAuL3doYXRzX215X2lwLnNoICkiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IisiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1095,27 +1095,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICgnbGlua21hcmtldHNlcnZpY2VzJywgJ2VuJywgJ1lvdXIgY29udmVuaWVudCBhY2Nlc3MgdG8geW91ciBuZXh0IERldXRzY2hlIEJhbmsgc2hhcmVob2xkZXJzJycgbWVldGluZy4nKSwKICgnbGlua21hcmtldHNlcnZpY2VzJywgJ2RlJywgJ0lociBiZXF1ZW1lciBadWdhbmcgenUgSWhyZXIgbsOkY2hzdGVuIERldXRzY2hlIEJhbmsgSGF1cHR2ZXJzYW1tbHVuZy4nKTsK</text>
+        <text encoding="base64">IisiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICgndmZic3R1dHRnYXJ0JywgJ2RlJywgJ0ltIG9mZml6aWVsbGVuIE9ubGluZXNob3AgZGVyIFZmQiBTdHV0dGdhcnQgMTg5MyBBRyBmaW5kZXN0IER1IGFsbGVzIHdhcyBEZWluIHdlacOfLXJvdGVzIEhlcnogYmVnZWhydC4nKSwKICgndmZic3R1dHRnYXJ0JywgJ2VuJywgJ0luIHRoZSBvZmZpY2lhbCBvbmxpbmUgc2hvcCBvZiBWZkIgU3R1dHRnYXJ0IDE4OTMgQUcsIHlvdSB3aWxsIGZpbmQgZXZlcnl0aGluZyB5b3VyIHdoaXRlLXJlZCBoZWFydCBkZXNpcmVzLicpLAo=</text>
+        <text encoding="base64">ICgnbGlua21hcmtldHNlcnZpY2VzJywgJ2VuJywgJ1lvdXIgY29udmVuaWVudCBhY2Nlc3MgdG8geW91ciBuZXh0IERldXRzY2hlIEJhbmsgc2hhcmVob2xkZXJzJycgbWVldGluZy4nKSwKICgnbGlua21hcmtldHNlcnZpY2VzJywgJ2RlJywgJ0lociBiZXF1ZW1lciBadWdhbmcgenUgSWhyZXIgbsOkY2hzdGVuIERldXRzY2hlIEJhbmsgSGF1cHR2ZXJzYW1tbHVuZy4nKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action $Copy</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTVFVCUlVOTkVSX1BPUlRcPg==</last-search>
+      <last-search encoding="base64">XDx2ZXJpZmllclN0dWJzSmFyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTVFVCUlVOTkVSX1BPUlRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx2ZXJpZmllclN0dWJzSmFyXD4=</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZW5lcmF0ZWRUZXN0XD4=</entry>
         <entry encoding="base64">XDxpbnRlZ3JhdGlvblRlc3RcPg==</entry>
         <entry>}</entry>
         <entry encoding="base64">XDx3ZWlnaHRcPg==</entry>
@@ -1135,9 +1134,9 @@
         <entry encoding="base64">XDxTVFVCUlVOTkVSX1NUVUJTX01PREVcPg==</entry>
         <entry>stubs</entry>
         <entry encoding="base64">XDxTVFVCUlVOTkVSX1BPUlRcPg==</entry>
+        <entry encoding="base64">XDx2ZXJpZmllclN0dWJzSmFyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>-11t-1</entry>
         <entry>-24t-1</entry>
         <entry>-17t-1</entry>
         <entry>action $Cut</entry>
@@ -1157,6 +1156,7 @@
         <entry>%s:\\::g</entry>
         <entry>%s/;/,/g</entry>
         <entry>action RecentFiles</entry>
+        <entry>action $Copy</entry>
       </history-cmd>
       <history-expr />
       <history-input />
