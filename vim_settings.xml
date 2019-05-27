@@ -34,9 +34,13 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-spec/1.2.5.RELEASE/39513c6ff8a31064bb1ead0639aa0187331cd961/spring-cloud-contract-spec-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/contract/spec/Contract.groovy" timestamp="1558952796138">
         <mark key="'" line="95" column="24" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-spec/1.2.5.RELEASE/39513c6ff8a31064bb1ead0639aa0187331cd961/spring-cloud-contract-spec-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/contract/spec/internal/Common.groovy" timestamp="1558703639978" />
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/inlineregistration/MobileVerificationCleanupServiceTest.java" timestamp="1558681504848">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="82" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneRequestBuilder.java" timestamp="1558594478313">
+        <mark key="'" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" timestamp="1556627704851">
         <mark key="[" line="268" column="61" />
@@ -88,6 +92,8 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/NfaCancellationContext.java" timestamp="1558958932593" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/application-test.properties" timestamp="1558681513476" />
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/.gitignore" timestamp="1558685294410">
         <mark key="'" line="121" column="0" />
       </file>
@@ -110,12 +116,6 @@
       </file>
       <file name="$USER_HOME$/Projects/Java/ddd-paynow/api-gateway/src/main/kotlin/pl/melements/poc/dddpaynow/apigateway/PaymentAuthorizationConfiguration.kt" timestamp="1558386748718">
         <mark key="'" line="15" column="16" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" timestamp="1558950703780">
-        <mark key="'" line="145" column="21" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/DippTokenService.java" timestamp="1558611408317">
         <mark key="'" line="34" column="13" />
@@ -196,12 +196,6 @@
         <mark key="]" line="14" column="38" />
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0af659f0-65dc-4fcd-83d6-cb90c2b0f976/console_5.sql" timestamp="1558514740421">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1423" column="138" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/deutschebank-mock.yaml" timestamp="1558015889374">
         <mark key="[" line="26" column="19" />
@@ -295,11 +289,11 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558950719675">
+      <file name="/Dummy.txt" timestamp="1558960326425">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="46" />
+        <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="8" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0af659f0-65dc-4fcd-83d6-cb90c2b0f976/console_4.sql" timestamp="1558512533868">
@@ -307,6 +301,7 @@
         <mark key="]" line="14" column="124" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/db-twofa-service-mock.yaml" timestamp="1558694382859" />
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnFailureOnNfaStatusQuery.groovy" timestamp="1558956578313">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="8" column="9" />
@@ -322,6 +317,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="70" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/ConsentNfaStatusService.java" timestamp="1558959224670">
+        <mark key="'" line="147" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd80fbb8-ff24-4442-b66a-5d398bbe84f6/console_1.sql" timestamp="1557319462963">
         <mark key="[" line="1" column="18" />
@@ -374,23 +372,17 @@
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/Application.java" timestamp="1558679691720">
-        <mark key="'" line="73" column="13" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/NFAuthenticationService.java" timestamp="1558524438263">
         <mark key="[" line="77" column="128" />
         <mark key="]" line="77" column="127" />
         <mark key="^" line="77" column="127" />
         <mark key="." line="77" column="127" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnPendingOnNfaStatusQuery.groovy" timestamp="1558956593895">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-        <mark key="^" line="8" column="7" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnPendingOnNfaStatusQuery.groovy" timestamp="1558960132317">
+        <mark key="[" line="10" column="69" />
+        <mark key="]" line="10" column="72" />
+        <mark key="." line="10" column="72" />
+        <mark key="^" line="10" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/Application.java" timestamp="1557349001064">
         <mark key="[" line="10" column="22" />
@@ -410,19 +402,19 @@
         <mark key="]" line="1423" column="54" />
         <mark key="." line="1423" column="54" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnSuccessOnNfaStatusQuery.groovy" timestamp="1558956583948">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="9" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="9" column="54" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnSuccessOnNfaStatusQuery.groovy" timestamp="1558960126423">
+        <mark key="[" line="9" column="69" />
+        <mark key="]" line="9" column="72" />
+        <mark key="." line="9" column="72" />
+        <mark key="^" line="9" column="72" />
       </file>
       <file name="/2faaas-request-contract.json" timestamp="1558702341884">
         <mark key="[" line="25" column="16" />
         <mark key="]" line="25" column="38" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" timestamp="1558956391273">
-        <mark key="'" line="39" column="20" />
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" timestamp="1558960248491">
+        <mark key="'" line="31" column="20" />
+        <mark key="[" line="4" column="0" />
         <mark key="]" line="9" column="9" />
         <mark key="^" line="8" column="240" />
         <mark key="." line="8" column="54" />
@@ -439,6 +431,7 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/ShortcutServiceRestAdapter.java" timestamp="1556637943481">
         <mark key="'" line="63" column="30" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/nfa-confirmation-templates/switchNFADevice.ftl" timestamp="1558690846691" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.regexp" timestamp="1558706081700">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -458,11 +451,18 @@
         <mark key="]" line="46" column="14" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/test-frontend/src/test/java/com/dipp/frontendtest/smoketest/inlineRegistrationStartingFromLufthansaMockDataTransferWithDB.java" timestamp="1558521548102">
+        <mark key="'" line="133" column="29" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/service/JWTServiceSpec.groovy" timestamp="1558701153741" />
       <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/common-apache-kafka.yaml" timestamp="1557822369292">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingServiceSpec.groovy" timestamp="1558701285392">
+        <mark key="'" line="27" column="39" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java" timestamp="1557821485694">
         <mark key="'" line="0" column="0" />
@@ -491,6 +491,10 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneMessageSender.java" timestamp="1558594375381">
+        <mark key="'" line="41" column="77" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" timestamp="1558701224470" />
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" timestamp="1557735194281">
         <mark key="'" line="154" column="26" />
       </file>
@@ -500,15 +504,22 @@
         <mark key="^" line="60" column="102" />
         <mark key="." line="60" column="98" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/frontend.yaml" timestamp="1558694324310" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnUnauthorizedOnNfaRequest.groovy" timestamp="1558960263789">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+        <mark key="^" line="7" column="43" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" timestamp="1558345180726">
         <mark key="'" line="326" column="52" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnNotFoundOnNfaStatusQuery.groovy" timestamp="1558957564572">
-        <mark key="'" line="9" column="63" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="9" column="65" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnNotFoundOnNfaStatusQuery.groovy" timestamp="1558960087758">
+        <mark key="'" line="10" column="63" />
+        <mark key="[" line="10" column="53" />
+        <mark key="]" line="10" column="53" />
+        <mark key="." line="10" column="53" />
+        <mark key="^" line="10" column="53" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/sp3-mock.yaml" timestamp="1558015900553">
         <mark key="[" line="28" column="17" />
@@ -558,11 +569,11 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" timestamp="1556628918197">
         <mark key="'" line="235" column="6" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnUnauthorizedOnNfaStatusQuery.groovy" timestamp="1558958133849">
-        <mark key="[" line="5" column="43" />
-        <mark key="]" line="5" column="43" />
-        <mark key="^" line="5" column="43" />
-        <mark key="." line="5" column="43" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnUnauthorizedOnNfaStatusQuery.groovy" timestamp="1558960228710">
+        <mark key="[" line="8" column="53" />
+        <mark key="]" line="8" column="53" />
+        <mark key="." line="8" column="53" />
+        <mark key="^" line="8" column="53" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/TokenSignatureController.java" timestamp="1556193857125">
         <mark key="[" line="14" column="84" />
@@ -598,6 +609,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="35" column="29" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneServiceListener.java" timestamp="1558594461273">
+        <mark key="'" line="108" column="64" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnFailureOnNfaQuery.groovy" timestamp="1558952535138">
         <mark key="'" line="5" column="61" />
         <mark key="[" line="5" column="0" />
@@ -617,7 +631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="56" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
       <jump line="18" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
       <jump line="22" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
       <jump line="26" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
@@ -629,7 +642,6 @@
       <jump line="46" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.txt" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.txt" />
       <jump line="27" column="39" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingServiceSpec.groovy" />
-      <jump line="31" column="30" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
       <jump line="14" column="23" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
       <jump line="49" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
       <jump line="46" column="4" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
@@ -717,40 +729,42 @@
       <jump line="36" column="103" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
       <jump line="38" column="20" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
       <jump line="10" column="63" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnNotFoundOnNfaStatusQuery.groovy" />
+      <jump line="147" column="19" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/ConsentNfaStatusService.java" />
+      <jump line="31" column="20" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.*</text>
+        <text>added tokens to the endpoints</text>
       </register>
       <register name="-" type="4">
-        <text>.*</text>
+        <text>added tokens to the endpoints</text>
       </register>
       <register name="/" type="4">
-        <text>empty</text>
+        <text encoding="base64">XDxyZWplY3RDb25zZW50T25IeWRyYVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW9yaXR5IDEK</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzIHsKICAgICAgICAgICAgaGVhZGVyICJBdXRob3JpemF0aW9uIjogJChwcm9kdWNlcigiQmVhcmVyIGV5SmhiR2NpT2lKdWIyNWxJbjAuZXlKc2IyZHBia2xrSWpvaU1tWXdPRFU0WW1RdFlXWTRZeTAwWm1aaExUZ3dOV1V0WXpsbVlqTTJZMlJtT1Rsa0lpd2laWFZwWkNJNklqSTFZVFF5TlRWaExXRTNZalV0TkRobVppMDRNMlZoTFRNM1l6UmhNelExWmpnelpTSjkuIiksIGNvbnN1bWVyKHJlZ2V4KCJCZWFyZXIgW1xcd1xcVy5dKyIpKSkKICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>$(producer(&quot;Bearer eyJhbGciOiJub25lIn0.eyJsb2dpbklkIjoiMmYwODU4YmQtYWY4Yy00ZmZhLTgwNWUtYzlmYjM2Y2RmOTlkIiwiZXVpZCI6IjI1YTQyNTVhLWE3YjUtNDhmZi04M2VhLTM3YzRhMzQ1ZjgzZSJ9.&quot;), consumer(regex(&quot;Bearer [\\w\\W.]+&quot;)))</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW9yaXR5IDEwMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFR5cGUgYXBwbGljYXRpb25Kc29uKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW9yaXR5IDEwMAo=</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzIHsKICAgICAgICAgICAgaGVhZGVyICJBdXRob3JpemF0aW9uIjogYWJzZW50KCkKICAgICAgICB9CiAgICAgICAgbWV0aG9kICdHRVQnCiAgICAgICAgdXJsICQoY2xpZW50KHJlZ2V4KCcvMmZhYWFzL3N0YXR1cy9bYS16QS1aMC05LV0rJykpLCBzZXJ2ZXIoNDQ0NCkpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>$(producer(&quot;Bearer eyJhbGciOiJub25lIn0.eyJsb2dpbklkIjoiMmYwODU4YmQtYWY4Yy00ZmZhLTgwNWUtYzlmYjM2Y2RmOTlkIiwiZXVpZCI6IjI1YTQyNTVhLWE3YjUtNDhmZi04M2VhLTM3YzRhMzQ1ZjgzZSJ9.&quot;), consumer(regex(&quot;Bearer [\\w\\W.]+&quot;)))</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW9yaXR5IDIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib2R5KAogICAgICAgICAgICAgICAgInN0YXR1cyI6ICJGQUlMVVJFIgogICAgICAgICkK</text>
+        <text encoding="base64">ICAgIHByaW9yaXR5IDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzIHsKICAgICAgICAgICAgaGVhZGVyICJBdXRob3JpemF0aW9uIjogJChwcm9kdWNlcigiQmVhcmVyIGV5SmhiR2NpT2lKdWIyNWxJbjAuZXlKc2IyZHBia2xrSWpvaU1tWXdPRFU0WW1RdFlXWTRZeTAwWm1aaExUZ3dOV1V0WXpsbVlqTTJZMlJtT1Rsa0lpd2laWFZwWkNJNklqSTFZVFF5TlRWaExXRTNZalV0TkRobVppMDRNMlZoTFRNM1l6UmhNelExWmpnelpTSjkuIiksIGNvbnN1bWVyKHJlZ2V4KCJCZWFyZXIgW1xcd1xcVy5dKyIpKSkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaW9yCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -766,27 +780,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnMgewogICAgICAgIGhlYWRlciAiQXV0aG9yaXphdGlvbiI6ICQocHJvZHVjZXIoIkJlYXJlciBleUpoYkdjaU9pSnViMjVsSW4wLmV5SnNiMmRwYmtsa0lqb2lNbVl3T0RVNFltUXRZV1k0WXkwMFptWmhMVGd3TldVdFl6bG1Zak0yWTJSbU9UbGtJaXdpWlhWcFpDSTZJakkxWVRReU5UVmhMV0UzWWpVdE5EaG1aaTA0TTJWaExUTTNZelJoTXpRMVpqZ3paU0o5LiIpLCBjb25zdW1lcihyZWdleCgiQmVhcmVyIFtcXHdcXFcuXSsiKSkpCiAgICB9CiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50VHlwZSBhcHBsaWNhdGlvbkpzb24oKQo=</text>
+        <text encoding="base64">ICAgIHByaW9yaXR5IDEwMAo=</text>
       </register>
       <register name=":" type="4">
         <text>action $Copy</text>
       </register>
     </registers>
     <search>
-      <last-search>empty</last-search>
+      <last-search encoding="base64">XDxyZWplY3RDb25zZW50T25IeWRyYVw+</last-search>
       <last-offset />
-      <last-pattern>empty</last-pattern>
+      <last-pattern encoding="base64">XDxyZWplY3RDb25zZW50T25IeWRyYVw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>whatever</entry>
         <entry>producer</entry>
         <entry>consumer</entry>
         <entry>\&quot;</entry>
@@ -806,6 +819,7 @@
         <entry encoding="base64">XDxBUFBfSVBcPg==</entry>
         <entry encoding="base64">XDxwcmlvcml0eVw+</entry>
         <entry>empty</entry>
+        <entry encoding="base64">XDxyZWplY3RDb25zZW50T25IeWRyYVw+</entry>
       </history-search>
       <history-cmd>
         <entry>-17t-1</entry>
