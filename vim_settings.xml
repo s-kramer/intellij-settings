@@ -409,12 +409,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="108" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558950719675">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="46" />
-        <mark key="." line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1559078437007">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0af659f0-65dc-4fcd-83d6-cb90c2b0f976/console_4.sql" timestamp="1558512533868">
         <mark key="[" line="0" column="0" />
@@ -762,12 +758,11 @@
       <file name="/postgres.serviceprovider.serviceprovider [postgres@dev1]" timestamp="1557474067920">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/test/resources/contracts/spodddify/billingaccount/shouldCreateBillingAccountWithGivenPlan.groovy" timestamp="1559076544769">
-        <mark key="'" line="17" column="21" />
-        <mark key="[" line="17" column="44" />
-        <mark key="]" line="17" column="54" />
-        <mark key="." line="17" column="54" />
-        <mark key="^" line="17" column="54" />
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/test/resources/contracts/spodddify/billingaccount/shouldCreateBillingAccountWithGivenPlan.groovy" timestamp="1559078144099">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.5/caf033a4a7c37b4a8ff3ea084cba591539b0b69/commons-io-2.5-sources.jar!/org/apache/commons/io/IOUtils.java" timestamp="1557735934016">
         <mark key="'" line="209" column="13" />
@@ -879,7 +874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="23" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
       <jump line="15" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldAllowToQueryNfaStatus.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldAllowToQueryNfaStatus.groovy" />
       <jump line="46" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.txt" />
@@ -976,43 +970,44 @@
       <jump line="7" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/test/resources/contracts/spodddify/billingaccount/shouldCreateBillingAccountWithGivenPlan.groovy" />
       <jump line="2" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.groovy" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.groovy" />
-      <jump line="5" column="14" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/test/resources/contracts/spodddify/billingaccount/shouldCreateBillingAccountWithGivenPlan.groovy" />
       <jump line="17" column="21" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/test/resources/contracts/spodddify/billingaccount/shouldCreateBillingAccountWithGivenPlan.groovy" />
       <jump line="101" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build/generated-test-sources/contracts/org/skramer/spodddify/contract/spodddify/BillingaccountTest.java" />
+      <jump line="5" column="8" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/test/resources/contracts/spodddify/billingaccount/shouldCreateBillingAccountWithGivenPlan.groovy" />
+      <jump line="6" column="7" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/test/resources/contracts/spodddify/billingaccount/shouldCreateBillingAccountWithGivenPlan.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLyBnaXZlbjoKCQkJTW9ja012Y1JlcXVlc3RTcGVjaWZpY2F0aW9uIHJlcXVlc3QgPSBnaXZlbigpCgkJCQkJLmhlYWRlcigiQWNjZXB0IiwgImFwcGxpY2F0aW9uL2pzb247Y2hhcnNldD1VVEYtOCIpCgkJCQkJLmhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb247Y2hhcnNldD1VVEYtOCIpCgkJCQkJLmJvZHkoIntcInBheW1lbnRQbGFuXCI6XCJGUkVFXCJ9Iik7CgoJCS8vIHdoZW46CgkJCVJlc3BvbnNlT3B0aW9ucyByZXNwb25zZSA9IGdpdmVuKCkuc3BlYyhyZXF1ZXN0KQoJCQkJCS5wb3N0KCIvYmlsbGluZy1hY2NvdW50Iik7CgoJCS8vIHRoZW46CgkJCWFzc2VydFRoYXQocmVzcG9uc2Uuc3RhdHVzQ29kZSgpKS5pc0VxdWFsVG8oMjAwKTsKCQkJYXNzZXJ0VGhhdChyZXNwb25zZS5oZWFkZXIoIkNvbnRlbnQtVHlwZSIpKS5tYXRjaGVzKCJhcHBsaWNhdGlvbi9qc29uO2NoYXJzZXQ9VVRGLTguKiIpOwoJCS8vIGFuZDoKCQkJRG9jdW1lbnRDb250ZXh0IHBhcnNlZEpzb24gPSBKc29uUGF0aC5wYXJzZShyZXNwb25zZS5nZXRCb2R5KCkuYXNTdHJpbmcoKSk7CgkJCWFzc2VydFRoYXRKc29uKHBhcnNlZEpzb24pLmZpZWxkKCJbJ2JpbGxpbmdBY2NvdW50SWQnXSIpLm1hdGNoZXMoIlthLWYwLTldezh9LVthLWYwLTldezR9LVthLWYwLTldezR9LVthLWYwLTldezR9LVthLWYwLTldezEyfSIpOwo=</text>
+        <text encoding="base64">YWRkZWQgdXRpbGl0eSBzY3JpcHQK</text>
       </register>
       <register name="-" type="4">
-        <text>it</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXltZW50UGxhblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW9yaXR5IDEK</text>
+        <text encoding="base64">cHJpbnRsbiAnc3RhcnQnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">YWRkZWQgdXRpbGl0eSBzY3JpcHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnRsbiB2Cg==</text>
+        <text encoding="base64">CXByaW50bG4gaXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHJpbnRsbiAnc3RhcnQnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cn0K</text>
+        <text encoding="base64">CQkJCXByaW50IGl0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9yICgxLi4yKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgaXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">W2kgZm9yIGkgXQo=</text>
+        <text encoding="base64">CXByaW50bG4gcGF5bWVudFBsYW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yICgpCg==</text>
+        <text encoding="base64">CXByaW50bG4gCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1027,11 +1022,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPDsgaSsrKSB7CiAgICAKICAgIAp9</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">cHJpbnRsbiB2Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Copy</text>
