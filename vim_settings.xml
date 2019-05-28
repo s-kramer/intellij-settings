@@ -138,6 +138,12 @@
       <file name="$USER_HOME$/Projects/Java/ddd-paynow/api-gateway/src/main/kotlin/pl/melements/poc/dddpaynow/apigateway/PaymentAuthorizationConfiguration.kt" timestamp="1558386748718">
         <mark key="'" line="15" column="16" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" timestamp="1558950703780">
+        <mark key="'" line="145" column="21" />
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="." line="173" column="0" />
+      </file>
       <file name="/postgres.serviceprovider.identity_provider_blz [postgres@dev6]" timestamp="1558949980926">
         <mark key="[" line="0" column="0" />
       </file>
@@ -237,6 +243,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a46a0531-62e3-4d9e-96b4-53aa4167273e/console.sql" timestamp="1559050316377">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="203" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0af659f0-65dc-4fcd-83d6-cb90c2b0f976/console_5.sql" timestamp="1558514740421">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1423" column="138" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/deutschebank-mock.yaml" timestamp="1558015889374">
@@ -390,6 +402,12 @@
       <file name="/postgres.serviceprovider.serviceprovider_document_verification_methods [postgres@dev6]" timestamp="1559047619501">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" timestamp="1559057742607">
+        <mark key="'" line="57" column="17" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1557820717157">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="50" />
@@ -424,6 +442,12 @@
         <mark key="]" line="19" column="60" />
         <mark key="." line="19" column="57" />
         <mark key="^" line="19" column="81" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/Application.java" timestamp="1558679691720">
+        <mark key="'" line="73" column="13" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="/postgres.documents.document_country [postgres@dev6]" timestamp="1558950049929">
         <mark key="[" line="0" column="0" />
@@ -739,20 +763,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnPendingOnNfaQuery.groovy" />
-      <jump line="3" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldAllowToQueryNfaStatus.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnFailureOnNfaQuery.groovy" />
-      <jump line="2" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldAllowToQueryNfaStatus.groovy" />
-      <jump line="3" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnFailureOnNfaQuery.groovy" />
-      <jump line="69" column="20" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/generatedTest/com/dipp/security/ContractVerifierTest.java" />
-      <jump line="22" column="36" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
-      <jump line="194" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
-      <jump line="141" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
-      <jump line="193" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
-      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d6019efb-4e1c-43e9-abe4-c5301fec4e04/console_1.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d6019efb-4e1c-43e9-abe4-c5301fec4e04/console_1.sql" />
-      <jump line="55" column="102" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d6019efb-4e1c-43e9-abe4-c5301fec4e04/console_1.sql" />
-      <jump line="44" column="90" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d6019efb-4e1c-43e9-abe4-c5301fec4e04/console_1.sql" />
       <jump line="53" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d6019efb-4e1c-43e9-abe4-c5301fec4e04/console_1.sql" />
       <jump line="122" column="397" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d6019efb-4e1c-43e9-abe4-c5301fec4e04/console_1.sql" />
       <jump line="15" column="76" filename="$USER_HOME$/SELECT_t___FROM_serviceprovider_identity.sql" />
@@ -839,40 +849,54 @@
       <jump line="592" column="21" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="593" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+      <jump line="27" column="6" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
+      <jump line="82" column="31" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
+      <jump line="86" column="34" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
+      <jump line="92" column="8" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
+      <jump line="56" column="17" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
+      <jump line="83" column="31" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
+      <jump line="87" column="34" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
+      <jump line="93" column="8" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
+      <jump line="107" column="8" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
+      <jump line="126" column="8" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
+      <jump line="140" column="8" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
+      <jump line="158" column="8" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
+      <jump line="170" column="8" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
+      <jump line="57" column="17" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>IDCARD</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hCg==</text>
       </register>
       <register name="-" type="4">
         <text>IDCARD</text>
       </register>
       <register name="/" type="4">
-        <text>document</text>
+        <text encoding="base64">XDxsb2dBcHBlbmRlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBoeWRyYS1wcm94eS1pbmxpbmUtcmVnaXN0cmF0aW9uLWNhbmNlbDoKICAgICAgICAgIHBhdGg6IC9pbmxpbmUtcmVnaXN0cmF0aW9uLyoqL2NhbmNlbAogICAgICAgICAgc3RyaXBQcmVmaXg6IGZhbHNlCiAgICAgICAgICBzZW5zaXRpdmVIZWFkZXJzOgogICAgICAgICAgc2VydmljZUlkOiBIWURSQS1QUk9YWQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvaW5saW5lLXJlZ2lzdHJhdGlvbi92ZXJpZmljYXRpb24tbWV0aG9kcyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvaW5saW5lLXJlZ2lzdHJhdGlvbiIpCg==</text>
+        <text encoding="base64">ICAgIEBTaGFyZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGl0bGUgCg==</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvaW5saW5lLXJlZ2lzdHJhdGlvbi92ZXJpZmljYXRpb24tbWV0aG9kcyIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgU2VhbE9uZSBhcyBTQSAjMEZGMDAwCg==</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvaW5saW5lLXJlZ2lzdHJhdGlvbiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgU2VjdXJpdHlTZXJ2aWNlIGFzIFNTICNGQUJGQUMK</text>
+        <text encoding="base64">dGl0bGUgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgIjJGQSBzZXJ2aWNlIiBhcyAyRkEK</text>
+        <text encoding="base64">cGFydGljaXBhbnQgU2VhbE9uZSBhcyBTQSAjMEZGMDAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29sYWJvcmF0b3IgU2VydmljZVByb3ZpZGVyIGFzIFNQCg==</text>
+        <text encoding="base64">cGFydGljaXBhbnQgU2VjdXJpdHlTZXJ2aWNlIGFzIFNTICNGQUJGQUMK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -887,20 +911,20 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>$(producer(&quot;Bearer eyJhbGciOiJub25lIn0.eyJsb2dpbklkIjoiMmYwODU4YmQtYWY4Yy00ZmZhLTgwNWUtYzlmYjM2Y2RmOTlkIiwiZXVpZCI6IjI1YTQyNTVhLWE3YjUtNDhmZi04M2VhLTM3YzRhMzQ1ZjgzZSJ9.&quot;), consumer(regex(&quot;Bearer [\\w\\W.]+&quot;)))</text>
+      <register name="8" type="2">
+        <text encoding="base64">cGFydGljaXBhbnQgIjJGQSBzZXJ2aWNlIiBhcyAyRkEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFR5cGUgYXBwbGljYXRpb25Kc29uKCkK</text>
+        <text encoding="base64">Y29sYWJvcmF0b3IgU2VydmljZVByb3ZpZGVyIGFzIFNQCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>document</last-search>
+      <last-search encoding="base64">XDxsb2dBcHBlbmRlclw+</last-search>
       <last-offset />
-      <last-pattern>document</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dBcHBlbmRlclw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -908,7 +932,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTVFVCUlVOTkVSX1JFUE9TSVRPUllfUk9PVFw+</entry>
         <entry encoding="base64">XDxTVFVCUlVOTkVSX0lEU1w+</entry>
         <entry encoding="base64">XDxTVFVCUlVOTkVSX1NUVUJTX01PREVcPg==</entry>
         <entry>stubs</entry>
@@ -928,6 +951,7 @@
         <entry>consnet</entry>
         <entry>consent</entry>
         <entry>document</entry>
+        <entry encoding="base64">XDxsb2dBcHBlbmRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>action $Cut</entry>
