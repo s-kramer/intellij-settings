@@ -473,7 +473,7 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559120938379">
+      <file name="/Dummy.txt" timestamp="1559125415329">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="72" />
@@ -622,11 +622,12 @@
         <mark key="^" line="11" column="11" />
         <mark key="." line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" timestamp="1559121037907">
-        <mark key="'" line="1305" column="4" />
-        <mark key="[" line="1500" column="0" />
-        <mark key="]" line="1500" column="0" />
-        <mark key="." line="1500" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" timestamp="1559125393854">
+        <mark key="'" line="1348" column="10" />
+        <mark key="[" line="1543" column="27" />
+        <mark key="]" line="1543" column="56" />
+        <mark key="." line="1543" column="44" />
+        <mark key="^" line="1542" column="11" />
       </file>
       <file name="/postgres.payment_data.service_providers [postgres@dev2]" timestamp="1558079085829">
         <mark key="[" line="0" column="0" />
@@ -1048,8 +1049,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="569" column="17" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="570" column="38" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="572" column="21" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="573" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="574" column="26" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
@@ -1148,40 +1147,42 @@
       <jump line="86" column="41" filename="/ConsentNfaStatusService.java" />
       <jump line="108" column="45" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/NfaDiscontinuationService.java" />
       <jump line="40" column="6" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/LoginNfaStatusService.java" />
+      <jump line="1542" column="11" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="1348" column="10" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lcjoKICAgICAgICAgIGJvb3RzdHJhcC1zZXJ2ZXJzOiBrYWZrYS0xLWRldjEuZGV2MS1zZXJ2aWNlOjkwOTIKICAgICAgICBwcm9kdWNlcjoKICAgICAgICAgIGJvb3RzdHJhcC1zZXJ2ZXJzOiBrYWZrYS0xLWRldjEuZGV2MS1zZXJ2aWNlOjkwOTIK</text>
+      <register name="&quot;" type="4">
+        <text>kafka-1-dev4.dev4-service:9092</text>
       </register>
       <register name="-" type="4">
-        <text>added jar generation to run script</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWplY3RDb25zZW50T25IeWRyYVw+</text>
+        <text>kafka:</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGJvb3RzdHJhcC1zZXJ2ZXJzOiBrYWZrYS0xLWRldjMuZGV2My1zZXJ2aWNlOjkwOTIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lcjoKICAgICAgICAgIGJvb3RzdHJhcC1zZXJ2ZXJzOiBrYWZrYS0xLWRldjEuZGV2MS1zZXJ2aWNlOjkwOTIKICAgICAgICBwcm9kdWNlcjoKICAgICAgICAgIGJvb3RzdHJhcC1zZXJ2ZXJzOiBrYWZrYS0xLWRldjEuZGV2MS1zZXJ2aWNlOjkwOTIK</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWNlcjoKICAgICAgICAgIGJvb3RzdHJhcC1zZXJ2ZXJzOiBrYWZrYS0xLWRldjEuZGV2MS1zZXJ2aWNlOjkwOTIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBib290c3RyYXAtc2VydmVyczoga2Fma2EtMS1kZXYxLmRldjEtc2VydmljZTo5MDkyCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lcjoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNwcmluZzoKICAgICAga2Fma2E6Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lcjoKICAgICAgICAgIGJvb3RzdHJhcC1zZXJ2ZXJzOiBrYWZrYS0xLWRldjEuZGV2MS1zZXJ2aWNlOjkwOTIKICAgICAgICBwcm9kdWNlcjoKICAgICAgICAgIGJvb3RzdHJhcC1zZXJ2ZXJzOiBrYWZrYS0xLWRldjEuZGV2MS1zZXJ2aWNlOjkwOTIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VkQtNTY5IHByb3ZpZGVkIGFwaS1ndyBtYXBwaW5nIGZvciBuZXcgZW5kcG9pbnRzCg==</text>
+        <text encoding="base64">ICAgICAgICBib290c3RyYXAtc2VydmVyczoga2Fma2EtMS1kZXYxLmRldjEtc2VydmljZTo5MDkyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBrYWZrYToKICAgIGNvbnN1bWVyOgogICAgICBib290c3RyYXAtc2VydmVyczoKICAgIHByb2R1Y2VyOgogICAgICBib290c3RyYXAtc2VydmVyczoK</text>
+        <text encoding="base64">ICAgIHNwcmluZzoKICAgICAga2Fma2E6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNwb2NrLmxhbmcuU2hhcmVkCg==</text>
+        <text encoding="base64">VkQtNTY5IHByb3ZpZGVkIGFwaS1ndyBtYXBwaW5nIGZvciBuZXcgZW5kcG9pbnRzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBrYWZrYToKICAgIGNvbnN1bWVyOgogICAgICBib290c3RyYXAtc2VydmVyczoKICAgIHByb2R1Y2VyOgogICAgICBib290c3RyYXAtc2VydmVyczoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1197,19 +1198,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IHNwb2NrLmxhbmcuU2hhcmVkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">a2Fma2E6CiAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWplY3RDb25zZW50T25IeWRyYVw+</last-search>
+      <last-search>kafka:</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWplY3RDb25zZW50T25IeWRyYVw+</last-pattern>
+      <last-pattern>kafka:</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -1217,7 +1218,6 @@
     </search>
     <history>
       <history-search>
-        <entry>api-gateway</entry>
         <entry>verification-methods</entry>
         <entry>import</entry>
         <entry>import\/init</entry>
@@ -1237,6 +1237,7 @@
         <entry>kafka</entry>
         <entry encoding="base64">XDxDdXN0b21FcnJvclJlZGlyZWN0VXJsRmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxyZWplY3RDb25zZW50T25IeWRyYVw+</entry>
+        <entry>kafka:</entry>
       </history-search>
       <history-cmd>
         <entry>action $Cut</entry>
