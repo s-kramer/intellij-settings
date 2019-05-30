@@ -318,8 +318,8 @@
       <file name="/postgres.serviceprovider.identity_provider_blz [postgres@uat]" timestamp="1559137008753">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" timestamp="1559224605248">
-        <mark key="'" line="29" column="25" />
+      <file name="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" timestamp="1559226237111">
+        <mark key="'" line="29" column="5" />
         <mark key="[" line="31" column="38" />
         <mark key="]" line="31" column="38" />
         <mark key="." line="31" column="38" />
@@ -478,8 +478,8 @@
         <mark key="^" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-spec/1.2.5.RELEASE/39513c6ff8a31064bb1ead0639aa0187331cd961/spring-cloud-contract-spec-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/contract/spec/internal/PatternValueDslProperty.groovy" timestamp="1559210940895" />
-      <file name="$USER_HOME$/verimi-auth-verimi/master-data-service/src/main/resources/changelogs/changelog-v0.95.xml" timestamp="1559216796590">
-        <mark key="'" line="201" column="19" />
+      <file name="$USER_HOME$/verimi-auth-verimi/master-data-service/src/main/resources/changelogs/changelog-v0.95.xml" timestamp="1559226555172">
+        <mark key="'" line="12" column="29" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnWhatever.groovy" timestamp="1558688769390">
         <mark key="'" line="60" column="0" />
@@ -907,7 +907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38649" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="6" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="46" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="1305" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
@@ -988,7 +987,6 @@
       <jump line="34" column="0" filename="/import-sql.sh" />
       <jump line="43" column="30" filename="$USER_HOME$/verimi-auth-verimi/reporting-service/src/main/resources/changelogs/changelog-v0.95.xml" />
       <jump line="35" column="31" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
-      <jump line="36" column="4" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
       <jump line="41" column="0" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
       <jump line="51" column="0" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
       <jump line="54" column="0" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
@@ -1006,7 +1004,9 @@
       <jump line="87" column="22" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
       <jump line="63" column="6" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
       <jump line="7" column="30" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
-      <jump line="29" column="25" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
+      <jump line="36" column="13" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
+      <jump line="29" column="5" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
+      <jump line="12" column="29" filename="$USER_HOME$/verimi-auth-verimi/master-data-service/src/main/resources/changelogs/changelog-v0.95.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
