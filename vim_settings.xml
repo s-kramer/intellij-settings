@@ -361,8 +361,11 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559136961361">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1559201613892">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="/postgres.serviceprovider.serviceprovider_cancels [postgres@devint]" timestamp="1559048424676">
         <mark key="[" line="0" column="0" />
@@ -672,7 +675,7 @@
         <mark key="." line="14" column="83" />
         <mark key="^" line="14" column="83" />
       </file>
-      <file name="/reporting.report.monthly_reports [postgres@uat]" timestamp="1559138955438">
+      <file name="/reporting.report.monthly_reports [postgres@uat]" timestamp="1559201673847">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/postgres.serviceprovider.identity_provider [postgres@uat]" timestamp="1559137007326">
@@ -860,11 +863,11 @@
       <jump line="21" column="42" filename="$USER_HOME$/verimi-auth-verimi/reporting-service/src/main/resources/changelogs/changelog-v0.95.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJvdmlkZWQgZXh0ZW5zaXZlIGthZmthIGNvbmZpZ3VyYXRpb24gdG8gZWxpbWluYXRlIGJyb2tlciBub3QgZm91bmQgbG9ncwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBvcnRcPg==</text>
