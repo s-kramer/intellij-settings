@@ -104,9 +104,9 @@
       <file name="/postgres.serviceprovider.identity_provider [postgres@dev5]" timestamp="1558516161720">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/verificationmethods/VerificationMethodsController.java" timestamp="1559037008664">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="102" />
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/verificationmethods/VerificationMethodsController.java" timestamp="1559215011173">
+        <mark key="[" line="17" column="63" />
+        <mark key="]" line="17" column="98" />
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="20" />
       </file>
@@ -988,7 +988,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZCA=</text>
+        <text>/v1/data-import/verification-methods</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZCA=</text>
