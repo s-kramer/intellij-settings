@@ -39,8 +39,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp/dipp-event-kafka/1_3_APRIL_MASTER/4ebb23cca26dc4f8bf835433f5d0af2e996b8606/dipp-event-kafka-1_3_APRIL_MASTER-sources.jar!/com/dipp/event/kafka/producer/config/KafkaProducerConfiguration.java" timestamp="1557821590165">
         <mark key="'" line="58" column="32" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/sql/postgres_1_serviceprovider.sql" timestamp="1558521749796">
-        <mark key="'" line="81" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/sql/postgres_1_serviceprovider.sql" timestamp="1559138377467">
+        <mark key="'" line="19" column="25" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="147" column="0" />
         <mark key="." line="83" column="1837" />
@@ -54,6 +54,9 @@
       </file>
       <file name="/postgres.serviceprovider.serviceprovider_bank_accounts [postgres@dev5]" timestamp="1558511564149">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneRequestBuilder.java" timestamp="1558594478313">
+        <mark key="'" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutServiceTest.java" timestamp="1556627704851">
         <mark key="[" line="268" column="61" />
@@ -103,13 +106,6 @@
       <file name="/postgres.serviceprovider.serviceprovider_cancels [postgres@dev5]" timestamp="1558511570116">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationControllerTest.groovy" timestamp="1559122394839">
-        <mark key="'" line="51" column="5" />
-        <mark key="[" line="66" column="27" />
-        <mark key="]" line="66" column="44" />
-        <mark key="." line="66" column="44" />
-        <mark key="^" line="66" column="44" />
-      </file>
       <file name="/postgres.master_data.document_import_countries [postgres@devint]" timestamp="1558516449601">
         <mark key="[" line="0" column="0" />
       </file>
@@ -152,14 +148,7 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/DippTokenService.java" timestamp="1558611408317">
         <mark key="'" line="34" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0af659f0-65dc-4fcd-83d6-cb90c2b0f976/console_1.sql" timestamp="1557909563581">
-        <mark key="'" line="5" column="49" />
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="6" column="46" />
-        <mark key="." line="6" column="46" />
-        <mark key="^" line="6" column="46" />
-      </file>
-      <file name="/a.sql" timestamp="1559136864846">
+      <file name="/a.sql" timestamp="1559139327439">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/CreateBillingAccountRequest.java" timestamp="1557348277527">
@@ -205,13 +194,6 @@
       <file name="/postgres.payment_data.bank_account [postgres@dev2]" timestamp="1558004251841">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/src/main/resources/application-local-env.yaml" timestamp="1557820709342">
-        <mark key="'" line="0" column="20" />
-        <mark key="[" line="1" column="21" />
-        <mark key="]" line="1" column="26" />
-        <mark key="." line="1" column="26" />
-        <mark key="^" line="1" column="26" />
-      </file>
       <file name="/postgres.serviceprovider.description [postgres@dev2]" timestamp="1558003217827">
         <mark key="[" line="0" column="0" />
       </file>
@@ -223,13 +205,6 @@
       </file>
       <file name="/postgres.nfa_configuration.nfa_uri_configuration [postgres@devint]" timestamp="1559049638363">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/application.yaml" timestamp="1557903768754">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="103" column="15" />
-        <mark key="]" line="103" column="16" />
-        <mark key="." line="103" column="16" />
-        <mark key="^" line="104" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_44.puml" timestamp="1558518616577">
         <mark key="'" line="0" column="0" />
@@ -252,20 +227,6 @@
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="27" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6cfa95cf-bd66-4536-9d63-1c85797ecafa/console_9.sql" timestamp="1556556946276">
-        <mark key="'" line="5" column="77" />
-        <mark key="[" line="5" column="40" />
-        <mark key="]" line="5" column="78" />
-        <mark key="^" line="5" column="77" />
-        <mark key="." line="5" column="40" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/page/LoginPageServiceTest.java" timestamp="1556447369665">
-        <mark key="'" line="266" column="0" />
-        <mark key="[" line="227" column="51" />
-        <mark key="]" line="227" column="71" />
-        <mark key="." line="227" column="71" />
-        <mark key="^" line="227" column="71" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.json" timestamp="1558683453491">
         <mark key="'" line="0" column="0" />
@@ -299,39 +260,14 @@
         <mark key="." line="134" column="60" />
         <mark key="^" line="134" column="27" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/ConsentNfaDiscontinuationController.java" timestamp="1556359358240">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="15" column="120" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97d33e6f-5a57-4386-a53f-111264649dcf/console_4.sql" timestamp="1558005276724">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="63" column="225" />
-        <mark key="." line="54" column="203" />
-        <mark key="^" line="54" column="203" />
-      </file>
       <file name="/postgres.authentication.authentication [postgres@dev5]" timestamp="1558594220824">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/assembly/dipp-mobile.json" timestamp="1556631360389">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="42" column="24" />
-        <mark key="]" line="42" column="75" />
-        <mark key="." line="42" column="24" />
-        <mark key="^" line="42" column="27" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/port-forward-spring-actuator" timestamp="1557481874149">
-        <mark key="'" line="21" column="57" />
-        <mark key="[" line="9" column="2" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-      </file>
       <file name="/serviceprovider [postgres@devint2]" timestamp="1559036913421">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v1.0.xml" timestamp="1559138848152">
+        <mark key="'" line="47" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1559133079745">
         <mark key="'" line="0" column="0" />
@@ -340,12 +276,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_45.puml" timestamp="1558439486415">
-        <mark key="'" line="0" column="0" />
+      <file name="/postgres.master_data.localized_text [postgres@uat]" timestamp="1559138474029">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="11" column="2" />
-        <mark key="^" line="11" column="2" />
       </file>
       <file name="/postgres.serviceprovider.identity_provider_blz [postgres@uat]" timestamp="1559137008753">
         <mark key="[" line="0" column="0" />
@@ -371,13 +303,6 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/consent/ConsentService.java" timestamp="1558092153479">
         <mark key="'" line="71" column="22" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/java/com/dipp/hydra/login/login/submit/LoginSubmitServiceTest.java" timestamp="1556357253291">
-        <mark key="'" line="65" column="85" />
-        <mark key="[" line="188" column="65" />
-        <mark key="]" line="188" column="30" />
-        <mark key="." line="188" column="30" />
-        <mark key="^" line="188" column="30" />
-      </file>
       <file name="/postgres.serviceprovider.address [postgres@devint]" timestamp="1558709839700">
         <mark key="[" line="0" column="0" />
       </file>
@@ -394,13 +319,6 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Application (1).http" timestamp="1557729942091">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="22" />
-        <mark key="." line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-      </file>
       <file name="/postgres.serviceprovider.serviceprovider_bank_accounts [postgres@dev2]" timestamp="1558003247215">
         <mark key="[" line="0" column="0" />
       </file>
@@ -416,13 +334,6 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9a80ca46-1177-4b44-9266-1de5fecb96df/console_1.sql" timestamp="1558420326795">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="10" column="76" />
-        <mark key="^" line="10" column="76" />
-        <mark key="." line="10" column="76" />
-      </file>
       <file name="/postgres.serviceprovider.description [postgres@dev6]" timestamp="1558709845749">
         <mark key="[" line="0" column="0" />
       </file>
@@ -435,20 +346,13 @@
         <mark key="^" line="215" column="44" />
         <mark key="." line="215" column="44" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/login/login/configuration/ScopeConstantsTest.groovy" timestamp="1556397042044">
-        <mark key="'" line="47" column="31" />
-        <mark key="[" line="47" column="24" />
-        <mark key="]" line="47" column="29" />
-        <mark key="." line="47" column="30" />
-        <mark key="^" line="48" column="59" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.regexp" timestamp="1558954988074">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="/dummy.sql" timestamp="1559137009334">
+      <file name="/dummy.sql" timestamp="1559138957794">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -459,13 +363,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1559136961361">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build.gradle" timestamp="1557491608957">
-        <mark key="'" line="137" column="46" />
-        <mark key="[" line="104" column="66" />
-        <mark key="]" line="104" column="66" />
-        <mark key="." line="104" column="66" />
-        <mark key="^" line="104" column="66" />
       </file>
       <file name="/postgres.serviceprovider.serviceprovider_cancels [postgres@devint]" timestamp="1559048424676">
         <mark key="[" line="0" column="0" />
@@ -479,6 +376,12 @@
       </file>
       <file name="/postgres.documents.document_country [postgres@dev5]" timestamp="1558516436894">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/ConsentNfaStatusService.java" timestamp="1558959224670">
+        <mark key="'" line="147" column="19" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/reporting-service/src/main/resources/changelogs/changelog-v0.95.xml" timestamp="1559138938512">
+        <mark key="'" line="21" column="42" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd80fbb8-ff24-4442-b66a-5d398bbe84f6/console_1.sql" timestamp="1557319462963">
         <mark key="[" line="1" column="18" />
@@ -505,12 +408,8 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingService.java" timestamp="1557912496915">
         <mark key="'" line="75" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" timestamp="1558300162718">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="^" line="82" column="64" />
-        <mark key="." line="136" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v0.95.xml" timestamp="1559138844894">
+        <mark key="'" line="3" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0af659f0-65dc-4fcd-83d6-cb90c2b0f976/console_6.sql" timestamp="1558516496454">
         <mark key="'" line="67" column="0" />
@@ -524,20 +423,6 @@
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
         <mark key="^" line="4" column="29" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1558620269137">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="39" />
-        <mark key="^" line="26" column="39" />
-        <mark key="." line="26" column="39" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/NfaServiceSpec_checkLoginNfaForLoginPage.groovy" timestamp="1556629550442">
-        <mark key="'" line="12" column="42" />
-        <mark key="[" line="91" column="8" />
-        <mark key="]" line="91" column="8" />
-        <mark key="^" line="91" column="8" />
-        <mark key="." line="91" column="8" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/PrerequisitesService.java" timestamp="1556632971902">
         <mark key="[" line="33" column="21" />
@@ -574,13 +459,6 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/LoginSessionClaims.java" timestamp="1556363079902">
-        <mark key="'" line="4" column="12" />
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="7" />
-        <mark key="." line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-      </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/Application.java" timestamp="1557349001064">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="11" column="11" />
@@ -603,22 +481,8 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/JWTService.java" timestamp="1557318183279">
         <mark key="'" line="145" column="32" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/service/ConsentRequestParser.java" timestamp="1556396453385">
-        <mark key="'" line="48" column="20" />
-        <mark key="[" line="27" column="63" />
-        <mark key="]" line="27" column="74" />
-        <mark key="." line="27" column="74" />
-        <mark key="^" line="27" column="74" />
-      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" timestamp="1558620517879">
         <mark key="'" line="149" column="24" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97d33e6f-5a57-4386-a53f-111264649dcf/console_1.sql" timestamp="1557999868078">
-        <mark key="'" line="0" column="31" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="84" />
-        <mark key="." line="1068" column="0" />
-        <mark key="^" line="1491" column="53" />
       </file>
       <file name="/postgres.serviceprovider.serviceprovider_allowed_payment_methods [postgres@dev6]" timestamp="1558709977810">
         <mark key="[" line="0" column="0" />
@@ -635,13 +499,6 @@
       </file>
       <file name="/Clipboard.txt" timestamp="1559113973641">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/gradle.properties" timestamp="1558612551079">
-        <mark key="'" line="54" column="61" />
-        <mark key="[" line="45" column="10" />
-        <mark key="]" line="45" column="12" />
-        <mark key="." line="45" column="12" />
-        <mark key="^" line="45" column="12" />
       </file>
       <file name="/postgres.serviceprovider.serviceprovider_allowed_payment_methods [postgres@devint]" timestamp="1558709979695">
         <mark key="[" line="0" column="0" />
@@ -664,18 +521,17 @@
       <file name="/postgres.payment_data.bank_codes [postgres@dev2]" timestamp="1558004271070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" timestamp="1556632383252">
-        <mark key="'" line="94" column="20" />
-        <mark key="[" line="38" column="142" />
-        <mark key="]" line="38" column="140" />
-        <mark key="." line="38" column="140" />
-        <mark key="^" line="38" column="140" />
+      <file name="$USER_HOME$/verimi-auth-verimi/test-frontend/src/test/java/com/dipp/frontendtest/smoketest/inlineRegistrationStartingFromLufthansaMockDataTransferWithDB.java" timestamp="1558521548102">
+        <mark key="'" line="133" column="29" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/common-apache-kafka.yaml" timestamp="1557822369292">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingServiceSpec.groovy" timestamp="1558701285392">
+        <mark key="'" line="27" column="39" />
       </file>
       <file name="/postgres.documents.document [postgres@dev1]" timestamp="1557311203602">
         <mark key="[" line="0" column="0" />
@@ -688,13 +544,6 @@
       </file>
       <file name="/postgres.serviceprovider.serviceprovider_document_verification_methods [postgres@devint]" timestamp="1559049686347">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/verimi/domain/LoginPageNfaStatus.java" timestamp="1556359414771">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="20" column="28" />
-        <mark key="]" line="20" column="27" />
-        <mark key="." line="20" column="27" />
-        <mark key="^" line="20" column="27" />
       </file>
       <file name="/postgres.serviceprovider.serviceprovider_document_verification_methods [postgres@dev2]" timestamp="1559132776258">
         <mark key="[" line="0" column="0" />
@@ -711,15 +560,11 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NfaNecessityFilter.java" timestamp="1556550980621">
-        <mark key="'" line="86" column="20" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="66" column="52" />
-        <mark key="^" line="143" column="50" />
-        <mark key="." line="143" column="50" />
-      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/NfaDiscontinuationController.java" timestamp="1559122061224">
         <mark key="'" line="48" column="6" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneMessageSender.java" timestamp="1558594375381">
+        <mark key="'" line="41" column="77" />
       </file>
       <file name="/postgres.serviceprovider.serviceprovider_document_verification_methods [postgres@devint2]" timestamp="1557921145345">
         <mark key="[" line="0" column="0" />
@@ -752,13 +597,6 @@
         <mark key="." line="28" column="19" />
         <mark key="^" line="28" column="19" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/gradle.properties" timestamp="1557486081346">
-        <mark key="'" line="38" column="6" />
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="38" />
-        <mark key="." line="9" column="38" />
-        <mark key="^" line="9" column="38" />
-      </file>
       <file name="/postgres.serviceprovider.identity_provider [postgres@dev2]" timestamp="1557997861582">
         <mark key="[" line="0" column="0" />
       </file>
@@ -777,22 +615,11 @@
       <file name="/postgres.serviceprovider.description [postgres@devint]" timestamp="1558709847200">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationService.java" timestamp="1556636521900">
-        <mark key="'" line="90" column="44" />
-        <mark key="[" line="115" column="32" />
-        <mark key="]" line="115" column="36" />
-        <mark key="." line="115" column="36" />
-        <mark key="^" line="115" column="36" />
+      <file name="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/sql/hydra_1_hydra_db.sql" timestamp="1559138393075">
+        <mark key="'" line="451" column="4" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" timestamp="1558335431628">
         <mark key="'" line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/otp/OtpLoginController.java" timestamp="1556362897687">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="34" column="8" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/sql/hydra_2_hydra_client_template.sql" timestamp="1558420492979">
         <mark key="'" line="47" column="469" />
@@ -827,13 +654,6 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/resources/application-test.yml" timestamp="1556628918197">
         <mark key="'" line="235" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97d33e6f-5a57-4386-a53f-111264649dcf/console_2.sql" timestamp="1557999691636">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="82" column="45" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="112" />
-      </file>
       <file name="/postgres.payment_data.service_providers [postgres@dev5]" timestamp="1558511822709">
         <mark key="[" line="0" column="0" />
       </file>
@@ -852,12 +672,8 @@
         <mark key="." line="14" column="83" />
         <mark key="^" line="14" column="83" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/transactionnumber/TnAuthenticationController.java" timestamp="1556532775815">
-        <mark key="'" line="61" column="30" />
-        <mark key="[" line="35" column="18" />
-        <mark key="]" line="35" column="45" />
-        <mark key="^" line="38" column="11" />
-        <mark key="." line="38" column="11" />
+      <file name="/reporting.report.monthly_reports [postgres@uat]" timestamp="1559138955438">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/postgres.serviceprovider.identity_provider [postgres@uat]" timestamp="1559137007326">
         <mark key="[" line="0" column="0" />
@@ -867,20 +683,6 @@
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/NfaDiscontinuationService.java" timestamp="1559122693515">
         <mark key="'" line="108" column="45" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/port-forward" timestamp="1557481580055">
-        <mark key="'" line="16" column="38" />
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="17" column="86" />
-        <mark key="." line="17" column="86" />
-        <mark key="^" line="17" column="86" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/payment-data-service/build.gradle" timestamp="1557489645253">
-        <mark key="'" line="15" column="71" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="82" column="3" />
-        <mark key="." line="83" column="0" />
       </file>
       <file name="/postgres.serviceprovider.serviceprovider_cancels [postgres@dev2]" timestamp="1558003258687">
         <mark key="[" line="0" column="0" />
@@ -906,13 +708,6 @@
       <file name="/postgres.payment_data.payment_data [postgres@devint]" timestamp="1558004344149">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/scripts/kubectl-scripts/port-forward-mailhog" timestamp="1557481252802">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
       <file name="/postgres.payment_data.bank_codes [postgres@dev6]" timestamp="1558710283081">
         <mark key="[" line="0" column="0" />
       </file>
@@ -928,13 +723,6 @@
       <file name="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/service/dipp/DippService.java" timestamp="1558710660159">
         <mark key="'" line="214" column="12" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/dev-k8s-configuration/mobile-k8s/api-gateway-service.yml" timestamp="1556554513373">
-        <mark key="'" line="1160" column="47" />
-        <mark key="[" line="1190" column="21" />
-        <mark key="]" line="1190" column="20" />
-        <mark key="." line="1190" column="20" />
-        <mark key="^" line="1190" column="20" />
-      </file>
       <file name="/postgres.documents.document [postgres@dev5]" timestamp="1557906864706">
         <mark key="[" line="0" column="0" />
       </file>
@@ -947,6 +735,9 @@
         <mark key="]" line="35" column="29" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="35" column="29" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneServiceListener.java" timestamp="1558594461273">
+        <mark key="'" line="108" column="64" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldReturnFailureOnNfaQuery.groovy" timestamp="1558952535138">
         <mark key="'" line="5" column="61" />
@@ -967,27 +758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="572" column="21" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="573" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="574" column="26" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="576" column="21" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="577" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="578" column="29" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="580" column="21" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="584" column="21" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="588" column="21" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="592" column="21" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="593" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
-      <jump line="27" column="6" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
-      <jump line="82" column="31" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
-      <jump line="86" column="34" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
-      <jump line="92" column="8" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
-      <jump line="56" column="17" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
-      <jump line="83" column="31" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
-      <jump line="87" column="34" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
-      <jump line="93" column="8" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
-      <jump line="107" column="8" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
       <jump line="126" column="8" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
       <jump line="140" column="8" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
       <jump line="158" column="8" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/nfa/status/NFAStatusController_reportLog_Spec.groovy" />
@@ -1067,6 +837,27 @@
       <jump line="40" column="6" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/LoginNfaStatusService.java" />
       <jump line="1542" column="11" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="1348" column="10" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="25" column="11" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/sql/postgres_1_serviceprovider.sql" />
+      <jump line="244" column="2" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/sql/hydra_1_hydra_db.sql" />
+      <jump line="66" column="4" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/sql/hydra_1_hydra_db.sql" />
+      <jump line="19" column="25" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/sql/postgres_1_serviceprovider.sql" />
+      <jump line="451" column="4" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/sql/hydra_1_hydra_db.sql" />
+      <jump line="19" column="39" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v0.95.xml" />
+      <jump line="84" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v0.95.xml" />
+      <jump line="42" column="9" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v0.95.xml" />
+      <jump line="125" column="12" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v0.95.xml" />
+      <jump line="3" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v0.95.xml" />
+      <jump line="47" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v1.0.xml" />
+      <jump line="24" column="42" filename="$USER_HOME$/verimi-auth-verimi/reporting-service/src/main/resources/changelogs/changelog-v0.95.xml" />
+      <jump line="27" column="42" filename="$USER_HOME$/verimi-auth-verimi/reporting-service/src/main/resources/changelogs/changelog-v0.95.xml" />
+      <jump line="30" column="42" filename="$USER_HOME$/verimi-auth-verimi/reporting-service/src/main/resources/changelogs/changelog-v0.95.xml" />
+      <jump line="33" column="42" filename="$USER_HOME$/verimi-auth-verimi/reporting-service/src/main/resources/changelogs/changelog-v0.95.xml" />
+      <jump line="36" column="42" filename="$USER_HOME$/verimi-auth-verimi/reporting-service/src/main/resources/changelogs/changelog-v0.95.xml" />
+      <jump line="39" column="42" filename="$USER_HOME$/verimi-auth-verimi/reporting-service/src/main/resources/changelogs/changelog-v0.95.xml" />
+      <jump line="42" column="93" filename="$USER_HOME$/verimi-auth-verimi/reporting-service/src/main/resources/changelogs/changelog-v0.95.xml" />
+      <jump line="6" column="40" filename="$USER_HOME$/verimi-auth-verimi/reporting-service/src/main/resources/changelogs/changelog-v0.95.xml" />
+      <jump line="9" column="33" filename="$USER_HOME$/verimi-auth-verimi/reporting-service/src/main/resources/changelogs/changelog-v0.95.xml" />
+      <jump line="21" column="42" filename="$USER_HOME$/verimi-auth-verimi/reporting-service/src/main/resources/changelogs/changelog-v0.95.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1076,7 +867,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>kafka:</text>
+        <text encoding="base64">XDxyZXBvcnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGJvb3RzdHJhcC1zZXJ2ZXJzOiBrYWZrYS0xLWRldjMuZGV2My1zZXJ2aWNlOjkwOTIK</text>
@@ -1126,9 +917,9 @@
       </register>
     </registers>
     <search>
-      <last-search>kafka:</last-search>
+      <last-search encoding="base64">XDxyZXBvcnRcPg==</last-search>
       <last-offset />
-      <last-pattern>kafka:</last-pattern>
+      <last-pattern encoding="base64">XDxyZXBvcnRcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -1136,9 +927,6 @@
     </search>
     <history>
       <history-search>
-        <entry>verification-methods</entry>
-        <entry>import</entry>
-        <entry>import\/init</entry>
         <entry>init\/document</entry>
         <entry>\/conset</entry>
         <entry>consnet</entry>
@@ -1156,6 +944,9 @@
         <entry encoding="base64">XDxDdXN0b21FcnJvclJlZGlyZWN0VXJsRmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxyZWplY3RDb25zZW50T25IeWRyYVw+</entry>
         <entry>kafka:</entry>
+        <entry>create table</entry>
+        <entry encoding="base64">XDxjcmVhdGVUYWJsZVw+</entry>
+        <entry encoding="base64">XDxyZXBvcnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action $Cut</entry>
