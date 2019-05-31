@@ -169,11 +169,12 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/DippTokenService.java" timestamp="1558611408317">
         <mark key="'" line="34" column="13" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/bootstrap.yml" timestamp="1559113993102">
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/bootstrap.yml" timestamp="1559289354564">
         <mark key="'" line="9" column="42" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+        <mark key="[" line="33" column="84" />
+        <mark key="]" line="33" column="88" />
+        <mark key="." line="33" column="88" />
+        <mark key="^" line="33" column="88" />
       </file>
       <file name="/a.sql" timestamp="1559219572327">
         <mark key="[" line="0" column="0" />
@@ -410,8 +411,8 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559201613892">
-        <mark key="[" line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1559289553379">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="1" />
@@ -449,10 +450,16 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/configuration-service/src/main/resources/application.yml" timestamp="1559289369566">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+        <mark key="^" line="10" column="27" />
+      </file>
       <file name="/postgres.serviceprovider.serviceprovider_document_verification_methods [postgres@dev6]" timestamp="1559047619501">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1557820717157">
+      <file name="/fragment.java" timestamp="1559289553365">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="50" />
         <mark key="^" line="0" column="50" />
@@ -1009,38 +1016,38 @@
       <jump line="12" column="29" filename="$USER_HOME$/verimi-auth-verimi/master-data-service/src/main/resources/changelogs/changelog-v0.95.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Im1hc3RlcmRhdGEiIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZGVmYXVsdFpvbmU6IGh0dHA6Ly9sb2NhbGhvc3Q6ODA5MS9ldXJla2EvCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Im1hc3RlcmRhdGEiIA==</text>
+        <text>local-env</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTVEFHRVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZWNobyAiQ2xlYW5pbmcgdXAgcHJldmlvdXMgcnVuIgo=</text>
+        <text encoding="base64">ICAgICAgZGVmYXVsdFpvbmU6IGh0dHA6Ly8ke1NFUlZJQ0VfUkVHSVNUUllfSE9TVH06JHtTRVJWSUNFX1JFR0lTVFJZX1BPUlR9L2V1cmVrYS8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyAgICAgIGRlZmF1bHRab25lOiBodHRwOi8vbG9jYWxob3N0OjgwOTEvZXVyZWthLwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IyEvYmluL2Jhc2ggLQoKc2V0IC1vIG5vdW5zZXQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIFRyZWF0IHVuc2V0IHZhcmlhYmxlcyBhcyBhbiBlcnJvcgoKRU5WSVJPTk1FTlQ9JDEKZWNobyAiRU5WSVJPTk1FTlQgc2V0IHRvICRFTlZJUk9OTUVOVCIKU1RBR0U9JDIKZWNobyAiU1RBR0Ugc2V0IHRvICRTVEFHRSIKCkRCX0hPU1Q9JHtEQl9IT1NUOi0ibG9jYWxob3N0In0KREJfUE9SVD0ke0RCX1BPUlQ6LSI1NDMyIn0KCmVjaG8gIlVzaW5nIGNvbm5lY3Rpb24gJERCX0hPU1Q6JERCX1BPUlQiCgpmdW5jdGlvbiBjcmVhdGVVc2VycygpIHsKICAgIGVjaG8gIkNyZWF0aW5nIHVzZXJzIgogICAgcHNxbCAtaCAkREJfSE9TVCAtcCAkREJfUE9SVCAtVSBwb3N0Z3JlcyAtZCBwb3N0Z3JlcyAtYyAiYWx0ZXIgdXNlciBwb3N0Z3JlcyB3aXRoIHBhc3N3b3JkICdwb3N0Z3JlcyciID4gL2Rldi9udWxsIDI+JjEKICAgIHBzcWwgLWggJERCX0hPU1QgLXAgJERCX1BPUlQgLVUgcG9zdGdyZXMgLWQgcG9zdGdyZXMgLWMgImNyZWF0ZSB1c2VyIHJlcG9ydHVzZXIgd2l0aCBwYXNzd29yZCAncmVwb3J0dXNlcnBhc3N3b3JkJyIgPiAvZGV2L251bGwgMj4mMQogICAgcHNxbCAtaCAkREJfSE9TVCAtcCAkREJfUE9SVCAtVSBwb3N0Z3JlcyAtZCBwb3N0Z3JlcyAtYyAiY3JlYXRlIHVzZXIgaHlkcmEgd2l0aCBwYXNzd29yZCAnc2VjcmV0JyIgPiAvZGV2L251bGwgMj4mMQogICAgZWNobyAiQ3JlYXRpbmcgdXNlcnMgZG9uZSIKfQoKZnVuY3Rpb24gY3JlYXRlRGF0YWJhc2VzKCkgewogICAgZWNobyAiQ3JlYXRpbmcgZGF0YWJhc2VzIgogICAgY3JlYXRlZGIgLWggJERCX0hPU1QgLXAgJERCX1BPUlQgLVUgcG9zdGdyZXMgcmVwb3J0aW5nIC1PIHJlcG9ydHVzZXIgPiAvZGV2L251bGwgMj4mMQogICAgZWNobyAiUmVwb3J0aW5nIERCIGlzIGNyZWF0ZWQiOwogICAgZWNobyAiRGF0YWJhc2UgY3JlYXRpb24gZG9uZSIKfQoKZnVuY3Rpb24gY3JlYXRlU2NoZW1hcygpIHsKICAgIGVjaG8gIkNyZWF0aW5nIHNjaGVtYXMiCiAgICBmb3IgaSBpbiAic2VydmljZXByb3ZpZGVybWFuYWdlciIKICAgIGRvCiAgICAgIHBzcWwgLWggJERCX0hPU1QgLXAgJERCX1BPUlQgLVUgcG9zdGdyZXMgLWQgcG9zdGdyZXMgLWMgImNyZWF0ZSBzY2hlbWEgJGkiID4gL2Rldi9udWxsIDI+JjEKICAgICAgZWNobyAiU2NoZW1hICRpIGNyZWF0ZWQiCiAgICBkb25lCiAgICBlY2hvICJTY2hlbWFzIGNyZWF0aW9uIGRvbmUiCn0KCmZ1bmN0aW9uIGNsZWFudXBQcmV2aW91c1J1bigpIHsKICAgIGVjaG8gIkNsZWFuaW5nIHVwIHByZXZpb3VzIHJ1biIKICAgIHJtIC1yZiBnZW5lcmF0ZWQgJiYgY3AgLXIgc3FsIGdlbmVyYXRlZAogICAgZWNobyAiQ2xlYW51cCBkb25lIgp9CgpmdW5jdGlvbiBydW5NaWdyYXRpb25TY3JpcHRzKCkgewogICAgZWNobyAiUnVubmluZyBtaWdyYXRpb24gc2NyaXB0cyIKICAgIGZvciBpIGluICQoZmluZCBzcWwgLW5hbWUgJyouc3FsJykKICAgIGRvCiAgICAgIHNlZCAtaSAicy9QTEFDRUhPTERFUi8ke0VOVklST05NRU5UfS9nIiAkaQogICAgICBkYl9uYW1lPSQoZWNobyAkaXxjdXQgLWQgJy8nIC1mMiB8IGN1dCAtZCAnXycgLWYxKQoKICAgICAgaWYgWyAiJGRiX25hbWUiID09ICJwb3N0Z3JlcyIgXSB8fCBbICIkZGJfbmFtZSIgPT0gImh5ZHJhIiBdCiAgICAgIHRoZW4KICAgICAgICBwc3FsIC1oICREQl9IT1NUIC1wICREQl9QT1JUIC1VIHBvc3RncmVzIC1kICRkYl9uYW1lIC1hIC1mICRpCiAgICAgICAgZWNobyAiaW1wb3J0ZWQgJGkiCiAgICAgIGVsc2UKICAgICAgICBlY2hvICI9PT09PT4gJGRiX25hbWUgaXMgbm90IHN1cHBvcnRlZCB5ZXQiCiAgICAgIGZpCiAgICBkb25lCiAgICBlY2hvICJNaWdyYXRpb24gc2NyaXB0cyBkb25lIgp9Cgo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuYWJsZWQ6IGZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgZW5hYmxlZDogZmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyAiRmluaXNoZWQgaW1wb3J0aW5nIFNRTCIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1055,11 +1062,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyBUT0RPIGZpeCB0aGlzCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IyEvYmluL2Jhc2ggLQoKc2V0IC1vIG5vdW5zZXQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIFRyZWF0IHVuc2V0IHZhcmlhYmxlcyBhcyBhbiBlcnJvcgoKRU5WSVJPTk1FTlQ9JDEKZWNobyAiRU5WSVJPTk1FTlQgc2V0IHRvICRFTlZJUk9OTUVOVCIKU1RBR0U9JDIKZWNobyAiU1RBR0Ugc2V0IHRvICRTVEFHRSIKCkRCX0hPU1Q9JHtEQl9IT1NUOi0ibG9jYWxob3N0In0KREJfUE9SVD0ke0RCX1BPUlQ6LSI1NDMyIn0KCmVjaG8gIlVzaW5nIGNvbm5lY3Rpb24gJERCX0hPU1Q6JERCX1BPUlQiCgpmdW5jdGlvbiBjcmVhdGVVc2VycygpIHsKICAgIGVjaG8gIkNyZWF0aW5nIHVzZXJzIgogICAgcHNxbCAtaCAkREJfSE9TVCAtcCAkREJfUE9SVCAtVSBwb3N0Z3JlcyAtZCBwb3N0Z3JlcyAtYyAiYWx0ZXIgdXNlciBwb3N0Z3JlcyB3aXRoIHBhc3N3b3JkICdwb3N0Z3JlcyciID4gL2Rldi9udWxsIDI+JjEKICAgIHBzcWwgLWggJERCX0hPU1QgLXAgJERCX1BPUlQgLVUgcG9zdGdyZXMgLWQgcG9zdGdyZXMgLWMgImNyZWF0ZSB1c2VyIHJlcG9ydHVzZXIgd2l0aCBwYXNzd29yZCAncmVwb3J0dXNlcnBhc3N3b3JkJyIgPiAvZGV2L251bGwgMj4mMQogICAgcHNxbCAtaCAkREJfSE9TVCAtcCAkREJfUE9SVCAtVSBwb3N0Z3JlcyAtZCBwb3N0Z3JlcyAtYyAiY3JlYXRlIHVzZXIgaHlkcmEgd2l0aCBwYXNzd29yZCAnc2VjcmV0JyIgPiAvZGV2L251bGwgMj4mMQogICAgZWNobyAiQ3JlYXRpbmcgdXNlcnMgZG9uZSIKfQoKZnVuY3Rpb24gY3JlYXRlRGF0YWJhc2VzKCkgewogICAgZWNobyAiQ3JlYXRpbmcgZGF0YWJhc2VzIgogICAgY3JlYXRlZGIgLWggJERCX0hPU1QgLXAgJERCX1BPUlQgLVUgcG9zdGdyZXMgcmVwb3J0aW5nIC1PIHJlcG9ydHVzZXIgPiAvZGV2L251bGwgMj4mMQogICAgZWNobyAiUmVwb3J0aW5nIERCIGlzIGNyZWF0ZWQiOwogICAgZWNobyAiRGF0YWJhc2UgY3JlYXRpb24gZG9uZSIKfQoKZnVuY3Rpb24gY3JlYXRlU2NoZW1hcygpIHsKICAgIGVjaG8gIkNyZWF0aW5nIHNjaGVtYXMiCiAgICBmb3IgaSBpbiAic2VydmljZXByb3ZpZGVybWFuYWdlciIKICAgIGRvCiAgICAgIHBzcWwgLWggJERCX0hPU1QgLXAgJERCX1BPUlQgLVUgcG9zdGdyZXMgLWQgcG9zdGdyZXMgLWMgImNyZWF0ZSBzY2hlbWEgJGkiID4gL2Rldi9udWxsIDI+JjEKICAgICAgZWNobyAiU2NoZW1hICRpIGNyZWF0ZWQiCiAgICBkb25lCiAgICBlY2hvICJTY2hlbWFzIGNyZWF0aW9uIGRvbmUiCn0KCmZ1bmN0aW9uIGNsZWFudXBQcmV2aW91c1J1bigpIHsKICAgIGVjaG8gIkNsZWFuaW5nIHVwIHByZXZpb3VzIHJ1biIKICAgIHJtIC1yZiBnZW5lcmF0ZWQgJiYgY3AgLXIgc3FsIGdlbmVyYXRlZAogICAgZWNobyAiQ2xlYW51cCBkb25lIgp9CgpmdW5jdGlvbiBydW5NaWdyYXRpb25TY3JpcHRzKCkgewogICAgZWNobyAiUnVubmluZyBtaWdyYXRpb24gc2NyaXB0cyIKICAgIGZvciBpIGluICQoZmluZCBzcWwgLW5hbWUgJyouc3FsJykKICAgIGRvCiAgICAgIHNlZCAtaSAicy9QTEFDRUhPTERFUi8ke0VOVklST05NRU5UfS9nIiAkaQogICAgICBkYl9uYW1lPSQoZWNobyAkaXxjdXQgLWQgJy8nIC1mMiB8IGN1dCAtZCAnXycgLWYxKQoKICAgICAgaWYgWyAiJGRiX25hbWUiID09ICJwb3N0Z3JlcyIgXSB8fCBbICIkZGJfbmFtZSIgPT0gImh5ZHJhIiBdCiAgICAgIHRoZW4KICAgICAgICBwc3FsIC1oICREQl9IT1NUIC1wICREQl9QT1JUIC1VIHBvc3RncmVzIC1kICRkYl9uYW1lIC1hIC1mICRpCiAgICAgICAgZWNobyAiaW1wb3J0ZWQgJGkiCiAgICAgIGVsc2UKICAgICAgICBlY2hvICI9PT09PT4gJGRiX25hbWUgaXMgbm90IHN1cHBvcnRlZCB5ZXQiCiAgICAgIGZpCiAgICBkb25lCiAgICBlY2hvICJNaWdyYXRpb24gc2NyaXB0cyBkb25lIgp9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2NyZWF0ZWRiIC1oICREQl9IT1NUIC1wICREQl9QT1JUIC1VIHBvc3RncmVzIGh5ZHJhID4gL2Rldi9udWxsIDI+JjEKI2VjaG8gIkh5ZHJhIERCIGlzIGNyZWF0ZWQiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
