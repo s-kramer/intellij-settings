@@ -280,8 +280,8 @@
       <file name="/postgres.serviceprovider.identity_provider_blz [postgres@uat]" timestamp="1559137008753">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" timestamp="1559308841726">
-        <mark key="'" line="65" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" timestamp="1559310057212">
+        <mark key="'" line="86" column="0" />
         <mark key="[" line="31" column="38" />
         <mark key="]" line="31" column="38" />
         <mark key="." line="31" column="38" />
@@ -361,7 +361,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="108" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559308559258">
+      <file name="/Dummy.txt" timestamp="1559310121311">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/domain/nfauthentication/NFactorOperation.java" timestamp="1559298220624" />
@@ -518,12 +518,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_30.txt" timestamp="1559303098606">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="38" column="114" />
-        <mark key="." line="37" column="64" />
-        <mark key="^" line="37" column="64" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_30.txt" timestamp="1559310168087">
+        <mark key="'" line="37" column="48" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="38" column="83" />
+        <mark key="^" line="31" column="64" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/nfa-confirmation-templates/switchNFADevice.ftl" timestamp="1558690846691" />
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/OperationGenerator.java" timestamp="1559297966154" />
@@ -660,6 +660,13 @@
       <file name="/postgres.serviceprovider.identity_provider_blz [postgres@dev2]" timestamp="1557999346499">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/README.md" timestamp="1559310114361">
+        <mark key="'" line="7" column="17" />
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+      </file>
       <file name="/postgres.serviceprovider.serviceprovider_cancels [postgres@dev2]" timestamp="1558003258687">
         <mark key="[" line="0" column="0" />
       </file>
@@ -727,10 +734,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="12" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
-      <jump line="50" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
-      <jump line="55" column="8" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sp.sh" />
-      <jump line="39" column="2" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
       <jump line="28" column="9" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
       <jump line="26" column="22" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
       <jump line="27" column="22" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
@@ -785,8 +788,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
       <jump line="4" column="0" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
       <jump line="87" column="22" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
-      <jump line="63" column="6" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
-      <jump line="7" column="30" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
       <jump line="36" column="13" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
       <jump line="29" column="5" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
       <jump line="12" column="29" filename="$USER_HOME$/verimi-auth-verimi/master-data-service/src/main/resources/changelogs/changelog-v0.95.xml" />
@@ -827,40 +828,46 @@
       <jump line="36" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_30.txt" />
       <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_30.txt" />
       <jump line="65" column="0" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
+      <jump line="63" column="6" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
+      <jump line="7" column="35" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
+      <jump line="86" column="0" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/import-sql.sh" />
+      <jump line="5" column="7" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/README.md" />
+      <jump line="7" column="17" filename="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/README.md" />
+      <jump line="43" column="48" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_30.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJvdmlkZWQgYWRqdXN0bWVudHMgZm9yIFVBVCBlbnZpcm9ubWVudAo=</text>
+        <text encoding="base64">CklzIHRoZXJlIGEgcGluIGNvZGUgaW4gdGhlIHZlcmltaSBhcHAgb24gcHJvZD8KSW50cm9kdWNlIHJldHJ5IHBvbGljeSBmb3Igc2VhbE9uZSBhdXRoZW50aWNhdGlvbgogICAgLSBpbnRyb2R1Y2UgcG9saWNpZXMgdG8gaW5jb3JyZWN0IHBhc3Njb2RlIGlucHV0CiAgICAtIGNvbmZpZ3VyZSBkaWZmZXJlbnQgcG9saWN5IGZvciBlYWNoIFNQICsgZGVmYXVsdCAoY2FuY2VsIGFmdGVyIDFzdCBpbmNvcnJlY3QpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>dev2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGF0dXNcPg==</text>
+        <text encoding="base64">XDxFTlZJUk9OTUVOVFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSBpbnRlcmFjdGlvbiBoYXNoCg==</text>
+        <text encoding="base64">ZXhwb3J0IFNUQUdFPWRldjIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJvdmlkZWQgYWRqdXN0bWVudHMgZm9yIFVBVCBlbnZpcm9ubWVudAo=</text>
+        <text encoding="base64">CmludHJvZHVjZSByZXRyeSBwb2xpY3kK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SW50cm9kdWNlIHJldHJ5IHBvbGljeSBmb3Igc2VhbE9uZSBhdXRoZW50aWNhdGlvbgogICAgLSBpbnRyb2R1Y2UgcG9saWNpZXMgdG8gaW5jb3JyZWN0IHBhc3Njb2RlIGlucHV0CiAgICAtIGNvbmZpZ3VyZSBkaWZmZXJlbnQgcG9saWN5IGZvciBlYWNoIFNQICsgZGVmYXVsdCAoY2FuY2VsIGFmdGVyIDFzdCBpbmNvcnJlY3QpCg==</text>
+        <text encoding="base64">aW50ZXJhY3Rpb24gaGFzaCBjYWxjdWxhdGlvbiAtIHNlc3Npb25JZCBpcyBtaXNzaW5nIGJ1dCB3ZSBoYXZlIHR1aWQgKyBzcCBuYW1lPwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SW50cm9kdWNlIHJldHJ5IHBvbGljeSBmb3Igc2VhbE9uZSBhdXRoZW50aWNhdGlvbgogICAgLSBpbnRyb2R1Y2UgcG9saWNpZXMgdG8gaW5jb3JyZWN0IHBhc3Njb2RlIGlucHV0CiAgICAtIGNvbmZpZ3VyZSBkaWZmZXJlbnQgcG9saWN5IGZvciBlYWNoIFNQICsgZGVmYXVsdCAoY2FuY2VsIGFmdGVyIDFzdCBpbmNvcnJlY3QpCg==</text>
+        <text encoding="base64">d2UgbmVlZCB0byBlbnN1cmUgdW5pcXVlbmVzcyBvZiB0aGUgb3BlcmF0aW9uSWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SW50cm9kdWNlIHJldHJ5IHBvbGljeSBmb3Igc2VhbE9uZSBhdXRoZW50aWNhdGlvbgogICAgLSBpbnRyb2R1Y2UgcG9saWNpZXMgdG8gaW5jb3JyZWN0IHBhc3Njb2RlIGlucHV0Cg==</text>
+        <text encoding="base64">YWRkZWQgYnVsayBkZWxldGlvbiBzY3JpcHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">YWRkZWQgdWF0IHN1cHBvcnQgdG8gc2NyaXB0cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3BlcmF0aW9uSWQgYW5kIGludGVyYWN0aW9uSGFzaCBnZW5lcmF0aW9uIGFkanVzdG1lbnRzCiAgICAtIHByb3ZpZGUgYWx0ZXJuYXRpdmUgZ2VuZXJhdG9ycyB0aGF0IHdpbGwgZW5zdXJlIHVuaXF1ZW5lc3MgKHN5c3RlbUN1cnJlbnRNaWxsaXMgZm9yIGludGVyYWN0aW9uSGFzaCwgCg==</text>
+        <text encoding="base64">cHJvdmlkZWQgYWRqdXN0bWVudHMgZm9yIFVBVCBlbnZpcm9ubWVudAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -879,16 +886,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">SW50cm9kdWNlIHJldHJ5IHBvbGljeSBmb3Igc2VhbE9uZSBhdXRoZW50aWNhdGlvbgogICAgLSBpbnRyb2R1Y2UgcG9saWNpZXMgdG8gaW5jb3JyZWN0IHBhc3Njb2RlIGlucHV0CiAgICAtIGNvbmZpZ3VyZSBkaWZmZXJlbnQgcG9saWN5IGZvciBlYWNoIFNQICsgZGVmYXVsdCAoY2FuY2VsIGFmdGVyIDFzdCBpbmNvcnJlY3QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGF0dXNcPg==</last-search>
+      <last-search encoding="base64">XDxFTlZJUk9OTUVOVFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGF0dXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxFTlZJUk9OTUVOVFw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -896,7 +903,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create table</entry>
         <entry encoding="base64">XDxjcmVhdGVUYWJsZVw+</entry>
         <entry encoding="base64">XDxyZXBvcnRcPg==</entry>
         <entry encoding="base64">XDxwc3FsXD4=</entry>
@@ -904,7 +910,6 @@
         <entry>schema</entry>
         <entry encoding="base64">XDxjcmVhdGVkYlw+</entry>
         <entry>createdb</entry>
-        <entry encoding="base64">XDxTVEFHRVw+</entry>
         <entry encoding="base64">XDxhc3luY1JlY2VpdmVyR1cxXD4=</entry>
         <entry encoding="base64">XDxhcGFjaGVUcmFuc3BvcnRcPg==</entry>
         <entry encoding="base64">XDxTU0xTb2NrZXRGYWN0b3J5QnVpbGRlclw+</entry>
@@ -916,6 +921,8 @@
         <entry encoding="base64">XDxkZWxldGVJbnRlcmFjdGlvblw+</entry>
         <entry encoding="base64">XDxuZmFDb25maXJtYXRpb25UZXh0XD4=</entry>
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
+        <entry encoding="base64">XDxTVEFHRVw+</entry>
+        <entry encoding="base64">XDxFTlZJUk9OTUVOVFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,$//</entry>
