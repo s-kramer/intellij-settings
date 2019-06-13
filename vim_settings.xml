@@ -1047,7 +1047,10 @@
       <file name="/postgres.basket.basket [postgres@dev2]" timestamp="1557299387749">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-spec/1.2.5.RELEASE/39513c6ff8a31064bb1ead0639aa0187331cd961/spring-cloud-contract-spec-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/contract/spec/internal/RegexPatterns.groovy" timestamp="1560413612723" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-spec/1.2.5.RELEASE/39513c6ff8a31064bb1ead0639aa0187331cd961/spring-cloud-contract-spec-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/contract/spec/internal/RegexPatterns.groovy" timestamp="1560415760362">
+        <mark key="[" line="44" column="59" />
+        <mark key="]" line="44" column="118" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0af659f0-65dc-4fcd-83d6-cb90c2b0f976/console_2.sql" timestamp="1558511687307">
         <mark key="'" line="35" column="28" />
         <mark key="[" line="35" column="28" />
@@ -1181,8 +1184,8 @@
       <jump line="12" column="21" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ0dWlkIjogJChwcm9kdWNlcignMmUyYzUwYjUtNTE3NC00YmQxLThmMDUtMTdjMGI4MzE2MjI2JyksIGNvbnN1bWVyKGFueU5vbkJsYW5rU3RyaW5nKCkpKSwK</text>
+      <register name="&quot;" type="4">
+        <text>[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
