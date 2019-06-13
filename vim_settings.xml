@@ -73,12 +73,11 @@
       <file name="/postgres.documents.databasechangelog [postgres@dev5]" timestamp="1557908812832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/A1.puml" timestamp="1560422965199">
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/A1.puml" timestamp="1560423995975">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="17" column="7" />
-        <mark key="." line="8" column="37" />
-        <mark key="^" line="8" column="37" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_48.puml" timestamp="1558964858347">
         <mark key="'" line="0" column="0" />
@@ -261,6 +260,12 @@
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" timestamp="1559122388974">
         <mark key="'" line="30" column="12" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/B3.puml" timestamp="1560424073008">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/postgres.nfa_configuration.nfa_uri_configuration [postgres@devint]" timestamp="1559049638363">
         <mark key="[" line="0" column="0" />
@@ -471,10 +476,12 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" timestamp="1557395025197">
         <mark key="'" line="125" column="53" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/B1.puml" timestamp="1560423049680">
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/B1.puml" timestamp="1560424030727">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="2" column="85" />
+        <mark key="^" line="2" column="85" />
       </file>
       <file name="/postgres.documents.databasechangeloglock [postgres@devint]" timestamp="1559121249704">
         <mark key="[" line="0" column="0" />
@@ -497,6 +504,13 @@
       </file>
       <file name="/postgres.serviceprovider.description [postgres@dev6]" timestamp="1558709845749">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/B2.puml" timestamp="1560424055895">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="14" column="32" />
+        <mark key="^" line="14" column="32" />
       </file>
       <file name="/postgres.serviceprovider.serviceprovider_document_verification_methods [postgres@dev5]" timestamp="1557921027745">
         <mark key="[" line="0" column="0" />
@@ -549,12 +563,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="70" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/A2.puml" timestamp="1560423047494">
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/A2.puml" timestamp="1560424016559">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="8" column="33" />
-        <mark key="^" line="8" column="33" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="8" column="45" />
+        <mark key="^" line="8" column="45" />
       </file>
       <file name="/postgres.documents.document_country [postgres@dev5]" timestamp="1558516436894">
         <mark key="[" line="0" column="0" />
@@ -1116,16 +1130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="310" column="41" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
-      <jump line="325" column="18" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
-      <jump line="326" column="39" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
-      <jump line="331" column="17" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
-      <jump line="248" column="30" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
-      <jump line="1225" column="30" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
-      <jump line="173" column="30" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
-      <jump line="420" column="38" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
-      <jump line="423" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
       <jump line="253" column="10" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
       <jump line="252" column="10" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
       <jump line="178" column="20" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
@@ -1211,45 +1215,55 @@
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_52.puml" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_52.puml" />
       <jump line="8" column="37" filename="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/A1.puml" />
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/A1.puml" />
       <jump line="5" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/A2.puml" />
       <jump line="11" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/A2.puml" />
+      <jump line="25" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/B1.puml" />
+      <jump line="3" column="37" filename="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/B1.puml" />
+      <jump line="14" column="32" filename="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/B2.puml" />
+      <jump line="24" column="36" filename="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/B3.puml" />
+      <jump line="12" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/A1.puml" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/A1.puml" />
+      <jump line="17" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/A2.puml" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/A2.puml" />
+      <jump line="10" column="43" filename="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/B1.puml" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/B1.puml" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/B2.puml" />
+      <jump line="12" column="29" filename="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/B3.puml" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/2faaas-diagrams/B3.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QHN0YXJ0dW1sCkFsaWNlIC0+IEJvYjogQXV0aGVudGljYXRpb24gUmVxdWVzdApCb2IgLS0+IEFsaWNlOiBBdXRoZW50aWNhdGlvbiBSZXNwb25zZQoKQWxpY2UgLT4gQm9iOiBBbm90aGVyIGF1dGhlbnRpY2F0aW9uIFJlcXVlc3QKQWxpY2UgPC0tIEJvYjogYW5vdGhlciBhdXRoZW50aWNhdGlvbiBSZXNwb25zZQpAZW5kdW1sCg==</text>
+        <text encoding="base64">QHN0YXJ0dW1sCgp0aXRsZSBCMzogKEIpIFVzZXIgaGFzIG5vIGxpbmtlZCBWZXJpbWkgYWNjb3VudCBcbiBVc2VyIGhhcyBubyBWZXJpbWkgYWNjb3VudApwYXJ0aWNpcGFudCAiVXNlciBhZ2VudCIgYXMgVUEgIzMzQkIxMQpwYXJ0aWNpcGFudCAiU2VydmljZSBwcm92aWRlciIgYXMgU1AgIzAwNjZDQwpwYXJ0aWNpcGFudCBWZXJpbWkgYXMgViAjRkZCQjAwCgpVQSAtPiBTUCA6IERpc3BsYXkgREIgYWNjb3VudCBcbiBzZWN1cml0eSBzZXR0aW5ncwpTUCAtPiBTUCA6IGlzIGV1aWQgZGVmaW5lZCBcbmZvciB1c2VyOiBmYWxzZQpTUCAtPiBVQSA6IERpc3BsYXkgc2VjdXJpdHkgXG5zZXR0aW5ncyBwYWdlIHdpdGhcblZlcmltaSBUQU4gcHJvY2VkdXJlClVBIC0+IFNQIDogQ29uZmlndXJlIFZlcmltaSBUQU5cbiBwcm9jZWR1cmUKU1AgLT4gVUEgOiBSZWRpcmVjdCB0byBWZXJpbWkgbG9naW4gcGFnZQpVQSAtPiBWIDogUHJvdmlkZSBwaG9uZSBudW1iZXIKViAtPiBWIDogY3JlYXRlIDJGQS1vbmx5IGFjY291bnQKViAtPiBWIDogSW5saW5lIDJGQSBjb25maWd1cmF0aW9uClYgLT4gU1AgOiBBY2Nlc3MgdG9rZW4gXG5hbmQgSUQgdG9rZW4KU1AgLT4gU1AgOiBTUC1zcGVjaWZpYyAyRkEgXG5leGVjdXRpb24KU1AgLT4gViA6IExpbmsgd2l0aCBWZXJpbWkgYWNjb3VudApWIC0+IFNQIDogTGlua2FnZSBzdWNjZXNzZnVsClNQIC0+IFVBIDogVEFOIGNvbmZpZ3VyZWQgXG5zdWNjZXNzZnVsbHkKLi4uClVBIC0+IFNQIDogUmVxdWVzdCAyRkEtcHJvdGVjdGVkIFxuIG9wZXJhdGlvbgpTUCAtPiBWIDogUmVxdWVzdCAyRkEgZXhlY3V0aW9uClYgLT4gU1AgOiAyRkEgcmVxdWVzdGVkClNQIC0+IFYgOiBRdWVyeSAyRkEgb3BlcmF0aW9uXG5zdGF0dXMKViAtPiBTUCA6IDJGQSBvcGVyYXRpb24gcmVzdWx0CgpAZW5kdW1sCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>username and password</text>
       </register>
       <register name="/" type="4">
         <text>response</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBoeWRyYS1wcm94eS1pbmxpbmUtcmVnaXN0cmF0aW9uLWNhbmNlbDoKICAgICAgICAgIHBhdGg6IC9pbmxpbmUtcmVnaXN0cmF0aW9uLyoqL2NhbmNlbAogICAgICAgICAgc3RyaXBQcmVmaXg6IGZhbHNlCiAgICAgICAgICBzZW5zaXRpdmVIZWFkZXJzOgogICAgICAgICAgc2VydmljZUlkOiBIWURSQS1QUk9YWQo=</text>
+        <text encoding="base64">ViAtPiBWIDogRG9lcyB1c2VyIGhhdmUgMkZBXG4gZW5hYmxlZD8gZmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QHN0YXJ0dW1sCkFsaWNlIC0+IEJvYjogQXV0aGVudGljYXRpb24gUmVxdWVzdApCb2IgLS0+IEFsaWNlOiBBdXRoZW50aWNhdGlvbiBSZXNwb25zZQoKQWxpY2UgLT4gQm9iOiBBbm90aGVyIGF1dGhlbnRpY2F0aW9uIFJlcXVlc3QKQWxpY2UgPC0tIEJvYjogYW5vdGhlciBhdXRoZW50aWNhdGlvbiBSZXNwb25zZQpAZW5kdW1sCg==</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ViAtPiBTUCA6IDJGQWFhUyByZXF1ZXN0ZWRcbjJmYWlkClNQIC0+IFYgOiBRdWVyeSAyRkEgc3RhdHVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ViAtPiBWIDogRG9lcyB1c2VyIGhhdmUgMkZBXG4gZW5hYmxlZD8gZmFsc2UKViAtPiBWIDogSW5saW5lIDJGQSBjb25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QHN0YXJ0dW1sCgp0aXRsZSBBMTogKEEpIFVzZXIgaGFzIGEgbGlua2VkIFZlcmltaSBhY2NvdW50IFxuIFVzZXIgaGFzIFZlcmltaSBhY2NvdW50IHdpdGggMkZBIGVuYWJsZWQKcGFydGljaXBhbnQgIlVzZXIgYWdlbnQiIGFzIFVBICMzM0JCMTEKcGFydGljaXBhbnQgIlNlcnZpY2UgcHJvdmlkZXIiIGFzIFNQICMwMDY2Q0MKcGFydGljaXBhbnQgVmVyaW1pIGFzIFYgI0ZGQkIwMAoKU1AgLT4gViA6UmVxdWVzdCAyRkFhYVMKViAtPiBTUCA6IDJGQWFhUyByZXF1ZXN0ZWRcbjJmYWlkClNQIC0+IFYgOiBRdWVyeSAyRkEgc3RhdHVzClYgLT4gU1AgOiAyRkEgcmVzdWx0CgoKCgoKQGVuZHVtbAo=</text>
+        <text encoding="base64">ViAtPiBWIAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QHN0YXJ0dW1sCkFsaWNlIC0+IEJvYjogQXV0aGVudGljYXRpb24gUmVxdWVzdApCb2IgLS0+IEFsaWNlOiBBdXRoZW50aWNhdGlvbiBSZXNwb25zZQoKQWxpY2UgLT4gQm9iOiBBbm90aGVyIGF1dGhlbnRpY2F0aW9uIFJlcXVlc3QKQWxpY2UgPC0tIEJvYjogYW5vdGhlciBhdXRoZW50aWNhdGlvbiBSZXNwb25zZQpAZW5kdW1sCg==</text>
+        <text encoding="base64">ViAtPiBWIDogRG9lcyB1c2VyIGhhdmUgMkZBXG4gZW5hYmxlZD8gZmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QHN0YXJ0dW1sCkFsaWNlIC0+IEJvYjogQXV0aGVudGljYXRpb24gUmVxdWVzdApCb2IgLS0+IEFsaWNlOiBBdXRoZW50aWNhdGlvbiBSZXNwb25zZQoKQWxpY2UgLT4gQm9iOiBBbm90aGVyIGF1dGhlbnRpY2F0aW9uIFJlcXVlc3QKQWxpY2UgPC0tIEJvYjogYW5vdGhlciBhdXRoZW50aWNhdGlvbiBSZXNwb25zZQpAZW5kdW1sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QHN0YXJ0dW1sCgp0aXRsZSBBMTogKEEpIFVzZXIgaGFzIGEgbGlua2VkIFZlcmltaSBhY2NvdW50IFxuIFVzZXIgaGFzIFZlcmltaSBhY2NvdW50IHdpdGggMkZBIGVuYWJsZWQKcGFydGljaXBhbnQgIlVzZXIgYWdlbnQiIGFzIFVBICMzM0JCMTEKcGFydGljaXBhbnQgIlNlcnZpY2UgcHJvdmlkZXIiIGFzIFNQICMwMDY2Q0MKcGFydGljaXBhbnQgVmVyaW1pIGFzIFYgI0ZGQkIwMAoKU1AgLT4gViA6UmVxdWVzdCAyRkFhYVMKViAtPiBTUCA6IDJGQWFhUyByZXF1ZXN0ZWRcbjJmYWlkClNQIC0+IFYgOiBRdWVyeSAyRkEgc3RhdHVzClYgLT4gU1AgOiAyRkEgcmVzdWx0CgoKCgoKQGVuZHVtbAo=</text>
+        <text encoding="base64">QHN0YXJ0dW1sCkFsaWNlIC0+IEJvYjogQXV0aGVudGljYXRpb24gUmVxdWVzdApCb2IgLS0+IEFsaWNlOiBBdXRoZW50aWNhdGlvbiBSZXNwb25zZQoKQWxpY2UgLT4gQm9iOiBBbm90aGVyIGF1dGhlbnRpY2F0aW9uIFJlcXVlc3QKQWxpY2UgPC0tIEJvYjogYW5vdGhlciBhdXRoZW50aWNhdGlvbiBSZXNwb25zZQpAZW5kdW1sCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1265,10 +1279,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnBhcnRpY2lwYW50ICJTZXJ2aWNlIHByb3ZpZGVyIiBhcyBTUCAjQ0MwMDg4CnBhcnRpY2lwYW50ICJWZXJpbWkiIGFzIFYK</text>
+        <text encoding="base64">QHN0YXJ0dW1sCkFsaWNlIC0+IEJvYjogQXV0aGVudGljYXRpb24gUmVxdWVzdApCb2IgLS0+IEFsaWNlOiBBdXRoZW50aWNhdGlvbiBSZXNwb25zZQoKQWxpY2UgLT4gQm9iOiBBbm90aGVyIGF1dGhlbnRpY2F0aW9uIFJlcXVlc3QKQWxpY2UgPC0tIEJvYjogYW5vdGhlciBhdXRoZW50aWNhdGlvbiBSZXNwb25zZQpAZW5kdW1sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgIlVzZXIgYWdlbnQiIGFzIFVBICMzM0JCMTEK</text>
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
