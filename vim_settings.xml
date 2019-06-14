@@ -252,11 +252,11 @@
         <mark key="^" line="11" column="11" />
         <mark key="." line="11" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_54.puml" timestamp="1560513291203">
-        <mark key="'" line="20" column="31" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="40" />
-        <mark key="." line="12" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_54.puml" timestamp="1560513352399">
+        <mark key="'" line="19" column="31" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" timestamp="1560438187904">
@@ -454,7 +454,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">J1NQIC0+IFVBIDogUmVkaXJlY3QgdG8gL29hdXRoL2F1dGhvcml6ZQo=</text>
+        <text encoding="base64">J1VBIC0+IFVBIDogUHJlc2VudCBsb2dpbiBwYWdlCg==</text>
       </register>
       <register name="-" type="4">
         <text>Verimi login page</text>
@@ -466,25 +466,25 @@
         <text encoding="base64">cGFydGljaXBhbnQgU1AK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">J1NQIC0+IFVBIDogUmVkaXJlY3QgdG8gL29hdXRoL2F1dGhvcml6ZQo=</text>
+        <text encoding="base64">J1VBIC0+IFVBIDogUHJlc2VudCBsb2dpbiBwYWdlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QHN0YXJ0dW1sCnBhcnRpY2lwYW50IFVzZXIKcGFydGljaXBhbnQgU1AKcGFydGljaXBhbnQgRkUKcGFydGljaXBhbnQgQkUKCgpVc2VyIC0+IFNQIDogZW5hYmxlIDJGQWFhUwpTUCAtPiBGRSA6IENyZWF0ZSAyRkEtb25seSBcbmFjY291bnQgKHBob25lIG51bWJlcikKRkUgLT4gQkUgOiBjcmVhdGUgMkZBLW9ubHkgKHVzaW5nIHBob25lIG51bWJlcikKCgpAZW5kdW1sCg==</text>
+        <text encoding="base64">J1NQIC0+IFVBIDogUmVkaXJlY3QgdG8gL29hdXRoL2F1dGhvcml6ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VXNlciAtPiBGRSA6IAo=</text>
+        <text encoding="base64">QHN0YXJ0dW1sCnBhcnRpY2lwYW50IFVzZXIKcGFydGljaXBhbnQgU1AKcGFydGljaXBhbnQgRkUKcGFydGljaXBhbnQgQkUKCgpVc2VyIC0+IFNQIDogZW5hYmxlIDJGQWFhUwpTUCAtPiBGRSA6IENyZWF0ZSAyRkEtb25seSBcbmFjY291bnQgKHBob25lIG51bWJlcikKRkUgLT4gQkUgOiBjcmVhdGUgMkZBLW9ubHkgKHVzaW5nIHBob25lIG51bWJlcikKCgpAZW5kdW1sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VXNlciAtPiBGRSA6IENyZWF0ZSAyRkEtb25seSBcbmFjY291bnQK</text>
+        <text encoding="base64">VXNlciAtPiBGRSA6IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VUEgLT4gRkUK</text>
+        <text encoding="base64">VXNlciAtPiBGRSA6IENyZWF0ZSAyRkEtb25seSBcbmFjY291bnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgU1AK</text>
+        <text encoding="base64">VUEgLT4gRkUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgVUEK</text>
+        <text encoding="base64">cGFydGljaXBhbnQgU1AK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -500,10 +500,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGRkQENvbnRleHRDb25maWd1cmF0aW9uKCkK</text>
+        <text encoding="base64">cGFydGljaXBhbnQgVUEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25Qcm9wZXJ0eSh2YWx1ZSA9ICJzZWFsT25lLmVuYWJsZWQiLCBtYXRjaElmTWlzc2luZyA9IHRydWUpCg==</text>
+        <text encoding="base64">ZGRkQENvbnRleHRDb25maWd1cmF0aW9uKCkK</text>
       </register>
       <register name=":" type="4">
         <text>+39t-1</text>
