@@ -252,11 +252,12 @@
         <mark key="^" line="11" column="11" />
         <mark key="." line="11" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_54.puml" timestamp="1560511660376">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="3" column="6" />
-        <mark key="^" line="3" column="6" />
-        <mark key="." line="3" column="6" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_54.puml" timestamp="1560513291203">
+        <mark key="'" line="20" column="31" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" timestamp="1560438187904">
         <mark key="'" line="30" column="88" />
@@ -350,9 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="10" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
-      <jump line="260" column="10" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
-      <jump line="261" column="10" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
       <jump line="430" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
       <jump line="431" column="17" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
       <jump line="434" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
@@ -450,40 +448,43 @@
       <jump line="63" column="34" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/Application.java" />
       <jump line="59" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/config/SealOneClientConfiguration.java" />
       <jump line="46" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/Application.java" />
+      <jump line="8" column="46" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_54.puml" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_54.puml" />
+      <jump line="17" column="31" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_54.puml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>properties = &quot;sealOne.enabled=false&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">J1NQIC0+IFVBIDogUmVkaXJlY3QgdG8gL29hdXRoL2F1dGhvcml6ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>properties = &quot;sealOne.enabled=false&quot;</text>
+        <text>Verimi login page</text>
       </register>
       <register name="/" type="4">
-        <text>import</text>
+        <text>redirect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0KHByb3BlcnRpZXMgPSAic2VhbE9uZS5lbmFibGVkPWZhbHNlIikK</text>
+        <text encoding="base64">cGFydGljaXBhbnQgU1AK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGRkQENvbnRleHRDb25maWd1cmF0aW9uKCkK</text>
+        <text encoding="base64">J1NQIC0+IFVBIDogUmVkaXJlY3QgdG8gL29hdXRoL2F1dGhvcml6ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25Qcm9wZXJ0eSh2YWx1ZSA9ICJzZWFsT25lLmVuYWJsZWQiLCBtYXRjaElmTWlzc2luZyA9IHRydWUpCg==</text>
+        <text encoding="base64">QHN0YXJ0dW1sCnBhcnRpY2lwYW50IFVzZXIKcGFydGljaXBhbnQgU1AKcGFydGljaXBhbnQgRkUKcGFydGljaXBhbnQgQkUKCgpVc2VyIC0+IFNQIDogZW5hYmxlIDJGQWFhUwpTUCAtPiBGRSA6IENyZWF0ZSAyRkEtb25seSBcbmFjY291bnQgKHBob25lIG51bWJlcikKRkUgLT4gQkUgOiBjcmVhdGUgMkZBLW9ubHkgKHVzaW5nIHBob25lIG51bWJlcikKCgpAZW5kdW1sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc2VjdXJpdHkuS2V5RXhjZXB0aW9uOwppbXBvcnQgamF2YS5zZWN1cml0eS5pbnRlcmZhY2VzLlJTQVB1YmxpY0tleTsK</text>
+        <text encoding="base64">VXNlciAtPiBGRSA6IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLmNvbmRpdGlvbi5Db25kaXRpb25hbE9uUmVzb3VyY2U7Cg==</text>
+        <text encoding="base64">VXNlciAtPiBGRSA6IENyZWF0ZSAyRkEtb25seSBcbmFjY291bnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLmNvbmRpdGlvbi5Db25kaXRpb25hbE9uRXhwcmVzc2lvbjsK</text>
+        <text encoding="base64">VUEgLT4gRkUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbmRpdGlvbmFsOwo=</text>
+        <text encoding="base64">cGFydGljaXBhbnQgU1AK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbGVQcm92aWRlci5jbGFzcywK</text>
+        <text encoding="base64">cGFydGljaXBhbnQgVUEK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -499,27 +500,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tb25FcnJvckhhbmRsZXIuY2xhc3MsCg==</text>
+        <text encoding="base64">ZGRkQENvbnRleHRDb25maWd1cmF0aW9uKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbGVQcm92aWRlci5jbGFzcywK</text>
+        <text encoding="base64">QENvbmRpdGlvbmFsT25Qcm9wZXJ0eSh2YWx1ZSA9ICJzZWFsT25lLmVuYWJsZWQiLCBtYXRjaElmTWlzc2luZyA9IHRydWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>+39t-1</text>
       </register>
     </registers>
     <search>
-      <last-search>import</last-search>
+      <last-search>redirect</last-search>
       <last-offset />
-      <last-pattern>import</last-pattern>
+      <last-pattern>redirect</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuRmFjdG9yT3BlcmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxkZWxldGVJbnRlcmFjdGlvblw+</entry>
         <entry encoding="base64">XDxuZmFDb25maXJtYXRpb25UZXh0XD4=</entry>
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
@@ -539,6 +539,7 @@
         <entry>response</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry>import</entry>
+        <entry>redirect</entry>
       </history-search>
       <history-cmd>
         <entry>%s/;$//</entry>
