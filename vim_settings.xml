@@ -644,11 +644,12 @@
       <file name="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/sql/hydra_2_hydra_client_template.sql" timestamp="1558420492979">
         <mark key="'" line="47" column="469" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.puml" timestamp="1560772803209">
-        <mark key="'" line="11" column="15" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.puml" timestamp="1560775659500">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="10" column="14" />
       </file>
       <file name="$USER_HOME$/sd/spodddify/axon-spodddify/build.gradle" timestamp="1557387364679">
         <mark key="'" line="32" column="7" />
@@ -785,9 +786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="20" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="173" column="20" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="177" column="20" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="178" column="20" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="278" column="41" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="12" column="21" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
@@ -885,40 +883,43 @@
       <jump line="10" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.puml" />
       <jump line="45" column="12" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/userstatus/UserStatusDescriptor.java" />
       <jump line="11" column="31" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/userstatus/UserStatusDescriptor.java" />
+      <jump line="11" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.puml" />
+      <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.puml" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgIkh5ZHJhLXByb3h5IiBhcyBIUAo=</text>
+        <text encoding="base64">QHN0YXJ0dW1sCnBhcnRpY2lwYW50ICJVc2VyIGFnZW50IiBhcyBVCnBhcnRpY2lwYW50ICJBcGkgZ2F0ZXdheSIgYXMgQVBJCnBhcnRpY2lwYW50ICJGcm9udGVuZCIgYXMgRkUKcGFydGljaXBhbnQgIklkZW50aXR5IG93bmVyIHNlcnZpY2UiIGFzIElPCgpVIC0+IEFQSSA6IENvbmZpZ3VyZSAyRkEgcmVxdWVzdApBUEkgLT4gQVBJIDogVmVyaWZ5IHVzZXInc1xuZW5kcG9pbnQgcGVybWlzc2lvbgpBUEkgLT4gRkUgOiBDb25maWd1cmUgMkZBIHJlcXVlc3QKRkUgLT4gSU8gOiBDcmVhdGUgMkZBLW9ubHkgdXNlcgpJTyAtPiBGRSA6IDIwMTogMkZBLW9ubHkgdXNlciBjcmVhdGVkCkZFIC0+IEFQSSAKQVBJIC0+IFUKCi4uLgpsb29wIGV2ZXJ5IG4gc2VjCklPIC0+IElPIDogZGVsZXRlIDJGQS1vbmx5XG51c2VycyB3aXRob3V0XG5saW5rYWdlXG5vbGRlciB0aGFuIG4gbWludXRlcwplbmQKCgpAZW5kdW1sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>FE</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDT0xVTU5fVEVNUE9SQVJZXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgIkZyb250ZW5kIiBhcyBGRQo=</text>
+      <register name="0" type="4">
+        <text>Configure 2FA request</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgIkh5ZHJhLXByb3h5IiBhcyBIUAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">cGFydGljaXBhbnQgIlNlY3VyaXR5IHNlcnZpY2UiIGFzIFNTCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">cGFydGljaXBhbnQgIkZyb250ZW5kIiBhcyBGRQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">U1MgLT4gSU8gOiBDcmVhdGUgMkZBLW9ubHkgdXNlcgo=</text>
+        <text encoding="base64">cGFydGljaXBhbnQgIkh5ZHJhLXByb3h5IiBhcyBIUAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgIklkZW50aXR5IG93bmVyIHNlcnZpY2UiIGFzIElPCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">J1ZNQSAtPiBWTUEgOiAyRkEgY29uZmlndXJlZAo=</text>
+        <text encoding="base64">cGFydGljaXBhbnQgIlNlY3VyaXR5IHNlcnZpY2UiIGFzIFNTCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgIlZlcmltaSBGRSIgYXMgVkZFCg==</text>
+        <text encoding="base64">U1MgLT4gSU8gOiBDcmVhdGUgMkZBLW9ubHkgdXNlcgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -934,10 +935,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgIlZlcmltaSBGRSIgYXMgVkZFCg==</text>
+        <text encoding="base64">cGFydGljaXBhbnQgIklkZW50aXR5IG93bmVyIHNlcnZpY2UiIGFzIElPCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgIlZlcmltaSBtb2JpbGUgYXBwIiBhcyBWTUEK</text>
+        <text encoding="base64">J1ZNQSAtPiBWTUEgOiAyRkEgY29uZmlndXJlZAo=</text>
       </register>
       <register name=":" type="4">
         <text>-31t-1</text>
