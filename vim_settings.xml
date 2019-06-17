@@ -360,7 +360,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="/dummy.sql" timestamp="1560773813535">
+      <file name="/dummy.sql" timestamp="1560776502053">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -548,6 +548,9 @@
       <file name="/postgres.payment_data.bank_codes [postgres@dev2]" timestamp="1558004271070">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/AuthenticationDetailsService.java" timestamp="1560776498192">
+        <mark key="'" line="34" column="63" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/test-frontend/src/test/java/com/dipp/frontendtest/smoketest/inlineRegistrationStartingFromLufthansaMockDataTransferWithDB.java" timestamp="1558521548102">
         <mark key="'" line="133" column="29" />
       </file>
@@ -592,6 +595,9 @@
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/NfaDiscontinuationController.java" timestamp="1559122061224">
         <mark key="'" line="48" column="6" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneMessageSender.java" timestamp="1560435378781">
+        <mark key="'" line="73" column="47" />
       </file>
       <file name="/postgres.serviceprovider.serviceprovider_document_verification_methods [postgres@devint2]" timestamp="1557921145345">
         <mark key="[" line="0" column="0" />
@@ -772,7 +778,7 @@
       <file name="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/service/dipp/DippService.java" timestamp="1558710660159">
         <mark key="'" line="214" column="12" />
       </file>
-      <file name="/postgres.session.session [postgres@devint]" timestamp="1560773812878">
+      <file name="/postgres.session.session [postgres@devint]" timestamp="1560776501585">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/postgres.documents.document [postgres@dev5]" timestamp="1557906864706">
@@ -786,8 +792,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="20" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="278" column="41" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="12" column="21" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
       <jump line="26" column="33" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneMessageSender.java" />
       <jump line="35" column="27" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneMessageSender.java" />
@@ -886,6 +890,8 @@
       <jump line="11" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.puml" />
       <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.puml" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.puml" />
+      <jump line="22" column="13" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/AuthenticationDetailsService.java" />
+      <jump line="34" column="63" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/AuthenticationDetailsService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -895,7 +901,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDT0xVTU5fVEVNUE9SQVJZXD4=</text>
+        <text>mobile</text>
       </register>
       <register name="0" type="4">
         <text>Configure 2FA request</text>
@@ -945,9 +951,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDT0xVTU5fVEVNUE9SQVJZXD4=</last-search>
+      <last-search>mobile</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDT0xVTU5fVEVNUE9SQVJZXD4=</last-pattern>
+      <last-pattern>mobile</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -955,7 +961,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxTVEFHRVw+</entry>
         <entry encoding="base64">XDxFTlZJUk9OTUVOVFw+</entry>
         <entry>import-data</entry>
@@ -975,6 +980,7 @@
         <entry>redirect</entry>
         <entry>h2</entry>
         <entry encoding="base64">XDxDT0xVTU5fVEVNUE9SQVJZXD4=</entry>
+        <entry>mobile</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\\n/\r/g</entry>
