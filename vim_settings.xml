@@ -455,10 +455,10 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560856079619">
+      <file name="/Dummy.txt" timestamp="1560862426085">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="59" />
+        <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build.gradle" timestamp="1557491608957">
@@ -665,11 +665,11 @@
         <mark key="^" line="1491" column="53" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" timestamp="1560438187904">
-        <mark key="'" line="30" column="88" />
-        <mark key="[" line="30" column="78" />
-        <mark key="]" line="30" column="106" />
-        <mark key="^" line="30" column="85" />
-        <mark key="." line="30" column="85" />
+        <mark key="'" line="31" column="88" />
+        <mark key="[" line="31" column="78" />
+        <mark key="]" line="31" column="106" />
+        <mark key="^" line="31" column="85" />
+        <mark key="." line="31" column="85" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/OpenIdConfigurationService.java" timestamp="1560854668163">
         <mark key="'" line="30" column="18" />
@@ -1093,11 +1093,11 @@
       <jump line="76" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QERhdGFKcGFUZXN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>provided initial configuration for test context</text>
       </register>
       <register name="-" type="4">
-        <text>Feign</text>
+        <text>provided initial configuration for test context</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
