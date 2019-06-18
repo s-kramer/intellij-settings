@@ -104,11 +104,11 @@
         <mark key="." line="12" column="61" />
         <mark key="^" line="12" column="61" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFAaaSRequestBase.java" timestamp="1560859712343">
-        <mark key="[" line="5" column="43" />
-        <mark key="]" line="38" column="21" />
-        <mark key="." line="38" column="21" />
-        <mark key="^" line="38" column="21" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFAaaSRequestBase.java" timestamp="1560864595695">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="53" column="21" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/application-test.properties" timestamp="1560841858565">
         <mark key="'" line="9" column="0" />
@@ -455,8 +455,8 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560862426085">
-        <mark key="[" line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1560864556528">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="8" />
@@ -1093,8 +1093,8 @@
       <jump line="76" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>provided initial configuration for test context</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbXBvbmVudFNjYW47Cg==</text>
       </register>
       <register name="-" type="4">
         <text>provided initial configuration for test context</text>
@@ -1106,25 +1106,25 @@
         <text encoding="base64">ICAgIEBCZWFuCiAgICBDb250YWN0Q29udHJvbGxlckRlcHJlY2F0ZWRBcGlDbGllbnQgY29udGFjdENvbnRyb2xsZXJEZXByZWNhdGVkQXBpQ2xpZW50KCkgewogICAgICAgIHJldHVybiBNb2NraXRvLm1vY2soQ29udGFjdENvbnRyb2xsZXJEZXByZWNhdGVkQXBpQ2xpZW50LmNsYXNzKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QERhdGFKcGFUZXN0Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbXBvbmVudFNjYW47Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC50ZXN0LmF1dG9jb25maWd1cmUub3JtLmpwYS5EYXRhSnBhVGVzdDsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC50ZXN0LmF1dG9jb25maWd1cmUuamRiYy5BdXRvQ29uZmlndXJlVGVzdERhdGFiYXNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEVtYWlsQ29udHJvbGxlckRlcHJlY2F0ZWRBcGlDbGllbnQK</text>
+        <text encoding="base64">QEF1dG9Db25maWd1cmVUZXN0RGF0YWJhc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">QERhdGFKcGFUZXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAxOC4wNi4xOSAxMzowOAogKi8K</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICJ1c2VyQ29uZmlndXJhdGlvbi5lbmFibGVkPWZhbHNlIiwK</text>
+        <text encoding="base64">ICAgIEVtYWlsQ29udHJvbGxlckRlcHJlY2F0ZWRBcGlDbGllbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC5jb250ZXh0LkNvbnRleHRDb25maWd1cmF0aW9uOwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1140,10 +1140,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbXBvbmVudFNjYW5zOwo=</text>
+        <text encoding="base64">LyoqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAxOC4wNi4xOSAxMzowOAogKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25Qcm9wZXJ0eSh2YWx1ZSA9ICJ1c2VyQ29uZmlndXJhdGlvbi5lbmFibGVkIiwgbWF0Y2hJZk1pc3NpbmcgPSB0cnVlKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICJ1c2VyQ29uZmlndXJhdGlvbi5lbmFibGVkPWZhbHNlIiwK</text>
       </register>
       <register name=":" type="4">
         <text>-34t-1</text>
