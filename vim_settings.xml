@@ -104,10 +104,10 @@
         <mark key="." line="12" column="61" />
         <mark key="^" line="12" column="61" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFAaaSRequestBase.java" timestamp="1560864595695">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFAaaSRequestBase.java" timestamp="1560865231210">
+        <mark key="[" line="29" column="48" />
+        <mark key="]" line="29" column="48" />
+        <mark key="." line="29" column="48" />
         <mark key="^" line="53" column="21" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/application-test.properties" timestamp="1560841858565">
@@ -455,11 +455,10 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560864556528">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="54" />
-        <mark key="." line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1560866106416">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build.gradle" timestamp="1557491608957">
         <mark key="'" line="137" column="46" />
@@ -719,11 +718,11 @@
         <mark key="." line="16" column="62" />
         <mark key="^" line="16" column="62" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/FeignClientMockConfiguration.java" timestamp="1560856434299">
-        <mark key="[" line="25" column="59" />
-        <mark key="]" line="25" column="64" />
-        <mark key="." line="25" column="64" />
-        <mark key="^" line="25" column="64" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/FeignClientMockConfiguration.java" timestamp="1560865800671">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="24" column="64" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/AuthenticationDetailsService.java" timestamp="1560776498192">
         <mark key="'" line="34" column="63" />
@@ -1093,11 +1092,11 @@
       <jump line="76" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbXBvbmVudFNjYW47Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_enable_requesting_2faas</text>
       </register>
       <register name="-" type="4">
-        <text>provided initial configuration for test context</text>
+        <text>_enable_requesting_2faas</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1106,25 +1105,25 @@
         <text encoding="base64">ICAgIEBCZWFuCiAgICBDb250YWN0Q29udHJvbGxlckRlcHJlY2F0ZWRBcGlDbGllbnQgY29udGFjdENvbnRyb2xsZXJEZXByZWNhdGVkQXBpQ2xpZW50KCkgewogICAgICAgIHJldHVybiBNb2NraXRvLm1vY2soQ29udGFjdENvbnRyb2xsZXJEZXByZWNhdGVkQXBpQ2xpZW50LmNsYXNzKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbXBvbmVudFNjYW47Cg==</text>
+        <text encoding="base64">CgpWRC0xMjA3IGluaXRpYWwgc2VjdXJpdHktc2VydmljZSBzZXR1cCBmb3IgaW50ZWdyYXRpb24gdGVzdHMKCgpWRC0xMjA3IHByb3ZpZGVkIGluaXRpYWwgY29uZmlndXJhdGlvbiBmb3IgdGVzdCBjb250ZXh0CgoKVkQtMTIwNyBpbml0aWFsIGZlaWduIGNsaWVudHMgbW9ja3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC50ZXN0LmF1dG9jb25maWd1cmUub3JtLmpwYS5EYXRhSnBhVGVzdDsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC50ZXN0LmF1dG9jb25maWd1cmUuamRiYy5BdXRvQ29uZmlndXJlVGVzdERhdGFiYXNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEF1dG9Db25maWd1cmVUZXN0RGF0YWJhc2UK</text>
+        <text encoding="base64">CmZpeGVkIGlkIGRlc2NyaXB0b3IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QERhdGFKcGFUZXN0Cg==</text>
+        <text encoding="base64">aW5pdGlhbCBwcm9wb3NhbCBmb3Igc2VydmVyLXNpZGUgZ2VuZXJhdGVkIDJGQSBpZHMKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2s7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEVtYWlsQ29udHJvbGxlckRlcHJlY2F0ZWRBcGlDbGllbnQK</text>
+        <text encoding="base64">ICAgICAgICAiZW52aXJvbm1lbnRQcm9wZXJ0aWVzLmhvc3Q9bG9jYWxob3N0IiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbXBvbmVudFNjYW47Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1140,10 +1139,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAxOC4wNi4xOSAxMzowOAogKi8K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC50ZXN0LmF1dG9jb25maWd1cmUub3JtLmpwYS5EYXRhSnBhVGVzdDsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC50ZXN0LmF1dG9jb25maWd1cmUuamRiYy5BdXRvQ29uZmlndXJlVGVzdERhdGFiYXNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICJ1c2VyQ29uZmlndXJhdGlvbi5lbmFibGVkPWZhbHNlIiwK</text>
+        <text encoding="base64">QEF1dG9Db25maWd1cmVUZXN0RGF0YWJhc2UK</text>
       </register>
       <register name=":" type="4">
         <text>-34t-1</text>
