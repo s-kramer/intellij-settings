@@ -147,8 +147,8 @@
         <mark key="." line="83" column="1837" />
         <mark key="^" line="83" column="1837" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" timestamp="1560855890258">
-        <mark key="'" line="38539" column="32" />
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" timestamp="1560940014801">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="38353" column="29" />
         <mark key="]" line="38353" column="70" />
         <mark key="." line="38678" column="16" />
@@ -448,6 +448,9 @@
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingServiceSpec.groovy" timestamp="1558701285392">
         <mark key="'" line="27" column="39" />
+      </file>
+      <file name="/postgres.nfactor_authentication.nfactor_authentication [postgres@devint]" timestamp="1560940247290">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java" timestamp="1557821485694">
         <mark key="'" line="0" column="0" />
@@ -904,7 +907,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1560776502053">
+      <file name="/dummy.sql" timestamp="1560940248125">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1004,8 +1007,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="13" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/AuthenticationDetailsService.java" />
-      <jump line="34" column="63" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/AuthenticationDetailsService.java" />
       <jump line="118" column="36" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
       <jump line="5" column="29" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/application-test.properties" />
       <jump line="8" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/application-test.properties" />
@@ -1104,6 +1105,8 @@
       <jump line="2629" column="2" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="1965" column="8" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/build/contract/swagger.yaml" />
       <jump line="2780" column="35" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/build/contract/swagger.yaml" />
+      <jump line="38353" column="29" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="3" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1113,7 +1116,7 @@
         <text>initial feign clients mocks</text>
       </register>
       <register name="/" type="4">
-        <text>inlineregistrationrequest</text>
+        <text>consent-nfa-status</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBCZWFuCiAgICBDb250YWN0Q29udHJvbGxlckRlcHJlY2F0ZWRBcGlDbGllbnQgY29udGFjdENvbnRyb2xsZXJEZXByZWNhdGVkQXBpQ2xpZW50KCkgewogICAgICAgIHJldHVybiBNb2NraXRvLm1vY2soQ29udGFjdENvbnRyb2xsZXJEZXByZWNhdGVkQXBpQ2xpZW50LmNsYXNzKTsKICAgIH0K</text>
@@ -1163,9 +1166,9 @@
       </register>
     </registers>
     <search>
-      <last-search>inlineregistrationrequest</last-search>
+      <last-search>consent-nfa-status</last-search>
       <last-offset />
-      <last-pattern>inlineregistrationrequest</last-pattern>
+      <last-pattern>consent-nfa-status</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -1173,7 +1176,6 @@
     </search>
     <history>
       <history-search>
-        <entry>h2</entry>
         <entry>kafka</entry>
         <entry>encryp</entry>
         <entry>component</entry>
@@ -1193,6 +1195,7 @@
         <entry encoding="base64">XDxEZXRhaWxcPg==</entry>
         <entry encoding="base64">XDxUd29GQWFhU1JlcXVlc3RcPg==</entry>
         <entry>inlineregistrationrequest</entry>
+        <entry>consent-nfa-status</entry>
       </history-search>
       <history-cmd>
         <entry>%s/producer/server/g</entry>
