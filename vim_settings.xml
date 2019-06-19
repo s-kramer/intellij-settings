@@ -24,6 +24,9 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="28" column="7" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/build/contract/swagger.yaml" timestamp="1560928425680">
+        <mark key="'" line="1965" column="8" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/net/minidev/json-smart/2.3/json-smart-2.3-sources.jar!/net/minidev/json/JSONObject.java" timestamp="1560854519020">
         <mark key="'" line="83" column="23" />
       </file>
@@ -407,6 +410,13 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/run-stub.sh" timestamp="1559300597527">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" timestamp="1560928370371">
+        <mark key="'" line="2629" column="2" />
+        <mark key="[" line="2637" column="31" />
+        <mark key="]" line="2639" column="14" />
+        <mark key="." line="2637" column="43" />
+        <mark key="^" line="2639" column="14" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/97d33e6f-5a57-4386-a53f-111264649dcf/console.sql" timestamp="1557998416346">
         <mark key="[" line="2" column="211" />
         <mark key="]" line="3" column="0" />
@@ -455,11 +465,11 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560868023110">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="0" column="104" />
+      <file name="/Dummy.txt" timestamp="1560928831241">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="34" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build.gradle" timestamp="1557491608957">
         <mark key="'" line="137" column="46" />
@@ -997,14 +1007,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_55.puml" />
-      <jump line="18" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_55.puml" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_55.puml" />
-      <jump line="10" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.puml" />
-      <jump line="45" column="12" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/userstatus/UserStatusDescriptor.java" />
-      <jump line="11" column="31" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/userstatus/UserStatusDescriptor.java" />
-      <jump line="11" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.puml" />
-      <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.puml" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.puml" />
       <jump line="22" column="13" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/AuthenticationDetailsService.java" />
       <jump line="34" column="63" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/AuthenticationDetailsService.java" />
@@ -1097,16 +1099,24 @@
       <jump line="76" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
       <jump line="1" column="0" filename="/Dummy.txt" />
       <jump line="40" column="113" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/inlineregistration/TemporaryUserExpiredSessionCleanup.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/build/contract/swagger.yaml" />
+      <jump line="1763" column="8" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/build/contract/swagger.yaml" />
+      <jump line="60" column="16" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
+      <jump line="2637" column="31" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
+      <jump line="2625" column="2" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
+      <jump line="1769" column="33" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
+      <jump line="2629" column="2" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
+      <jump line="1965" column="8" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/build/contract/swagger.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>initial feign clients mocks</text>
       </register>
       <register name="-" type="4">
-        <text>Service</text>
+        <text>initial feign clients mocks</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>inlineregistrationrequest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBCZWFuCiAgICBDb250YWN0Q29udHJvbGxlckRlcHJlY2F0ZWRBcGlDbGllbnQgY29udGFjdENvbnRyb2xsZXJEZXByZWNhdGVkQXBpQ2xpZW50KCkgewogICAgICAgIHJldHVybiBNb2NraXRvLm1vY2soQ29udGFjdENvbnRyb2xsZXJEZXByZWNhdGVkQXBpQ2xpZW50LmNsYXNzKTsKICAgIH0K</text>
@@ -1156,9 +1166,9 @@
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>inlineregistrationrequest</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>inlineregistrationrequest</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -1166,10 +1176,6 @@
     </search>
     <history>
       <history-search>
-        <entry>import</entry>
-        <entry>redirect</entry>
-        <entry encoding="base64">XDxDT0xVTU5fVEVNUE9SQVJZXD4=</entry>
-        <entry>mobile</entry>
         <entry>h2</entry>
         <entry>kafka</entry>
         <entry>encryp</entry>
@@ -1186,6 +1192,10 @@
         <entry>sealone</entry>
         <entry encoding="base64">XDxlbnZpcm9ubWVudFByb3BlcnRpZXNcPg==</entry>
         <entry>user</entry>
+        <entry>2faaas</entry>
+        <entry encoding="base64">XDxEZXRhaWxcPg==</entry>
+        <entry encoding="base64">XDxUd29GQWFhU1JlcXVlc3RcPg==</entry>
+        <entry>inlineregistrationrequest</entry>
       </history-search>
       <history-cmd>
         <entry>%s/producer/server/g</entry>
