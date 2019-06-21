@@ -241,11 +241,11 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561113821182">
+      <file name="/Dummy.txt" timestamp="1561118261167">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="36" />
+        <mark key="^" line="0" column="29" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/ConsentNfaStatusService.java" timestamp="1558959224670">
         <mark key="'" line="147" column="19" />
@@ -457,12 +457,12 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/common/api/client/feign/configuration/ClientErrorGenericDecoder.java" timestamp="1557735872414">
         <mark key="'" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" timestamp="1561115437680">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="107" column="46" />
-        <mark key="]" line="107" column="52" />
-        <mark key="^" line="107" column="52" />
-        <mark key="." line="107" column="52" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" timestamp="1561118251781">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="106" column="52" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" timestamp="1561108602555">
         <mark key="[" line="42" column="0" />
@@ -633,10 +633,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>times(0)</text>
+        <text>removed redundant mock</text>
       </register>
       <register name="-" type="4">
-        <text>times(0)</text>
+        <text>removed redundant mock</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXROZmFPcGVyYXRpb25TdGF0dXNcPg==</text>
@@ -644,26 +644,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzaG91bGRSZXR1cm5GYWlsdXJlQW5kUmVtb3ZlSW50ZXJhY3Rpb25XaGVuVHdvRmFSZXBvcnRzRmFpbHVyZSgpIHsKICAgICAgICBleHBlY3RTdWNjZXNzZnVsVHdvRmFhYXNJbnRlcmFjdGlvbkZldGNoKCk7CiAgICAgICAgZXhwZWN0RmFpbGVkTkZhY3RvckF1dGhlbnRpY2F0aW9uRmV0Y2goKTsKCiAgICAgICAgVHdvRmFhYXNTdGF0dXNRdWVyeVJlc3VsdCByZXNwb25zZSA9IHVuaXRVbmRlclRlc3QuZ2V0VHdvRkFhYVNTdGF0dXMoVFdPRkFBQVNfSUQpOwoKICAgICAgICBhc3NlcnRUaGF0KHJlc3BvbnNlLmdldFR3b0ZhYWFzU3RhdHVzKCkpLmlzRXF1YWxCeUNvbXBhcmluZ1RvKFR3b0ZhYWFzU3RhdHVzUXVlcnlSZXN1bHQuVHdvRmFhYXNTdGF0dXMuRkFJTFVSRSk7CiAgICAgICAgdmVyaWZ5KHR3b0ZhYWFzSW50ZXJhY3Rpb25SZXBvc2l0b3J5KS5kZWxldGUoVFdPRkFBQVNfSUQpOwogICAgfQoK</text>
       </register>
-      <register name="1" type="4">
-        <text>times(0)</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLnRpbWVzOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>times(0)</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oIlVuZXhwZWN0ZWQgdmFsdWU6ICIgKyBvcGVyYXRpb25TdGF0dXMpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RORmFjdG9yQXV0aGVudGljYXRpb25Ob3RGb3VuZCgpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oIlVuZXhwZWN0ZWQgdmFsdWU6ICIgKyBvcGVyYXRpb25TdGF0dXMpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBleHBlY3RORmFjdG9yQXV0aGVudGljYXRpb25Ob3RGb3VuZCgpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHN0YXR1c1F1ZXJ5UmVzdWx0LmdldFR3b0ZhYWFzU3RhdHVzKCkpLmlzRXF1YWxUbyhOT1RfRk9VTkQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -679,10 +679,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHN0YXR1c1F1ZXJ5UmVzdWx0LmdldFR3b0ZhYWFzU3RhdHVzKCkpLmlzRXF1YWxUbyhOT1RfRk9VTkQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>-34t-1</text>
