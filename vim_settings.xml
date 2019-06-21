@@ -59,6 +59,12 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/userstatus/UserStatusDescriptor.java" timestamp="1560773340702">
         <mark key="'" line="11" column="31" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/domain/nfauthentication/TwoFAaaSInteraction.java" timestamp="1561121560017">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_51.puml" timestamp="1559296634243">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="6" />
@@ -81,11 +87,11 @@
         <mark key="." line="12" column="61" />
         <mark key="^" line="12" column="61" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFAaaSRequestBase.java" timestamp="1560865231210">
-        <mark key="[" line="29" column="48" />
-        <mark key="]" line="29" column="48" />
-        <mark key="." line="29" column="48" />
-        <mark key="^" line="53" column="21" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFAaaSRequestBase.java" timestamp="1561120527567">
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="30" column="35" />
+        <mark key="." line="30" column="35" />
+        <mark key="^" line="30" column="46" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/.gitignore" timestamp="1558685294410">
         <mark key="'" line="121" column="0" />
@@ -162,6 +168,10 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" timestamp="1557821533894">
         <mark key="'" line="40" column="71" />
       </file>
+      <file name="$USER_HOME$/.sdkman/candidates/java/current/src.zip!/java/lang/String.java" timestamp="1561120387508">
+        <mark key="[" line="1966" column="22" />
+        <mark key="]" line="1966" column="52" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/deutschebank-mock.yaml" timestamp="1558015889374">
         <mark key="[" line="26" column="19" />
         <mark key="]" line="26" column="21" />
@@ -173,11 +183,6 @@
         <mark key="]" line="134" column="60" />
         <mark key="." line="134" column="60" />
         <mark key="^" line="134" column="27" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/config/UserLockoutConfiguration.java" timestamp="1560855948977">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v1.0.xml" timestamp="1559138848152">
         <mark key="'" line="47" column="0" />
@@ -227,11 +232,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageService.java" timestamp="1560946683110">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-      </file>
       <file name="/dummy.sql" timestamp="1561104803853">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -241,11 +241,11 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561118261167">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="29" />
+      <file name="/Dummy.txt" timestamp="1561120605191">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="26" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/ConsentNfaStatusService.java" timestamp="1558959224670">
         <mark key="'" line="147" column="19" />
@@ -265,22 +265,12 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingService.java" timestamp="1557912496915">
         <mark key="'" line="75" column="37" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/bootstrap.yml" timestamp="1560841935364">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v0.95.xml" timestamp="1561112233362">
         <mark key="'" line="303" column="12" />
         <mark key="[" line="300" column="26" />
         <mark key="]" line="300" column="65" />
         <mark key="." line="300" column="65" />
         <mark key="^" line="300" column="65" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_52.puml" timestamp="1560422902552">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/gradle.properties" timestamp="1557491223340">
         <mark key="[" line="4" column="28" />
@@ -291,31 +281,17 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/converter/ResponseConverter.java" timestamp="1561112757991">
         <mark key="'" line="24" column="64" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwoFAaaSController.java" timestamp="1560844298298">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwoFARequest.java" timestamp="1560505206775">
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwoFARequest.java" timestamp="1561120088523">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/PrerequisitesService.java" timestamp="1556632971902">
         <mark key="[" line="33" column="21" />
         <mark key="]" line="33" column="31" />
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/Application.java" timestamp="1560856060555">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/config/jdbc/JDBCAuthenticationRepositoryConfiguration.java" timestamp="1560842585524">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/Application.java" timestamp="1557349001064">
         <mark key="[" line="10" column="22" />
@@ -394,9 +370,6 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingServiceSpec.groovy" timestamp="1558701285392">
         <mark key="'" line="27" column="39" />
       </file>
-      <file name="/postgres.nfactor_authentication.nfactor_authentication [postgres@devint]" timestamp="1561104800726">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwoFaaasControllerApiDelegateImpl.java" timestamp="1561111559993">
         <mark key="[" line="28" column="83" />
         <mark key="]" line="28" column="82" />
@@ -473,11 +446,6 @@
       <file name="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/sql/hydra_2_hydra_client_template.sql" timestamp="1558420492979">
         <mark key="'" line="47" column="469" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwoFARequestDetail.java" timestamp="1560505208679">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/sd/spodddify/axon-spodddify/build.gradle" timestamp="1557387364679">
         <mark key="'" line="32" column="7" />
       </file>
@@ -516,11 +484,6 @@
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="8" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/config/jdbc/JDBCEidTransactionRepositoryConfiguration.java" timestamp="1560842744584">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/java/com/dipp/serviceprovider/service/dipp/DippService.java" timestamp="1558710660159">
         <mark key="'" line="214" column="12" />
@@ -633,10 +596,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>removed redundant mock</text>
+        <text>Data</text>
       </register>
       <register name="-" type="4">
-        <text>removed redundant mock</text>
+        <text>Data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXROZmFPcGVyYXRpb25TdGF0dXNcPg==</text>
@@ -645,25 +608,25 @@
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzaG91bGRSZXR1cm5GYWlsdXJlQW5kUmVtb3ZlSW50ZXJhY3Rpb25XaGVuVHdvRmFSZXBvcnRzRmFpbHVyZSgpIHsKICAgICAgICBleHBlY3RTdWNjZXNzZnVsVHdvRmFhYXNJbnRlcmFjdGlvbkZldGNoKCk7CiAgICAgICAgZXhwZWN0RmFpbGVkTkZhY3RvckF1dGhlbnRpY2F0aW9uRmV0Y2goKTsKCiAgICAgICAgVHdvRmFhYXNTdGF0dXNRdWVyeVJlc3VsdCByZXNwb25zZSA9IHVuaXRVbmRlclRlc3QuZ2V0VHdvRkFhYVNTdGF0dXMoVFdPRkFBQVNfSUQpOwoKICAgICAgICBhc3NlcnRUaGF0KHJlc3BvbnNlLmdldFR3b0ZhYWFzU3RhdHVzKCkpLmlzRXF1YWxCeUNvbXBhcmluZ1RvKFR3b0ZhYWFzU3RhdHVzUXVlcnlSZXN1bHQuVHdvRmFhYXNTdGF0dXMuRkFJTFVSRSk7CiAgICAgICAgdmVyaWZ5KHR3b0ZhYWFzSW50ZXJhY3Rpb25SZXBvc2l0b3J5KS5kZWxldGUoVFdPRkFBQVNfSUQpOwogICAgfQoK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIFR3b0ZBUmVxdWVzdCBpbXBsZW1lbnRzIFNlcmlhbGl6YWJsZSB7Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLnRpbWVzOwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>times(0)</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oIlVuZXhwZWN0ZWQgdmFsdWU6ICIgKyBvcGVyYXRpb25TdGF0dXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RORmFjdG9yQXV0aGVudGljYXRpb25Ob3RGb3VuZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oIlVuZXhwZWN0ZWQgdmFsdWU6ICIgKyBvcGVyYXRpb25TdGF0dXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RORmFjdG9yQXV0aGVudGljYXRpb25Ob3RGb3VuZCgpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -679,10 +642,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHN0YXR1c1F1ZXJ5UmVzdWx0LmdldFR3b0ZhYWFzU3RhdHVzKCkpLmlzRXF1YWxUbyhOT1RfRk9VTkQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHN0YXR1c1F1ZXJ5UmVzdWx0LmdldFR3b0ZhYWFzU3RhdHVzKCkpLmlzRXF1YWxUbyhOT1RfRk9VTkQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>-34t-1</text>
