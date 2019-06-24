@@ -109,8 +109,8 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" timestamp="1561367691889">
-        <mark key="'" line="56" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" timestamp="1561368888627">
+        <mark key="'" line="48" column="13" />
         <mark key="[" line="54" column="77" />
         <mark key="]" line="54" column="84" />
         <mark key="^" line="54" column="84" />
@@ -413,7 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="64" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/converter/ResponseConverter.java" />
       <jump line="98" column="32" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
       <jump line="18" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryService.java" />
       <jump line="13" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
@@ -513,6 +512,7 @@
       <jump line="95" column="4" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/repository/mobileconnect/state/JDBCMobileConnectStateRepositoryIntegrationTest.java" />
       <jump line="82" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/inlineregistration/MobileVerificationControllerIT.java" />
       <jump line="56" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
+      <jump line="48" column="13" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/resources/contracts/shouldRequest2Fa.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
