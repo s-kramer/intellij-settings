@@ -743,12 +743,12 @@
         <mark key="." line="2" column="85" />
         <mark key="^" line="2" column="85" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" timestamp="1561454973113">
-        <mark key="'" line="399" column="2" />
-        <mark key="[" line="399" column="17" />
-        <mark key="]" line="399" column="19" />
-        <mark key="." line="399" column="19" />
-        <mark key="^" line="399" column="19" />
+      <file name="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" timestamp="1561455958216">
+        <mark key="'" line="373" column="33" />
+        <mark key="[" line="1994" column="0" />
+        <mark key="]" line="1994" column="0" />
+        <mark key="." line="1994" column="0" />
+        <mark key="^" line="1991" column="10" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/dipp-initdb-base/README.md" timestamp="1559310114361">
         <mark key="'" line="7" column="17" />
@@ -960,7 +960,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="66" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
       <jump line="54" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
       <jump line="64" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
       <jump line="75" column="28" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
@@ -1060,40 +1059,41 @@
       <jump line="396" column="55" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="434" column="55" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="357" column="2" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
+      <jump line="373" column="33" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZW1haWw6CiAgICAgICAgdHlwZTogc3RyaW5nCg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>Anonymous</text>
       </register>
       <register name="/" type="4">
-        <text>authenticate</text>
+        <text encoding="base64">XDxBbm9ueW1vdXNBdXRoZW50aWNhdGlvblJlcXVlc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvaW50ZXJuYWwvdXNlci9hbm9ueW1vdXMvYXV0aGVudGljYXRpb246CiAgICBwb3N0OgogICAgICB0YWdzOgogICAgICAgIC0gYXV0aGVudGljYXRpb24tY29udHJvbGxlcgogICAgICBzdW1tYXJ5OiBBdXRoZW50aWNhdGlvbgogICAgICBvcGVyYXRpb25JZDogYW5vbnltb3VzQXV0aGVudGljYXRpb24KICAgICAgY29uc3VtZXM6CiAgICAgICAgLSBhcHBsaWNhdGlvbi9qc29uCiAgICAgIHByb2R1Y2VzOgogICAgICAgIC0gYXBwbGljYXRpb24vanNvbgogICAgICBwYXJhbWV0ZXJzOgogICAgICAgIC0gbmFtZTogYW5vbnltb3VzQXV0aGVudGljYXRpb25SZXF1ZXN0CiAgICAgICAgICBpbjogYm9keQogICAgICAgICAgZGVzY3JpcHRpb246IEFub255bW91cyBBdXRoZW50aWNhdGlvbiByZXF1ZXN0LgogICAgICAgICAgcmVxdWlyZWQ6IHRydWUKICAgICAgICAgIHNjaGVtYToKICAgICAgICAgICAgJHJlZjogIiMvZGVmaW5pdGlvbnMvQW5vbnltb3VzQXV0aGVudGljYXRpb25SZXF1ZXN0IgogICAgICByZXNwb25zZXM6CiAgICAgICAgMjAwOgogICAgICAgICAgZGVzY3JpcHRpb246ICJHaXZlcyBiYWNrIGFuIGF1dGhvcml6YXRpb24gcmVzcG9uc2UuCiAgICAgICAgICAgIDx1bD4KICAgICAgICAgICAgPGxpPklmIGF1dGhlbnRpY2F0aW9uIHdhcyBzdWNjZXNzZnVsLjwvbGk+CiAgICAgICAgICAgIDwvdWw+IgogICAgICAgICAgc2NoZW1hOgogICAgICAgICAgICAkcmVmOiAiIy9kZWZpbml0aW9ucy9BdXRoZW50aWNhdGlvblJlc3BvbnNlIgogICAgICAgIDQwMDoKICAgICAgICAgIGRlc2NyaXB0aW9uOiAiQW55IHZhbGlkYXRpb24gZXJyb3Igb24gYXV0aGVudGljYXRpb24gZGF0YS48YnIvPgogICAgICAgICAgICA8dWw+CiAgICAgICAgICAgIDxsaT5FbXB0eSBlbWFpbCBhZGRyZXNzPC9saT4KICAgICAgICAgICAgPGxpPkVtcHR5IHBob25lTnVtYmVyPC9saT4KICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgIgogICAgICAgIDQwMToKICAgICAgICAgIGRlc2NyaXB0aW9uOiAiSGFwcGVucyBpbiB0aGUgZm9sbG93aW5nIGNhc2VzLjxici8+CiAgICAgICAgICAgIDx1bD4KICAgICAgICAgICAgPGxpPlByb3ZpZGVkIHVzZXIgY3JlZGVudGlhbHMgYXJlIG5vdCB2YWxpZDwvbGk+CiAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICIKICAgICAgICA1MDA6CiAgICAgICAgICBkZXNjcmlwdGlvbjogIkhhcHBlbnMgd2hlbiB1c2VyIHN1Y2Nlc3NmdWxseSBhdXRoZW50aWNhdGVkIGJ1dCB1c2VyIGlkZW50aWZpZXIgaXMgbWlzc2luZyBpbiB0aGUgc3lzdGVtLjxici8+IgoK</text>
+        <text encoding="base64">ICBBbm9ueW1vdXNBdXRoZW50aWNhdGlvblJlcXVlc3Q6CiAgICB0eXBlOiBvYmplY3QKICAgIHByb3BlcnRpZXM6CiAgICAgIGVtYWlsOgogICAgICAgIHR5cGU6IHN0cmluZwogICAgICBwaG9uZU51bWJlcjoKICAgICAgICB0eXBlOiBzdHJpbmcKICAgICAgZGV0YWlsczoKICAgICAgICAkcmVmOiAiIy9kZWZpbml0aW9ucy9BdXRoZW50aWNhdGlvbkRldGFpbHMiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBuYW1lOiB0d29mYS1vbmx5LWF1dGhvcml6YXRpb24tY29udHJvbGxlcgogIGRlc2NyaXB0aW9uOiBBdXRob3JpemF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgZW1haWw6CiAgICAgICAgdHlwZTogc3RyaW5nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgTGlzdDxORmFjdG9yQXV0aGVudGljYXRpb24+IGZpbmRCeVN0YXR1c0lzSW5BbmRSZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPkVtcHR5IGVtYWlsIGFkZHJlc3M8L2xpPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgTGlzdDxORmFjdG9yQXV0aGVudGljYXRpb24+IGZpbmRCeVMK</text>
+        <text encoding="base64">LSBuYW1lOiB0d29mYS1vbmx5LWF1dGhvcml6YXRpb24tY29udHJvbGxlcgogIGRlc2NyaXB0aW9uOiBBdXRob3JpemF0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U1MgLT4gSFAgOiBPVFAgY29ycmVjdAo=</text>
+        <text encoding="base64">ICAgIAogICAgTGlzdDxORmFjdG9yQXV0aGVudGljYXRpb24+IGZpbmRCeVN0YXR1c0lzSW5BbmRSZXF1ZXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SFAgLT4gU1MgOiB2ZXJpZnkgT1RQIGNvZGUK</text>
+        <text encoding="base64">ICAgIAogICAgTGlzdDxORmFjdG9yQXV0aGVudGljYXRpb24+IGZpbmRCeVMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SFAgLT4gRkUgOiBwZXJmb3JtIE9UUApGRSAtPiBGRSA6IE9UUApGRSAtPiBIUCA6IE9UUCBjb2RlIHNlbnQgYnkgdXNlcgo=</text>
+        <text encoding="base64">U1MgLT4gSFAgOiBPVFAgY29ycmVjdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RkUgLT4gSFAgOiAvb2F1dGgvYXV0aG9yaXplCg==</text>
+        <text encoding="base64">SFAgLT4gU1MgOiB2ZXJpZnkgT1RQIGNvZGUK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1109,19 +1109,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQK</text>
+        <text encoding="base64">SFAgLT4gRkUgOiBwZXJmb3JtIE9UUApGRSAtPiBGRSA6IE9UUApGRSAtPiBIUCA6IE9UUCBjb2RlIHNlbnQgYnkgdXNlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBJZ25vcmUK</text>
+        <text encoding="base64">RkUgLT4gSFAgOiAvb2F1dGgvYXV0aG9yaXplCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search>authenticate</last-search>
+      <last-search encoding="base64">XDxBbm9ueW1vdXNBdXRoZW50aWNhdGlvblJlcXVlc3RcPg==</last-search>
       <last-offset />
-      <last-pattern>authenticate</last-pattern>
+      <last-pattern encoding="base64">XDxBbm9ueW1vdXNBdXRoZW50aWNhdGlvblJlcXVlc3RcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -1129,7 +1129,6 @@
     </search>
     <history>
       <history-search>
-        <entry>twoFa</entry>
         <entry>interaction</entry>
         <entry>operation</entry>
         <entry>request</entry>
@@ -1149,6 +1148,7 @@
         <entry>frontend</entry>
         <entry>auth</entry>
         <entry>authenticate</entry>
+        <entry encoding="base64">XDxBbm9ueW1vdXNBdXRoZW50aWNhdGlvblJlcXVlc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s//\&quot;//g</entry>
