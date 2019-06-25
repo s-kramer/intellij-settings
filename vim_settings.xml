@@ -29,12 +29,12 @@
         <mark key="[" line="1750" column="0" />
         <mark key="]" line="1814" column="24" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1561463853020">
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1561471284050">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="58" />
-        <mark key="]" line="8" column="58" />
+        <mark key="[" line="8" column="57" />
+        <mark key="]" line="8" column="57" />
         <mark key="^" line="8" column="57" />
-        <mark key="." line="8" column="58" />
+        <mark key="." line="8" column="57" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/inlineregistration/MobileVerificationControllerIT.java" timestamp="1561367464916">
         <mark key="'" line="82" column="8" />
@@ -209,12 +209,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="85" column="26" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" timestamp="1561468795221">
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" timestamp="1561471383245">
         <mark key="'" line="195" column="38" />
-        <mark key="[" line="196" column="35" />
-        <mark key="]" line="196" column="45" />
-        <mark key="." line="196" column="45" />
-        <mark key="^" line="196" column="45" />
+        <mark key="[" line="194" column="28" />
+        <mark key="]" line="194" column="38" />
+        <mark key="." line="194" column="38" />
+        <mark key="^" line="194" column="38" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_46.puml" timestamp="1558518686192">
         <mark key="'" line="0" column="0" />
@@ -465,12 +465,12 @@
         <mark key="." line="31" column="38" />
         <mark key="^" line="31" column="38" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" timestamp="1561468170764">
-        <mark key="'" line="135" column="32" />
-        <mark key="[" line="97" column="69" />
-        <mark key="]" line="97" column="72" />
-        <mark key="." line="97" column="72" />
-        <mark key="^" line="97" column="72" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" timestamp="1561472978098">
+        <mark key="'" line="136" column="32" />
+        <mark key="[" line="98" column="98" />
+        <mark key="]" line="98" column="98" />
+        <mark key="." line="98" column="98" />
+        <mark key="^" line="98" column="86" />
       </file>
       <file name="/postgres.contact.phone [postgres@dev1]" timestamp="1561467812113">
         <mark key="[" line="0" column="0" />
@@ -798,16 +798,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>phoneNumber</text>
+        <text>, authentication</text>
       </register>
       <register name="-" type="4">
-        <text>phoneNumber</text>
+        <text>, authentication</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUd29mYU9ubHlBdXRoZW50aWNhdGlvbkRldGFpbHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcGhvbmVOdW1iZXI6CiAgICAgICAgdHlwZTogc3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGhvbmVOdW1iZXIgPSByZXF1ZXN0LmdldFBob25lTnVtYmVyKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBlbnVtOiBbU1VDQ0VTUywgUEVORElORywgRkFJTFVSRV0K</text>
