@@ -365,6 +365,9 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="24" column="64" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/NFAInteractionService.java" timestamp="1561449197291">
+        <mark key="'" line="44" column="74" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/config/EidAuthTransactionConfig.java" timestamp="1560844250491">
         <mark key="[" line="21" column="32" />
         <mark key="]" line="21" column="34" />
@@ -972,11 +975,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
-      <jump line="57" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
-      <jump line="40" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
-      <jump line="52" column="15" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
       <jump line="51" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
       <jump line="111" column="83" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
       <jump line="107" column="93" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
@@ -1072,6 +1070,11 @@
       <jump line="63" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasRequestCleanupTask.java" />
       <jump line="55" column="101" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasRequestCleanupTaskTest.java" />
       <jump line="34" column="38" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasRequestCleanupTaskTest.java" />
+      <jump line="46" column="27" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/NFAInteractionService.java" />
+      <jump line="47" column="27" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/NFAInteractionService.java" />
+      <jump line="51" column="72" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/NFAInteractionService.java" />
+      <jump line="56" column="16" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/NFAInteractionService.java" />
+      <jump line="44" column="74" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/NFAInteractionService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1081,7 +1084,7 @@
         <text>create 2FA-only user [login_challenge]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxURVJNSU5BVEVEX1NUQVRVU0VTXD4=</text>
+        <text encoding="base64">XDxjcmVhdGVJbnRlcmFjdGlvblJlcXVlc3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">RkUgLT4gSFAgOiBjcmVhdGUgMkZBLW9ubHkgdXNlciBbbG9naW5fY2hhbGxlbmdlXQo=</text>
@@ -1131,9 +1134,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxURVJNSU5BVEVEX1NUQVRVU0VTXD4=</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVJbnRlcmFjdGlvblJlcXVlc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxURVJNSU5BVEVEX1NUQVRVU0VTXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVJbnRlcmFjdGlvblJlcXVlc3RcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -1141,7 +1144,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcGVyYXRpb25JZFw+</entry>
         <entry encoding="base64">XDxnZXROZmFPcGVyYXRpb25TdGF0dXNcPg==</entry>
         <entry>code</entry>
         <entry encoding="base64">XDxhc3NlcnRUaGF0Q29kZVw+</entry>
@@ -1161,6 +1163,7 @@
         <entry encoding="base64">XDxuRmFjdG9yQXV0aGVudGljYXRpb25SZXBvc2l0b3J5XD4=</entry>
         <entry encoding="base64">XDxzZWFsT25lVHdvZmFhYXNSZXF1ZXN0UmVwb3NpdG9yeVw+</entry>
         <entry encoding="base64">XDxURVJNSU5BVEVEX1NUQVRVU0VTXD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVJbnRlcmFjdGlvblJlcXVlc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s//\&quot;//g</entry>
