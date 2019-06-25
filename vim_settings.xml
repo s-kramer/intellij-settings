@@ -438,6 +438,12 @@
         <mark key="^" line="27" column="35" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/nfauthentication/NFactorAuthenticationRepository.java" timestamp="1561442829070">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="28" column="57" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/verimi/domain/LoginPageNfaStatus.java" timestamp="1556359414771">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="20" column="28" />
@@ -903,6 +909,9 @@
         <mark key="." line="1190" column="20" />
         <mark key="^" line="1190" column="20" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasRequestCleanupTask.java" timestamp="1561443140338">
+        <mark key="'" line="63" column="8" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerierTest.java" timestamp="1561135754738">
         <mark key="'" line="132" column="0" />
       </file>
@@ -965,11 +974,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
-      <jump line="41" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
-      <jump line="49" column="11" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
       <jump line="83" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
       <jump line="47" column="16" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
       <jump line="91" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFaaasStatusQueryServiceTest.java" />
@@ -1065,40 +1069,45 @@
       <jump line="109" column="33" filename="$USER_HOME$/verimi-auth-verimi/import-export-service/build.gradle" />
       <jump line="63" column="25" filename="$USER_HOME$/verimi-auth-verimi/import-export-service/src/main/java/com/dipp/ImportExportApplication.java" />
       <jump line="46" column="0" filename="$USER_HOME$/verimi-auth-verimi/import-export-service/src/main/java/com/dipp/linkedprovider/controller/LinkedProviderDelegate.java" />
+      <jump line="35" column="38" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasRequestCleanupTask.java" />
+      <jump line="42" column="50" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasRequestCleanupTask.java" />
+      <jump line="57" column="18" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasRequestCleanupTask.java" />
+      <jump line="43" column="51" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasRequestCleanupTask.java" />
+      <jump line="63" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasRequestCleanupTask.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LURpZGUucHJvamVjdFZpZXcuc2hvdy52aXNpYmlsaXR5PXRydWUK</text>
+        <text encoding="base64">ICAgIAogICAgTGlzdDxORmFjdG9yQXV0aGVudGljYXRpb24+IGZpbmRCeVN0YXR1c0lzSW5BbmRSZXF1ZXN0Cg==</text>
       </register>
       <register name="-" type="4">
         <text>create 2FA-only user [login_challenge]</text>
       </register>
       <register name="/" type="4">
-        <text>connect</text>
+        <text encoding="base64">XDxzZWFsT25lVHdvZmFhYXNSZXF1ZXN0UmVwb3NpdG9yeVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">RkUgLT4gSFAgOiBjcmVhdGUgMkZBLW9ubHkgdXNlciBbbG9naW5fY2hhbGxlbmdlXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U1MgLT4gSFAgOiBPVFAgY29ycmVjdAo=</text>
+        <text encoding="base64">ICAgIAogICAgTGlzdDxORmFjdG9yQXV0aGVudGljYXRpb24+IGZpbmRCeVN0YXR1c0lzSW5BbmRSZXF1ZXN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SFAgLT4gU1MgOiB2ZXJpZnkgT1RQIGNvZGUK</text>
+        <text encoding="base64">ICAgIAogICAgTGlzdDxORmFjdG9yQXV0aGVudGljYXRpb24+IGZpbmRCeVMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SFAgLT4gRkUgOiBwZXJmb3JtIE9UUApGRSAtPiBGRSA6IE9UUApGRSAtPiBIUCA6IE9UUCBjb2RlIHNlbnQgYnkgdXNlcgo=</text>
+        <text encoding="base64">U1MgLT4gSFAgOiBPVFAgY29ycmVjdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RkUgLT4gSFAgOiAvb2F1dGgvYXV0aG9yaXplCg==</text>
+        <text encoding="base64">SFAgLT4gU1MgOiB2ZXJpZnkgT1RQIGNvZGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQK</text>
+        <text encoding="base64">SFAgLT4gRkUgOiBwZXJmb3JtIE9UUApGRSAtPiBGRSA6IE9UUApGRSAtPiBIUCA6IE9UUCBjb2RlIHNlbnQgYnkgdXNlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBJZ25vcmUK</text>
+        <text encoding="base64">RkUgLT4gSFAgOiAvb2F1dGgvYXV0aG9yaXplCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLnNlY3VyaXR5LnR3b2ZhYWFzLnN0YXR1cy5Ud29mYWFhc1N0YXR1c1F1ZXJ5UmVzdWx0Owo=</text>
+        <text encoding="base64">cGFydGljaXBhbnQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1113,30 +1122,27 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>.getTwofaaasQueryStatus()</text>
+      <register name="8" type="2">
+        <text encoding="base64">CUBJZ25vcmUK</text>
       </register>
-      <register name="9" type="4">
-        <text>.getTwofaaasQueryStatus()</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLnNlY3VyaXR5LnR3b2ZhYWFzLnN0YXR1cy5Ud29mYWFhc1N0YXR1c1F1ZXJ5UmVzdWx0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search>connect</last-search>
+      <last-search encoding="base64">XDxzZWFsT25lVHdvZmFhYXNSZXF1ZXN0UmVwb3NpdG9yeVw+</last-search>
       <last-offset />
-      <last-pattern>connect</last-pattern>
+      <last-pattern encoding="base64">XDxzZWFsT25lVHdvZmFhYXNSZXF1ZXN0UmVwb3NpdG9yeVw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>status</entry>
-        <entry encoding="base64">XDxleHBlY3RGYWlsZWRORmFjdG9yQXV0aGVudGljYXRpb25GZXRjaFw+</entry>
-        <entry encoding="base64">XDxleHBlY3RUd29GYWFhc0ludGVyYWN0aW9uTm90Rm91bmRcPg==</entry>
         <entry encoding="base64">XDxvcGVyYXRpb25JZFw+</entry>
         <entry encoding="base64">XDxnZXROZmFPcGVyYXRpb25TdGF0dXNcPg==</entry>
         <entry>code</entry>
@@ -1154,6 +1160,9 @@
         <entry>tuid</entry>
         <entry>kafka</entry>
         <entry>connect</entry>
+        <entry encoding="base64">XDxURVJNSU5BVEVEX1NUQVRVU0VTXD4=</entry>
+        <entry encoding="base64">XDxuRmFjdG9yQXV0aGVudGljYXRpb25SZXBvc2l0b3J5XD4=</entry>
+        <entry encoding="base64">XDxzZWFsT25lVHdvZmFhYXNSZXF1ZXN0UmVwb3NpdG9yeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s//\&quot;//g</entry>
