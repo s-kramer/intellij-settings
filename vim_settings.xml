@@ -39,17 +39,17 @@
       <file name="/postgres.contact.phone [postgres@devint]" timestamp="1561538839910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" timestamp="1561548512164">
-        <mark key="[" line="69" column="22" />
-        <mark key="]" line="69" column="24" />
-        <mark key="." line="69" column="24" />
-        <mark key="^" line="69" column="24" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" timestamp="1561549299849">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="66" column="24" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" timestamp="1561548536781">
-        <mark key="[" line="620" column="0" />
-        <mark key="]" line="620" column="26" />
-        <mark key="^" line="623" column="159" />
-        <mark key="." line="620" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" timestamp="1561549273089">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="622" column="159" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/a.sql" timestamp="1561538826004">
         <mark key="[" line="0" column="0" />
@@ -74,8 +74,8 @@
       <file name="/dummy.sql" timestamp="1561547776733">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561544336009">
-        <mark key="[" line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1561549700240">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="39" />
@@ -105,12 +105,11 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" timestamp="1561548666856">
-        <mark key="'" line="103" column="32" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="285" column="24" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" timestamp="1561549268239">
+        <mark key="[" line="309" column="5" />
+        <mark key="]" line="310" column="3" />
+        <mark key="^" line="310" column="3" />
+        <mark key="." line="310" column="3" />
       </file>
       <file name="/postgres.contact.phone [postgres@dev1]" timestamp="1561467812113">
         <mark key="[" line="0" column="0" />
@@ -251,11 +250,11 @@
       <jump line="69" column="12" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmlkZW50aXR5b3duZXIuY2xpZW50LmZlaWduLm1vZGVsLlVJZEZvclBob25lTnVtYmVyUmVzcG9uc2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>modified available login_methods</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>modified available login_methods</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -264,25 +263,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJVc2VyIGlzIGJsb2NrZWQiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmlkZW50aXR5b3duZXIuY2xpZW50LmZlaWduLm1vZGVsLlVJZEZvclBob25lTnVtYmVyUmVzcG9uc2U7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLnNlY3VyaXR5LmRvbWFpbi5tb2JpbGVjb25uZWN0LmV4Y2VwdGlvbi5JbnZhbGlkUGhvbmVFeGNlcHRpb247Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdWlkID0gbnVsbDsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmlkZW50aXR5b3duZXIuY2xpZW50LmZlaWduLm1vZGVsLlBob25lVmFsaWRhdGlvblJlcXVlc3Q7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdWlkID0gbnVsbDsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmVycm9yLmV4Y2VwdGlvbi5IYW5kbGVkQ2FsbGVkU2VydmljZUV4Y2VwdGlvbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlQXV0aGVudGljYXRpb25GYWlsdXJlV2l0aFVpZCh1aWQsICJVc2VyIElEIHdhcyBudWxsIik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLmludGVybmFsLm1hdGNoZXJzLkFueTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>anyString()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogMjUuMDYuMTkgc2tyYW1lcjogc2hvdWxkIHRoZXJlIGJlIGEgZmFpbHVyZSBjb3VudCBpbmNyZW1lbnQ/Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmlkZW50aXR5b3duZXIuY2xpZW50LmZlaWduLm1vZGVsLlVJZEZvclBob25lTnVtYmVyUmVzcG9uc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdWlkID0gbnVsbDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -298,10 +297,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBdXRoZW50aWNhdGlvbiBhdXRoZW50aWNhdGlvbiA9IGdldFR3b0ZhT25seVRlc3RBdXRoZW50aWNhdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdWlkID0gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGFjdHVhbCkuaXNOb3ROdWxsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlQXV0aGVudGljYXRpb25GYWlsdXJlV2l0aFVpZCh1aWQsICJVc2VyIElEIHdhcyBudWxsIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
