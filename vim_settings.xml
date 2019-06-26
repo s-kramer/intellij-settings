@@ -119,8 +119,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.security/security-java-server-spring/VD-1207-twofaaas/726158ee28aab4d43bb761ba09640d1c8464d43c/security-java-server-spring-VD-1207-twofaaas-sources.jar!/com/dipp/security/model/CreateInteractionRequest.java" timestamp="1561125176241">
         <mark key="'" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" timestamp="1561531225534">
-        <mark key="'" line="1235" column="6" />
+      <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" timestamp="1561534320894">
+        <mark key="'" line="2" column="69" />
         <mark key="[" line="5058" column="104" />
         <mark key="]" line="5058" column="104" />
         <mark key="." line="5058" column="104" />
@@ -143,8 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" />
-      <jump line="311" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
       <jump line="1" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
       <jump line="9" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
@@ -198,7 +196,6 @@
       <jump line="5024" column="10" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="5035" column="10" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="5029" column="56" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
-      <jump line="78" column="16" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="81" column="9" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="83" column="25" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="1569" column="12" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
@@ -239,10 +236,13 @@
       <jump line="1600" column="26" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="1599" column="9" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="1596" column="12" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="86" column="43" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="1235" column="6" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="110" column="36" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageController.java" />
+      <jump line="78" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
+      <jump line="218" column="67" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
+      <jump line="2" column="69" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -252,7 +252,7 @@
         <text encoding="base64">IGluIHRoZSBmdXR1cmU=</text>
       </register>
       <register name="/" type="4">
-        <text>v1</text>
+        <text>phone</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gJHJlZjogJyMvZGVmaW5pdGlvbnMvQ29tcGFueUlkJwo=</text>
@@ -302,9 +302,9 @@
       </register>
     </registers>
     <search>
-      <last-search>v1</last-search>
+      <last-search>phone</last-search>
       <last-offset />
-      <last-pattern>v1</last-pattern>
+      <last-pattern>phone</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -312,7 +312,6 @@
     </search>
     <history>
       <history-search>
-        <entry>secur</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZUF1dGhlbnRpY2F0aW9uV2l0aFBob25lTnVtYmVyXD4=</entry>
         <entry encoding="base64">XDxkaXBwVG9rZW5Qcm92aWRlclw+</entry>
         <entry>twofa</entry>
@@ -332,6 +331,7 @@
         <entry encoding="base64">XDxUd29mYU9ubHlVc2VyQ3JlYXRpb25SZXNwb25zZVw+</entry>
         <entry>twofa-only</entry>
         <entry>v1</entry>
+        <entry>phone</entry>
       </history-search>
       <history-cmd>
         <entry>%s//\&quot;//g</entry>
