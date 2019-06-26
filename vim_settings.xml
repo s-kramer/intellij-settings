@@ -38,6 +38,9 @@
       <file name="/postgres.user_status.userstatus [postgres@dev1]" timestamp="1561393445154">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/postgres.contact.phone [postgres@devint]" timestamp="1561538839910">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" timestamp="1561471383245">
         <mark key="'" line="195" column="38" />
         <mark key="[" line="194" column="28" />
@@ -45,7 +48,7 @@
         <mark key="." line="194" column="38" />
         <mark key="^" line="194" column="38" />
       </file>
-      <file name="/a.sql" timestamp="1561474220160">
+      <file name="/a.sql" timestamp="1561538826004">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/domain/authentication/Authentication.java" timestamp="1561466567908">
@@ -59,7 +62,10 @@
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/controller/phone/PhoneControllerApiDelegateImpl.java" timestamp="1561535977119">
         <mark key="'" line="65" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561474220185">
+      <file name="/dummy.sql" timestamp="1561538841161">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1561538826014">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -118,12 +124,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.security/security-java-server-spring/VD-1207-twofaaas/726158ee28aab4d43bb761ba09640d1c8464d43c/security-java-server-spring-VD-1207-twofaaas-sources.jar!/com/dipp/security/model/CreateInteractionRequest.java" timestamp="1561125176241">
         <mark key="'" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" timestamp="1561537599497">
-        <mark key="'" line="689" column="13" />
-        <mark key="[" line="570" column="33" />
-        <mark key="]" line="570" column="39" />
-        <mark key="^" line="570" column="39" />
-        <mark key="." line="570" column="39" />
+      <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" timestamp="1561539083526">
+        <mark key="'" line="5153" column="2" />
+        <mark key="[" line="548" column="16" />
+        <mark key="]" line="548" column="17" />
+        <mark key="^" line="544" column="23" />
+        <mark key="." line="548" column="17" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/nfauthentication/NFactorAuthenticationRepository.java" timestamp="1561442829070">
         <mark key="[" line="27" column="0" />
@@ -142,12 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5018" column="2" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
-      <jump line="5024" column="10" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
-      <jump line="5035" column="10" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
-      <jump line="5029" column="56" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
-      <jump line="81" column="9" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
-      <jump line="83" column="25" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="1569" column="12" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="1568" column="11" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="2048" column="13" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
@@ -236,46 +236,52 @@
       <jump line="5049" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="4983" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="5038" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
-      <jump line="5153" column="8" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="5149" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="5161" column="24" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="565" column="23" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="652" column="13" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="689" column="13" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
+      <jump line="656" column="13" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
+      <jump line="2114" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
+      <jump line="5147" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
+      <jump line="3419" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
+      <jump line="570" column="33" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
+      <jump line="5153" column="2" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
+      <jump line="540" column="14" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PhoneResponse</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>PhoneResponse</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>body</text>
+        <text encoding="base64">XDxVSWRGb3JQaG9uZU51bWJlclJlc3BvbnNlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBDb21wYW55SWQ6CiAgICB0eXBlOiAib2JqZWN0IgogICAgcHJvcGVydGllczoKICAgICAgY29tcGFueUlkOgogICAgICAgIHR5cGU6ICJzdHJpbmciCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogJ2FycmF5JwogICAgICAgICAgICBpdGVtczoK</text>
+        <text encoding="base64">ICBVaWRMaXN0OgogICAgdHlwZTogIm9iamVjdCIKICAgIHByb3BlcnRpZXM6CiAgICAgIHVpZHM6CiAgICAgICAgdHlwZTogImFycmF5IgogICAgICAgIGl0ZW1zOgogICAgICAgICAgdHlwZTogInN0cmluZyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgUGhvbmVOdW1iZXJEZXRhaWxzOgogICAgdHlwZTogb2JqZWN0CiAgICBwcm9wZXJ0aWVzOgogICAgICBjb3VudHJ5Q29kZToKICAgICAgICB0eXBlOiBzdHJpbmcKICAgICAgcGhvbmVOdW1iZXI6CiAgICAgICAgdHlwZTogc3RyaW5nCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogJ2FycmF5JwogICAgICAgICAgICBpdGVtczoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgUGhvbmVOdW1iZXJEZXRhaWxzOgogICAgdHlwZTogb2JqZWN0CiAgICBwcm9wZXJ0aWVzOgogICAgICBjb3VudHJ5Q29kZToKICAgICAgICB0eXBlOiBzdHJpbmcKICAgICAgcGhvbmVOdW1iZXI6CiAgICAgICAgdHlwZTogc3RyaW5nCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2VjdXJpdHk6CiAgICAgICAgLSBpZGVudGl0eW93bmVyY29udGFjdF9hdXRoOgogICAgICAgICAgICAtICJyZWFkX2NvbnRhY3RfdG9rZW4iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW1ldGVyczoK</text>
+        <text encoding="base64">ICAgICAgc2VjdXJpdHk6CiAgICAgICAgLSBpZGVudGl0eW93bmVyY29udGFjdF9hdXRoOgogICAgICAgICAgICAtICJyZWFkX2NvbnRhY3RfdG9rZW4iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtIG5hbWU6ICJwaG9uZU51bWJlciIKICAgICAgICAgIGluOiAiYm9keSIKICAgICAgICAgIGRlc2NyaXB0aW9uOiAiUGhvbmUgbnVtYmVyIGZvciB3aGljaCB0aGUgdWlkcyB3aWxsIGJlIGZldGNoZWQiCiAgICAgICAgICByZXF1aXJlZDogdHJ1ZQogICAgICAgICAgc2NoZW1hOgogICAgICAgICAgICAkcmVmOiAnJwogICAgICAgICAgdHlwZTogInN0cmluZyIK</text>
+        <text encoding="base64">ICAgICAgcGFyYW1ldGVyczoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAoK</text>
+        <text encoding="base64">ICAgICAgICAtIG5hbWU6ICJwaG9uZU51bWJlciIKICAgICAgICAgIGluOiAiYm9keSIKICAgICAgICAgIGRlc2NyaXB0aW9uOiAiUGhvbmUgbnVtYmVyIGZvciB3aGljaCB0aGUgdWlkcyB3aWxsIGJlIGZldGNoZWQiCiAgICAgICAgICByZXF1aXJlZDogdHJ1ZQogICAgICAgICAgc2NoZW1hOgogICAgICAgICAgICAkcmVmOiAnJwogICAgICAgICAgdHlwZTogInN0cmluZyIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -291,28 +297,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlc2NyaXB0aW9uOiAiUGhvbmUgbnVtYmVyIGZvciB3aGljaCB0aGUgdWlkcyB3aWxsIGJlIGZldGNoZWQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search>body</last-search>
+      <last-search encoding="base64">XDxVSWRGb3JQaG9uZU51bWJlclJlc3BvbnNlXD4=</last-search>
       <last-offset />
-      <last-pattern>body</last-pattern>
+      <last-pattern encoding="base64">XDxVSWRGb3JQaG9uZU51bWJlclJlc3BvbnNlXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxldWlkXD4=</entry>
-        <entry encoding="base64">XDxhdXRoZW50aWNhdGlvblJlcG9zaXRvcnlcPg==</entry>
         <entry encoding="base64">XDx1c2VyUmVwb3NpdG9yeVw+</entry>
         <entry encoding="base64">XDxnZXRVaWRcPg==</entry>
         <entry>temporary</entry>
@@ -331,6 +335,8 @@
         <entry encoding="base64">XDxUZW1wb3JhcnlVc2VyUGFzc3dvcmRSZXF1ZXN0XD4=</entry>
         <entry>countrycode</entry>
         <entry>body</entry>
+        <entry>uidlist</entry>
+        <entry encoding="base64">XDxVSWRGb3JQaG9uZU51bWJlclJlc3BvbnNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s//\&quot;//g</entry>
