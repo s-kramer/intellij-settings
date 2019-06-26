@@ -121,12 +121,13 @@
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/server/build.gradle" timestamp="1561543213866">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/JDBCPhoneRepository.java" timestamp="1561551268770">
-        <mark key="'" line="135" column="14" />
-        <mark key="[" line="135" column="83" />
-        <mark key="]" line="135" column="82" />
-        <mark key="^" line="135" column="82" />
-        <mark key="." line="135" column="82" />
+      <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/JDBCPhoneRepository.java" timestamp="1561552872148">
+        <mark key="a" line="135" column="62" />
+        <mark key="'" line="52" column="4" />
+        <mark key="[" line="135" column="62" />
+        <mark key="]" line="135" column="62" />
+        <mark key="^" line="135" column="28" />
+        <mark key="." line="135" column="62" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerierTest.java" timestamp="1561135754738">
         <mark key="'" line="132" column="0" />
@@ -182,8 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2148" column="6" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="2441" column="6" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="2460" column="6" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="2449" column="0" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="2065" column="14" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
@@ -282,40 +281,42 @@
       <jump line="35" column="68" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/JDBCPhoneRepository.java" />
       <jump line="140" column="15" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/JDBCPhoneRepository.java" />
       <jump line="135" column="14" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/JDBCPhoneRepository.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/JDBCPhoneRepository.java" />
+      <jump line="52" column="4" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/JDBCPhoneRepository.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s.get(0)</text>
+        <text>crudStatementProvider.getSelectStmt()</text>
       </register>
       <register name="-" type="4">
-        <text>s.get(0)</text>
+        <text>crudStatementProvider.getSelectStmt()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaG9uZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFBob25lPiBwaG9uZXMgPSBuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZS5xdWVyeShjcnVkU3RhdGVtZW50UHJvdmlkZXIuZ2V0U2VsZWN0U3RtdCgpICsgIiBhbmQgIiArCiAgICAgICAgICAgICAgICAgICAgICAgIFBob25lRGVzY3JpcHRvci5DT0xVTU5fVUlEICsgIiA9ICIgKwogICAgICAgICAgICAgICAgICAgICAgICAiOiIgKyBQaG9uZURlc2NyaXB0b3IuQ09MVU1OX1VJRCwgbmV3IFBhcmFtTWFwQnVpbGRlcigpLnB1dChQaG9uZURlc2NyaXB0b3IuQ09MVU1OX1BIT05FX0lELCBwaG9uZUlkKS5wdXQoUGhvbmVEZXNjcmlwdG9yLkNPTFVNTl9VSUQsIHVpZCkKICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCksCiAgICAgICAgICAgICAgICB0YWJsZU1hcHBlcik7CiAgICAgICAgaWYgKHBob25lcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQogICAgICAgIGlmIChwaG9uZXMuc2l6ZSgpID4gMSkgewogICAgICAgICAgICB0aHJvdyBuZXcgVG9vTWFueVJvd3NTZWxlY3RlZEV4Y2VwdGlvbihQaG9uZURlc2NyaXB0b3IuQ09MVU1OX1VJRCArICIgPSA6IiArIFBob25lRGVzY3JpcHRvci5DT0xVTU5fVUlEICsgIiBhbmQgIiArIFBob25lRGVzY3JpcHRvci5DT0xVTU5fUEhPTkVfSUQgKyAiID0iICsKICAgICAgICAgICAgICAgICAgICAiIDoiICsgUGhvbmVEZXNjcmlwdG9yLkNPTFVNTl9QSE9ORV9JRCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBwaG9uZXMuZ2V0KDApOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGhvbmVzLnNpemUoKSA+IDEpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFRvb01hbnlSb3dzU2VsZWN0ZWRFeGNlcHRpb24oUGhvbmVEZXNjcmlwdG9yLkNPTFVNTl9VSUQgKyAiID0gOiIgKyBQaG9uZURlc2NyaXB0b3IuQ09MVU1OX1VJRCArICIgYW5kICIgKyBQaG9uZURlc2NyaXB0b3IuQ09MVU1OX1BIT05FX0lEICsgIiA9IiArCiAgICAgICAgICAgICAgICAgICAgIiA6IiArIFBob25lRGVzY3JpcHRvci5DT0xVTU5fUEhPTkVfSUQpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGhvbmVzLmdldCgwKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGhvbmVzLmlzRW1wdHkoKSkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICAgICAgaWYgKHBob25lcy5zaXplKCkgPiAxKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBUb29NYW55Um93c1NlbGVjdGVkRXhjZXB0aW9uKFBob25lRGVzY3JpcHRvci5DT0xVTU5fVUlEICsgIiA9IDoiICsgUGhvbmVEZXNjcmlwdG9yLkNPTFVNTl9VSUQgKyAiIGFuZCAiICsgUGhvbmVEZXNjcmlwdG9yLkNPTFVNTl9QSE9ORV9JRCArICIgPSIgKwogICAgICAgICAgICAgICAgICAgICIgOiIgKyBQaG9uZURlc2NyaXB0b3IuQ09MVU1OX1BIT05FX0lEKTsKICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text>crudStatementProvider.getSelectStmt()</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZS5xdWVyeShTdHJpbmcuZm9ybWF0KCJTRUxFQ1QiKSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGhvbmVzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyNi4wNi4xOSBza3JhbWVyOiBpbXBsZW1lbnQKICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGhvbmVzLmlzRW1wdHkoKSkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICAgICAgaWYgKHBob25lcy5zaXplKCkgPiAxKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBUb29NYW55Um93c1NlbGVjdGVkRXhjZXB0aW9uKFBob25lRGVzY3JpcHRvci5DT0xVTU5fVUlEICsgIiA9IDoiICsgUGhvbmVEZXNjcmlwdG9yLkNPTFVNTl9VSUQgKyAiIGFuZCAiICsgUGhvbmVEZXNjcmlwdG9yLkNPTFVNTl9QSE9ORV9JRCArICIgPSIgKwogICAgICAgICAgICAgICAgICAgICIgOiIgKyBQaG9uZURlc2NyaXB0b3IuQ09MVU1OX1BIT05FX0lEKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZS5xdWVyeShTdHJpbmcuZm9ybWF0KCJTRUxFQ1QiKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLnNlY3VyaXR5LmRvbWFpbi5tb2JpbGVjb25uZWN0LmV4Y2VwdGlvbi5JbnZhbGlkUGhvbmVFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyNi4wNi4xOSBza3JhbWVyOiBpbXBsZW1lbnQKICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmlkZW50aXR5b3duZXIuY2xpZW50LmZlaWduLm1vZGVsLlBob25lVmFsaWRhdGlvblJlcXVlc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmVycm9yLmV4Y2VwdGlvbi5IYW5kbGVkQ2FsbGVkU2VydmljZUV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLnNlY3VyaXR5LmRvbWFpbi5tb2JpbGVjb25uZWN0LmV4Y2VwdGlvbi5JbnZhbGlkUGhvbmVFeGNlcHRpb247Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -331,10 +332,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLmludGVybmFsLm1hdGNoZXJzLkFueTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmlkZW50aXR5b3duZXIuY2xpZW50LmZlaWduLm1vZGVsLlBob25lVmFsaWRhdGlvblJlcXVlc3Q7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogMjUuMDYuMTkgc2tyYW1lcjogc2hvdWxkIHRoZXJlIGJlIGEgZmFpbHVyZSBjb3VudCBpbmNyZW1lbnQ/Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmVycm9yLmV4Y2VwdGlvbi5IYW5kbGVkQ2FsbGVkU2VydmljZUV4Y2VwdGlvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
