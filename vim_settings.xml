@@ -40,6 +40,11 @@
         <mark key="." line="2630" column="77" />
         <mark key="^" line="2630" column="77" />
       </file>
+      <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/modules/receive_vote/lambda/receive_vote.py" timestamp="1561568648995">
+        <mark key="[" line="29" column="61" />
+        <mark key="]" line="29" column="63" />
+        <mark key="." line="29" column="61" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/PhoneRepository.java" timestamp="1561553300371">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -50,6 +55,12 @@
       </file>
       <file name="/postgres.contact.phone [postgres@devint]" timestamp="1561553741740">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/modules/api/iam.tf" timestamp="1561566244947">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/PhoneService.java" timestamp="1561557084241">
         <mark key="'" line="103" column="8" />
@@ -84,6 +95,9 @@
       <file name="$USER_HOME$/verimi-auth-verimi/contracts/authentication/authorization-service-contract/contract/swagger.yaml" timestamp="1561544025755">
         <mark key="'" line="278" column="7" />
       </file>
+      <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/modules/persist_vote/main.tf" timestamp="1561568569689">
+        <mark key="'" line="20" column="23" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/gradle.properties" timestamp="1561550502888">
         <mark key="'" line="68" column="15" />
         <mark key="[" line="41" column="17" />
@@ -102,6 +116,9 @@
       </file>
       <file name="/dummy.sql" timestamp="1561553743838">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/providers.tf" timestamp="1561569501389">
+        <mark key="'" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/build/identityowner-api-server/swagger/java-server-spring/src/main/java/com/dipp/identityowner/api/PhoneControllerApiDelegate.java" timestamp="1561554911329">
         <mark key="'" line="60" column="19" />
@@ -136,6 +153,12 @@
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasRequestCleanupTask.java" timestamp="1561443140338">
         <mark key="'" line="63" column="8" />
+      </file>
+      <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/backend.tf" timestamp="1561569785643">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="54" />
+        <mark key="." line="3" column="28" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerierTest.java" timestamp="1561135754738">
         <mark key="'" line="132" column="0" />
@@ -190,10 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" />
-      <jump line="51" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" />
       <jump line="59" column="3" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" />
       <jump line="60" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" />
       <jump line="180" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
@@ -290,13 +309,17 @@
       <jump line="500" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/test/java/com/dipp/identityowner/contact/service/phone/PhoneServiceTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" />
       <jump line="15" column="22" filename="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/main.tf" />
+      <jump line="1" column="0" filename="$USER_HOME$/sd/vote-it/voteit_v2_workshop/modules/api/iam.tf" />
+      <jump line="20" column="23" filename="$USER_HOME$/sd/vote-it/voteit_v2_workshop/modules/persist_vote/main.tf" />
+      <jump line="15" column="0" filename="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/providers.tf" />
+      <jump line="13" column="0" filename="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/backend.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>provided authorization endpoint implementation</text>
+        <text>terraform-voteit-for-552936041219</text>
       </register>
       <register name="-" type="4">
-        <text>provided authorization endpoint implementation</text>
+        <text>PUT_HERE_ACCOUNT_ID</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVaWRGb3JQaG9uZU51bWJlclJlc3BvbnNlXD4=</text>
@@ -305,25 +328,25 @@
         <text>findByCountryCodeAndPhoneNumber</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG15VGFnID0gIiR7dmFyLmFwaV9pbnRlZ3JhdGlvbnN9Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgaWYgKHVpZCA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuSW1tdXRhYmxlTGlzdDsK</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgaWYgKHVpZCA9PSBudWxsKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXNzZXJ0ai5jb3JlLmFwaS5Bc3NlcnRpb25zLmFzc2VydFRoYXRDb2RlOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuSW1tdXRhYmxlTGlzdDsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuYXNzZXJ0ai5jb3JlLmFwaS5Bc3NlcnRpb25zLmFzc2VydFRoYXRDb2RlOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8UGhvbmU+IHF1ZXJ5UmVzdWx0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgcXVlcnlSZXN1bHQuYWRkKG5ldyBQaG9uZShuZXcgUGhvbmVLZXkoVUlELCBQSE9ORV9JRCksIFBIT05FLCBDT1VOVFJZX0NPREUsIHRydWUsIHRydWUsIHRydWUpKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>.get(0)</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gTGlzdDxQaG9uZT4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -339,7 +362,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmlkZW50aXR5b3duZXIuY2xpZW50LmZlaWduLm1vZGVsLlVpZEZvclBob25lTnVtYmVyUmVzcG9uc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gTGlzdDxQaG9uZT4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmlkZW50aXR5b3duZXIuY2xpZW50LmZlaWduLm1vZGVsLlVpZEZvclBob25lTnVtYmVyUmVzcG9uc2U7Cg==</text>
