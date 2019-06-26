@@ -13,18 +13,32 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/inlineregistration/MobileVerificationControllerIT.java" timestamp="1561367464916">
         <mark key="'" line="82" column="8" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/processor/UserCreatedEventProcessor.java" timestamp="1561474334917">
-        <mark key="'" line="74" column="36" />
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageController.java" timestamp="1561532760300">
+        <mark key="'" line="110" column="36" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/repository/mobileconnect/state/JDBCMobileConnectStateRepositoryIntegrationTest.java" timestamp="1561367417332">
-        <mark key="'" line="95" column="4" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/authentication/AuthenticationRepository.java" timestamp="1561473810656">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.security/security-java-server-spring/VD-1207-twofaaas/726158ee28aab4d43bb761ba09640d1c8464d43c/security-java-server-spring-VD-1207-twofaaas-sources.jar!/com/dipp/security/model/CreateInteractionRequest.java" timestamp="1561125176241">
-        <mark key="'" line="23" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" timestamp="1561530748870">
+        <mark key="'" line="417" column="33" />
+        <mark key="[" line="2711" column="0" />
+        <mark key="]" line="2717" column="20" />
+        <mark key="^" line="2714" column="16" />
+        <mark key="." line="2714" column="16" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/configuration/ScopeConstants.java" timestamp="1561464663160">
-        <mark key="'" line="122" column="4" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/controller/AuthenticationControllerApiDelegateImpl.java" timestamp="1561464272938">
+        <mark key="'" line="72" column="12" />
+        <mark key="[" line="67" column="88" />
+        <mark key="]" line="67" column="117" />
+        <mark key="." line="67" column="117" />
+        <mark key="^" line="67" column="117" />
       </file>
+      <file name="/postgres.user_status.userstatus [postgres@dev1]" timestamp="1561393445154">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/service/RequestScopeParser.java" timestamp="1561533109839" />
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" timestamp="1561471383245">
         <mark key="'" line="195" column="38" />
         <mark key="[" line="194" column="28" />
@@ -43,6 +57,17 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/NFAInteractionService.java" timestamp="1561449197291">
         <mark key="'" line="44" column="74" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/controller/phone/PhoneControllerApiDelegateImpl.java" timestamp="1561533617521" />
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/domain/LoginRequest.java" timestamp="1561532955747" />
+      <file name="/Dummy.txt" timestamp="1561474220185">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/processor/UserCreatedEventProcessor.java" timestamp="1561474334917">
+        <mark key="'" line="74" column="36" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/TwofaaasControllerApiDelegateImpl.java" timestamp="1561464223350">
         <mark key="'" line="28" column="100" />
         <mark key="[" line="44" column="72" />
@@ -50,30 +75,33 @@
         <mark key="." line="38" column="99" />
         <mark key="^" line="44" column="88" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.identityowner/identityowner-java-client-feign/1_4_MAY/82c4f93aa7a9364eac65a74585e361b0594fe79a/identityowner-java-client-feign-1_4_MAY-sources.jar!/com/dipp/identityowner/client/feign/api/PhoneControllerApi.java" timestamp="1561468285814" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/otp/service/OtpPhoneService.java" timestamp="1561468152206">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="89" column="9" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/TwofaaasQueryStatus.java" timestamp="1561363489208">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/repository/mobileconnect/state/JDBCMobileConnectStateRepositoryIntegrationTest.java" timestamp="1561367417332">
+        <mark key="'" line="95" column="4" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasRequestCleanupTask.java" timestamp="1561443140338">
+        <mark key="'" line="63" column="8" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationController.java" timestamp="1561532946687" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerierTest.java" timestamp="1561135754738">
+        <mark key="'" line="132" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationStatusUpdateService.java" timestamp="1561464821818">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.security/security-java-server-spring/VD-1546-2fa-only-authorization-endpoint/cd7bbb77ea5e211b7c24a2d1a063d9960d70ae2c/security-java-server-spring-VD-1546-2fa-only-authorization-endpoint-sources.jar!/com/dipp/security/api/TwofaaasControllerApiDelegate.java" timestamp="1561464194174">
         <mark key="[" line="27" column="60" />
         <mark key="]" line="28" column="36" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/nfauthentication/NFactorAuthenticationRepository.java" timestamp="1561442829070">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="28" column="57" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/userstatus/UserStatusService.java" timestamp="1561466498708" />
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/domain/authentication/AuthenticationResultMapper.java" timestamp="1561473159507" />
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/authentication/AuthenticationRepository.java" timestamp="1561473810656">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/controller/AuthenticationControllerApiDelegateImpl.java" timestamp="1561464272938">
-        <mark key="'" line="72" column="12" />
-        <mark key="[" line="67" column="88" />
-        <mark key="]" line="67" column="117" />
-        <mark key="." line="67" column="117" />
-        <mark key="^" line="67" column="117" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" timestamp="1561473854539">
         <mark key="'" line="295" column="15" />
@@ -85,47 +113,11 @@
       <file name="/postgres.contact.phone [postgres@dev1]" timestamp="1561467812113">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasRequestCleanupTaskTest.java" timestamp="1561444201950">
-        <mark key="'" line="34" column="38" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" timestamp="1561530748870">
-        <mark key="'" line="417" column="33" />
-        <mark key="[" line="2711" column="0" />
-        <mark key="]" line="2717" column="20" />
-        <mark key="^" line="2714" column="16" />
-        <mark key="." line="2714" column="16" />
-      </file>
-      <file name="/postgres.user_status.userstatus [postgres@dev1]" timestamp="1561393445154">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1561474220185">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="30" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/otp/service/OtpPhoneService.java" timestamp="1561468152206">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="89" column="9" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/TwofaaasQueryStatus.java" timestamp="1561363489208">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasRequestCleanupTask.java" timestamp="1561443140338">
-        <mark key="'" line="63" column="8" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerierTest.java" timestamp="1561135754738">
-        <mark key="'" line="132" column="0" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationStatusUpdateService.java" timestamp="1561464821818">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/src/main/java/com/dipp/ImportExportApplication.java" timestamp="1561380402695">
         <mark key="'" line="63" column="25" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.security/security-java-server-spring/VD-1207-twofaaas/726158ee28aab4d43bb761ba09640d1c8464d43c/security-java-server-spring-VD-1207-twofaaas-sources.jar!/com/dipp/security/model/CreateInteractionRequest.java" timestamp="1561125176241">
+        <mark key="'" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" timestamp="1561531225534">
         <mark key="'" line="1235" column="6" />
@@ -134,10 +126,23 @@
         <mark key="." line="5058" column="104" />
         <mark key="^" line="5058" column="119" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/src/main/java/com/dipp/identityowner/registration/command/registration/service/TemporaryRegistrationService.java" timestamp="1561451888469" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/nfauthentication/NFactorAuthenticationRepository.java" timestamp="1561442829070">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="28" column="57" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasRequestCleanupTaskTest.java" timestamp="1561444201950">
+        <mark key="'" line="34" column="38" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/configuration/ScopeConstants.java" timestamp="1561464663160">
+        <mark key="'" line="122" column="4" />
+      </file>
+      <file name="/fragment.java" timestamp="1561533926793">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1991" column="2" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" />
       <jump line="311" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
@@ -237,6 +242,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="86" column="43" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="1235" column="6" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
+      <jump line="110" column="36" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
