@@ -3,15 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1561471284050">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="57" />
-        <mark key="]" line="8" column="57" />
-        <mark key="^" line="8" column="57" />
-        <mark key="." line="8" column="57" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1561541348140">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="70" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="11" column="32" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/inlineregistration/MobileVerificationControllerIT.java" timestamp="1561367464916">
         <mark key="'" line="82" column="8" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" timestamp="1561541384040">
+        <mark key="'" line="46" column="64" />
+        <mark key="[" line="47" column="101" />
+        <mark key="]" line="47" column="100" />
+        <mark key="." line="47" column="100" />
+        <mark key="^" line="47" column="100" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageController.java" timestamp="1561532760300">
         <mark key="'" line="110" column="36" />
@@ -65,7 +72,7 @@
       <file name="/dummy.sql" timestamp="1561538841161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561538826014">
+      <file name="/Dummy.txt" timestamp="1561540320303">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -108,12 +115,12 @@
         <mark key="[" line="27" column="60" />
         <mark key="]" line="28" column="36" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" timestamp="1561473854539">
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" timestamp="1561540728003">
         <mark key="'" line="295" column="15" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-        <mark key="^" line="98" column="86" />
+        <mark key="[" line="57" column="52" />
+        <mark key="]" line="57" column="51" />
+        <mark key="." line="57" column="51" />
+        <mark key="^" line="57" column="51" />
       </file>
       <file name="/postgres.contact.phone [postgres@dev1]" timestamp="1561467812113">
         <mark key="[" line="0" column="0" />
@@ -148,12 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1569" column="12" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
-      <jump line="1568" column="11" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
-      <jump line="2048" column="13" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="2717" column="8" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="1590" column="60" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
-      <jump line="5168" column="15" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="5167" column="2" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="5060" column="14" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="5059" column="11" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
@@ -248,40 +249,46 @@
       <jump line="570" column="33" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="5153" column="2" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="540" column="14" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
+      <jump line="8" column="19" filename="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="32" column="70" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="47" column="37" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="11" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" />
+      <jump line="46" column="64" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>${identityOwnerClientFeignVersion}</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>${identityOwnerClientFeignVersion}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVSWRGb3JQaG9uZU51bWJlclJlc3BvbnNlXD4=</text>
+        <text encoding="base64">XDxpZGVudGl0eU93bmVyQ2xpZW50RmVpZ25WZXJzaW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBDb21wYW55SWQ6CiAgICB0eXBlOiAib2JqZWN0IgogICAgcHJvcGVydGllczoKICAgICAgY29tcGFueUlkOgogICAgICAgIHR5cGU6ICJzdHJpbmciCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5kaXBwLmlkZW50aXR5b3duZXI6aWRlbnRpdHlvd25lci1qYXZhLWNsaWVudDoke2lkZW50aXR5T3duZXJDbGllbnRGZWlnblZlcnNpb259Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBVaWRMaXN0OgogICAgdHlwZTogIm9iamVjdCIKICAgIHByb3BlcnRpZXM6CiAgICAgIHVpZHM6CiAgICAgICAgdHlwZTogImFycmF5IgogICAgICAgIGl0ZW1zOgogICAgICAgICAgdHlwZTogInN0cmluZyIK</text>
+        <text encoding="base64">ICAgICAgICBlbWFpbENvbnRyb2xsZXJEZXByZWNhdGVkQXBpQ2xpZW50Lgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogJ2FycmF5JwogICAgICAgICAgICBpdGVtczoK</text>
+        <text encoding="base64">ICBVaWRMaXN0OgogICAgdHlwZTogIm9iamVjdCIKICAgIHByb3BlcnRpZXM6CiAgICAgIHVpZHM6CiAgICAgICAgdHlwZTogImFycmF5IgogICAgICAgIGl0ZW1zOgogICAgICAgICAgdHlwZTogInN0cmluZyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgUGhvbmVOdW1iZXJEZXRhaWxzOgogICAgdHlwZTogb2JqZWN0CiAgICBwcm9wZXJ0aWVzOgogICAgICBjb3VudHJ5Q29kZToKICAgICAgICB0eXBlOiBzdHJpbmcKICAgICAgcGhvbmVOdW1iZXI6CiAgICAgICAgdHlwZTogc3RyaW5nCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogJ2FycmF5JwogICAgICAgICAgICBpdGVtczoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgUGhvbmVOdW1iZXJEZXRhaWxzOgogICAgdHlwZTogb2JqZWN0CiAgICBwcm9wZXJ0aWVzOgogICAgICBjb3VudHJ5Q29kZToKICAgICAgICB0eXBlOiBzdHJpbmcKICAgICAgcGhvbmVOdW1iZXI6CiAgICAgICAgdHlwZTogc3RyaW5nCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2VjdXJpdHk6CiAgICAgICAgLSBpZGVudGl0eW93bmVyY29udGFjdF9hdXRoOgogICAgICAgICAgICAtICJyZWFkX2NvbnRhY3RfdG9rZW4iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW1ldGVyczoK</text>
+        <text encoding="base64">ICAgICAgc2VjdXJpdHk6CiAgICAgICAgLSBpZGVudGl0eW93bmVyY29udGFjdF9hdXRoOgogICAgICAgICAgICAtICJyZWFkX2NvbnRhY3RfdG9rZW4iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIG5hbWU6ICJwaG9uZU51bWJlciIKICAgICAgICAgIGluOiAiYm9keSIKICAgICAgICAgIGRlc2NyaXB0aW9uOiAiUGhvbmUgbnVtYmVyIGZvciB3aGljaCB0aGUgdWlkcyB3aWxsIGJlIGZldGNoZWQiCiAgICAgICAgICByZXF1aXJlZDogdHJ1ZQogICAgICAgICAgc2NoZW1hOgogICAgICAgICAgICAkcmVmOiAnJwogICAgICAgICAgdHlwZTogInN0cmluZyIK</text>
+        <text encoding="base64">ICAgICAgcGFyYW1ldGVyczoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -297,19 +304,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAoK</text>
+        <text encoding="base64">ICAgICAgICAtIG5hbWU6ICJwaG9uZU51bWJlciIKICAgICAgICAgIGluOiAiYm9keSIKICAgICAgICAgIGRlc2NyaXB0aW9uOiAiUGhvbmUgbnVtYmVyIGZvciB3aGljaCB0aGUgdWlkcyB3aWxsIGJlIGZldGNoZWQiCiAgICAgICAgICByZXF1aXJlZDogdHJ1ZQogICAgICAgICAgc2NoZW1hOgogICAgICAgICAgICAkcmVmOiAnJwogICAgICAgICAgdHlwZTogInN0cmluZyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAoK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVSWRGb3JQaG9uZU51bWJlclJlc3BvbnNlXD4=</last-search>
+      <last-search encoding="base64">XDxpZGVudGl0eU93bmVyQ2xpZW50RmVpZ25WZXJzaW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVSWRGb3JQaG9uZU51bWJlclJlc3BvbnNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpZGVudGl0eU93bmVyQ2xpZW50RmVpZ25WZXJzaW9uXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
       <last-dir>-1</last-dir>
@@ -317,8 +324,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyUmVwb3NpdG9yeVw+</entry>
-        <entry encoding="base64">XDxnZXRVaWRcPg==</entry>
         <entry>temporary</entry>
         <entry>TwofaOnly</entry>
         <entry>ref</entry>
@@ -337,6 +342,8 @@
         <entry>body</entry>
         <entry>uidlist</entry>
         <entry encoding="base64">XDxVSWRGb3JQaG9uZU51bWJlclJlc3BvbnNlXD4=</entry>
+        <entry>identi</entry>
+        <entry encoding="base64">XDxpZGVudGl0eU93bmVyQ2xpZW50RmVpZ25WZXJzaW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s//\&quot;//g</entry>
