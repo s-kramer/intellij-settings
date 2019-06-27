@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1561550500534">
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1561627838731">
         <mark key="'" line="7" column="6" />
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="11" column="70" />
-        <mark key="^" line="8" column="32" />
-        <mark key="." line="8" column="32" />
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="52" />
+        <mark key="^" line="8" column="52" />
+        <mark key="." line="8" column="52" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/inlineregistration/MobileVerificationControllerIT.java" timestamp="1561367464916">
         <mark key="'" line="82" column="8" />
@@ -140,8 +140,8 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" timestamp="1561622331144">
-        <mark key="'" line="81" column="16" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" timestamp="1561627879859">
+        <mark key="'" line="153" column="0" />
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
@@ -177,7 +177,7 @@
       <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/providers.tf" timestamp="1561569501389">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561625287497">
+      <file name="/Dummy.txt" timestamp="1561627899343">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="." line="0" column="34" />
@@ -235,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="8" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/PhoneService.java" />
       <jump line="34" column="16" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/JDBCPhoneRepository.java" />
       <jump line="121" column="9" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/JDBCPhoneRepository.java" />
       <jump line="54" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/JDBCPhoneRepository.java" />
@@ -335,13 +334,14 @@
       <jump line="508" column="11" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="2647" column="11" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="2550" column="14" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
+      <jump line="153" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>208 added missing TIMEOUT status</text>
+        <text>7-twofaaas</text>
       </register>
       <register name="-" type="4">
-        <text>208 added missing TIMEOUT status</text>
+        <text>7-twofaaas</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaG9uZVw+</text>
