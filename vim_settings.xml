@@ -36,6 +36,12 @@
         <mark key="^" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
+      <file name="/postgres.authentication.authentication [postgres@devint]" timestamp="1561547811116">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/postgres.linked_provider.disconnected_provider [postgres@devint]" timestamp="1561637901192">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/contracts/authentication/authorization-service-contract/contract/swagger.yaml" timestamp="1561544025755">
         <mark key="'" line="278" column="7" />
       </file>
@@ -90,6 +96,12 @@
         <mark key="^" line="310" column="3" />
         <mark key="." line="310" column="3" />
       </file>
+      <file name="/postgres.contact.phone [postgres@dev1]" timestamp="1561467812113">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/postgres.linked_provider.external_uid [postgres@devint]" timestamp="1561637905983">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.security/security-java-server-spring/VD-1207-twofaaas/726158ee28aab4d43bb761ba09640d1c8464d43c/security-java-server-spring-VD-1207-twofaaas-sources.jar!/com/dipp/security/model/CreateInteractionRequest.java" timestamp="1561125176241">
         <mark key="'" line="23" column="0" />
       </file>
@@ -106,11 +118,23 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/configuration/ScopeConstants.java" timestamp="1561464663160">
         <mark key="'" line="122" column="4" />
       </file>
+      <file name="/linkedprovider [postgres@sit-2]" timestamp="1561637991280">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dbcb63f6-5857-4651-8799-6e12c534d5e9/console_2.sql" timestamp="1561638043769">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="67" />
+        <mark key="^" line="0" column="67" />
+        <mark key="." line="0" column="67" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/PhoneRepositoryImpl.java" timestamp="1561633301459">
         <mark key="'" line="37" column="27" />
         <mark key="]" line="21" column="31" />
         <mark key="^" line="21" column="31" />
         <mark key="." line="21" column="31" />
+      </file>
+      <file name="/postgres.linked_provider.linkedprovider [postgres@devint]" timestamp="1561637908713">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageController.java" timestamp="1561532760300">
         <mark key="'" line="110" column="36" />
@@ -129,6 +153,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="12" column="43" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="/postgres.user_status.userstatus [postgres@dev1]" timestamp="1561393445154">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/postgres.contact.phone [postgres@devint]" timestamp="1561553741740">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" timestamp="1561627879859">
         <mark key="'" line="153" column="0" />
@@ -149,6 +179,12 @@
         <mark key="^" line="622" column="159" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="/a.sql" timestamp="1561538826004">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/postgres.linked_provider.apply_to_disconnect [postgres@devint]" timestamp="1561637898901">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/NFAInteractionService.java" timestamp="1561449197291">
         <mark key="'" line="44" column="74" />
       </file>
@@ -158,6 +194,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="77" column="59" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1561637998354">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/providers.tf" timestamp="1561569501389">
         <mark key="'" line="15" column="0" />
@@ -218,6 +257,9 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="28" column="57" />
+      </file>
+      <file name="/fragment.java" timestamp="1561547134215">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -323,11 +365,11 @@
       <jump line="22" column="23" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/config/JDBCPhoneRepositoryConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5yZXBvc2l0b3J5LlJlcG9zaXRvcnlEZWZpbml0aW9uOwo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>Crud</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaG9uZVJlcG9zaXRvcnlcPg==</text>
