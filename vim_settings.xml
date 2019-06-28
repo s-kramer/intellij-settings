@@ -78,11 +78,12 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" timestamp="1561549268239">
-        <mark key="[" line="309" column="5" />
-        <mark key="]" line="310" column="3" />
-        <mark key="^" line="310" column="3" />
-        <mark key="." line="310" column="3" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" timestamp="1561723941858">
+        <mark key="'" line="316" column="62" />
+        <mark key="[" line="59" column="43" />
+        <mark key="]" line="59" column="42" />
+        <mark key="^" line="59" column="42" />
+        <mark key="." line="59" column="42" />
       </file>
       <file name="/postgres.contact.phone [postgres@dev1]" timestamp="1561467812113">
         <mark key="[" line="0" column="0" />
@@ -122,7 +123,6 @@
         <mark key="." line="2661" column="48" />
         <mark key="^" line="2661" column="48" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/IdentityOwnerApplication.java" timestamp="1561632949669" />
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/PhoneRepository.java" timestamp="1561635004657">
         <mark key="'" line="20" column="9" />
         <mark key="[" line="6" column="0" />
@@ -143,11 +143,12 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="106" column="79" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" timestamp="1561557674163">
-        <mark key="[" line="67" column="29" />
-        <mark key="]" line="67" column="33" />
-        <mark key="." line="67" column="33" />
-        <mark key="^" line="67" column="33" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" timestamp="1561723909346">
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="34" column="47" />
+        <mark key="]" line="34" column="54" />
+        <mark key="." line="34" column="54" />
+        <mark key="^" line="34" column="54" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" timestamp="1561549273089">
         <mark key="[" line="26" column="0" />
@@ -171,11 +172,11 @@
       <file name="/dummy.sql" timestamp="1561639394815">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561632284416">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="26" />
+      <file name="/Dummy.txt" timestamp="1561723982564">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="35" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/DecryptingPhoneRepository.java" timestamp="1561634993709">
         <mark key="[" line="4" column="0" />
@@ -221,9 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="22" filename="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/main.tf" />
-      <jump line="1" column="0" filename="$USER_HOME$/sd/vote-it/voteit_v2_workshop/modules/api/iam.tf" />
-      <jump line="20" column="23" filename="$USER_HOME$/sd/vote-it/voteit_v2_workshop/modules/persist_vote/main.tf" />
       <jump line="15" column="0" filename="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/providers.tf" />
       <jump line="13" column="0" filename="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/backend.tf" />
       <jump line="24" column="0" filename="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/main.tf" />
@@ -321,13 +319,16 @@
       <jump line="294" column="29" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/PhoneService.java" />
       <jump line="66" column="4" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/PhoneService.java" />
       <jump line="22" column="23" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/config/JDBCPhoneRepositoryConfiguration.java" />
+      <jump line="109" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" />
+      <jump line="217" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
+      <jump line="316" column="62" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>208 added missing TIMEOUT status</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>208 added missing TIMEOUT status</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaG9uZVJlcG9zaXRvcnlcPg==</text>
