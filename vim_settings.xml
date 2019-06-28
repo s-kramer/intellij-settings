@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/config/JDBCPhoneRepositoryConfiguration.java" timestamp="1561634743891">
-        <mark key="'" line="22" column="23" />
-      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1561627838731">
         <mark key="'" line="7" column="6" />
         <mark key="[" line="8" column="25" />
@@ -59,9 +56,6 @@
         <mark key="." line="41" column="57" />
         <mark key="^" line="41" column="57" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/build.gradle" timestamp="1561632934356">
-        <mark key="'" line="45" column="74" />
-      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" timestamp="1561639200489">
         <mark key="[" line="57" column="16" />
         <mark key="]" line="57" column="82" />
@@ -112,12 +106,12 @@
       <file name="/postgres.linked_provider.linkedprovider [postgres@devint]" timestamp="1561637908713">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" timestamp="1561624167952">
-        <mark key="'" line="2550" column="14" />
-        <mark key="[" line="2661" column="40" />
-        <mark key="]" line="2661" column="48" />
-        <mark key="." line="2661" column="48" />
-        <mark key="^" line="2661" column="48" />
+      <file name="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" timestamp="1561729469090">
+        <mark key="'" line="2059" column="2" />
+        <mark key="[" line="400" column="40" />
+        <mark key="]" line="400" column="48" />
+        <mark key="." line="400" column="48" />
+        <mark key="^" line="400" column="48" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/security-service.yaml" timestamp="1561728604236">
         <mark key="[" line="4" column="7" />
@@ -226,9 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/backend.tf" />
-      <jump line="24" column="0" filename="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/main.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/sd/vote-it/voteit_v2_workshop/modules/frontend/upload/script_results.js" />
       <jump line="142" column="23" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/JDBCPhoneRepository.java" />
       <jump line="5158" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="574" column="2" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
@@ -326,6 +317,9 @@
       <jump line="217" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
       <jump line="316" column="62" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
+      <jump line="2711" column="2" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
+      <jump line="2490" column="6" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
+      <jump line="2059" column="2" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -335,7 +329,7 @@
         <text>fetching user ID based</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwaG9uZVJlcG9zaXRvcnlcPg==</text>
+        <text encoding="base64">XDxUd29mYU9ubHlBdXRoZW50aWNhdGlvblJlcXVlc3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRGVjcnlwdGluZ1Bob25lUmVwb3NpdG9yeSBwaG9uZVJlcG9zaXRvcnk7Cg==</text>
@@ -385,17 +379,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwaG9uZVJlcG9zaXRvcnlcPg==</last-search>
+      <last-search encoding="base64">XDxUd29mYU9ubHlBdXRoZW50aWNhdGlvblJlcXVlc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwaG9uZVJlcG9zaXRvcnlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxUd29mYU9ubHlBdXRoZW50aWNhdGlvblJlcXVlc3RcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxlY3RTdG10XD4=</entry>
         <entry encoding="base64">XDxQYXJhbU1hcEJ1aWxkZXJcPg==</entry>
         <entry encoding="base64">XDxxdWVyeVw+</entry>
         <entry encoding="base64">XDx0YWJsZU1hcHBlclw+</entry>
@@ -405,7 +398,6 @@
         <entry>phoneresponse</entry>
         <entry encoding="base64">XDxnZXRORmFjdG9yQXV0aGVudGljYXRpb25FcnJvclw+</entry>
         <entry encoding="base64">XDxleHBlY3RGYWlsZWRORmFjdG9yQXV0aGVudGljYXRpb25GZXRjaFw+</entry>
-        <entry encoding="base64">XDxQaG9uZVw+</entry>
         <entry encoding="base64">XDxwaG9uZVw+</entry>
         <entry encoding="base64">XDw6XD4=</entry>
         <entry>path</entry>
@@ -415,6 +407,8 @@
         <entry encoding="base64">XDx2ZXJpZnlQaG9uZVw+</entry>
         <entry encoding="base64">XDxmaW5kQnlDb3VudHJ5Q29kZUlzQW5kUGhvbmVJc1w+</entry>
         <entry encoding="base64">XDxwaG9uZVJlcG9zaXRvcnlcPg==</entry>
+        <entry encoding="base64">XDxQaG9uZVw+</entry>
+        <entry encoding="base64">XDxUd29mYU9ubHlBdXRoZW50aWNhdGlvblJlcXVlc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s//\&quot;//g</entry>
