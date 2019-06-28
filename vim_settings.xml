@@ -13,7 +13,7 @@
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="52" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/identityowner-service.yaml" timestamp="1561726481555">
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/identityowner-service.yaml" timestamp="1561728358656">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="59" />
         <mark key="." line="4" column="7" />
@@ -74,14 +74,6 @@
         <mark key="^" line="4" column="86" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/JDBCPhoneRepository.java" timestamp="1561633245092">
-        <mark key="a" line="128" column="62" />
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="21" column="13" />
-        <mark key="." line="21" column="13" />
-        <mark key="^" line="126" column="12" />
-      </file>
       <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/modules/receive_vote/rest.tf" timestamp="1561571905573">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="21" />
@@ -117,12 +109,6 @@
         <mark key="^" line="0" column="67" />
         <mark key="." line="0" column="67" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/PhoneRepositoryImpl.java" timestamp="1561633301459">
-        <mark key="'" line="37" column="27" />
-        <mark key="]" line="21" column="31" />
-        <mark key="^" line="21" column="31" />
-        <mark key="." line="21" column="31" />
-      </file>
       <file name="/postgres.linked_provider.linkedprovider [postgres@devint]" timestamp="1561637908713">
         <mark key="[" line="0" column="0" />
       </file>
@@ -132,6 +118,11 @@
         <mark key="]" line="2661" column="48" />
         <mark key="." line="2661" column="48" />
         <mark key="^" line="2661" column="48" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/security-service.yaml" timestamp="1561728604236">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="67" />
+        <mark key="." line="4" column="7" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/PhoneRepository.java" timestamp="1561635004657">
         <mark key="'" line="20" column="9" />
@@ -172,6 +163,9 @@
       <file name="/postgres.linked_provider.apply_to_disconnect [postgres@devint]" timestamp="1561637898901">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/postgres.contact.phone [postgres@dev6]" timestamp="1561727159315">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/controller/phone/PhoneControllerApiDelegateImpl.java" timestamp="1561632168611">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="17" column="0" />
@@ -179,14 +173,14 @@
         <mark key="^" line="77" column="59" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1561639394815">
+      <file name="/dummy.sql" timestamp="1561727159798">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561726493034">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="26" />
+      <file name="/Dummy.txt" timestamp="1561728624609">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/DecryptingPhoneRepository.java" timestamp="1561634993709">
         <mark key="[" line="4" column="0" />
@@ -214,12 +208,12 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" timestamp="1561631415456">
+      <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" timestamp="1561727901035">
         <mark key="'" line="562" column="15" />
-        <mark key="[" line="557" column="15" />
-        <mark key="]" line="557" column="15" />
+        <mark key="[" line="551" column="0" />
+        <mark key="]" line="551" column="0" />
         <mark key="^" line="562" column="19" />
-        <mark key="." line="557" column="19" />
+        <mark key="." line="551" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/nfauthentication/NFactorAuthenticationRepository.java" timestamp="1561442829070">
         <mark key="[" line="27" column="0" />
@@ -232,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/providers.tf" />
       <jump line="13" column="0" filename="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/backend.tf" />
       <jump line="24" column="0" filename="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/main.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/sd/vote-it/voteit_v2_workshop/modules/frontend/upload/script_results.js" />
@@ -332,13 +325,14 @@
       <jump line="109" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" />
       <jump line="217" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
       <jump line="316" column="62" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>code review remarks</text>
+        <text>fetching user ID based</text>
       </register>
       <register name="-" type="4">
-        <text>code review remarks</text>
+        <text>fetching user ID based</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaG9uZVJlcG9zaXRvcnlcPg==</text>
@@ -347,25 +341,25 @@
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRGVjcnlwdGluZ1Bob25lUmVwb3NpdG9yeSBwaG9uZVJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3VtZXM6CiAgICAgICAgLSAiYXBwbGljYXRpb24vanNvbiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5yZXBvc2l0b3J5LlJlcG9zaXRvcnlEZWZpbml0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5yZXBvc2l0b3J5LkNydWRSZXBvc2l0b3J5OwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5kYXRhLnJlcG9zaXRvcnkuTm9SZXBvc2l0b3J5QmVhbjsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5yZXBvc2l0b3J5LlJlcG9zaXRvcnlEZWZpbml0aW9uOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbXBvbmVudFNjYW47Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5yZXBvc2l0b3J5LkNydWRSZXBvc2l0b3J5OwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5kYXRhLnJlcG9zaXRvcnkuTm9SZXBvc2l0b3J5QmVhbjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRGVjcnlwdGluZ1Bob25lUmVwb3NpdG9yeSBkZWNyeXB0aW5nUGhvbmVSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbXBvbmVudFNjYW47Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmlkZW50aXR5b3duZXIuY29udGFjdC5zZXJ2aWNlLnBob25lLnJlcG9zaXRvcnkuRGVjcnlwdGluZ1Bob25lUmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRGVjcnlwdGluZ1Bob25lUmVwb3NpdG9yeSBkZWNyeXB0aW5nUGhvbmVSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmlkZW50aXR5b3duZXIuY29udGFjdC5zZXJ2aWNlLnBob25lLnJlcG9zaXRvcnkuRGVjcnlwdGluZ1Bob25lUmVwb3NpdG9yeTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
