@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1561627838731">
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1561731826038">
         <mark key="'" line="7" column="6" />
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="52" />
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="70" />
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="52" />
       </file>
@@ -27,6 +27,7 @@
         <mark key="]" line="29" column="63" />
         <mark key="." line="29" column="61" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/controller/AuthenticationControllerApiDelegateImpl.java" timestamp="1561730519919" />
       <file name="/postgres.nfactor_interaction.nfactor_interaction [postgres@devint]" timestamp="1561639382569">
         <mark key="[" line="0" column="0" />
       </file>
@@ -74,7 +75,7 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" timestamp="1561723941858">
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" timestamp="1561730679094">
         <mark key="'" line="316" column="62" />
         <mark key="[" line="59" column="43" />
         <mark key="]" line="59" column="42" />
@@ -113,6 +114,7 @@
         <mark key="." line="400" column="48" />
         <mark key="^" line="400" column="48" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/IdentityOwnerApplication.java" timestamp="1561632949669" />
       <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/security-service.yaml" timestamp="1561728604236">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="67" />
@@ -160,6 +162,7 @@
       <file name="/postgres.contact.phone [postgres@dev6]" timestamp="1561727159315">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.identityowner/identityowner-java-client-feign/1.3-LEGACY/d6881cf1e5ba5dc595459efaa24c19ffb03dbc0d/identityowner-java-client-feign-1.3-LEGACY-sources.jar!/com/dipp/identityowner/client/feign/api/PhoneControllerApiClient.java" timestamp="1561731470960" />
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/controller/phone/PhoneControllerApiDelegateImpl.java" timestamp="1561632168611">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="17" column="0" />
@@ -170,11 +173,11 @@
       <file name="/dummy.sql" timestamp="1561727159798">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561728624609">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-        <mark key="^" line="0" column="20" />
+      <file name="/Dummy.txt" timestamp="1561731941717">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="55" />
+        <mark key="." line="0" column="55" />
+        <mark key="^" line="0" column="55" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/DecryptingPhoneRepository.java" timestamp="1561634993709">
         <mark key="[" line="4" column="0" />
@@ -215,8 +218,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="28" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1561547134215">
+      <file name="/fragment.java" timestamp="1561731536263">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -323,16 +329,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fetching user ID based</text>
+        <text>dev:22186-cd51bf48-VD-1600_provide_login_page_logic_twofaaas_only</text>
       </register>
       <register name="-" type="4">
-        <text>fetching user ID based</text>
+        <text>dev:22186-cd51bf48-VD-1600_provide_login_page_logic_twofaaas_only</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUd29mYU9ubHlBdXRoZW50aWNhdGlvblJlcXVlc3RcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRGVjcnlwdGluZ1Bob25lUmVwb3NpdG9yeSBwaG9uZVJlcG9zaXRvcnk7Cg==</text>
+      <register name="0" type="4">
+        <text>VD-1546-2fa-only-authorization-endpoint</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY29uc3VtZXM6CiAgICAgICAgLSAiYXBwbGljYXRpb24vanNvbiIK</text>
