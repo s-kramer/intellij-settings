@@ -18,6 +18,17 @@
         <mark key="]" line="4" column="59" />
         <mark key="." line="4" column="7" />
       </file>
+      <file name="/a.dummy" timestamp="1561963211253">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasRequestCreationService.java" timestamp="1561963505853">
+        <mark key="'" line="43" column="32" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/authentication/AuthenticationRepository.java" timestamp="1561473810656">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/test/java/com/dipp/identityowner/contact/service/phone/PhoneServiceTest.java" timestamp="1561632176836">
         <mark key="'" line="515" column="39" />
         <mark key="[" line="56" column="0" />
@@ -137,8 +148,18 @@
       <file name="/postgres.linked_provider.linkedprovider [postgres@devint]" timestamp="1561637908713">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" timestamp="1561545549549">
+        <mark key="[" line="46" column="13" />
+        <mark key="]" line="46" column="94" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageController.java" timestamp="1561532760300">
         <mark key="'" line="110" column="36" />
+      </file>
+      <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/modules/receive_vote/output.tf" timestamp="1561571022330">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" timestamp="1561729469090">
         <mark key="'" line="2059" column="2" />
@@ -196,6 +217,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.identityowner/identityowner-java-client-feign/1.3-LEGACY/d6881cf1e5ba5dc595459efaa24c19ffb03dbc0d/identityowner-java-client-feign-1.3-LEGACY-sources.jar!/com/dipp/identityowner/client/feign/api/PhoneControllerApiClient.java" timestamp="1561731470960" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/domain/authentication/Authentication.java" timestamp="1561547795171">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/NFAInteractionService.java" timestamp="1561449197291">
         <mark key="'" line="44" column="74" />
       </file>
@@ -250,11 +276,21 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerierTest.java" timestamp="1561135754738">
         <mark key="'" line="132" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationStatusUpdateService.java" timestamp="1561464821818">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp/dipp-db-abstraction/1_3_APRIL_MASTER/e16b7ec233687b067a8ca472c9f3b3783345ddae/dipp-db-abstraction-1_3_APRIL_MASTER-sources.jar!/com/dipp/db/jdbc/DefaultCrudStatementProvider.java" timestamp="1561551119914">
         <mark key="'" line="129" column="15" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/src/main/java/com/dipp/ImportExportApplication.java" timestamp="1561380402695">
         <mark key="'" line="63" column="25" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/NfactorFacade.java" timestamp="1561963691685">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" timestamp="1561727901035">
         <mark key="'" line="562" column="15" />
@@ -280,7 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5158" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="574" column="2" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="4053" column="21" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="43" column="4" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/TwofaaasControllerApiDelegateImpl.java" />
@@ -380,40 +415,41 @@
       <jump line="2490" column="6" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="2059" column="2" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="40" column="37" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/InteractionCreationService.java" />
+      <jump line="43" column="32" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasRequestCreationService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dev:22186-cd51bf48-VD-1600_provide_login_page_logic_twofaaas_only</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="-" type="4">
         <text>dev:22186-cd51bf48-VD-1600_provide_login_page_logic_twofaaas_only</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXh0UHJvZHVjZXJcPg==</text>
+        <text encoding="base64">XDxjcmVhdGUyRkFhYVNJbnRlcmFjdGlvblw+</text>
       </register>
       <register name="0" type="4">
         <text>VD-1546-2fa-only-authorization-endpoint</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3VtZXM6CiAgICAgICAgLSAiYXBwbGljYXRpb24vanNvbiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3VtZXM6CiAgICAgICAgLSAiYXBwbGljYXRpb24vanNvbiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5yZXBvc2l0b3J5LlJlcG9zaXRvcnlEZWZpbml0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5yZXBvc2l0b3J5LkNydWRSZXBvc2l0b3J5OwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5kYXRhLnJlcG9zaXRvcnkuTm9SZXBvc2l0b3J5QmVhbjsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5yZXBvc2l0b3J5LlJlcG9zaXRvcnlEZWZpbml0aW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbXBvbmVudFNjYW47Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5yZXBvc2l0b3J5LkNydWRSZXBvc2l0b3J5OwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5kYXRhLnJlcG9zaXRvcnkuTm9SZXBvc2l0b3J5QmVhbjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRGVjcnlwdGluZ1Bob25lUmVwb3NpdG9yeSBkZWNyeXB0aW5nUGhvbmVSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbXBvbmVudFNjYW47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmlkZW50aXR5b3duZXIuY29udGFjdC5zZXJ2aWNlLnBob25lLnJlcG9zaXRvcnkuRGVjcnlwdGluZ1Bob25lUmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRGVjcnlwdGluZ1Bob25lUmVwb3NpdG9yeSBkZWNyeXB0aW5nUGhvbmVSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -429,7 +465,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmlkZW50aXR5b3duZXIuY29udGFjdC5zZXJ2aWNlLnBob25lLnJlcG9zaXRvcnkuRGVjcnlwdGluZ1Bob25lUmVwb3NpdG9yeTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
@@ -439,9 +475,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXh0UHJvZHVjZXJcPg==</last-search>
+      <last-search encoding="base64">XDxjcmVhdGUyRkFhYVNJbnRlcmFjdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXh0UHJvZHVjZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGUyRkFhYVNJbnRlcmFjdGlvblw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
       <last-dir>-1</last-dir>
@@ -449,7 +485,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdWVyeVw+</entry>
         <entry encoding="base64">XDx0YWJsZU1hcHBlclw+</entry>
         <entry>UId</entry>
         <entry>identity</entry>
@@ -469,6 +504,7 @@
         <entry encoding="base64">XDxQaG9uZVw+</entry>
         <entry encoding="base64">XDxUd29mYU9ubHlBdXRoZW50aWNhdGlvblJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDx0ZXh0UHJvZHVjZXJcPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGUyRkFhYVNJbnRlcmFjdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s//\&quot;//g</entry>
