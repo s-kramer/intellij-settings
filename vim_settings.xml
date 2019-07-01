@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" timestamp="1561974982044">
-        <mark key="a" line="64" column="23" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" timestamp="1561975777860">
+        <mark key="a" line="44" column="23" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="14" />
-        <mark key="]" line="33" column="14" />
-        <mark key="^" line="33" column="14" />
-        <mark key="." line="33" column="14" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="66" column="7" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1561967410262">
         <mark key="'" line="7" column="6" />
@@ -105,6 +105,18 @@
         <mark key="]" line="21" column="13" />
         <mark key="." line="21" column="13" />
         <mark key="^" line="126" column="12" />
+      </file>
+      <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/backend.tf" timestamp="1561572971091">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="54" />
+        <mark key="." line="3" column="28" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.puml" timestamp="1561975897711">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="48" column="7" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/modules/receive_vote/rest.tf" timestamp="1561571905573">
         <mark key="[" line="3" column="19" />
@@ -303,6 +315,13 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/InteractionCreationService.java" timestamp="1561962524913">
         <mark key="'" line="40" column="37" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_60.puml" timestamp="1561976277298">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="53" column="7" />
+        <mark key="." line="23" column="19" />
+        <mark key="^" line="23" column="19" />
+      </file>
       <file name="/fragment.java" timestamp="1561731536263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
@@ -311,23 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2442" column="6" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="2432" column="6" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="2414" column="6" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="2403" column="6" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="2395" column="6" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="2102" column="6" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="1953" column="6" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="1909" column="6" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="1847" column="34" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="1560" column="49" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="1550" column="26" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="1549" column="12" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="1541" column="39" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="1535" column="24" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="1518" column="33" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="1517" column="12" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="1514" column="16" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="1488" column="37" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="1487" column="12" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="1484" column="16" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
@@ -398,7 +400,6 @@
       <jump line="61" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
       <jump line="53" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
       <jump line="51" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
-      <jump line="45" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
       <jump line="47" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
       <jump line="49" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
       <jump line="55" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
@@ -410,14 +411,32 @@
       <jump line="63" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
       <jump line="8" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
       <jump line="71" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="12" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="24" column="35" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="28" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.puml" />
+      <jump line="40" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.puml" />
+      <jump line="41" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.puml" />
+      <jump line="43" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.puml" />
+      <jump line="46" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.puml" />
+      <jump line="29" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.puml" />
+      <jump line="21" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.puml" />
+      <jump line="19" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.puml" />
+      <jump line="45" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="31" column="52" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.puml" />
+      <jump line="20" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.puml" />
+      <jump line="2" column="52" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.puml" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.puml" />
+      <jump line="23" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_60.puml" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_60.puml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LT4g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QHN0YXJ0dW1sCgp0aXRsZSBCMzogVXNlciBoYXMgbm8gbGlua2VkIFZlcmltaSBhY2NvdW50IFxuIFVzZXIgaGFzIG5vIFZlcmltaSBhY2NvdW50LCBNb2JpbGUgYXBwIGFscmVhZHkgaW5zdGFsbGVkCmFjdG9yICJVc2VyIiBhcyBVCnBhcnRpY2lwYW50ICJVc2VyIGFnZW50IiBhcyBVQSAjMzNCQjExCnBhcnRpY2lwYW50ICJTZXJ2aWNlIHByb3ZpZGVyIiBhcyBTUCAjMDA2NkNDCnBhcnRpY2lwYW50ICJWZXJpbWkgQkUiIGFzIFYgI0ZGQkIwMApwYXJ0aWNpcGFudCAiVmVyaW1pIFxubW9iaWxlIGFwcCIgYXMgVk1BCnBhcnRpY2lwYW50ICJWZXJpbWkgRkUiIGFzIFZGRQoKPT0gVmVyaW1pIFRBTiBwcm9jZWR1cmUgY29uZmlndXJhdGlvbiA9PQoKVSAtPiBVQSA6IEdvIHRvIFNQIHBhZ2UKVUEgLT4gU1AgOiBEaXNwbGF5IERCIGFjY291bnQgXG4gc2VjdXJpdHkgc2V0dGluZ3MKU1AgLT4gU1AgOiBpcyBldWlkIGRlZmluZWQgXG5mb3IgdXNlcjogZmFsc2UKU1AgLT4gVUEgOiBEaXNwbGF5IHNlY3VyaXR5IFxuc2V0dGluZ3MgcGFnZSB3aXRoXG5WZXJpbWkgVEFOIHByb2NlZHVyZQpVQSAtPiBTUCA6IENvbmZpZ3VyZSBWZXJpbWkgVEFOXG4gcHJvY2VkdXJlCgpTUCAtPiBVQSA6IFJlZGlyZWN0IHRvIFZlcmltaSBsb2dpbiBwYWdlClVBIC0+IFZNQSA6IGNhdGNoIGRlZXAgbGluawpWTUEgLT4gViA6IGNhbGwgL21vYmlsZS1hdXRoClYgLT4gVk1BIDogcmVzcG9uc2Ugd2l0aCB0d29mYWFhc1JlZ2lzdHJhdGlvbkVuYWJsZWQgZmxhZwpWTUEgLT4gVSA6IGRpc3BsYXkgd2VsY29tZVxucGFnZQpVIC0+IFZNQSA6IHNldHVwIDJGQQp8fHwKVk1BIC0+IFYgOiBQcm92aWRlIHBob25lIG51bWJlcgoKViAtPiBWIDogY3JlYXRlIDJGQS1vbmx5IGFjY291bnQKViAtPiBWTUEgOiBPVFBfUkVRVUlSRUQKVk1BIC0+IFYgOiBVc2VyIHByb3ZpZGVkIE9UUCBjb2RlClYgLT4gVk1BIDogbW9iaWxlIGFjY2VzcyB0b2tlbgpWTUEgLT4gVk1BIDogMkZBIGNvbmZpZ3VyYXRpb24KVk1BIC0+IFYgOiBjYWxsIC9tb2JpbGUtYXV0aApWIC0+IFZNQSA6IFNQX1JFRElSRUNUClZNQSAtPiBWRkUgOiBvcGVuIG1vYmlsZSBicm93c2VyXG5hbmQgZm9sbG93IHJlZGlyZWN0Cgo9PSBWZXJpbWkgVEFOIHByb2NlZHVyZSBjb25maWd1cmF0aW9uIGNvbnRpbnVhdGlvbiA9PQoKVkZFIC0+IFNQIDogcmVkaXJlY3Qgd2l0aCBhdXRob3JpemF0aW9uIGNvZGUKU1AgLT4gViA6IEdldCB0b2tlbnMKViAtPiBTUCA6IEFjY2VzcyB0b2tlbiBcbmFuZCBJRCB0b2tlbgpTUCAtPiBTUCA6IFNQLXNwZWNpZmljIDJGQSBcbmV4ZWN1dGlvbgpTUCAtPiBVQSA6IFRBTiBjb25maWd1cmVkIFxuc3VjY2Vzc2Z1bGx5Ci4uLgoKPT0gdHdvZmFhYXMgVHJhbnNhY3Rpb24gRXhlY3V0aW9uID09CgpVQSAtPiBTUCA6IFJlcXVlc3QgMkZBLXByb3RlY3RlZCBcbiBvcGVyYXRpb24KU1AgLT4gViA6IFJlcXVlc3QgMkZBIGV4ZWN1dGlvbgpWIC0+IFNQIDogMkZBIHJlcXVlc3RlZApTUCAtPiBWIDogUXVlcnkgMkZBIG9wZXJhdGlvblxuc3RhdHVzClYgLT4gU1AgOiAyRkEgb3BlcmF0aW9uIHJlc3VsdAoKQGVuZHVtbAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT4g</text>
+        <text>VMA</text>
       </register>
       <register name="/" type="4">
         <text>SP_RE</text>
@@ -426,25 +445,25 @@
         <text encoding="base64">RkUgLT4gViA6IENoZWNrIGlmIDJGQSBpcyBjb25maWd1cmVkClYgLT4gRkUgOiAyRkEgaXMgbm90IHlldCBjb25maWd1cmVkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Vk1BIC0+IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHx8fAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RkUgLT4gViA6IENoZWNrIGlmIDJGQSBpcyBjb25maWd1cmVkClYgLT4gRkUgOiAyRkEgaXMgY29uZmlndXJlZAoKCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ViAtPiBVQSA6IEF1dGhvcml6YXRpb24gY29kZQpVQSAtPiBTUCA6IFJlZGlyZWN0IHRvIFNQClNQIC0+IFYgOiBHZXQgdG9rZW5zClYgLT4gU1AgOiBBY2Nlc3MgdG9rZW4gXG5hbmQgSUQgdG9rZW4KU1AgLT4gU1AgOiBTUC1zcGVjaWZpYyAyRkEgXG5leGVjdXRpb24K</text>
+        <text encoding="base64">ICAgIFZGRSAtPiBTUCA6IHJlZGlyZWN0IHdpdGggYXV0aG9yaXphdGlvbiBjb2RlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICcgLFxubW9iaWxlIGFjY2VzcyB0b2tlbgo=</text>
+        <text encoding="base64">VkZFIC0+IFYgOiBDaGVjayBpZiAyRkEgaXMgY29uZmlndXJlZApWIC0+IFZGRSA6IDJGQSBpcyBjb25maWd1cmVkClZGRSAtPiBVIDogRGlzcGxheSAyRkEgY29uZmlndXJhdGlvblxuY29uZmlybWF0aW9uIHNjcmVlbiB3aXRoXG5TUC1yZWRpcmVjdCBidXR0b24KVSAtPiBWRkUgOiBHbyB0byBTUCBwYWdlClZGRSAtPiBVQSA6IEF1dGhvcml6YXRpb24gY29kZQpVQSAtPiBTUCA6IFJlZGlyZWN0IHRvIFNQCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U1AgLT4gVUEgOiBUQU4gY29uZmlndXJlZCBcbnN1Y2Nlc3NmdWxseQo=</text>
+        <text encoding="base64">ViAtPiBWRkUgOiAyRkEgY29uZmlndXJhdGlvbiBwZW5kaW5nIHNjcmVlbgpsb29wIGV2ZXJ5IG4gc2Vjb25kczoKVkZFIC0+IFYgOiBDaGVjayBpZiAyRkEgaXMgY29uZmlndXJlZApWIC0+IFZGRSA6IDJGQSBpcyBub3QgeWV0IGNvbmZpZ3VyZWQKZW5kCgouLi4KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ViAtPiBTUCA6IExpbmthZ2Ugc3VjY2Vzc2Z1bAo=</text>
+        <text encoding="base64">PT0gMkZBIFNldFVwID09CgpVIC0+IFZNQSA6IEdvIGJhY2sgdG8gYXBwCgp8fHwKVSAtPiBWTUEgOiBTdGFydCAyRkEgY29uZmlndXJhdGlvbgoKVk1BIC0+IFYgOiBJbml0aWF0ZSBhdXRoIGZsb3dcbnRvIGdldCBhY2Nlc3MgdG9rZW5cbnByb3ZpZGluZyB0aGUgcGhvbmUgbnVtYmVyClYgLT4gVSA6IFNlbmQgU01TIHdpdGggT1RQClUgLT4gVk1BIDogUHJvdmlkZSBPVFAKVk1BIC0+IFYgOiBWZXJpZnkgT1RQClYgLT4gVk1BIDogbW9iaWxlIGFjY2VzcyB0b2tlbgoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -460,10 +479,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ViAtPiBVIDogc2VuZCBWZXJpbWkgbW9iaWxlIGFwcCBzbXMKbm90ZSByaWdodAogICAgc2VuZCBldmVuIGlmIG1vYmlsZSBhcHAgaXMgYWxyZWFkeSBpbnN0YWxsZWQKICAgIHRvIGdpdmUgdXNlciBpbmNlbnRpdmUgdG8gcmV0dXJuIHRvIGl0CmVuZCBub3RlCg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U1AgLT4gViA6IExpbmsgd2l0aCBWZXJpbWkgYWNjb3VudApWIC0+IFYgOiBMaW5rIHRoZSBhY2NvdW50cwo=</text>
+        <text encoding="base64">YWx0IE1vYmlsZSBhcHAgaXMgbm90IGluc3RhbGxlZCB5ZXQKICAgIFUgLT4gVk1BIDogSW5zdGFsbCBhcHAKZWxzZSBNb2JpbGUgYXBwIGlzIGFscmVhZHkgaW5zdGFsbGVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
