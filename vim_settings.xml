@@ -3,6 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" timestamp="1561974982044">
+        <mark key="a" line="64" column="23" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="33" column="14" />
+        <mark key="]" line="33" column="14" />
+        <mark key="^" line="33" column="14" />
+        <mark key="." line="33" column="14" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1561967410262">
         <mark key="'" line="7" column="6" />
         <mark key="[" line="11" column="71" />
@@ -89,6 +97,14 @@
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/server/build.gradle" timestamp="1561543213866">
         <mark key="'" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/JDBCPhoneRepository.java" timestamp="1561633245092">
+        <mark key="a" line="128" column="62" />
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="13" />
+        <mark key="." line="21" column="13" />
+        <mark key="^" line="126" column="12" />
       </file>
       <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/modules/receive_vote/rest.tf" timestamp="1561571905573">
         <mark key="[" line="3" column="19" />
@@ -295,23 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="116" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="112" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="108" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="91" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="101" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="97" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="95" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="138" column="49" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="157" column="34" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="137" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="106" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="81" column="16" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="2662" column="0" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="2667" column="0" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="1821" column="4" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
-      <jump line="2663" column="2" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="2442" column="6" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="2432" column="6" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
       <jump line="2414" column="6" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
@@ -395,40 +394,57 @@
       <jump line="91" column="42" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp/error-handler/1_3_APRIL_MASTER/2862841d184f33f442534ff7e739bdffe48b3079/error-handler-1_3_APRIL_MASTER-sources.jar!/com/dipp/error/errorhandler/controller/CommonErrorHandler.java" />
       <jump line="95" column="63" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp/error-handler/1_3_APRIL_MASTER/2862841d184f33f442534ff7e739bdffe48b3079/error-handler-1_3_APRIL_MASTER-sources.jar!/com/dipp/error/errorhandler/controller/CommonErrorHandler.java" />
       <jump line="210" column="67" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
+      <jump line="62" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="61" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="53" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="51" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="45" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="47" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="49" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="55" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="58" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="65" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="39" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="66" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="38" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="63" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="8" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="71" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>contract update</text>
+        <text encoding="base64">LT4g</text>
       </register>
       <register name="-" type="4">
-        <text>contract update</text>
+        <text encoding="base64">LT4g</text>
       </register>
       <register name="/" type="4">
-        <text>dipp</text>
+        <text>SP_RE</text>
       </register>
-      <register name="0" type="4">
-        <text>VD-1546-2fa-only-authorization-endpoint</text>
+      <register name="0" type="2">
+        <text encoding="base64">RkUgLT4gViA6IENoZWNrIGlmIDJGQSBpcyBjb25maWd1cmVkClYgLT4gRkUgOiAyRkEgaXMgbm90IHlldCBjb25maWd1cmVkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmlkZW50aXR5b3duZXIuY2xpZW50LmZlaWduLm1vZGVsLlVpZEZvclBob25lTnVtYmVyUmVzcG9uc2U7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmlkZW50aXR5b3duZXIuY2xpZW50LmZlaWduLm1vZGVsLlVpZEZvclBob25lTnVtYmVyUmVzcG9uc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">RkUgLT4gViA6IENoZWNrIGlmIDJGQSBpcyBjb25maWd1cmVkClYgLT4gRkUgOiAyRkEgaXMgY29uZmlndXJlZAoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3VtZXM6CiAgICAgICAgLSAiYXBwbGljYXRpb24vanNvbiIK</text>
+        <text encoding="base64">ViAtPiBVQSA6IEF1dGhvcml6YXRpb24gY29kZQpVQSAtPiBTUCA6IFJlZGlyZWN0IHRvIFNQClNQIC0+IFYgOiBHZXQgdG9rZW5zClYgLT4gU1AgOiBBY2Nlc3MgdG9rZW4gXG5hbmQgSUQgdG9rZW4KU1AgLT4gU1AgOiBTUC1zcGVjaWZpYyAyRkEgXG5leGVjdXRpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICcgLFxubW9iaWxlIGFjY2VzcyB0b2tlbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5yZXBvc2l0b3J5LlJlcG9zaXRvcnlEZWZpbml0aW9uOwo=</text>
+        <text encoding="base64">U1AgLT4gVUEgOiBUQU4gY29uZmlndXJlZCBcbnN1Y2Nlc3NmdWxseQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5yZXBvc2l0b3J5LkNydWRSZXBvc2l0b3J5OwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5kYXRhLnJlcG9zaXRvcnkuTm9SZXBvc2l0b3J5QmVhbjsK</text>
+        <text encoding="base64">ViAtPiBTUCA6IExpbmthZ2Ugc3VjY2Vzc2Z1bAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -444,19 +460,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbXBvbmVudFNjYW47Cg==</text>
+        <text encoding="base64">ViAtPiBVIDogc2VuZCBWZXJpbWkgbW9iaWxlIGFwcCBzbXMKbm90ZSByaWdodAogICAgc2VuZCBldmVuIGlmIG1vYmlsZSBhcHAgaXMgYWxyZWFkeSBpbnN0YWxsZWQKICAgIHRvIGdpdmUgdXNlciBpbmNlbnRpdmUgdG8gcmV0dXJuIHRvIGl0CmVuZCBub3RlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRGVjcnlwdGluZ1Bob25lUmVwb3NpdG9yeSBkZWNyeXB0aW5nUGhvbmVSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">U1AgLT4gViA6IExpbmsgd2l0aCBWZXJpbWkgYWNjb3VudApWIC0+IFYgOiBMaW5rIHRoZSBhY2NvdW50cwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search>dipp</last-search>
+      <last-search>SP_RE</last-search>
       <last-offset />
-      <last-pattern>dipp</last-pattern>
+      <last-pattern>SP_RE</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -464,8 +480,6 @@
     </search>
     <history>
       <history-search>
-        <entry>UId</entry>
-        <entry>identity</entry>
         <entry>POST</entry>
         <entry>phoneresponse</entry>
         <entry encoding="base64">XDxnZXRORmFjdG9yQXV0aGVudGljYXRpb25FcnJvclw+</entry>
@@ -484,6 +498,8 @@
         <entry encoding="base64">XDxjcmVhdGUyRkFhYVNJbnRlcmFjdGlvblw+</entry>
         <entry encoding="base64">XDxVaWRGb3JQaG9uZU51bWJlclJlc3BvbnNlXD4=</entry>
         <entry>dipp</entry>
+        <entry encoding="base64">XDxGRVw+</entry>
+        <entry>SP_RE</entry>
       </history-search>
       <history-cmd>
         <entry>%s//\&quot;//g</entry>
