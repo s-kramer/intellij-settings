@@ -211,12 +211,12 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="106" column="79" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" timestamp="1561980219805">
-        <mark key="'" line="604" column="83" />
-        <mark key="[" line="636" column="21" />
-        <mark key="]" line="636" column="44" />
-        <mark key="." line="636" column="44" />
-        <mark key="^" line="636" column="44" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" timestamp="1561980362623">
+        <mark key="'" line="603" column="83" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="635" column="44" />
       </file>
       <file name="/a.sql" timestamp="1561538826004">
         <mark key="[" line="0" column="0" />
@@ -224,7 +224,7 @@
       <file name="/postgres.linked_provider.apply_to_disconnect [postgres@devint]" timestamp="1561637898901">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/postgres.contact.phone [postgres@dev6]" timestamp="1561969451032">
+      <file name="/postgres.contact.phone [postgres@dev6]" timestamp="1561980284306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.identityowner/identityowner-java-client-feign/1.3-LEGACY/d6881cf1e5ba5dc595459efaa24c19ffb03dbc0d/identityowner-java-client-feign-1.3-LEGACY-sources.jar!/com/dipp/identityowner/client/feign/api/PhoneControllerApiClient.java" timestamp="1561731470960" />
@@ -243,17 +243,17 @@
         <mark key="^" line="77" column="59" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1561974191720">
+      <file name="/dummy.sql" timestamp="1561980284939">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/providers.tf" timestamp="1561569501389">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561968429679">
+      <file name="/Dummy.txt" timestamp="1561980375017">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="22" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/DecryptingPhoneRepository.java" timestamp="1561634993709">
         <mark key="[" line="4" column="0" />
@@ -436,20 +436,20 @@
       <jump line="606" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
       <jump line="615" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
       <jump line="619" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
-      <jump line="608" column="60" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
-      <jump line="625" column="83" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
-      <jump line="628" column="60" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
-      <jump line="640" column="83" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
-      <jump line="643" column="60" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
       <jump line="68" column="32" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
+      <jump line="643" column="60" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
+      <jump line="640" column="83" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
+      <jump line="628" column="60" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
+      <jump line="625" column="83" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
+      <jump line="608" column="60" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
       <jump line="604" column="83" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>IllegalArgumentException</text>
+        <text>sync</text>
       </register>
       <register name="-" type="4">
-        <text>IllegalArgumentException</text>
+        <text>sync</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX1BIT05FX0NPVU5UUllfQ09ERVw+</text>
@@ -458,25 +458,25 @@
         <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIFBob25lQ29udHJvbGxlckFwaUNsaWVudCBwaG9uZUNvbnRyb2xsZXJBcGlDbGllbnQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHR3b2ZhT25seUF1dGhvcml6YXRpb25Db25maWd1cmF0aW9uLmdldEFsbG93ZWRDb3VudHJ5Q29kZXMoKSkudGhlblJldHVybihzaW5nbGV0b25MaXN0KCI0OSIpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuKHR3b2ZhT25seUF1dGhvcml6YXRpb25Db25maWd1cmF0aW9uLmdldEFsbG93ZWRDb3VudHJ5Q29kZXMoKSkudGhlblJldHVybihzaW5nbGV0b25MaXN0KCI0OSIpKTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>|| !twofaOnlyAuthorizationConfiguration.getAllowedCountryCodes().contains(request.getPhone().getCountryCode())</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKElOVkFMSURfVFdPRkFfT05MWV9BVVRIRU5USUNBVElPTl9SRVFVRVNUX0NPTlRFTlQpOwogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKElOVkFMSURfVFdPRkFfT05MWV9BVVRIRU5USUNBVElPTl9SRVFVRVNUX0NPTlRFTlQpOwogICAgICAgIH0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKCkgewogICAgICAgICAgICBsb2cuZXJyb3IoSU5WQUxJRF9UV09GQV9PTkxZX0FVVEhFTlRJQ0FUSU9OX1JFUVVFU1RfQ09OVEVOVCk7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oSU5WQUxJRF9UV09GQV9PTkxZX0FVVEhFTlRJQ0FUSU9OX1JFUVVFU1RfQ09OVEVOVCk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">fQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -492,10 +492,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAwMS4wNy4xOSAxMzowMgogKi8KICAgIAogICAgCg==</text>
+        <text encoding="base64">fQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFR3b2ZhT25seVVzZXJSZWdpc3RyYXRpb25TZXJ2aWNlQ29uZmlndXJhdGlvbiB7Cg==</text>
+        <text encoding="base64">LyoqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAwMS4wNy4xOSAxMzowMgogKi8KICAgIAogICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
@@ -507,7 +507,7 @@
       <last-pattern encoding="base64">XDxURVNUX1BIT05FX0NPVU5UUllfQ09ERVw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
