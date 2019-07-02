@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v0.95.xml" timestamp="1562078680711">
+        <mark key="'" line="312" column="54" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/common/api/client/CustomTemporaryRegistrationControllerApiClient.java" timestamp="1562074648824">
         <mark key="'" line="22" column="11" />
         <mark key="^" line="33" column="44" />
@@ -92,8 +95,8 @@
       <file name="/ConsentPageService.java" timestamp="1562075458879">
         <mark key="'" line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" timestamp="1561627879859">
-        <mark key="'" line="153" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" timestamp="1562078717976">
+        <mark key="'" line="122" column="0" />
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
@@ -181,6 +184,9 @@
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/build.gradle" timestamp="1561632934356">
         <mark key="'" line="45" column="74" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v1.0.xml" timestamp="1562078668384">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/postgres.contact.phone [postgres@dev1]" timestamp="1561467812113">
         <mark key="[" line="0" column="0" />
       </file>
@@ -221,11 +227,11 @@
       <file name="/dummy.sql" timestamp="1562055206879">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562074657023">
+      <file name="/Dummy.txt" timestamp="1562078915689">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="65" />
+        <mark key="^" line="0" column="54" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/DecryptingPhoneRepository.java" timestamp="1561634993709">
         <mark key="[" line="4" column="0" />
@@ -235,6 +241,12 @@
       </file>
       <file name="/postgres.nfactor_authentication.nfactor_authentication [postgres@dev6]" timestamp="1562055060151">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasRequestDeleterRepository.java" timestamp="1562078697823">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/modules/frontend/upload/script_results.js" timestamp="1561571817390">
         <mark key="'" line="0" column="0" />
@@ -278,13 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="29" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/PhoneService.java" />
-      <jump line="286" column="15" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/PhoneService.java" />
-      <jump line="294" column="29" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/PhoneService.java" />
-      <jump line="66" column="4" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/PhoneService.java" />
-      <jump line="22" column="23" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/config/JDBCPhoneRepositoryConfiguration.java" />
-      <jump line="109" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" />
-      <jump line="217" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
       <jump line="316" column="62" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/swagger.yaml" />
       <jump line="2711" column="2" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
@@ -378,16 +383,23 @@
       <jump line="143" column="3" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
       <jump line="150" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
       <jump line="153" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v0.95.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v1.0.xml" />
+      <jump line="326" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v0.95.xml" />
+      <jump line="306" column="62" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v0.95.xml" />
+      <jump line="310" column="40" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v0.95.xml" />
+      <jump line="312" column="54" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v0.95.xml" />
+      <jump line="122" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZyh2YWx1ZSA9ICIvYXV0aGVudGljYXRlIiwgcGFyYW1zID0ge0xPR0lOX0NIQUxMRU5HRSwgQ09VTlRSWV9DT0RFLCBQSE9ORV9OVU1CRVJ9KQogICAgcHVibGljIE1vZGVsQW5kVmlldyBzdWJtaXRMb2dpbigKICAgICAgICAgICAgQFJlcXVlc3RIZWFkZXIodmFsdWUgPSBVU0VSX0FHRU5ULCByZXF1aXJlZCA9IGZhbHNlKSBTdHJpbmcgdXNlckFnZW50LAogICAgICAgICAgICBUd29mYU9ubHlVc2VyU3VibWl0TG9naW5SZXF1ZXN0IHN1Ym1pdExvZ2luUmVxdWVzdCwKICAgICAgICAgICAgSHR0cFNlcnZsZXRSZXNwb25zZSByZXNwb25zZSkgewogICAgICAgIGxvZy5kZWJ1ZygiU3VibWl0dGluZyBsb2dpbiB3aXRoIHBhcmFtZXRlcnM6IGxvZ2luQ2hhbGxlbmdlOiAne30nLCBjb3VudHJ5Q29kZTogJ3t9JywgcGhvbmVOdW1iZXI6ICd7fSciLAogICAgICAgICAgICAgICAgc3VibWl0TG9naW5SZXF1ZXN0LmdldExvZ2luQ2hhbGxlbmdlKCksIHN1Ym1pdExvZ2luUmVxdWVzdC5nZXRDb3VudHJ5Q29kZSgpLCBzdWJtaXRMb2dpblJlcXVlc3QuZ2V0UGhvbmVOdW1iZXIoKSk7CgogICAgICAgIEVpdGhlcjxMb2dpblN1Ym1pdEVycm9yLCBMb2dpblN1Ym1pdFJlc3BvbnNlPiBzdWJtaXRMb2dpblJlc3BvbnNlCiAgICAgICAgICAgICAgICA9IGxvZ2luU3VibWl0U2VydmljZS5zdWJtaXRMb2dpbih1c2VyQWdlbnQsIHN1Ym1pdExvZ2luUmVxdWVzdCk7CgogICAgICAgIHJldHVybiBjcmVhdGVQb3J0YWxTZXNzaW9uQW5kQXNzZW1ibGVTdWJtaXRMb2dpblJlc3BvbnNlKHJlc3BvbnNlLCBzdWJtaXRMb2dpblJlc3BvbnNlKTsKICAgIH0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>659 removed static import of lombok generated class</text>
       </register>
       <register name="-" type="4">
-        <text>546 provided check for country code for authorization endpoint</text>
+        <text>659 removed static import of lombok generated class</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUZW1wb3JhcnlVc2VyQ3JlYXRpb25SZXF1ZXN0UmVzcG9uc2VcPg==</text>
+        <text>twofaaas</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIFBob25lQ29udHJvbGxlckFwaUNsaWVudCBwaG9uZUNvbnRyb2xsZXJBcGlDbGllbnQ7Cg==</text>
@@ -437,9 +449,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUZW1wb3JhcnlVc2VyQ3JlYXRpb25SZXF1ZXN0UmVzcG9uc2VcPg==</last-search>
+      <last-search>twofaaas</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUZW1wb3JhcnlVc2VyQ3JlYXRpb25SZXF1ZXN0UmVzcG9uc2VcPg==</last-pattern>
+      <last-pattern>twofaaas</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -447,7 +459,6 @@
     </search>
     <history>
       <history-search>
-        <entry>path</entry>
         <entry>data</entry>
         <entry encoding="base64">XDxmaW5kQnlVaWRBbmRDb3VudHJ5Q29kZUFuZFBob25lXD4=</entry>
         <entry encoding="base64">XDx2ZXJpZnlQaG9uZVw+</entry>
@@ -467,6 +478,7 @@
         <entry encoding="base64">XDw7XD4=</entry>
         <entry encoding="base64">XDxUZW1wb3JhcnlVc2VyQ3JlYXRpb25SZXF1ZXN0UmVzcG9uc2VCdWlsZGVyXD4=</entry>
         <entry encoding="base64">XDxUZW1wb3JhcnlVc2VyQ3JlYXRpb25SZXF1ZXN0UmVzcG9uc2VcPg==</entry>
+        <entry>twofaaas</entry>
       </history-search>
       <history-cmd>
         <entry>%s//\&quot;//g</entry>
