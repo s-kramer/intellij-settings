@@ -6,10 +6,6 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v0.95.xml" timestamp="1562078680711">
         <mark key="'" line="312" column="54" />
       </file>
-      <file name="/swagger.yaml" timestamp="1562139282988">
-        <mark key="[" line="798" column="2" />
-        <mark key="]" line="798" column="45" />
-      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1561967410262">
         <mark key="'" line="7" column="6" />
         <mark key="[" line="11" column="71" />
@@ -133,12 +129,12 @@
         <mark key="." line="74" column="7" />
         <mark key="^" line="74" column="7" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" timestamp="1562152634385">
-        <mark key="'" line="644" column="0" />
-        <mark key="[" line="635" column="0" />
-        <mark key="]" line="648" column="0" />
-        <mark key="." line="626" column="110" />
-        <mark key="^" line="606" column="122" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" timestamp="1562161063093">
+        <mark key="'" line="618" column="38" />
+        <mark key="[" line="642" column="86" />
+        <mark key="]" line="642" column="134" />
+        <mark key="." line="642" column="134" />
+        <mark key="^" line="642" column="134" />
       </file>
       <file name="/a.sql" timestamp="1561538826004">
         <mark key="[" line="0" column="0" />
@@ -194,6 +190,9 @@
       </file>
       <file name="/postgres.nfactor_authentication.nfactor_authentication [postgres@devint]" timestamp="1562055086473">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/AuthenticationServiceTest.java" timestamp="1562161098629">
+        <mark key="'" line="65" column="32" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" timestamp="1562148051301">
         <mark key="'" line="57" column="13" />
@@ -400,10 +399,6 @@
         <mark key="." line="23" column="19" />
         <mark key="^" line="23" column="19" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneServiceListener.java" timestamp="1562075703518">
-        <mark key="[" line="124" column="41" />
-        <mark key="]" line="124" column="66" />
-      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileAuthData.java" timestamp="1562074405380">
         <mark key="'" line="125" column="19" />
       </file>
@@ -415,13 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="48" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
-      <jump line="75" column="32" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
-      <jump line="81" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
-      <jump line="78" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
-      <jump line="73" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
       <jump line="98" column="62" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
       <jump line="57" column="62" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
       <jump line="74" column="25" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
@@ -515,40 +503,47 @@
       <jump line="635" column="16" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
       <jump line="640" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
       <jump line="644" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
+      <jump line="621" column="51" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
+      <jump line="618" column="38" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
+      <jump line="599" column="83" filename="/AuthenticationServiceTest.java" />
+      <jump line="602" column="60" filename="/AuthenticationServiceTest.java" />
+      <jump line="620" column="83" filename="/AuthenticationServiceTest.java" />
+      <jump line="622" column="60" filename="/AuthenticationServiceTest.java" />
+      <jump line="65" column="32" filename="/AuthenticationServiceTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBUZXN0KGV4cGVjdGVkID0gSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzKQogICAgcHVibGljIHZvaWQgc2hvdWxkRmFpbFRvQXV0aGVudGljYXRlVHdvRmFPbmx5VXNlcklmQ291bnRyeUNvZGVJc05vdE9uV2hpdGVsaXN0KCkgewogICAgICAgIC8vR2l2ZW4KICAgICAgICBTdHJpbmcgdWlkID0gbnVsbDsKICAgICAgICBUd29mYU9ubHlBdXRoZW50aWNhdGlvblJlcXVlc3QgcmVxdWVzdCA9IGdldFR3b0ZhT25seUF1dGhlbnRpY2F0aW9uUmVxdWVzdChURVNUX1BIT05FX0NPVU5UUllfQ09ERSwgVEVTVF9QSE9ORV9QSE9ORV9OVU1CRVIpOwoKICAgICAgICB3aGVuKHR3b2ZhT25seUF1dGhvcml6YXRpb25Db25maWd1cmF0aW9uLmdldEFsbG93ZWRDb3VudHJ5Q29kZXMoKSkudGhlblJldHVybihlbXB0eUxpc3QoKSk7CiAgICAgICAgd2hlbihwaG9uZUNvbnRyb2xsZXJBcGlDbGllbnQuZmluZFVzZXJCeVBob25lTnVtYmVyKFRFU1RfUEhPTkVfQ09VTlRSWV9DT0RFLCBURVNUX1BIT05FX1BIT05FX05VTUJFUikpLnRoZW5SZXR1cm4obmV3IFR3b2ZhT25seVVzZXJSZXNwb25zZSgpLnVpZCh1aWQpKTsKICAgICAgICBkb0NhbGxSZWFsTWV0aG9kKCkud2hlbihhdXRoZW50aWNhdGlvblZhbGlkYXRvcikudmFsaWRhdGVUd29mYU9ubHlVaWQodWlkKTsKCiAgICAgICAgLy9XaGVuCiAgICAgICAgc2VydmljZS5hdXRoZW50aWNhdGVUd29mYU9ubHlVc2VyKHJlcXVlc3QpOwogICAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>emptyList()</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;49&quot;</text>
+        <text>emptyList()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0lubGluZUlkZW50aWZpY2F0aW9uRmxvd1w+</text>
+        <text encoding="base64">XDxURVNUX1BIT05FX0NPVU5UUllfQ09ERVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0KGV4cGVjdGVkID0gSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzKQogICAgcHVibGljIHZvaWQgc2hvdWxkRmFpbFRvQXV0aGVudGljYXRlVHdvRmFPbmx5VXNlcklmQ291bnRyeUNvZGVJc05vdE9uV2hpdGVsaXN0KCkgewogICAgICAgIC8vR2l2ZW4KICAgICAgICBTdHJpbmcgdWlkID0gbnVsbDsKICAgICAgICBUd29mYU9ubHlBdXRoZW50aWNhdGlvblJlcXVlc3QgcmVxdWVzdCA9IGdldFR3b0ZhT25seUF1dGhlbnRpY2F0aW9uUmVxdWVzdChURVNUX1BIT05FX0NPVU5UUllfQ09ERSwgVEVTVF9QSE9ORV9QSE9ORV9OVU1CRVIpOwoKICAgICAgICB3aGVuKHR3b2ZhT25seUF1dGhvcml6YXRpb25Db25maWd1cmF0aW9uLmdldEFsbG93ZWRDb3VudHJ5Q29kZXMoKSkudGhlblJldHVybihlbXB0eUxpc3QoKSk7CiAgICAgICAgd2hlbihwaG9uZUNvbnRyb2xsZXJBcGlDbGllbnQuZmluZFVzZXJCeVBob25lTnVtYmVyKFRFU1RfUEhPTkVfQ09VTlRSWV9DT0RFLCBURVNUX1BIT05FX1BIT05FX05VTUJFUikpLnRoZW5SZXR1cm4obmV3IFR3b2ZhT25seVVzZXJSZXNwb25zZSgpLnVpZCh1aWQpKTsKICAgICAgICBkb0NhbGxSZWFsTWV0aG9kKCkud2hlbihhdXRoZW50aWNhdGlvblZhbGlkYXRvcikudmFsaWRhdGVUd29mYU9ubHlVaWQodWlkKTsKCiAgICAgICAgLy9XaGVuCiAgICAgICAgc2VydmljZS5hdXRoZW50aWNhdGVUd29mYU9ubHlVc2VyKHJlcXVlc3QpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBURVNUX1BIT05FX0NPVU5UUllfQ09ERSA9ICI0OSI7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="1" type="4">
+        <text>emptyList()</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRocm93YWJsZS5nZXRDbGFzcygpKS5pc0VxdWFsVG8oQmFkQ3JlZGVudGlhbHNFeGNlcHRpb24uY2xhc3MpOwogICAgICAgIGFzc2VydFRoYXQodGhyb3dhYmxlLmdldE1lc3NhZ2UoKSkuaXNFcXVhbFRvKEJBRF9DUkVERU5USUFMUyk7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJvd2FibGUgdGhyb3dhYmxlID0gVGhyb3dhYmxlQXNzZXJ0LmNhdGNoVGhyb3dhYmxlKCgpIC0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRocm93YWJsZS5nZXRDbGFzcygpKS5pc0VxdWFsVG8oQmFkQ3JlZGVudGlhbHNFeGNlcHRpb24uY2xhc3MpOwogICAgICAgIGFzc2VydFRoYXQodGhyb3dhYmxlLmdldE1lc3NhZ2UoKSkuaXNFcXVhbFRvKEJBRF9DUkVERU5USUFMUyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJvd2FibGUgdGhyb3dhYmxlID0gVGhyb3dhYmxlQXNzZXJ0LmNhdGNoVGhyb3dhYmxlKCgpIC0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUZXN0KGV4cGVjdGVkID0gQmFkQ3JlZGVudGlhbHNFeGNlcHRpb24uY2xhc3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHVzZXJTdGF0dXNTZXJ2aWNlLmlzVXNlclR3b2ZhT25seShVSUQpKS50aGVuUmV0dXJuKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgIEBUZXN0KGV4cGVjdGVkID0gQmFkQ3JlZGVudGlhbHNFeGNlcHRpb24uY2xhc3MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHVzZXJTdGF0dXNTZXJ2aWNlLmlzVXNlclR3b2ZhT25seShVSUQpKS50aGVuUmV0dXJuKGZhbHNlKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -567,25 +562,23 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkb0NhbGxSZWFsTWV0aG9kKCkud2hlbihhdXRoZW50aWNhdGlvblZhbGlkYXRvcikudmFsaWRhdGVUd29mYU9ubHlVaWQoVEVTVF9VSUQpOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0lubGluZUlkZW50aWZpY2F0aW9uRmxvd1w+</last-search>
+      <last-search encoding="base64">XDxURVNUX1BIT05FX0NPVU5UUllfQ09ERVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0lubGluZUlkZW50aWZpY2F0aW9uRmxvd1w+</last-pattern>
+      <last-pattern encoding="base64">XDxURVNUX1BIT05FX0NPVU5UUllfQ09ERVw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleHBlY3RVc2VyVHlwZVw+</entry>
-        <entry encoding="base64">XDxzdWJqZWN0XD4=</entry>
         <entry encoding="base64">XDxTVUNDRVNTXD4=</entry>
         <entry encoding="base64">XDxGQUlMVVJFXD4=</entry>
         <entry>istwofaonly</entry>
@@ -604,6 +597,8 @@
         <entry encoding="base64">XDxhdXRoZW50aWNhdGlvblZhbGlkYXRvclw+</entry>
         <entry>49</entry>
         <entry encoding="base64">XDxpc0lubGluZUlkZW50aWZpY2F0aW9uRmxvd1w+</entry>
+        <entry>emptylist</entry>
+        <entry encoding="base64">XDxURVNUX1BIT05FX0NPVU5UUllfQ09ERVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s//\&quot;//g</entry>
