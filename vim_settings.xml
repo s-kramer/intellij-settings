@@ -89,8 +89,8 @@
       <file name="/ConsentPageService.java" timestamp="1562075458879">
         <mark key="'" line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" timestamp="1562078717976">
-        <mark key="'" line="122" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" timestamp="1562138243705">
+        <mark key="'" line="98" column="70" />
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
@@ -292,8 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
-      <jump line="58" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
       <jump line="65" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
       <jump line="39" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
       <jump line="66" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.puml" />
@@ -392,6 +390,8 @@
       <jump line="34" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
       <jump line="38" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
       <jump line="41" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
+      <jump line="87" column="70" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
+      <jump line="98" column="70" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -401,7 +401,7 @@
         <text>207 method name fix</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdWJqZWN0XD4=</text>
+        <text encoding="base64">XDxGQUlMVVJFXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzaG91bGRSZXR1cm5UcnVlSWZVc2VySXNUZW1wb3JhcnlXaGVuVXNlckV4aXN0cygpIHsKICAgICAgICAvLyBnaXZlbgogICAgICAgIGV4cGVjdFVzZXJUeXBlKFVzZXJUeXBlLklOTElORV9SRUdJU1RSQVRJT05fVEVNUE9SQVJZKTsKCiAgICAgICAgLy8gd2hlbgogICAgICAgIGJvb2xlYW4gcmVzdWx0ID0gdW5kZXJUZXN0LmlzVXNlclRlbXBvcmFyeShVSUQpOwoKICAgICAgICAvLyB0aGVuCiAgICAgICAgYXNzZXJ0VGhhdChyZXN1bHQpLmlzVHJ1ZSgpOwogICAgfQoK</text>
@@ -451,18 +451,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdWJqZWN0XD4=</last-search>
+      <last-search encoding="base64">XDxGQUlMVVJFXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdWJqZWN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxGQUlMVVJFXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2ZXJpZnlQaG9uZVw+</entry>
-        <entry encoding="base64">XDxmaW5kQnlDb3VudHJ5Q29kZUlzQW5kUGhvbmVJc1w+</entry>
         <entry encoding="base64">XDxwaG9uZVJlcG9zaXRvcnlcPg==</entry>
         <entry encoding="base64">XDxQaG9uZVw+</entry>
         <entry encoding="base64">XDxUd29mYU9ubHlBdXRoZW50aWNhdGlvblJlcXVlc3RcPg==</entry>
@@ -481,6 +479,8 @@
         <entry>twofaaas</entry>
         <entry encoding="base64">XDxleHBlY3RVc2VyVHlwZVw+</entry>
         <entry encoding="base64">XDxzdWJqZWN0XD4=</entry>
+        <entry encoding="base64">XDxTVUNDRVNTXD4=</entry>
+        <entry encoding="base64">XDxGQUlMVVJFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s//\&quot;//g</entry>
