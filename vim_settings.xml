@@ -123,18 +123,18 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="106" column="79" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" timestamp="1562151428976">
-        <mark key="[" line="73" column="9" />
-        <mark key="]" line="74" column="7" />
-        <mark key="." line="74" column="7" />
-        <mark key="^" line="74" column="7" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/validator/AuthenticationValidator.java" timestamp="1562162207730">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="73" column="7" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" timestamp="1562161063093">
-        <mark key="'" line="618" column="38" />
-        <mark key="[" line="642" column="86" />
-        <mark key="]" line="642" column="134" />
-        <mark key="." line="642" column="134" />
-        <mark key="^" line="642" column="134" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" timestamp="1562162149634">
+        <mark key="'" line="617" column="38" />
+        <mark key="[" line="66" column="32" />
+        <mark key="]" line="66" column="43" />
+        <mark key="." line="66" column="43" />
+        <mark key="^" line="66" column="43" />
       </file>
       <file name="/a.sql" timestamp="1561538826004">
         <mark key="[" line="0" column="0" />
@@ -145,12 +145,12 @@
       <file name="/postgres.user_status.userstatus [postgres@dev6]" timestamp="1562139504612">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/validator/AuthenticationValidatorTest.java" timestamp="1562152606979">
-        <mark key="'" line="511" column="0" />
-        <mark key="[" line="503" column="9" />
-        <mark key="]" line="503" column="9" />
-        <mark key="." line="503" column="9" />
-        <mark key="^" line="520" column="67" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/validator/AuthenticationValidatorTest.java" timestamp="1562162220633">
+        <mark key="'" line="509" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="518" column="67" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" timestamp="1562139031634">
         <mark key="'" line="91" column="0" />
@@ -333,11 +333,11 @@
       <file name="/dummy.sql" timestamp="1562139505336">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562139009916">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="24" />
+      <file name="/Dummy.txt" timestamp="1562162233758">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="39" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/service/phone/repository/DecryptingPhoneRepository.java" timestamp="1561634993709">
         <mark key="[" line="4" column="0" />
@@ -513,10 +513,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>emptyList()</text>
+        <text>03 added missing user type to check</text>
       </register>
       <register name="-" type="4">
-        <text>emptyList()</text>
+        <text>03 added missing user type to check</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVNUX1BIT05FX0NPVU5UUllfQ09ERVw+</text>
@@ -524,26 +524,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBURVNUX1BIT05FX0NPVU5UUllfQ09ERSA9ICI0OSI7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>emptyList()</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLnNlY3VyaXR5Lm1vZGVsLlR3b2ZhT25seUF1dGhlbnRpY2F0aW9uUmVxdWVzdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmlkZW50aXR5b3duZXIuY2xpZW50LmZlaWduLm1vZGVsLlR3b2ZhT25seVVzZXJSZXNwb25zZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRocm93YWJsZS5nZXRDbGFzcygpKS5pc0VxdWFsVG8oQmFkQ3JlZGVudGlhbHNFeGNlcHRpb24uY2xhc3MpOwogICAgICAgIGFzc2VydFRoYXQodGhyb3dhYmxlLmdldE1lc3NhZ2UoKSkuaXNFcXVhbFRvKEJBRF9DUkVERU5USUFMUyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5Cb29sZWFuVXRpbHM7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJvd2FibGUgdGhyb3dhYmxlID0gVGhyb3dhYmxlQXNzZXJ0LmNhdGNoVGhyb3dhYmxlKCgpIC0+Cg==</text>
+      <register name="4" type="4">
+        <text>emptyList()</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUZXN0KGV4cGVjdGVkID0gQmFkQ3JlZGVudGlhbHNFeGNlcHRpb24uY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRocm93YWJsZS5nZXRDbGFzcygpKS5pc0VxdWFsVG8oQmFkQ3JlZGVudGlhbHNFeGNlcHRpb24uY2xhc3MpOwogICAgICAgIGFzc2VydFRoYXQodGhyb3dhYmxlLmdldE1lc3NhZ2UoKSkuaXNFcXVhbFRvKEJBRF9DUkVERU5USUFMUyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHVzZXJTdGF0dXNTZXJ2aWNlLmlzVXNlclR3b2ZhT25seShVSUQpKS50aGVuUmV0dXJuKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBUaHJvd2FibGUgdGhyb3dhYmxlID0gVGhyb3dhYmxlQXNzZXJ0LmNhdGNoVGhyb3dhYmxlKCgpIC0+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -562,7 +562,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0KGV4cGVjdGVkID0gQmFkQ3JlZGVudGlhbHNFeGNlcHRpb24uY2xhc3MpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
