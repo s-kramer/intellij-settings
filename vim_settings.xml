@@ -81,6 +81,9 @@
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/server/build.gradle" timestamp="1561543213866">
         <mark key="'" line="14" column="0" />
       </file>
+      <file name="/postgres.linked_provider.external_uid [postgres@dev6]" timestamp="1562223084562">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/modules/receive_vote/rest.tf" timestamp="1561571905573">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="21" />
@@ -142,7 +145,7 @@
       <file name="/postgres.linked_provider.apply_to_disconnect [postgres@devint]" timestamp="1561637898901">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/postgres.user_status.userstatus [postgres@dev6]" timestamp="1562139504612">
+      <file name="/postgres.user_status.userstatus [postgres@dev6]" timestamp="1562223041779">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/validator/AuthenticationValidatorTest.java" timestamp="1562162220633">
@@ -259,9 +262,9 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v1.0.xml" timestamp="1562078668384">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1562139533739">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1562223105533">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" timestamp="1562150642876">
@@ -304,8 +307,8 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageController.java" timestamp="1561532760300">
         <mark key="'" line="110" column="36" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" timestamp="1562139381657">
-        <mark key="'" line="2638" column="10" />
+      <file name="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" timestamp="1562222829706">
+        <mark key="'" line="1832" column="31" />
         <mark key="[" line="798" column="2" />
         <mark key="]" line="798" column="44" />
         <mark key="." line="400" column="48" />
@@ -330,7 +333,7 @@
         <mark key="^" line="89" column="29" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1562139505336">
+      <file name="/dummy.sql" timestamp="1562223085261">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1562162233758">
@@ -410,10 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="62" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
-      <jump line="57" column="62" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
-      <jump line="74" column="25" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
       <jump line="122" column="13" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
       <jump line="6" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
       <jump line="7" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/userstatus/UserStatusServiceTest.java" />
@@ -510,16 +509,20 @@
       <jump line="620" column="83" filename="/AuthenticationServiceTest.java" />
       <jump line="622" column="60" filename="/AuthenticationServiceTest.java" />
       <jump line="65" column="32" filename="/AuthenticationServiceTest.java" />
+      <jump line="798" column="2" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
+      <jump line="2705" column="131" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
+      <jump line="2704" column="2" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
+      <jump line="1832" column="31" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>03 added missing user type to check</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">NzlkNDVkNTctMGNjYi00ODliLTk2MmUtZjRmNWY0ZDM3NjdjCg==</text>
       </register>
       <register name="-" type="4">
         <text>03 added missing user type to check</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxURVNUX1BIT05FX0NPVU5UUllfQ09ERVw+</text>
+        <text encoding="base64">XDxUd29GQWFhU1JlcXVlc3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBURVNUX1BIT05FX0NPVU5UUllfQ09ERSA9ICI0OSI7Cg==</text>
@@ -569,18 +572,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxURVNUX1BIT05FX0NPVU5UUllfQ09ERVw+</last-search>
+      <last-search encoding="base64">XDxUd29GQWFhU1JlcXVlc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxURVNUX1BIT05FX0NPVU5UUllfQ09ERVw+</last-pattern>
+      <last-pattern encoding="base64">XDxUd29GQWFhU1JlcXVlc3RcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTVUNDRVNTXD4=</entry>
-        <entry encoding="base64">XDxGQUlMVVJFXD4=</entry>
         <entry>istwofaonly</entry>
         <entry>onlyuser</entry>
         <entry>istwo</entry>
@@ -599,6 +600,8 @@
         <entry encoding="base64">XDxpc0lubGluZUlkZW50aWZpY2F0aW9uRmxvd1w+</entry>
         <entry>emptylist</entry>
         <entry encoding="base64">XDxURVNUX1BIT05FX0NPVU5UUllfQ09ERVw+</entry>
+        <entry>2faaas</entry>
+        <entry encoding="base64">XDxUd29GQWFhU1JlcXVlc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s//\&quot;//g</entry>
