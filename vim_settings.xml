@@ -718,12 +718,12 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/common/api/client/feign/configuration/ClientErrorGenericDecoder.java" timestamp="1557735872414">
         <mark key="'" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/invoice/ExternalEventsHandler.java" timestamp="1562442281734">
-        <mark key="'" line="32" column="8" />
-        <mark key="[" line="33" column="102" />
-        <mark key="]" line="33" column="101" />
-        <mark key="." line="33" column="101" />
-        <mark key="^" line="33" column="101" />
+      <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/invoice/ExternalEventsHandler.java" timestamp="1562442493751">
+        <mark key="'" line="33" column="8" />
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="32" column="32" />
+        <mark key="^" line="32" column="32" />
+        <mark key="." line="32" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/test/java/org/skramer/spodddify/invoice/InvoicePaymentServiceTest.groovy" timestamp="1562442171640">
         <mark key="'" line="49" column="94" />
@@ -965,11 +965,11 @@
       <jump line="21" column="13" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/invoice/InvoicePaymentService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSW52b2ljZVJlcG9zaXRvcnkgaW52b2ljZVJlcG9zaXRvcnkgPSBtb2NrKEludm9pY2VSZXBvc2l0b3J5LmNsYXNzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>PaidOff</text>
       </register>
       <register name="-" type="4">
-        <text>invoicePaymentService.invoiceRepository.findAllByBillingAccountIdAndPaidOffAmountNotEqualAmount(BILLING_ACCOUNT)</text>
+        <text>PaidOff</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW1haW5pbmdBc3NldHNcPg==</text>
@@ -978,25 +978,25 @@
         <text encoding="base64">ICAgICAgICBbSU5WT0lDRV8xLCBJTlZPSUNFXzJdICAgICAgICAgICAgfCAxMDBMICAgICAgICAgfHwgW0lOVk9JQ0VfMTogNTBMLCBJTlZPSUNFXzI6IDUwTF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSW52b2ljZVJlcG9zaXRvcnkgaW52b2ljZVJlcG9zaXRvcnkgPSBtb2NrKEludm9pY2VSZXBvc2l0b3J5LmNsYXNzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>invoicePaymentService.invoiceRepository.findAllByBillingAccountIdAndPaidOffAmountNotEqualAmount(BILLING_ACCOUNT)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5za3JhbWVyLnNwb2RkZGlmeS5pbnZvaWNlLnZpZXcuSW52b2ljZVJlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICBjb21tYW5kR2F0ZXdheS5zZW5kKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbnZvaWNlUmVwb3NpdG9yeSA9IE1vY2soSW52b2ljZVJlcG9zaXRvcnkpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSW52b2ljZVJlcG9zaXRvcnkgaW52b2ljZVJlcG9zaXRvcnkgPSBtb2NrKEludm9pY2VSZXBvc2l0b3J5LmNsYXNzKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAxICogaW52b2ljZVJlcG9zaXRvcnkuZmluZEFsbEJ5QmlsbGluZ0FjY291bnRJZEFuZFBhaWRPZmZBbW91bnROb3RFcXVhbEFtb3VudChCSUxMSU5HX0FDQ09VTlQpID4+IHJlcG9zaXRvcnlSZXNwb25zZQo=</text>
+      <register name="5" type="4">
+        <text>invoicePaymentService.invoiceRepository.findAllByBillingAccountIdAndPaidOffAmountNotEqualAmount(BILLING_ACCOUNT)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IHVzaW5nIHZpZXcgcmVwb3NpdG9yeSBpbiBjb21tYWQgaGFuZGxpbmcgOi8KICAgIHByaXZhdGUgZmluYWwgSW52b2ljZVJlcG9zaXRvcnkgaW52b2ljZVJlcG9zaXRvcnk7Cgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5za3JhbWVyLnNwb2RkZGlmeS5pbnZvaWNlLnZpZXcuSW52b2ljZVJlcG9zaXRvcnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IHVzaW5nIHZpZXcgcmVwb3NpdG9yeSBpbiBjb21tYWQgaGFuZGxpbmcgOi8K</text>
+        <text encoding="base64">ICAgIGRlZiBpbnZvaWNlUmVwb3NpdG9yeSA9IE1vY2soSW52b2ljZVJlcG9zaXRvcnkpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1343,10 +1343,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IHVzaW5nIHZpZXcgcmVwb3NpdG9yeSBpbiBjb21tYWQgaGFuZGxpbmcgOi8K</text>
+        <text encoding="base64">ICAgICAgICAxICogaW52b2ljZVJlcG9zaXRvcnkuZmluZEFsbEJ5QmlsbGluZ0FjY291bnRJZEFuZFBhaWRPZmZBbW91bnROb3RFcXVhbEFtb3VudChCSUxMSU5HX0FDQ09VTlQpID4+IHJlcG9zaXRvcnlSZXNwb25zZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSW52b2ljZVJlcG9zaXRvcnkgaW52b2ljZVJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IHVzaW5nIHZpZXcgcmVwb3NpdG9yeSBpbiBjb21tYWQgaGFuZGxpbmcgOi8KICAgIHByaXZhdGUgZmluYWwgSW52b2ljZVJlcG9zaXRvcnkgaW52b2ljZVJlcG9zaXRvcnk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
