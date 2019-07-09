@@ -46,6 +46,10 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-contract-spec/1.2.5.RELEASE/39513c6ff8a31064bb1ead0639aa0187331cd961/spring-cloud-contract-spec-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/contract/spec/Contract.groovy" timestamp="1558952796138">
         <mark key="'" line="95" column="24" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/configuration/InlineIdentificationExclusionConfiguration.java" timestamp="1562673774072">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="38" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/processor/UserCreatedEventProcessor.java" timestamp="1561474334917">
         <mark key="'" line="74" column="36" />
       </file>
@@ -561,11 +565,11 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562666706930">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1562673848337">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build.gradle" timestamp="1557491608957">
         <mark key="'" line="137" column="46" />
@@ -724,12 +728,12 @@
         <mark key="^" line="50" column="54" />
         <mark key="." line="50" column="55" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" timestamp="1561977840904">
-        <mark key="'" line="881" column="46" />
-        <mark key="[" line="38353" column="29" />
-        <mark key="]" line="38353" column="70" />
-        <mark key="." line="38678" column="16" />
-        <mark key="^" line="38678" column="16" />
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" timestamp="1562673790190">
+        <mark key="'" line="1393" column="6" />
+        <mark key="[" line="1984" column="45" />
+        <mark key="]" line="1984" column="45" />
+        <mark key="." line="1984" column="45" />
+        <mark key="^" line="1984" column="31" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/verimi/TwofaOnlyAuthenticationServiceAdapter.java" timestamp="1561966715645">
         <mark key="'" line="12" column="6" />
@@ -1265,11 +1269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="32" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
-      <jump line="604" column="83" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" />
-      <jump line="39" column="10" filename="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/build.gradle" />
-      <jump line="80" column="8" filename="$USER_HOME$/sd/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
       <jump line="89" column="69" filename="$USER_HOME$/sd/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
       <jump line="38" column="0" filename="$USER_HOME$/sd/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
       <jump line="79" column="0" filename="$USER_HOME$/sd/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
@@ -1365,16 +1364,21 @@
       <jump line="33" column="31" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/login/login/page/LoginPageServiceTest.java" />
       <jump line="71" column="37" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/login/login/page/LoginPageServiceTest.java" />
       <jump line="176" column="41" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/login/login/page/LoginPageServiceTest.java" />
+      <jump line="902" column="10" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="1985" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="1984" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="1389" column="34" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="1393" column="6" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>master</text>
+        <text>207 gitlab tag fix</text>
       </register>
       <register name="-" type="4">
-        <text>master</text>
+        <text>207 gitlab tag fix</text>
       </register>
       <register name="/" type="4">
-        <text>twofaaas</text>
+        <text>enforce</text>
       </register>
       <register name="0" type="4">
         <text>db_eidp_uat</text>
@@ -1424,9 +1428,9 @@
       </register>
     </registers>
     <search>
-      <last-search>twofaaas</last-search>
+      <last-search>enforce</last-search>
       <last-offset />
-      <last-pattern>twofaaas</last-pattern>
+      <last-pattern>enforce</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -1434,7 +1438,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sealone</entry>
         <entry encoding="base64">XDxlbnZpcm9ubWVudFByb3BlcnRpZXNcPg==</entry>
         <entry>user</entry>
         <entry>api</entry>
@@ -1454,6 +1457,7 @@
         <entry encoding="base64">XDx0d29mYWFhc1JlcXVlc3RlZENoZWNrZXJcPg==</entry>
         <entry encoding="base64">XDxUd29mYWFhc1JlcXVlc3RlZENoZWNrZXJcPg==</entry>
         <entry>twofaaas</entry>
+        <entry>enforce</entry>
       </history-search>
       <history-cmd>
         <entry>%s/producer/server/g</entry>
