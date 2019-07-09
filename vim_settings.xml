@@ -163,8 +163,8 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/ddd-paynow/api-gateway/src/main/kotlin/pl/melements/poc/dddpaynow/apigateway/PaymentAuthorizationConfiguration.kt" timestamp="1558386748718">
-        <mark key="'" line="15" column="16" />
+      <file name="$USER_HOME$/Projects/Java/ddd-paynow/api-gateway/src/main/kotlin/pl/melements/poc/dddpaynow/apigateway/PaymentAuthorizationConfiguration.kt" timestamp="1562699956540">
+        <mark key="'" line="2" column="47" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/bootstrap.yml" timestamp="1560841866667">
         <mark key="'" line="25" column="10" />
@@ -267,6 +267,9 @@
       <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/XSRFFilter.java" timestamp="1558083819074">
         <mark key="'" line="24" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/ddd-paynow/pom.xml" timestamp="1562699790364">
+        <mark key="'" line="45" column="4" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" timestamp="1559122388974">
         <mark key="'" line="30" column="12" />
       </file>
@@ -311,6 +314,9 @@
         <mark key="[" line="41" column="24" />
         <mark key="]" line="41" column="44" />
         <mark key="." line="41" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/ddd-paynow/payment-authorization/pom.xml" timestamp="1562699769904">
+        <mark key="'" line="153" column="12" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/service-registry/src/main/resources/application-local-env.yml" timestamp="1557820597139">
         <mark key="[" line="0" column="23" />
@@ -855,6 +861,9 @@
         <mark key="." line="636" column="44" />
         <mark key="^" line="636" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/ddd-paynow/domain-events/pom.xml" timestamp="1562699809333">
+        <mark key="'" line="19" column="4" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/OperationGenerator.java" timestamp="1560437590867">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -930,6 +939,12 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java" timestamp="1557821485694">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/ddd-paynow/api-gateway/pom.xml" timestamp="1562699825716">
+        <mark key="'" line="68" column="24" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sealone.client/so-client-api/1.11/5a0db3522168c7f6f40dc5bb543bbc0c1b7dc9ba/so-client-api-1.11.jar!/com/sealone/client/impl/SynchronousSealOneClient.class" timestamp="1560421596432">
         <mark key="'" line="34" column="27" />
@@ -1112,6 +1127,9 @@
         <mark key="^" line="0" column="67" />
         <mark key="." line="0" column="67" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/ddd-paynow/payment-authorization/src/main/resources/application.yml" timestamp="1562699773934">
+        <mark key="'" line="26" column="4" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/TokenSignatureController.java" timestamp="1556193857125">
         <mark key="[" line="14" column="84" />
         <mark key="]" line="14" column="83" />
@@ -1268,14 +1286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="621" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
-      <jump line="624" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
-      <jump line="618" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
-      <jump line="614" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
-      <jump line="606" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
-      <jump line="615" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
-      <jump line="619" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
-      <jump line="608" column="60" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
       <jump line="625" column="83" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
       <jump line="628" column="60" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
       <jump line="640" column="83" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
@@ -1368,40 +1378,48 @@
       <jump line="50" column="15" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/ClientCheckService.java" />
       <jump line="17" column="30" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/ClientCheckService.java" />
       <jump line="27" column="13" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/ClientCheckService.java" />
+      <jump line="153" column="12" filename="$USER_HOME$/Projects/Java/ddd-paynow/payment-authorization/pom.xml" />
+      <jump line="26" column="4" filename="$USER_HOME$/Projects/Java/ddd-paynow/payment-authorization/src/main/resources/application.yml" />
+      <jump line="45" column="4" filename="$USER_HOME$/Projects/Java/ddd-paynow/pom.xml" />
+      <jump line="19" column="4" filename="$USER_HOME$/Projects/Java/ddd-paynow/domain-events/pom.xml" />
+      <jump line="68" column="24" filename="$USER_HOME$/Projects/Java/ddd-paynow/api-gateway/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/ddd-paynow/payment-authorization/src/main/kotlin/pl/melements/poc/dddpaynow/payment/authorization/PaymentAuthorizationController.kt" />
+      <jump line="59" column="66" filename="$USER_HOME$/Projects/Java/ddd-paynow/api-gateway/src/main/kotlin/pl/melements/poc/dddpaynow/apigateway/PaymentAuthorizationConfiguration.kt" />
+      <jump line="2" column="47" filename="$USER_HOME$/Projects/Java/ddd-paynow/api-gateway/src/main/kotlin/pl/melements/poc/dddpaynow/apigateway/PaymentAuthorizationConfiguration.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>account</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>account</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGllbnRzRm9yY2luZ0xvZ2luXD4=</text>
+        <text encoding="base64">XDxSb3V0ZUxvY2F0b3JcPg==</text>
       </register>
       <register name="0" type="4">
         <text>db_eidp_uat</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW5saW5lSWRlbnRpZmljYXRpb25DbGllbnRzOiBkZXV0c2NoZWJhbmsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhjbHVkZWQgZGV1dHNjaGViYW5rIGZyb20gaW5saW5lLWlkZW50aWZpY2F0aW9uCg==</text>
+        <text encoding="base64">aW5saW5lSWRlbnRpZmljYXRpb25DbGllbnRzOiBkZXV0c2NoZWJhbmsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VkQtNTY5OiBleHBvc2VkIGFkZGl0aW9uYWwgcGF0aHMgZm9yIGlubGluZS1yZWdpc3RyYXRpb24gZW5kcG9pbnRzCg==</text>
+        <text encoding="base64">ZXhjbHVkZWQgZGV1dHNjaGViYW5rIGZyb20gaW5saW5lLWlkZW50aWZpY2F0aW9uCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">VkQtNTY5OiBleHBvc2VkIGFkZGl0aW9uYWwgcGF0aHMgZm9yIGlubGluZS1yZWdpc3RyYXRpb24gZW5kcG9pbnRzCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBlbWl0IHRoaXMgY29tbWFuZCBmcm9tIExpc3RlbmVyJ3MgY29uc3RydWN0b3IgdG8gb2J0YWluIGxpc3RlbmVySWQ/IE9yIG1lcmdlIHRoZSBJRHM/Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>, cmd.getListenerId()</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGxpc3RlbmVySWQ7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1420,16 +1438,16 @@
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGxpc3RlbmVySWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBiaWxsaW5nQWNjb3VudElkOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGxpc3RlbmVySWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGllbnRzRm9yY2luZ0xvZ2luXD4=</last-search>
+      <last-search encoding="base64">XDxSb3V0ZUxvY2F0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGllbnRzRm9yY2luZ0xvZ2luXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxSb3V0ZUxvY2F0b3JcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -1437,7 +1455,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nimbus</entry>
         <entry encoding="base64">XDxKU09OT2JqZWN0XD4=</entry>
         <entry>json-smart</entry>
         <entry>sealone</entry>
@@ -1457,6 +1474,7 @@
         <entry encoding="base64">XDxhZ2dyZWdhdGVSb290XD4=</entry>
         <entry encoding="base64">XDxjbGllbnRGb3JjaW5nTG9naW5cPg==</entry>
         <entry encoding="base64">XDxjbGllbnRzRm9yY2luZ0xvZ2luXD4=</entry>
+        <entry encoding="base64">XDxSb3V0ZUxvY2F0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/producer/server/g</entry>
