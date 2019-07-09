@@ -137,6 +137,10 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/.gitignore" timestamp="1558685294410">
         <mark key="'" line="121" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/twofaaas/InlineTwofaaasRequestedChecker.java" timestamp="1562683974252">
+        <mark key="[" line="19" column="60" />
+        <mark key="]" line="19" column="82" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/InlineIdentificationChecker.java" timestamp="1556633088692">
         <mark key="[" line="37" column="70" />
         <mark key="]" line="37" column="99" />
@@ -1313,7 +1317,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>207 gitlab tag fix</text>
+        <text>requestedAuthentication</text>
       </register>
       <register name="-" type="4">
         <text>207 gitlab tag fix</text>
