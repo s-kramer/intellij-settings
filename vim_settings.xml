@@ -26,6 +26,9 @@
         <mark key="." line="171" column="21" />
         <mark key="^" line="171" column="21" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/ClientCheckService.java" timestamp="1562658791853">
+        <mark key="'" line="27" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccountController.java" timestamp="1562405359269">
         <mark key="[" line="27" column="22" />
         <mark key="]" line="27" column="22" />
@@ -576,7 +579,7 @@
         <mark key="." line="47" column="30" />
         <mark key="^" line="48" column="59" />
       </file>
-      <file name="/dummy.sql" timestamp="1562584155746">
+      <file name="/dummy.sql" timestamp="1562658922749">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -802,6 +805,9 @@
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/verimi/TwofaOnlyAuthenticationServiceAdapter.java" timestamp="1561966715645">
         <mark key="'" line="12" column="6" />
+      </file>
+      <file name="/postgres.serviceprovider.privacy_policy_backup [postgres@sit-2]" timestamp="1562658918985">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/JWTService.java" timestamp="1557318183279">
         <mark key="'" line="145" column="32" />
@@ -1179,7 +1185,7 @@
       <file name="/postgres.contact.phone [postgres@dev1]" timestamp="1561467812113">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/postgres.serviceprovider.serviceprovider [postgres@sit-2]" timestamp="1562584152916">
+      <file name="/postgres.serviceprovider.serviceprovider [postgres@sit-2]" timestamp="1562658919889">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/controller/HydraController_auth2_Test.groovy" timestamp="1562595363736">
@@ -1373,11 +1379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="877" column="46" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="881" column="46" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
-      <jump line="267" column="20" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
-      <jump line="273" column="20" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
-      <jump line="616" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
       <jump line="621" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
       <jump line="624" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
       <jump line="618" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/authentication/AuthenticationServiceTest.java" />
@@ -1473,6 +1474,11 @@
       <jump line="76" column="61" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
       <jump line="70" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
       <jump line="505" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
+      <jump line="25" column="74" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/ClientCheckService.java" />
+      <jump line="26" column="47" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/ClientCheckService.java" />
+      <jump line="50" column="15" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/ClientCheckService.java" />
+      <jump line="17" column="30" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/ClientCheckService.java" />
+      <jump line="27" column="13" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/ClientCheckService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1482,7 +1488,7 @@
         <text>account</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZ2dyZWdhdGVSb290XD4=</text>
+        <text encoding="base64">XDxjbGllbnRzRm9yY2luZ0xvZ2luXD4=</text>
       </register>
       <register name="0" type="4">
         <text>db_eidp_uat</text>
@@ -1532,18 +1538,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZ2dyZWdhdGVSb290XD4=</last-search>
+      <last-search encoding="base64">XDxjbGllbnRzRm9yY2luZ0xvZ2luXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZ2dyZWdhdGVSb290XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjbGllbnRzRm9yY2luZ0xvZ2luXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxKc29uUmVhZGVySVw+</entry>
-        <entry>exclude</entry>
         <entry>nimbus</entry>
         <entry encoding="base64">XDxKU09OT2JqZWN0XD4=</entry>
         <entry>json-smart</entry>
@@ -1562,6 +1566,8 @@
         <entry encoding="base64">XDxhY2NvdW50SWRcPg==</entry>
         <entry encoding="base64">XDxCaWxsaW5nQWNjb3VudENoYXJnZWRcPg==</entry>
         <entry encoding="base64">XDxhZ2dyZWdhdGVSb290XD4=</entry>
+        <entry encoding="base64">XDxjbGllbnRGb3JjaW5nTG9naW5cPg==</entry>
+        <entry encoding="base64">XDxjbGllbnRzRm9yY2luZ0xvZ2luXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/producer/server/g</entry>
