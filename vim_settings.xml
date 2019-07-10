@@ -112,6 +112,9 @@
         <mark key="'" line="122" column="4" />
       </file>
       <file name="$USER_HOME$/recruitment/interview-samples/src/main/resources/configurationReaderInput.properties" timestamp="1562680949568" />
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/importexport-service.yaml" timestamp="1562751867611">
+        <mark key="'" line="29" column="12" />
+      </file>
       <file name="/postgres.linked_provider.linkedprovider [postgres@devint]" timestamp="1561637908713">
         <mark key="[" line="0" column="0" />
       </file>
@@ -183,6 +186,12 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" timestamp="1562656431500">
         <mark key="'" line="505" column="24" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/resources/templates/welcome.html" timestamp="1562753053561">
+        <mark key="[" line="69" column="75" />
+        <mark key="]" line="69" column="83" />
+        <mark key="." line="69" column="83" />
+        <mark key="^" line="69" column="83" />
       </file>
       <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/inlineregistration/MobileVerificationService.java" timestamp="1556543094770">
         <mark key="[" line="52" column="28" />
@@ -347,12 +356,13 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" timestamp="1562673790190">
-        <mark key="'" line="1393" column="6" />
-        <mark key="[" line="1984" column="45" />
-        <mark key="]" line="1984" column="45" />
-        <mark key="." line="1984" column="45" />
-        <mark key="^" line="1984" column="31" />
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" timestamp="1562751828035">
+        <mark key="a" line="38772" column="4" />
+        <mark key="'" line="2225" column="0" />
+        <mark key="[" line="2219" column="0" />
+        <mark key="]" line="2219" column="0" />
+        <mark key="." line="2219" column="0" />
+        <mark key="^" line="2221" column="35" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/verimi/TwofaOnlyAuthenticationServiceAdapter.java" timestamp="1561966715645">
         <mark key="'" line="12" column="6" />
@@ -611,7 +621,7 @@
       <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/test/java/com/dipp/api/gateway/filters/NfaDeactivationFilterTest.java" timestamp="1557746356426">
         <mark key="'" line="17" column="37" />
       </file>
-      <file name="/postgres.serviceprovider.serviceprovider [postgres@devint]" timestamp="1562748578113">
+      <file name="/postgres.serviceprovider.serviceprovider [postgres@devint]" timestamp="1562751850007">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/Dockerfile" timestamp="1560340720810">
@@ -656,43 +666,16 @@
       <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/src/main/java/com/dipp/ImportExportApplication.java" timestamp="1561380402695">
         <mark key="'" line="63" column="25" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/identityowner-service.yaml" timestamp="1562752559617">
+        <mark key="'" line="120" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="22" column="42" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/service/RequestScopeParser.java" timestamp="1556636592806">
         <mark key="'" line="30" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="69" filename="$USER_HOME$/sd/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/sd/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
-      <jump line="79" column="0" filename="$USER_HOME$/sd/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
-      <jump line="54" column="40" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/hydra-proxy.yml" />
-      <jump line="55" column="0" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/hydra-proxy.yml" />
-      <jump line="21" column="0" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/hydra-proxy.yml" />
-      <jump line="149" column="6" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/hydra-proxy.yml" />
-      <jump line="50" column="47" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/hydra-proxy.yml" />
-      <jump line="149" column="12" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/hydra-proxy.yml" />
-      <jump line="77" column="6" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/hydra-proxy.yml" />
-      <jump line="51" column="29" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/hydra-proxy.yml" />
-      <jump line="150" column="0" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/hydra-proxy.yml" />
-      <jump line="160" column="6" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/hydra-proxy.yml" />
-      <jump line="87" column="6" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/hydra-proxy.yml" />
-      <jump line="62" column="43" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/hydra-proxy.yml" />
-      <jump line="61" column="29" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/hydra-proxy.yml" />
-      <jump line="60" column="71" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/hydra-proxy.yml" />
-      <jump line="52" column="34" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/hydra-proxy.yml" />
-      <jump line="131" column="43" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.json" />
-      <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.json" />
-      <jump line="7" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.json" />
-      <jump line="12" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.json" />
-      <jump line="17" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.json" />
-      <jump line="56" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.json" />
-      <jump line="91" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.json" />
-      <jump line="126" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.json" />
-      <jump line="3" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.json" />
-      <jump line="41" column="33" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/hydra-proxy.yml" />
-      <jump line="71" column="10" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/hydra-proxy.yml" />
-      <jump line="25" column="5" filename="$USER_HOME$/verimi-auth/assembly/dipp-sit-2.json" />
-      <jump line="147" column="2" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/hydra-proxy.yml" />
-      <jump line="148" column="2" filename="$USER_HOME$/verimi-auth/k8s-configuration/devint-k8s-2/hydra-proxy.yml" />
       <jump line="41" column="27" filename="$USER_HOME$/verimi-auth/assembly/dipp-devint-2.json" />
       <jump line="177" column="8" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/proxy/controller/HydraController_auth2_Test.groovy" />
       <jump line="13" column="43" filename="$USER_HOME$/sd/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/BillingAccount.java" />
@@ -761,40 +744,72 @@
       <jump line="1984" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="1389" column="34" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="1393" column="6" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="1646" column="38" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="246" column="21" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="250" column="21" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="335" column="21" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="3427" column="23" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="4535" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="38742" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="1097" column="8" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="1098" column="17" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="1292" column="10" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="38769" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="38772" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="2107" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="2112" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="2115" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="2122" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="2126" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="2139" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="2144" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="2196" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="2199" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="2203" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="2206" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="2219" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="2225" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
+      <jump line="174" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/importexport-service.yaml" />
+      <jump line="14" column="81" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/importexport-service.yaml" />
+      <jump line="21" column="70" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/importexport-service.yaml" />
+      <jump line="29" column="12" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/importexport-service.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/identityowner-service.yaml" />
+      <jump line="120" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/identityowner-service.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>serviceprovider.serviceprovider</text>
+        <text>request</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
-        <text>enforce</text>
+        <text>account:</text>
       </register>
-      <register name="0" type="4">
-        <text>mobile_connect_enabled</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iYnV0dG9uLWNvbnRhaW5lciI+CiAgICAgICAgICAgICAgICA8YnV0dG9uIG9uY2xpY2s9ImV2ZW50LnByZXZlbnREZWZhdWx0KCk7IHdpbmRvdy5sb2NhdGlvbj0nL3R3b2ZhYWFzJyIKICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9InR3b2ZhYWFzLWJ1dHRvbiIKICAgICAgICAgICAgICAgICAgICAgICAgaWQ9InNlbmRfdHdvZmFhYXNfcmVxdWVzdCIKICAgICAgICAgICAgICAgICAgICAgICAgdHlwZT0iYnV0dG9uIj5TZW5kIDJGQWFhUyByZXF1ZXN0CiAgICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW5saW5lSWRlbnRpZmljYXRpb25DbGllbnRzOiBkZXV0c2NoZWJhbmsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhjbHVkZWQgZGV1dHNjaGViYW5rIGZyb20gaW5saW5lLWlkZW50aWZpY2F0aW9uCg==</text>
+        <text encoding="base64">aW5saW5lSWRlbnRpZmljYXRpb25DbGllbnRzOiBkZXV0c2NoZWJhbmsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VkQtNTY5OiBleHBvc2VkIGFkZGl0aW9uYWwgcGF0aHMgZm9yIGlubGluZS1yZWdpc3RyYXRpb24gZW5kcG9pbnRzCg==</text>
+        <text encoding="base64">ZXhjbHVkZWQgZGV1dHNjaGViYW5rIGZyb20gaW5saW5lLWlkZW50aWZpY2F0aW9uCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">VkQtNTY5OiBleHBvc2VkIGFkZGl0aW9uYWwgcGF0aHMgZm9yIGlubGluZS1yZWdpc3RyYXRpb24gZW5kcG9pbnRzCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBlbWl0IHRoaXMgY29tbWFuZCBmcm9tIExpc3RlbmVyJ3MgY29uc3RydWN0b3IgdG8gb2J0YWluIGxpc3RlbmVySWQ/IE9yIG1lcmdlIHRoZSBJRHM/Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>, cmd.getListenerId()</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGxpc3RlbmVySWQ7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -813,16 +828,16 @@
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGxpc3RlbmVySWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBiaWxsaW5nQWNjb3VudElkOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGxpc3RlbmVySWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search>enforce</last-search>
+      <last-search>account:</last-search>
       <last-offset />
-      <last-pattern>enforce</last-pattern>
+      <last-pattern>account:</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">JCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -830,13 +845,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbnZpcm9ubWVudFByb3BlcnRpZXNcPg==</entry>
-        <entry>user</entry>
-        <entry>api</entry>
-        <entry encoding="base64">XDxsaXN0ZW5lcklkXD4=</entry>
-        <entry>inline</entry>
-        <entry encoding="base64">XDxkZXV0c2NoZWJhbmtcPg==</entry>
-        <entry>eidp</entry>
         <entry>idcard</entry>
         <entry>scope</entry>
         <entry encoding="base64">XDxzZXRDb29raWVOYW1lXD4=</entry>
@@ -850,6 +858,13 @@
         <entry encoding="base64">XDxUd29mYWFhc1JlcXVlc3RlZENoZWNrZXJcPg==</entry>
         <entry>twofaaas</entry>
         <entry>enforce</entry>
+        <entry>identity</entry>
+        <entry>twofaa</entry>
+        <entry>twofaas</entry>
+        <entry>accout:</entry>
+        <entry>identity.*yml</entry>
+        <entry>account</entry>
+        <entry>account:</entry>
       </history-search>
       <history-cmd>
         <entry>%s/producer/server/g</entry>
