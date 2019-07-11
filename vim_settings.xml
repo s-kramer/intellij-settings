@@ -243,6 +243,12 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/ShortcutServiceRestAdapter.java" timestamp="1556637943481">
         <mark key="'" line="63" column="30" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/filter/TwofaaasDIPPTokenEnhancementFilter.java" timestamp="1562848190349">
+        <mark key="[" line="67" column="83" />
+        <mark key="]" line="67" column="92" />
+        <mark key="." line="67" column="92" />
+        <mark key="^" line="67" column="92" />
+      </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/CreateBillingAccountRequest.java" timestamp="1557348277527">
         <mark key="[" line="27" column="90" />
         <mark key="]" line="27" column="98" />
@@ -808,7 +814,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QHN0YXJ0dW1sCmFjdG9yIHNwCnBhcnRpY2lwYW50ICJhcGktZ3ciIGFzIGd3CnBhcnRpY2lwYW50ICJzcy1maWx0ZXIiIGFzIHNzZgpwYXJ0aWNpcGFudCBzcwoKCj09IDJGQUFBUyBSRVFVRVNUID09CmFsdCBjdXJyZW50IHNpdHVhdGlvbgpzcCAtPiBndyA6IGFjY2Vzcy10b2tlblxuZXVpZApndyAtPiBndyA6IGVuaGFuY2UgdG9rZW4gKHVpZCwgZXVpZCkgCm5vdGUgcmlnaHQ6IHJlbW92ZSB0aGlzIG9uZQpndyAtPiBndyA6IHNpZ24gZW5oYW5jZWQgdG9rZW4KZ3cgLT4gZ3cgOiBwdXQgdG9rZW4gaW50byByZXF1ZXN0ZWQgaGVhZGVyCm5vdGUgcmlnaHQ6IHBhcnNlIHJlcXVlc3QgYm9keQoKZWxzZSBwcm9wb3NlZAoKZ3cgLT4gc3NmIDogdG9rZW4gd2l0aG91dCBldWlkLHVpZApzc2YgLT4gc3NmIDogY2hlY2sgaWYgdGhpcyBpcyBhIDJmYWFhcyByZXF1ZXN0CnNzZiAtPiBzc2YgOiBnZXQgdG9rZW4gZnJvbSBoZWFkZXIKc3NmIC0+IHNzZiA6ICBlbmhhbmNlIHRva2VuICh1aWQsIGV1aWQpCm5vdGUgcmlnaHQ6IHBhcnNlIHJlcXVlc3QgYm9keVxubmV3IGVuaGFuY2VtZW50CnNzZiAtPiBzc2YgOiBzaWduIGVuaGFuY2VkIHRva2VuCgplbmQKCnNzZiAtPiBzcwoKPT0gMkZBQUFTIFNUQVRVUyA9PQoKc3AgLT4gZ3cgOiBhY2Nlc3MtdG9rZW5cbjJmYWFhc2lkCmd3IC0+IHNzZiA6IHRva2VuIHdpdGhvdXQgZXVpZCx1aWQKc3NmIC0+IHNzZiA6ICBlbmhhbmNlIHRva2VuICh1aWQsIGV1aWQpCm5vdGUgcmlnaHQ6IHF1ZXJ5IGRhdGFiYXNlLCBjb252ZXJ0IDJmYWFhc2lkIHRvIGV1aWQKc3NmIC0+IHNzZiA6IHNpZ24gZW5oYW5jZWQgdG9rZW4Kc3NmIC0+IHNzCgoKCkBlbmR1bWwK</text>
+        <text encoding="base64">ICAgICAgICAoKEh0dHBTZXJ2bGV0UmVxdWVzdCkgcmVxdWVzdCkuCg==</text>
       </register>
       <register name="-" type="4">
         <text>introspect</text>
@@ -820,25 +826,25 @@
         <text encoding="base64">Z3cgLT4gc3NmIDogdG9rZW4gd2l0aG91dCBldWlkLHVpZApzc2YgLT4gc3NmIDogIGVuaGFuY2UgdG9rZW4gKHVpZCwgZXVpZCkKbm90ZSByaWdodDogcXVlcnkgZGF0YWJhc2UsIGNvbnZlcnQgMmZhYWFzaWQgdG8gZXVpZApzc2YgLT4gc3NmIDogc2lnbiBlbmhhbmNlZCB0b2tlbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bm90ZSByaWdodDogaW50cm9zcGVjdCBib2R5Cg==</text>
+        <text encoding="base64">ICAgICAgICAoKEh0dHBTZXJ2bGV0UmVxdWVzdCkgcmVxdWVzdCkuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bm90ZSByaWdodDogcXVlcnkgZGF0YWJhc2UsIGNvbnZlcnQgMmZhYWFzaWQgdG8gZXVpZAo=</text>
+        <text encoding="base64">bm90ZSByaWdodDogaW50cm9zcGVjdCBib2R5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3AgLT4gZ3cgOiBhY2Nlc3MtdG9rZW5cbmV1aWQKZ3cgLT4gZ3cgOiBlbmhhbmNlIHRva2VuICh1aWQsIGV1aWQpCg==</text>
+        <text encoding="base64">bm90ZSByaWdodDogcXVlcnkgZGF0YWJhc2UsIGNvbnZlcnQgMmZhYWFzaWQgdG8gZXVpZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bm90ZSByaWdodDogY3VycmVudCBzaXR1YXRpb24K</text>
+        <text encoding="base64">c3AgLT4gZ3cgOiBhY2Nlc3MtdG9rZW5cbmV1aWQKZ3cgLT4gZ3cgOiBlbmhhbmNlIHRva2VuICh1aWQsIGV1aWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">J3NzIC0+IHNzIDogZW5oYW5jZSB0b2tlbiAodWlkLCBldWlkKSAK</text>
+        <text encoding="base64">bm90ZSByaWdodDogY3VycmVudCBzaXR1YXRpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3NmIC0+IHNzZiA6IHNpZ24gZWhhbmNlZCB0b2tlbgo=</text>
+        <text encoding="base64">J3NzIC0+IHNzIDogZW5oYW5jZSB0b2tlbiAodWlkLCBldWlkKSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3NmIC0+IHNzZiA6ICBlbmhhbmNlIHRva2VuICh1aWQsIGV1aWQpCg==</text>
+        <text encoding="base64">c3NmIC0+IHNzZiA6IHNpZ24gZWhhbmNlZCB0b2tlbgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -854,10 +860,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bm90ZSByaWdodDogcXVlcnkgZGF0YWJhc2UK</text>
+        <text encoding="base64">c3NmIC0+IHNzZiA6ICBlbmhhbmNlIHRva2VuICh1aWQsIGV1aWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3NmIC0+IHNzCg==</text>
+        <text encoding="base64">bm90ZSByaWdodDogcXVlcnkgZGF0YWJhc2UK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
