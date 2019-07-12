@@ -282,8 +282,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" timestamp="1560341263196">
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" timestamp="1562921897363">
         <mark key="'" line="164" column="17" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="176" column="32" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/FeignClientMockConfiguration.java" timestamp="1560856434299">
         <mark key="[" line="25" column="59" />
@@ -824,7 +826,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmVtb3ZlZCByZWR1bmRhbnQgY29uZmlndXJhdGlvbiBhcmdzCg==</text>
+        <text encoding="base64">ICAgICAgICBoeWRyYS1wcm94eS1kYXRhLWltcG9ydC12ZXJpZmljYXRpb24tbWV0aG9kczoKICAgICAgICAgIHBhdGg6IC92MS9kYXRhLWltcG9ydC92ZXJpZmljYXRpb24tbWV0aG9kcy8qKgogICAgICAgICAgc3RyaXBQcmVmaXg6IGZhbHNlCiAgICAgICAgICBzZW5zaXRpdmVIZWFkZXJzOgogICAgICAgICAgc2VydmljZUlkOiBIWURSQS1QUk9YWQo=</text>
       </register>
       <register name="-" type="4">
         <text>originalHeader</text>
