@@ -97,9 +97,10 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/processor/UserCreatedEventProcessor.java" timestamp="1561474334917">
         <mark key="'" line="74" column="36" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" timestamp="1561639200489">
-        <mark key="[" line="57" column="16" />
-        <mark key="]" line="57" column="82" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" timestamp="1562942972155">
+        <mark key="'" line="34" column="50" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="23" />
         <mark key="." line="57" column="82" />
         <mark key="^" line="57" column="82" />
       </file>
@@ -695,10 +696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="244" column="57" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
-      <jump line="237" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
-      <jump line="234" column="53" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
-      <jump line="230" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
       <jump line="227" column="57" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
       <jump line="221" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
       <jump line="218" column="53" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
@@ -795,16 +792,20 @@
       <jump line="182" column="38" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
       <jump line="875" column="25" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
       <jump line="876" column="43" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/api-gateway-service.yaml" />
+      <jump line="35" column="47" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
+      <jump line="49" column="60" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
+      <jump line="85" column="49" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
+      <jump line="34" column="50" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGVtcFVzZXJzV2hpdGVsaXN0RmlsdGVyczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBFUlJPUjoK</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>identification-states</text>
+        <text encoding="base64">XDxuRmFjdG9yQXV0aGVudGljYXRpb25SZXBvc2l0b3J5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBESVBQX1RPS0VOX0hFQURFUl9OQU1FID0gImRpcHAtdG9rZW4iOwo=</text>
@@ -854,9 +855,9 @@
       </register>
     </registers>
     <search>
-      <last-search>identification-states</last-search>
+      <last-search encoding="base64">XDxuRmFjdG9yQXV0aGVudGljYXRpb25SZXBvc2l0b3J5XD4=</last-search>
       <last-offset />
-      <last-pattern>identification-states</last-pattern>
+      <last-pattern encoding="base64">XDxuRmFjdG9yQXV0aGVudGljYXRpb25SZXBvc2l0b3J5XD4=</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -864,8 +865,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUd29mYWFhc1JlcXVlc3RlZENoZWNrZXJcPg==</entry>
-        <entry>twofaaas</entry>
         <entry>enforce</entry>
         <entry>identity</entry>
         <entry>twofaa</entry>
@@ -884,6 +883,8 @@
         <entry encoding="base64">IA==</entry>
         <entry>,</entry>
         <entry>identification-states</entry>
+        <entry encoding="base64">XDxuRmFjdG9ySW50ZXJhY3Rpb25SZXBvc2l0b3J5XD4=</entry>
+        <entry encoding="base64">XDxuRmFjdG9yQXV0aGVudGljYXRpb25SZXBvc2l0b3J5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQgLy8=</entry>
