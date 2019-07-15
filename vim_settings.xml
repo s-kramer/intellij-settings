@@ -601,6 +601,10 @@
       <file name="/postgres.contact.phone [postgres@devint]" timestamp="1561553741740">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileAuthorizationController.java" timestamp="1563180937604">
+        <mark key="[" line="168" column="18" />
+        <mark key="]" line="168" column="44" />
+      </file>
       <file name="/postgres.contact.phone [postgres@dev6]" timestamp="1562766785125">
         <mark key="[" line="0" column="0" />
       </file>
@@ -826,8 +830,8 @@
       <jump line="17" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhdGFiYXNlLXBsYXRmb3JtOiBvcmcuaGliZXJuYXRlLmRpYWxlY3QuSDJEaWFsZWN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/mobile-auth/consent/reject</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
