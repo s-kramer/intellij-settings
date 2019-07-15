@@ -181,6 +181,12 @@
         <mark key="." line="12" column="61" />
         <mark key="^" line="12" column="61" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFAaaSRequestBase.java" timestamp="1563176746036">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="31" column="79" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/.gitignore" timestamp="1558685294410">
         <mark key="'" line="121" column="0" />
       </file>
@@ -213,6 +219,11 @@
       </file>
       <file name="$USER_HOME$/Projects/Java/ddd-paynow/api-gateway/src/main/kotlin/pl/melements/poc/dddpaynow/apigateway/PaymentAuthorizationConfiguration.kt" timestamp="1558386748718">
         <mark key="'" line="15" column="16" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" timestamp="1563176939983">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="31" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/DippTokenService.java" timestamp="1558611408317">
         <mark key="'" line="34" column="13" />
@@ -252,6 +263,11 @@
       </file>
       <file name="/postgres.serviceprovider.serviceprovider [postgres@dev6]" timestamp="1562763149955">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/security-service.yaml" timestamp="1563176408054">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="244" column="30" />
       </file>
       <file name="/ConsentNfaStatusService.java" timestamp="1559122518134">
         <mark key="'" line="86" column="41" />
@@ -306,6 +322,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" timestamp="1563177750024">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/helper/TokenRequestHandler.java" timestamp="1558612265804">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="13" />
@@ -317,6 +339,11 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/generatedTest/com/dipp/security/ContractVerifierTest.java" timestamp="1563176288925">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingServiceSpec.groovy" timestamp="1558701285392">
         <mark key="'" line="27" column="39" />
@@ -697,28 +724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="57" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
-      <jump line="221" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
-      <jump line="218" column="53" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
-      <jump line="116" column="61" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
-      <jump line="105" column="61" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
-      <jump line="101" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
-      <jump line="96" column="35" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
-      <jump line="91" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
-      <jump line="88" column="61" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
-      <jump line="84" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
-      <jump line="83" column="35" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
-      <jump line="79" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
-      <jump line="76" column="61" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
-      <jump line="70" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
-      <jump line="505" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-modelling/4.1.1/5ac58fac232448216891b4ea81a6e56c045593ec/axon-modelling-4.1.1-sources.jar!/org/axonframework/modelling/command/inspection/AnnotatedAggregate.java" />
-      <jump line="25" column="74" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/ClientCheckService.java" />
-      <jump line="26" column="47" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/ClientCheckService.java" />
-      <jump line="50" column="15" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/ClientCheckService.java" />
-      <jump line="17" column="30" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/ClientCheckService.java" />
-      <jump line="27" column="13" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/ClientCheckService.java" />
-      <jump line="172" column="15" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageService.java" />
-      <jump line="50" column="18" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageService.java" />
       <jump line="24" column="31" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageService.java" />
       <jump line="178" column="29" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/login/login/page/LoginPageServiceTest.java" />
       <jump line="193" column="19" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/login/login/page/LoginPageServiceTest.java" />
@@ -797,68 +802,98 @@
       <jump line="49" column="60" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
       <jump line="85" column="49" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
       <jump line="34" column="50" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/security-service.yaml" />
+      <jump line="244" column="12" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/security-service.yaml" />
+      <jump line="6" column="0" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/security-service.yaml" />
+      <jump line="238" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
+      <jump line="194" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
+      <jump line="86" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
+      <jump line="157" column="30" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
+      <jump line="52" column="18" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
+      <jump line="55" column="36" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
+      <jump line="56" column="36" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
+      <jump line="57" column="36" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
+      <jump line="72" column="18" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
+      <jump line="153" column="36" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
+      <jump line="155" column="57" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
+      <jump line="154" column="30" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
+      <jump line="83" column="2" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
+      <jump line="177" column="4" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
+      <jump line="21" column="37" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
+      <jump line="4" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
+      <jump line="17" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/application-test.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBFUlJPUjoK</text>
+        <text encoding="base64">ICAgIGRhdGFiYXNlLXBsYXRmb3JtOiBvcmcuaGliZXJuYXRlLmRpYWxlY3QuSDJEaWFsZWN0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuRmFjdG9yQXV0aGVudGljYXRpb25SZXBvc2l0b3J5XD4=</text>
+        <text>h2</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBESVBQX1RPS0VOX0hFQURFUl9OQU1FID0gImRpcHAtdG9rZW4iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGFiYXNlLXBsYXRmb3JtOiBvcmcuaGliZXJuYXRlLmRpYWxlY3QuSDJEaWFsZWN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9naW4scmVhZF9iYXNrZXQsd3JpdGVfYmFza2V0LGRlbGV0ZV9iYXNrZXQscl9wZXJzb25hbCx3X3BlcnNvbmFsLHJfZG9jdW1lbnQsd19kb2N1bWVudCxkX2RvY3VtZW50LHJfYWRkcmVzcyx3X2FkZHJlc3MsZF9hZGRyZXNzLHJfcGVybXJ1bGUsd19wZXJtcnVsZSxyX2Jhbmssd19iYW5rLHJfdHJhbnNhY3Rpb24sd190cmFuc2FjdGlvbixyX2FjdGl2aXR5LHdfYWN0aXZpdHkscl9wcmVmZXJlbmNlLHdfcHJlZmVyZW5jZSx3X3VzZXJzdGF0dXMsd3JpdGVfZGVsZXRlX3Rva2VuLGRfcGVyc29uYWwsd3JpdGVfY29udGFjdF90b2tlbixpbXBvcnRfY29udGFjdF90b2tlbixyZWFkX2NvbnRhY3RfdG9rZW5yX3NldHRpbmdzLHdfc2V0dGluZ3Mscl9zZXJ2aWNlcHJvdmlkZXIscl9kYl9hZGFwdGVyLHdfZGJfYWRhcHRlcixyX2F1dG9wdXNoLHdfYXV0b3B1c2gsd19ub3RpZmljYXRpb24sd19wYXltZW50X21hbmRhdGUscl9wYXltZW50X21hbmRhdGUscl9vcHRpbnMyLHdfb3B0aW5zMixyX29wdGluczMsd19vcHRpbnMzLHJfcGF5bWVudF9kYXRhLHdfcGF5bWVudF9kYXRhLGRfcGF5bWVudF9kYXRhLHJfbG95YWx0eSx3X2xveWFsdHksZF9sb3lhbHR5LHdfYmlsbGluZyxyX3VzZXJfbWFuYWdlbWVudCx3X3VzZXJfbWFuYWdlbWVudCxkX3VzZXJfbWFuYWdlbWVudCxyX2VpZCx3X2VpZCxyX3NhbmN0aW9uc19kYXRhLHdfcHVzaF9ub3RpZmljYXRpb24scl90aGlyZF9wYXJ0eV91aWQsd190aGlyZF9wYXJ0eV91aWQsd19wYXltZW50LHJfcGF5bWVudCxkX3BheW1lbnQscl9zaWduYXR1cmUtY29uc2VudCx3X3NpZ25hdHVyZS1jb25zZW50LGRfc2lnbmF0dXJlLWNvbnNlbnQscl9zaWduZWRfZG9jdW1lbnQsd19zaWduZWRfZG9jdW1lbnQsZF9zaWduZWRfZG9jdW1lbnQscl9zcF9hY2NvdW50cyx3X3NwX2FjY291bnRzLHJfdGVtcHN0b3JlLHdfdGVtcHN0b3JlLHJfaWRlbnRpdHlfcHJvdmlkZXJzLHdfaWRlbnRpdHlfcHJvdmlkZXJzLHJfZ2lyb19pZGVudGlmaWNhdGlvbix3X2dpcm9faWRlbnRpZmljYXRpb24scl90cmFuc2FjdGlvbl9udW1iZXIsd190cmFuc2FjdGlvbl9udW1iZXJ9Cgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmxvZ2luLHJlYWRfYmFza2V0LHdyaXRlX2Jhc2tldCxkZWxldGVfYmFza2V0LHJfcGVyc29uYWwsd19wZXJzb25hbCxyX2RvY3VtZW50LHdfZG9jdW1lbnQsZF9kb2N1bWVudCxyX2FkZHJlc3Msd19hZGRyZXNzLGRfYWRkcmVzcyxyX3Blcm1ydWxlLHdfcGVybXJ1bGUscl9iYW5rLHdfYmFuayxyX3RyYW5zYWN0aW9uLHdfdHJhbnNhY3Rpb24scl9hY3Rpdml0eSx3X2FjdGl2aXR5LHJfcHJlZmVyZW5jZSx3X3ByZWZlcmVuY2Usd191c2Vyc3RhdHVzLHdyaXRlX2RlbGV0ZV90b2tlbixkX3BlcnNvbmFsLHdyaXRlX2NvbnRhY3RfdG9rZW4saW1wb3J0X2NvbnRhY3RfdG9rZW4scmVhZF9jb250YWN0X3Rva2VuLHJfc2V0dGluZ3Msd19zZXR0aW5ncyxyX3NlcnZpY2Vwcm92aWRlcixyX2RiX2FkYXB0ZXIsd19kYl9hZGFwdGVyLHJfYXV0b3B1c2gsd19hdXRvcHVzaCx3X25vdGlmaWNhdGlvbixyX3BheW1lbnRfZGF0YSx3X3BheW1lbnRfZGF0YSxkX3BheW1lbnRfZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG9naW4scmVhZF9iYXNrZXQsd3JpdGVfYmFza2V0LGRlbGV0ZV9iYXNrZXQscl9wZXJzb25hbCx3X3BlcnNvbmFsLHJfZG9jdW1lbnQsd19kb2N1bWVudCxkX2RvY3VtZW50LHJfYWRkcmVzcyx3X2FkZHJlc3MsZF9hZGRyZXNzLHJfcGVybXJ1bGUsd19wZXJtcnVsZSxyX2Jhbmssd19iYW5rLHJfdHJhbnNhY3Rpb24sd190cmFuc2FjdGlvbixyX2FjdGl2aXR5LHdfYWN0aXZpdHkscl9wcmVmZXJlbmNlLHdfcHJlZmVyZW5jZSx3X3VzZXJzdGF0dXMsd3JpdGVfZGVsZXRlX3Rva2VuLGRfcGVyc29uYWwsd3JpdGVfY29udGFjdF90b2tlbixpbXBvcnRfY29udGFjdF90b2tlbixyZWFkX2NvbnRhY3RfdG9rZW4scl9zZXR0aW5ncyx3X3NldHRpbmdzLHJfc2VydmljZXByb3ZpZGVyLHJfZGJfYWRhcHRlcix3X2RiX2FkYXB0ZXIscl9hdXRvcHVzaCx3X2F1dG9wdXNoLHdfbm90aWZpY2F0aW9uLHJfcGF5bWVudF9kYXRhLHdfcGF5bWVudF9kYXRhLGRfcGF5bWVudF9kYXRhCg==</text>
+        <text encoding="base64">IyBTZWFsIE9uZQpzZW5kOgogIGRlbGF5T25TdWNjZXNzOiAyMDAKICBkZWxheU9uRXJyb3I6IDUwMDAKICB0aHJlYWRTdHVja1RpbWVvdXQ6IDIxMDAwMAogIHN5bmNocm9ub3VzU2VuZFRpbWVvdXQ6IDUwMDAKICBtYXhNZXNzYWdlc1BlclJlcXVlc3Q6IDI1MAogIHF1ZXVlU2l6ZTogMTAwMAogIG1heFJlcXVlc3RBZ2U6IDEyMDAwCgpyZWNlaXZlOgogIGRlbGF5T25TdWNjZXNzOiAyMDAKICBkZWxheU9uRXJyb3I6IDUwMDAKICB0aHJlYWRTdHVja1RpbWVvdXQ6IDIxMDAwMAogIGR1cGxpY2F0ZUNoZWNrQ2FjaGVTaXplOiA1MDAwCgp0Y3A6CiAgY29ubmVjdDoKICAgIHRpbWVvdXQ6IDMwMDAKICByZWFkOgogICAgdGltZW91dDoKICAgICAgc2VuZDogNjAwMAogICAgICByZWNlaXZlOiAyMDAwMDAKCmdhdGV3YXk6CiAgY29uZmlnLjE6CiAgICBpZDogR1cgMQogICAgc2VuZFVSSTogaHR0cHM6Ly9ndzEuc2VhbC1vbmUuY29tOjUzNDEyL1MxR1dQdXRNZXNzYWdlCiAgICByZWNlaXZlVVJJOiBodHRwczovL2d3MS5zZWFsLW9uZS5jb206NTM0MTMvUzFHV0dldFJlc3BvbnNlCiAgY29uZmlnLjI6CiAgICBpZDogR1cgMgogICAgc2VuZFVSSTogaHR0cHM6Ly9ndzIuc2VhbC1vbmUuY29tOjUzNDEyL1MxR1dQdXRNZXNzYWdlCiAgICByZWNlaXZlVVJJOiBodHRwczovL2d3Mi5zZWFsLW9uZS5jb206NTM0MTMvUzFHV0dldFJlc3BvbnNlCiAgY29uZmlnLjM6CiAgICBpZDogR1cgMwogICAgc2VuZFVSSTogaHR0cHM6Ly9ndzMuc2VhbC1vbmUuY29tOjUzNDEyL1MxR1dQdXRNZXNzYWdlCiAgICByZWNlaXZlVVJJOiBodHRwczovL2d3My5zZWFsLW9uZS5jb206NTM0MTMvUzFHV0dldFJlc3BvbnNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVtb3ZlZCByZWR1bmRhbnQgY29uZmlndXJhdGlvbiBhcmdzCg==</text>
+        <text encoding="base64">CUBJZ25vcmUK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICByZXF1ZXN0V3JhcHBlci5hZGRIZWFkZXIoSldTX0RJUFBfVE9LRU4sIGdldEp3c0RpcHBUb2tlbih1aWQsIGV1aWQpLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">bG9naW4scmVhZF9iYXNrZXQsd3JpdGVfYmFza2V0LGRlbGV0ZV9iYXNrZXQscl9wZXJzb25hbCx3X3BlcnNvbmFsLHJfZG9jdW1lbnQsd19kb2N1bWVudCxkX2RvY3VtZW50LHJfYWRkcmVzcyx3X2FkZHJlc3MsZF9hZGRyZXNzLHJfcGVybXJ1bGUsd19wZXJtcnVsZSxyX2Jhbmssd19iYW5rLHJfdHJhbnNhY3Rpb24sd190cmFuc2FjdGlvbixyX2FjdGl2aXR5LHdfYWN0aXZpdHkscl9wcmVmZXJlbmNlLHdfcHJlZmVyZW5jZSx3X3VzZXJzdGF0dXMsd3JpdGVfZGVsZXRlX3Rva2VuLGRfcGVyc29uYWwsd3JpdGVfY29udGFjdF90b2tlbixpbXBvcnRfY29udGFjdF90b2tlbixyZWFkX2NvbnRhY3RfdG9rZW5yX3NldHRpbmdzLHdfc2V0dGluZ3Mscl9zZXJ2aWNlcHJvdmlkZXIscl9kYl9hZGFwdGVyLHdfZGJfYWRhcHRlcixyX2F1dG9wdXNoLHdfYXV0b3B1c2gsd19ub3RpZmljYXRpb24sd19wYXltZW50X21hbmRhdGUscl9wYXltZW50X21hbmRhdGUscl9vcHRpbnMyLHdfb3B0aW5zMixyX29wdGluczMsd19vcHRpbnMzLHJfcGF5bWVudF9kYXRhLHdfcGF5bWVudF9kYXRhLGRfcGF5bWVudF9kYXRhLHJfbG95YWx0eSx3X2xveWFsdHksZF9sb3lhbHR5LHdfYmlsbGluZyxyX3VzZXJfbWFuYWdlbWVudCx3X3VzZXJfbWFuYWdlbWVudCxkX3VzZXJfbWFuYWdlbWVudCxyX2VpZCx3X2VpZCxyX3NhbmN0aW9uc19kYXRhLHdfcHVzaF9ub3RpZmljYXRpb24scl90aGlyZF9wYXJ0eV91aWQsd190aGlyZF9wYXJ0eV91aWQsd19wYXltZW50LHJfcGF5bWVudCxkX3BheW1lbnQscl9zaWduYXR1cmUtY29uc2VudCx3X3NpZ25hdHVyZS1jb25zZW50LGRfc2lnbmF0dXJlLWNvbnNlbnQscl9zaWduZWRfZG9jdW1lbnQsd19zaWduZWRfZG9jdW1lbnQsZF9zaWduZWRfZG9jdW1lbnQscl9zcF9hY2NvdW50cyx3X3NwX2FjY291bnRzLHJfdGVtcHN0b3JlLHdfdGVtcHN0b3JlLHJfaWRlbnRpdHlfcHJvdmlkZXJzLHdfaWRlbnRpdHlfcHJvdmlkZXJzLHJfZ2lyb19pZGVudGlmaWNhdGlvbix3X2dpcm9faWRlbnRpZmljYXRpb24scl90cmFuc2FjdGlvbl9udW1iZXIsd190cmFuc2FjdGlvbl9udW1iZXJ9Cgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
           <key char="50" code="0" mods="0" />
           <key char="100" code="0" mods="0" />
-          <key char="87" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="45" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
           <key char="32" code="0" mods="0" />
           <key char="65535" code="91" mods="130" />
           <key char="94" code="0" mods="0" />
           <key char="106" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSHR0cFNlc3Npb24gaHR0cFNlc3Npb24gPSBodHRwUmVxdWVzdC5nZXRTZXNzaW9uKCk7Cg==</text>
+        <text encoding="base64">CmxvZ2luLHJlYWRfYmFza2V0LHdyaXRlX2Jhc2tldCxkZWxldGVfYmFza2V0LHJfcGVyc29uYWwsd19wZXJzb25hbCxyX2RvY3VtZW50LHdfZG9jdW1lbnQsZF9kb2N1bWVudCxyX2FkZHJlc3Msd19hZGRyZXNzLGRfYWRkcmVzcyxyX3Blcm1ydWxlLHdfcGVybXJ1bGUscl9iYW5rLHdfYmFuayxyX3RyYW5zYWN0aW9uLHdfdHJhbnNhY3Rpb24scl9hY3Rpdml0eSx3X2FjdGl2aXR5LHJfcHJlZmVyZW5jZSx3X3ByZWZlcmVuY2Usd191c2Vyc3RhdHVzLHdyaXRlX2RlbGV0ZV90b2tlbixkX3BlcnNvbmFsLHdyaXRlX2NvbnRhY3RfdG9rZW4saW1wb3J0X2NvbnRhY3RfdG9rZW4scmVhZF9jb250YWN0X3Rva2VuLHJfc2V0dGluZ3Msd19zZXR0aW5ncyxyX3NlcnZpY2Vwcm92aWRlcixyX2RiX2FkYXB0ZXIsd19kYl9hZGFwdGVyLHJfYXV0b3B1c2gsd19hdXRvcHVzaCx3X25vdGlmaWNhdGlvbixyX3BheW1lbnRfZGF0YSx3X3BheW1lbnRfZGF0YSxkX3BheW1lbnRfZGF0YQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9naW4scmVhZF9iYXNrZXQsd3JpdGVfYmFza2V0LGRlbGV0ZV9iYXNrZXQscl9wZXJzb25hbCx3X3BlcnNvbmFsLHJfZG9jdW1lbnQsd19kb2N1bWVudCxkX2RvY3VtZW50LHJfYWRkcmVzcyx3X2FkZHJlc3MsZF9hZGRyZXNzLHJfcGVybXJ1bGUsd19wZXJtcnVsZSxyX2Jhbmssd19iYW5rLHJfdHJhbnNhY3Rpb24sd190cmFuc2FjdGlvbixyX2FjdGl2aXR5LHdfYWN0aXZpdHkscl9wcmVmZXJlbmNlLHdfcHJlZmVyZW5jZSx3X3VzZXJzdGF0dXMsd3JpdGVfZGVsZXRlX3Rva2VuLGRfcGVyc29uYWwsd3JpdGVfY29udGFjdF90b2tlbixpbXBvcnRfY29udGFjdF90b2tlbixyZWFkX2NvbnRhY3RfdG9rZW4scl9zZXR0aW5ncyx3X3NldHRpbmdzLHJfc2VydmljZXByb3ZpZGVyLHJfZGJfYWRhcHRlcix3X2RiX2FkYXB0ZXIscl9hdXRvcHVzaCx3X2F1dG9wdXNoLHdfbm90aWZpY2F0aW9uLHJfcGF5bWVudF9kYXRhLHdfcGF5bWVudF9kYXRhLGRfcGF5bWVudF9kYXRhCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywvXHIvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuRmFjdG9yQXV0aGVudGljYXRpb25SZXBvc2l0b3J5XD4=</last-search>
+      <last-search>h2</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuRmFjdG9yQXV0aGVudGljYXRpb25SZXBvc2l0b3J5XD4=</last-pattern>
+      <last-pattern>h2</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -866,9 +901,6 @@
     </search>
     <history>
       <history-search>
-        <entry>enforce</entry>
-        <entry>identity</entry>
-        <entry>twofaa</entry>
         <entry>twofaas</entry>
         <entry>accout:</entry>
         <entry>identity.*yml</entry>
@@ -886,6 +918,9 @@
         <entry>identification-states</entry>
         <entry encoding="base64">XDxuRmFjdG9ySW50ZXJhY3Rpb25SZXBvc2l0b3J5XD4=</entry>
         <entry encoding="base64">XDxuRmFjdG9yQXV0aGVudGljYXRpb25SZXBvc2l0b3J5XD4=</entry>
+        <entry>environmentProperties</entry>
+        <entry encoding="base64">XDxlbnZpcm9ubWVudFByb3BlcnRpZXNcPg==</entry>
+        <entry>h2</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQgLy8=</entry>
