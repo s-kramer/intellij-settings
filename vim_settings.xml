@@ -34,11 +34,10 @@
       <file name="$MAVEN_REPOSITORY$/net/minidev/json-smart/2.3/json-smart-2.3-sources.jar!/net/minidev/json/JSONObject.java" timestamp="1560854519020">
         <mark key="'" line="83" column="23" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/nfinteraction/EncryptionNFactorInteractionRepository.java" timestamp="1563282651044">
-        <mark key="[" line="60" column="42" />
-        <mark key="]" line="61" column="59" />
-        <mark key="." line="61" column="59" />
-        <mark key="^" line="61" column="59" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/nfinteraction/EncryptionNFactorInteractionRepository.java" timestamp="1563283542176">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp/dipp-event-kafka/1_3_APRIL_MASTER/4ebb23cca26dc4f8bf835433f5d0af2e996b8606/dipp-event-kafka-1_3_APRIL_MASTER-sources.jar!/com/dipp/event/kafka/producer/config/KafkaProducerConfiguration.java" timestamp="1557821590165">
         <mark key="'" line="58" column="32" />
@@ -120,6 +119,11 @@
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/ShortcutServiceRestAdapter.java" timestamp="1556637943481">
         <mark key="'" line="63" column="30" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_64.puml" timestamp="1563284202830">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/ConsentNfaStatusService.java" timestamp="1559122518134">
         <mark key="'" line="86" column="41" />
@@ -364,13 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.9.RELEASE/bd4ea76bf579cb85570470d6f1428cc1f7329c72/spring-data-jpa-1.11.9.RELEASE-sources.jar!/org/springframework/data/jpa/repository/config/JpaRepositoryConfigExtension.java" />
-      <jump line="156" column="95" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.9.RELEASE/bd4ea76bf579cb85570470d6f1428cc1f7329c72/spring-data-jpa-1.11.9.RELEASE-sources.jar!/org/springframework/data/jpa/repository/config/JpaRepositoryConfigExtension.java" />
-      <jump line="161" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.9.RELEASE/bd4ea76bf579cb85570470d6f1428cc1f7329c72/spring-data-jpa-1.11.9.RELEASE-sources.jar!/org/springframework/data/jpa/repository/config/JpaRepositoryConfigExtension.java" />
-      <jump line="0" column="19" filename="/fragment.java" />
-      <jump line="144" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.9.RELEASE/bd4ea76bf579cb85570470d6f1428cc1f7329c72/spring-data-jpa-1.11.9.RELEASE-sources.jar!/org/springframework/data/jpa/repository/config/JpaRepositoryConfigExtension.java" />
-      <jump line="171" column="31" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/userstatus/JDBCUserStatusRepository.java" />
-      <jump line="14" column="6" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/FeignClientMockConfiguration.java" />
       <jump line="0" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
       <jump line="3" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/build.gradle" />
       <jump line="17" column="22" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwoFAaaSRequestBase.java" />
@@ -464,40 +461,47 @@
       <jump line="80" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp/dipp-encryption/21513-ab164fae-RELEASE-1.0.0/df1f91926973df3ec2d47456749a16f73b22d215/dipp-encryption-21513-ab164fae-RELEASE-1.0.0-sources.jar!/com/dipp/encryption/rest/RestEncryptionClient.java" />
       <jump line="61" column="76" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp/dipp-encryption/21513-ab164fae-RELEASE-1.0.0/df1f91926973df3ec2d47456749a16f73b22d215/dipp-encryption-21513-ab164fae-RELEASE-1.0.0-sources.jar!/com/dipp/encryption/rest/RestEncryptionClient.java" />
       <jump line="60" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp/dipp-encryption/21513-ab164fae-RELEASE-1.0.0/df1f91926973df3ec2d47456749a16f73b22d215/dipp-encryption-21513-ab164fae-RELEASE-1.0.0-sources.jar!/com/dipp/encryption/rest/RestEncryptionClient.java" />
+      <jump line="59" column="35" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/nfinteraction/EncryptionNFactorInteractionRepository.java" />
+      <jump line="67" column="91" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" />
+      <jump line="58" column="27" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" />
+      <jump line="52" column="24" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" />
+      <jump line="55" column="105" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>dipp</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>dipp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRSZXF1ZXN0QXR0cmlidXRlc1w+</text>
+        <text encoding="base64">XDxkaXBwVG9rZW5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFydGljaXBhbnQgImFwaS1ndyIgYXMgZ3cK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBjcmVhdGUgbmV3IGluc3RhbmNlIG9mIGRpcHAgdG9rZW4gZnJvbSBhbiBhbHJlYWR5IGV4aXN0aW5nIG9uZSArIHNldCBldWlkIGFuZCB1aWQgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dEhvbGRlci5zZXRSZXF1ZXN0QXR0cmlidXRlcyhuZXcgU2VydmxldFJlcXVlc3RBdHRyaWJ1dGVzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dEhvbGRlci5zZXRSZXF1ZXN0QXR0cmlidXRlcygpOwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dFV0aWxzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0SGVhZGVyKFN0cmluZyBuYW1lKSB7CiAgICAgICAgICAgICAgICBpZiAobmFtZS5lcXVhbHMoImRpcHAtdG9rZW4iKSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBkaXBwVG9rZW4udG9TdHJpbmcoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJldHVybiBzdXBlci5nZXRIZWFkZXIobmFtZSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAqIENvbnN0cnVjdHMgYSByZXF1ZXN0IG9iamVjdCB3cmFwcGluZyB0aGUgZ2l2ZW4gcmVxdWVzdC4KICAgICAgICAgICAgICoKICAgICAgICAgICAgICogQHBhcmFtIHJlcXVlc3QKICAgICAgICAgICAgICogQHRocm93cyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24gaWYgdGhlIHJlcXVlc3QgaXMgbnVsbAogICAgICAgICAgICAgKi8K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>getEnhancedDippToken(euid, uid)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSHR0cFNlcnZsZXRSZXF1ZXN0KCkgewoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXVpZCA9IGdldEZyb21Cb2R5KCk7CiAgICAgICAgU3RyaW5nIHVpZCA9IGdldFVpZEZyb21FdWlkKGV1aWQpOwogICAgICAgIERpcHBUb2tlbiBkaXBwVG9rZW4gPSBnZXRFbmhhbmNlZERpcHBUb2tlbihldWlkLCB1aWQpCiAgICAgICAgZmluYWwgSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QgPSAoKFNlcnZsZXRSZXF1ZXN0QXR0cmlidXRlcykgUmVxdWVzdENvbnRleHRIb2xkZXIuZ2V0UmVxdWVzdEF0dHJpYnV0ZXMoKSkuZ2V0UmVxdWVzdCgpOwogICAgICAgIGZpbmFsIEh0dHBTZXJ2bGV0UmVxdWVzdFdyYXBwZXIgaHR0cFNlcnZsZXRSZXF1ZXN0V3JhcHBlciA9IG5ldyBIdHRwU2VydmxldFJlcXVlc3RXcmFwcGVyKHJlcXVlc3QsIGV1aWQsIHVpZCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIFN0cmluZyBnZXRIZWFkZXIoU3RyaW5nIG5hbWUpIHsKICAgICAgICAgICAgICAgIGlmIChuYW1lLmVxdWFscygiZGlwcC10b2tlbiIpKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdldEVuaGFuY2VkRGlwcFRva2VuKGV1aWQsIHVpZCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICByZXR1cm4gc3VwZXIuZ2V0SGVhZGVyKG5hbWUpOwogICAgICAgICAgICB9CiAgICAgICAgfTsKCiAgICAgICAgUmVxdWVzdENvbnRleHRIb2xkZXIuc2V0UmVxdWVzdEF0dHJpYnV0ZXMobmV3IFNlcnZsZXRSZXF1ZXN0QXR0cmlidXRlcyhodHRwU2VydmxldFJlcXVlc3RXcmFwcGVyKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVW5kZXJ0b3dJbnB1dFN0cmVhbSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dEhvbGRlci5zZXRSZXF1ZXN0QXR0cmlidXRlcyhuZXcgU2VydmxldFJlcXVlc3RBdHRyaWJ1dGVzKCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -521,19 +525,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dEhvbGRlci5zZXRSZXF1ZXN0QXR0cmlidXRlcygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dFV0aWxzLgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRSZXF1ZXN0QXR0cmlidXRlc1w+</last-search>
+      <last-search encoding="base64">XDxkaXBwVG9rZW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRSZXF1ZXN0QXR0cmlidXRlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxkaXBwVG9rZW5cPg==</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>-1</last-dir>
@@ -558,9 +562,9 @@
         <entry encoding="base64">XDxpc0Zvcm1Qb3N0XD4=</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxnZXRDdXJyZW50SHR0cFJlcXVlc3RcPg==</entry>
-        <entry encoding="base64">XDxkaXBwVG9rZW5cPg==</entry>
         <entry encoding="base64">XDx1aWRcPg==</entry>
         <entry encoding="base64">XDxnZXRSZXF1ZXN0QXR0cmlidXRlc1w+</entry>
+        <entry encoding="base64">XDxkaXBwVG9rZW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQgLy8=</entry>
