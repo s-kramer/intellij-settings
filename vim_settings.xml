@@ -283,6 +283,9 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaasInteractionCreationService.java" timestamp="1563282577387">
         <mark key="'" line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/security-service.yml" timestamp="1563368792252">
+        <mark key="'" line="215" column="18" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.5/caf033a4a7c37b4a8ff3ea084cba591539b0b69/commons-io-2.5-sources.jar!/org/apache/commons/io/IOUtils.java" timestamp="1557735934016">
         <mark key="'" line="209" column="13" />
       </file>
@@ -398,13 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
-      <jump line="92" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
-      <jump line="95" column="3" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
-      <jump line="108" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
-      <jump line="87" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
-      <jump line="85" column="11" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
-      <jump line="83" column="11" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
       <jump line="81" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
       <jump line="78" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
       <jump line="66" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
@@ -498,6 +494,13 @@
       <jump line="64" column="23" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" />
       <jump line="65" column="23" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" />
       <jump line="128" column="35" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/security-service.yml" />
+      <jump line="29" column="10" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/security-service.yml" />
+      <jump line="30" column="20" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/security-service.yml" />
+      <jump line="88" column="2" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/security-service.yml" />
+      <jump line="148" column="10" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/security-service.yml" />
+      <jump line="190" column="9" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/security-service.yml" />
+      <jump line="215" column="18" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/security-service.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -507,7 +510,7 @@
         <text>issues fixes</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>cleanup</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBjcmVhdGUgbmV3IGluc3RhbmNlIG9mIGRpcHAgdG9rZW4gZnJvbSBhbiBhbHJlYWR5IGV4aXN0aW5nIG9uZSArIHNldCBldWlkIGFuZCB1aWQgCg==</text>
@@ -565,9 +568,9 @@
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>cleanup</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>cleanup</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -575,8 +578,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxldWlkXD4=</entry>
-        <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry encoding="base64">XDxzZXJ2bGV0SW5wdXRTdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxTZXJ2bGV0SW5wdXRTdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxDb250ZW50Q2FjaGluZ0lucHV0U3RyZWFtXD4=</entry>
@@ -595,6 +596,8 @@
         <entry encoding="base64">XDxleHRyYWN0RG9jdW1lbnRUeXBlc1N0cmluZ0Zyb21TY29wZXNcPg==</entry>
         <entry encoding="base64">XDx3YXNMb2dnZWRXaXRoRm9yYmlkZGVuTWV0aG9kXD4=</entry>
         <entry>data</entry>
+        <entry>intera</entry>
+        <entry>cleanup</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQgLy8=</entry>
