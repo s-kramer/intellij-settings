@@ -292,6 +292,9 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/run-stub.sh" timestamp="1559300597527">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/verificationmethods/VerificationMethodsService.java" timestamp="1563351595932">
+        <mark key="'" line="80" column="19" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/NfaDiscontinuationService.java" timestamp="1559122693515">
         <mark key="'" line="108" column="45" />
       </file>
@@ -379,11 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/Application.java" />
-      <jump line="24" column="16" filename="$USER_HOME$/verimi-auth/assembly/dipp-sit-2.json" />
-      <jump line="29" column="4" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
-      <jump line="72" column="16" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
-      <jump line="77" column="47" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
       <jump line="79" column="25" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
       <jump line="108" column="62" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" />
       <jump line="24" column="13" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/enhancer/HydraDippTokenResolver.java" />
@@ -479,6 +477,11 @@
       <jump line="46" column="73" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/InteractionCreationService.java" />
       <jump line="35" column="21" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/InteractionCreationService.java" />
       <jump line="29" column="70" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/InteractionCreationService.java" />
+      <jump line="66" column="155" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/verificationmethods/VerificationMethodsService.java" />
+      <jump line="49" column="13" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/verificationmethods/VerificationMethodsService.java" />
+      <jump line="34" column="38" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/verificationmethods/VerificationMethodsService.java" />
+      <jump line="82" column="21" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/verificationmethods/VerificationMethodsService.java" />
+      <jump line="80" column="19" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/verificationmethods/VerificationMethodsService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -488,7 +491,7 @@
         <text>issues fixes</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXBwVG9rZW5Bc0pzb25cPg==</text>
+        <text encoding="base64">XDxleHRyYWN0RG9jdW1lbnRUeXBlc1N0cmluZ0Zyb21TY29wZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBjcmVhdGUgbmV3IGluc3RhbmNlIG9mIGRpcHAgdG9rZW4gZnJvbSBhbiBhbHJlYWR5IGV4aXN0aW5nIG9uZSArIHNldCBldWlkIGFuZCB1aWQgCg==</text>
@@ -546,19 +549,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXBwVG9rZW5Bc0pzb25cPg==</last-search>
+      <last-search encoding="base64">XDxleHRyYWN0RG9jdW1lbnRUeXBlc1N0cmluZ0Zyb21TY29wZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXBwVG9rZW5Bc0pzb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxleHRyYWN0RG9jdW1lbnRUeXBlc1N0cmluZ0Zyb21TY29wZXNcPg==</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>,</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>registr</entry>
-        <entry>json</entry>
-        <entry>org.json</entry>
         <entry encoding="base64">XDxkaXBwVG9rZW5Qcml2YXRlS2V5XD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVUd29mYWFhc1N0YXR1c1JlcXVlc3RIZWFkZXJcPg==</entry>
         <entry encoding="base64">XDxldWlkXD4=</entry>
@@ -576,6 +576,9 @@
         <entry encoding="base64">XDx0d29mYWFhc1JlcXVlc3RWYWxpZGF0aW9uRXJyb3JNYXBwaW5nXD4=</entry>
         <entry encoding="base64">XDxkaXBwVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxkaXBwVG9rZW5Bc0pzb25cPg==</entry>
+        <entry encoding="base64">XDxzY29wZXNcPg==</entry>
+        <entry encoding="base64">XDxkb2N1bWVudFR5cGVzU2NvcGVNYXBwaW5nXD4=</entry>
+        <entry encoding="base64">XDxleHRyYWN0RG9jdW1lbnRUeXBlc1N0cmluZ0Zyb21TY29wZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQgLy8=</entry>
