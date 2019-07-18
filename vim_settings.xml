@@ -129,10 +129,6 @@
         <mark key="'" line="86" column="41" />
       </file>
       <file name="$USER_HOME$/recruitment/interview-samples/src/test/java/pl/sii/eu/interview/SimpleConfigurationReaderTest.java" timestamp="1563346815661" />
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/NFAInteractionService.java" timestamp="1563282591467">
-        <mark key="'" line="34" column="121" />
-        <mark key="[" line="97" column="107" />
-      </file>
       <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/dev/providers.tf" timestamp="1561569501389">
         <mark key="'" line="15" column="0" />
       </file>
@@ -262,6 +258,9 @@
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/registration/command/registration/service/TwofaOnlyUserRegistrationService.java" timestamp="1562767811447">
         <mark key="'" line="64" column="17" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/template/NfaConfirmationTextProducer.java" timestamp="1563446963999">
+        <mark key="'" line="14" column="29" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaasInteractionCreationService.java" timestamp="1563282577387">
         <mark key="'" line="7" column="24" />
       </file>
@@ -377,7 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
       <jump line="78" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
       <jump line="66" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
       <jump line="60" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
@@ -477,6 +475,7 @@
       <jump line="148" column="10" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/security-service.yml" />
       <jump line="190" column="9" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/security-service.yml" />
       <jump line="215" column="18" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/security-service.yml" />
+      <jump line="14" column="29" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/template/NfaConfirmationTextProducer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -486,7 +485,7 @@
         <text>issues fixes</text>
       </register>
       <register name="/" type="4">
-        <text>cleanup</text>
+        <text encoding="base64">XDxVVUlEX0xFTkdUSFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBjcmVhdGUgbmV3IGluc3RhbmNlIG9mIGRpcHAgdG9rZW4gZnJvbSBhbiBhbHJlYWR5IGV4aXN0aW5nIG9uZSArIHNldCBldWlkIGFuZCB1aWQgCg==</text>
@@ -544,9 +543,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cleanup</last-search>
+      <last-search encoding="base64">XDxVVUlEX0xFTkdUSFw+</last-search>
       <last-offset />
-      <last-pattern>cleanup</last-pattern>
+      <last-pattern encoding="base64">XDxVVUlEX0xFTkdUSFw+</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -554,7 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXJ2bGV0SW5wdXRTdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxTZXJ2bGV0SW5wdXRTdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxDb250ZW50Q2FjaGluZ0lucHV0U3RyZWFtXD4=</entry>
         <entry encoding="base64">XDxGT1JNX0NPTlRFTlRfVFlQRVw+</entry>
@@ -574,6 +572,7 @@
         <entry>data</entry>
         <entry>intera</entry>
         <entry>cleanup</entry>
+        <entry encoding="base64">XDxVVUlEX0xFTkdUSFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQgLy8=</entry>
