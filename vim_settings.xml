@@ -30,14 +30,15 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.13.RELEASE/d225d6480b69dc70a04e332a348b448bf276f7f3/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/context/request/ServletRequestAttributes.java" timestamp="1563281762410">
         <mark key="'" line="71" column="68" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/NFAuthenticationService.java" timestamp="1563450231840" />
       <file name="$MAVEN_REPOSITORY$/net/minidev/json-smart/2.3/json-smart-2.3-sources.jar!/net/minidev/json/JSONObject.java" timestamp="1560854519020">
         <mark key="'" line="83" column="23" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp/dipp-event-kafka/1_3_APRIL_MASTER/4ebb23cca26dc4f8bf835433f5d0af2e996b8606/dipp-event-kafka-1_3_APRIL_MASTER-sources.jar!/com/dipp/event/kafka/producer/config/KafkaProducerConfiguration.java" timestamp="1557821590165">
         <mark key="'" line="58" column="32" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasRequestService.java" timestamp="1563282569613">
-        <mark key="'" line="25" column="120" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasRequestService.java" timestamp="1563449897742">
+        <mark key="'" line="52" column="19" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/verimi/TwofaOnlyAuthenticationServiceAdapter.java" timestamp="1561966715645">
         <mark key="'" line="12" column="6" />
@@ -352,8 +353,8 @@
       <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/src/main/java/com/dipp/ImportExportApplication.java" timestamp="1561380402695">
         <mark key="'" line="63" column="25" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/NfactorFacade.java" timestamp="1563282575211">
-        <mark key="'" line="47" column="89" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/NfactorFacade.java" timestamp="1563449507408">
+        <mark key="'" line="25" column="31" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/ConsentNfaStatusService.java" timestamp="1558959224670">
         <mark key="'" line="147" column="19" />
@@ -373,12 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
-      <jump line="55" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
       <jump line="35" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
       <jump line="199" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.13.RELEASE/d225d6480b69dc70a04e332a348b448bf276f7f3/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/util/ContentCachingRequestWrapper.java" />
       <jump line="88" column="35" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.13.RELEASE/d225d6480b69dc70a04e332a348b448bf276f7f3/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/util/ContentCachingRequestWrapper.java" />
@@ -473,6 +468,12 @@
       <jump line="190" column="9" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/security-service.yml" />
       <jump line="215" column="18" filename="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/security-service.yml" />
       <jump line="14" column="29" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/template/NfaConfirmationTextProducer.java" />
+      <jump line="37" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasRequestService.java" />
+      <jump line="35" column="50" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasRequestService.java" />
+      <jump line="23" column="32" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasRequestService.java" />
+      <jump line="33" column="79" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/NfactorFacade.java" />
+      <jump line="25" column="31" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/NfactorFacade.java" />
+      <jump line="52" column="19" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasRequestService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -482,7 +483,7 @@
         <text>Integer</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVVUlEX0xFTkdUSFw+</text>
+        <text encoding="base64">XDxnZXRNZXNzYWdlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBjcmVhdGUgbmV3IGluc3RhbmNlIG9mIGRpcHAgdG9rZW4gZnJvbSBhbiBhbHJlYWR5IGV4aXN0aW5nIG9uZSArIHNldCBldWlkIGFuZCB1aWQgCg==</text>
@@ -540,20 +541,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVVUlEX0xFTkdUSFw+</last-search>
+      <last-search encoding="base64">XDxnZXRNZXNzYWdlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVVUlEX0xFTkdUSFw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRNZXNzYWdlXD4=</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>,</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTZXJ2bGV0SW5wdXRTdHJlYW1cPg==</entry>
-        <entry encoding="base64">XDxDb250ZW50Q2FjaGluZ0lucHV0U3RyZWFtXD4=</entry>
-        <entry encoding="base64">XDxGT1JNX0NPTlRFTlRfVFlQRVw+</entry>
-        <entry encoding="base64">XDxpc0Zvcm1Qb3N0XD4=</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxnZXRDdXJyZW50SHR0cFJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDx1aWRcPg==</entry>
@@ -570,6 +567,10 @@
         <entry>intera</entry>
         <entry>cleanup</entry>
         <entry encoding="base64">XDxVVUlEX0xFTkdUSFw+</entry>
+        <entry encoding="base64">XDxOZmFjdG9yRmFjYWRlXD4=</entry>
+        <entry encoding="base64">XDxuZmFjdG9yRmFjYWRlXD4=</entry>
+        <entry encoding="base64">XDxtYXBwZXJcPg==</entry>
+        <entry encoding="base64">XDxnZXRNZXNzYWdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQgLy8=</entry>
