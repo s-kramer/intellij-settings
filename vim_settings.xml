@@ -33,11 +33,6 @@
       <file name="$MAVEN_REPOSITORY$/net/minidev/json-smart/2.3/json-smart-2.3-sources.jar!/net/minidev/json/JSONObject.java" timestamp="1560854519020">
         <mark key="'" line="83" column="23" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/nfinteraction/EncryptionNFactorInteractionRepository.java" timestamp="1563283542176">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp/dipp-event-kafka/1_3_APRIL_MASTER/4ebb23cca26dc4f8bf835433f5d0af2e996b8606/dipp-event-kafka-1_3_APRIL_MASTER-sources.jar!/com/dipp/event/kafka/producer/config/KafkaProducerConfiguration.java" timestamp="1557821590165">
         <mark key="'" line="58" column="32" />
       </file>
@@ -180,6 +175,13 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneMessageSender.java" timestamp="1560435378781">
         <mark key="'" line="73" column="47" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/config/TwofaaasConfig.java" timestamp="1563447658356">
+        <mark key="a" line="16" column="12" />
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="14" />
+        <mark key="^" line="16" column="14" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/build.gradle" timestamp="1557735194281">
         <mark key="'" line="154" column="26" />
       </file>
@@ -219,11 +221,6 @@
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v1.0.xml" timestamp="1559138848152">
         <mark key="'" line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/config/KeyService.java" timestamp="1563263886318">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" timestamp="1563263615245">
         <mark key="'" line="108" column="62" />
@@ -478,11 +475,11 @@
       <jump line="14" column="29" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/template/NfaConfirmationTextProducer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Integer</text>
       </register>
       <register name="-" type="4">
-        <text>issues fixes</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVVUlEX0xFTkdUSFw+</text>
