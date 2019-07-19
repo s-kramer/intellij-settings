@@ -457,6 +457,9 @@
       <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/enhancer/ClientCredentialsDippTokenResolver.java" timestamp="1563263817910">
         <mark key="'" line="43" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle.kts" timestamp="1563558371660">
+        <mark key="'" line="44" column="15" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/sp3-mock.yaml" timestamp="1558015900553">
         <mark key="[" line="28" column="17" />
         <mark key="]" line="28" column="19" />
@@ -766,8 +769,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="29" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/template/NfaConfirmationTextProducer.java" />
-      <jump line="37" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasRequestService.java" />
       <jump line="35" column="50" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasRequestService.java" />
       <jump line="23" column="32" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasRequestService.java" />
       <jump line="33" column="79" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/NfactorFacade.java" />
@@ -866,6 +867,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
       <jump line="35" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
+      <jump line="7" column="38" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle.kts" />
+      <jump line="44" column="15" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle.kts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -938,7 +941,7 @@
       <last-pattern encoding="base64">XDxLb3RsaW5Db21waWxlXD4=</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>,</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
