@@ -91,6 +91,13 @@
       <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/importexport-service.yaml" timestamp="1562751867611">
         <mark key="'" line="29" column="12" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/DocumentService.java" timestamp="1563526286519">
+        <mark key="'" line="74" column="20" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="48" column="7" />
+        <mark key="^" line="48" column="7" />
+        <mark key="." line="48" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/Java/ddd-paynow/api-gateway/src/main/kotlin/pl/melements/poc/dddpaynow/apigateway/PaymentAuthorizationConfiguration.kt" timestamp="1558386748718">
         <mark key="'" line="15" column="16" />
       </file>
@@ -181,8 +188,15 @@
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/test/java/com/dipp/identityowner/registration/command/registration/service/ActivityLogCreationServiceTest.java" timestamp="1562767705911">
         <mark key="'" line="226" column="30" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/master-data-service/src/main/java/com/dipp/master/data/controller/CountryControllerApiDelegateImpl.java" timestamp="1563525175492" />
+      <file name="$USER_HOME$/verimi-auth/master-data-service/src/main/java/com/dipp/master/verificationmethods/VerificationMethodService.java" timestamp="1563526084355">
+        <mark key="'" line="62" column="54" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" timestamp="1558345180726">
         <mark key="'" line="326" column="52" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/verificationmethods/VerificationMethodsService.java" timestamp="1563526010317">
+        <mark key="'" line="66" column="87" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" timestamp="1557821533894">
         <mark key="'" line="40" column="71" />
@@ -214,6 +228,10 @@
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v1.0.xml" timestamp="1559138848152">
         <mark key="'" line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth/master-data-service/src/main/java/com/dipp/master/verificationmethods/ServiceProviderVerificationMethodControllerApiDelegateImpl.java" timestamp="1563526091478">
+        <mark key="[" line="26" column="69" />
+        <mark key="]" line="26" column="104" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" timestamp="1563263615245">
         <mark key="'" line="108" column="62" />
@@ -248,7 +266,7 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaasInteractionCreationService.java" timestamp="1563282577387">
         <mark key="'" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/security-service.yml" timestamp="1563368792252">
+      <file name="$USER_HOME$/verimi-auth/k8s-configuration/sit-k8s-2/security-service.yml" timestamp="1563525304754">
         <mark key="'" line="215" column="18" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.5/caf033a4a7c37b4a8ff3ea084cba591539b0b69/commons-io-2.5-sources.jar!/org/apache/commons/io/IOUtils.java" timestamp="1557735934016">
@@ -296,6 +314,7 @@
       <file name="/dummy.sql" timestamp="1563367322166">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.master.data/master-data-java-client-feign/150-c9a131d-SNAPSHOT/2d21e7d26836c89e68ff00006aeeb8107548b84d/master-data-java-client-feign-150-c9a131d-SNAPSHOT-sources.jar!/com/dipp/master/data/client/feign/api/ServiceProviderControllerApi.java" timestamp="1563525202267" />
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileSpAuthShortcutService.java" timestamp="1563362192641">
         <mark key="'" line="553" column="77" />
         <mark key="[" line="35" column="0" />
@@ -346,10 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.13.RELEASE/d225d6480b69dc70a04e332a348b448bf276f7f3/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/util/ContentCachingRequestWrapper.java" />
-      <jump line="48" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.13.RELEASE/d225d6480b69dc70a04e332a348b448bf276f7f3/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/util/ContentCachingRequestWrapper.java" />
-      <jump line="140" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.13.RELEASE/d225d6480b69dc70a04e332a348b448bf276f7f3/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/util/ContentCachingRequestWrapper.java" />
-      <jump line="161" column="53" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.13.RELEASE/d225d6480b69dc70a04e332a348b448bf276f7f3/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/util/ContentCachingRequestWrapper.java" />
       <jump line="8" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/filter/TwofaaasHttpRequestWrapper.java" />
       <jump line="209" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.13.RELEASE/d225d6480b69dc70a04e332a348b448bf276f7f3/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/util/ContentCachingRequestWrapper.java" />
       <jump line="146" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.13.RELEASE/d225d6480b69dc70a04e332a348b448bf276f7f3/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/util/ContentCachingRequestWrapper.java" />
@@ -446,16 +461,20 @@
       <jump line="62" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.security/security-java-server-spring/VD-394-twofaaas.c8c63dd4/b60ac1ed57151788591b0bd7e28efe0a8e4be81f/security-java-server-spring-VD-394-twofaaas.c8c63dd4-sources.jar!/com/dipp/security/model/TwoFAaaSRequest.java" />
       <jump line="78" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidator.java" />
       <jump line="170" column="114" filename="$USER_HOME$/verimi-auth/facade-service/src/main/java/com/dipp/facade/service/ServiceProviderService.java" />
+      <jump line="75" column="31" filename="$USER_HOME$/verimi-auth/master-data-service/src/main/java/com/dipp/master/verificationmethods/VerificationMethodService.java" />
+      <jump line="62" column="54" filename="$USER_HOME$/verimi-auth/master-data-service/src/main/java/com/dipp/master/verificationmethods/VerificationMethodService.java" />
+      <jump line="66" column="87" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/verificationmethods/VerificationMethodsService.java" />
+      <jump line="73" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/inlineidentification/DocumentService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBUd29GQWFhU1JlcXVlc3REZXRhaWwgdHdvRkFhYVNSZXF1ZXN0RGV0YWlsID0gT3B0aW9uYWwub2ZOdWxsYWJsZSh0d29GYWFhU1JlcXVlc3QuZ2V0RGV0YWlscygpKQogICAgICAgICAgICAgICAgLm9yRWxzZUdldChDb2xsZWN0aW9uczo6ZW1wdHlMaXN0KQogICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKE9iamVjdHM6Om5vbk51bGwpCiAgICAgICAgICAgICAgICAuZmlsdGVyKHQgLT4gR0VORVJJQ19NRVNTQUdFX0RFVEFJTF9OQU1FLmVxdWFscyh0LmdldE5hbWUoKSkpCiAgICAgICAgICAgICAgICAuZmluZEZpcnN0KCkKICAgICAgICAgICAgICAgIC5vckVsc2VUaHJvdygoKSAtPiBuZXcgVHdvZmFhYXNSZXF1ZXN0VmFsaWRhdGlvbkV4Y2VwdGlvbihUV09GQV9OT19NRVNTQUdFX1BST1ZJREVEKSk7CiAgICAgICAgZmluYWwgU3RyaW5nIG1lc3NhZ2UgPSB0d29GQWFhU1JlcXVlc3REZXRhaWwuZ2V0VmFsdWUoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>getServiceProviderVerificationMethod</text>
       </register>
       <register name="-" type="4">
         <text>Integer</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja0luY29taW5nR2VuZXJpY01lc3NhZ2VcPg==</text>
+        <text encoding="base64">XDxuZWVkVG9BZGRJZENhcmRPclBhc3Nwb3J0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBjcmVhdGUgbmV3IGluc3RhbmNlIG9mIGRpcHAgdG9rZW4gZnJvbSBhbiBhbHJlYWR5IGV4aXN0aW5nIG9uZSArIHNldCBldWlkIGFuZCB1aWQgCg==</text>
@@ -513,9 +532,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja0luY29taW5nR2VuZXJpY01lc3NhZ2VcPg==</last-search>
+      <last-search encoding="base64">XDxuZWVkVG9BZGRJZENhcmRPclBhc3Nwb3J0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja0luY29taW5nR2VuZXJpY01lc3NhZ2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxuZWVkVG9BZGRJZENhcmRPclBhc3Nwb3J0XD4=</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>-1</last-dir>
@@ -523,10 +542,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDdXJyZW50SHR0cFJlcXVlc3RcPg==</entry>
-        <entry encoding="base64">XDx1aWRcPg==</entry>
-        <entry encoding="base64">XDxnZXRSZXF1ZXN0QXR0cmlidXRlc1w+</entry>
-        <entry encoding="base64">XDxVVUlEX1BBVFRFUk5cPg==</entry>
         <entry encoding="base64">XDx0d29mYWFhc1JlcXVlc3RWYWxpZGF0aW9uRXJyb3JNYXBwaW5nXD4=</entry>
         <entry encoding="base64">XDxkaXBwVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxkaXBwVG9rZW5Bc0pzb25cPg==</entry>
@@ -543,6 +558,10 @@
         <entry encoding="base64">XDxtYXBwZXJcPg==</entry>
         <entry encoding="base64">XDxnZXRNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxjaGVja0luY29taW5nR2VuZXJpY01lc3NhZ2VcPg==</entry>
+        <entry encoding="base64">XDxlbmhhbmNlRG9jdW1lbnRUeXBlc1w+</entry>
+        <entry encoding="base64">XDxhc3NlbWJsZURlZmF1bHRTZXJ2aWNlUHJvdmlkZXJWZXJpZmljYXRpb25NZXRob2RSZXNwb25zZVw+</entry>
+        <entry encoding="base64">XDxnZXRWZXJpZmljYXRpb25NZXRob2RzQnlEb2N1bWVudFR5cGVzXD4=</entry>
+        <entry encoding="base64">XDxuZWVkVG9BZGRJZENhcmRPclBhc3Nwb3J0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQgLy8=</entry>
