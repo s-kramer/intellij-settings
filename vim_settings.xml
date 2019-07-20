@@ -148,10 +148,11 @@
         <mark key="^" line="20" column="63" />
         <mark key="." line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/Application.kt" timestamp="1563562960094">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/Application.kt" timestamp="1563571972671">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/contract/server/build.gradle" timestamp="1561543213866">
         <mark key="'" line="14" column="0" />
@@ -209,6 +210,11 @@
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/configuration/ScopeConstants.java" timestamp="1561464663160">
         <mark key="'" line="122" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/KafkaConfiguration.kt" timestamp="1563572173968">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/importexport-service.yaml" timestamp="1562751867611">
         <mark key="'" line="29" column="12" />
@@ -871,11 +877,11 @@
       <jump line="38" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>boot</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QEVuYWJsZUJpbmRpbmcK</text>
       </register>
       <register name="-" type="4">
-        <text>boot</text>
+        <text encoding="base64">dmFsIGthZmthVGVtcGxhdGU6IEthZmthVGVtcGxhdGU8U3RyaW5nLCBTdHJpbmc+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXBlbmRlbmN5TWFuYWdlbWVudFw+</text>
@@ -884,25 +890,25 @@
         <text encoding="base64">ICAgIGlkICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnIHZlcnNpb24gJzIuMS42LlJFTEVBU0UnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVuYWJsZUJpbmRpbmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBvcmcuc2tyYW1lci5zcG9kZGRpZnkKCmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QuYXV0b2NvbmZpZ3VyZS5TcHJpbmdCb290QXBwbGljYXRpb24KCmNsYXNzIEFwcGxpY2F0aW9uCgpAU3ByaW5nQm9vdEFwcGxpY2F0aW9uCmZ1biBtYWluKCkgewogICAgU3ByaW5nQm9vdEFwcGxpY2F0aW9uLgp9Cg==</text>
+        <text encoding="base64">ICAgIEBLYWZrYUxpc3RlbmVyCiAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqCiAqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAxOS4wNy4xOSAyMTowMQogKi8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9yZXBvLnNwcmluZy5pby9taWxlc3RvbmUiIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICoKICogQGF1dGhvciBjcmVhdGVkOiBza3JhbWVyIG9uIDE5LjA3LjE5IDIzOjMzCiAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">a290bGluX3ZlcnNpb24gPSAnMS4zLjQxJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -926,10 +932,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICJodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZSIgfQo=</text>
+        <text encoding="base64">cGFja2FnZSBvcmcuc2tyYW1lci5zcG9kZGRpZnkKCmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QuYXV0b2NvbmZpZ3VyZS5TcHJpbmdCb290QXBwbGljYXRpb24KCmNsYXNzIEFwcGxpY2F0aW9uCgpAU3ByaW5nQm9vdEFwcGxpY2F0aW9uCmZ1biBtYWluKCkgewogICAgU3ByaW5nQm9vdEFwcGxpY2F0aW9uLgp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggImlvLnNwcmluZy5ncmFkbGU6ZGVwZW5kZW5jeS1tYW5hZ2VtZW50LXBsdWdpbjoxLjAuMi5SRUxFQVNFIgo=</text>
+        <text encoding="base64">LyoqCiAqCiAqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAxOS4wNy4xOSAyMTowMQogKi8K</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
