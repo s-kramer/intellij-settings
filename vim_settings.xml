@@ -63,11 +63,6 @@
       <file name="$MAVEN_REPOSITORY$/net/minidev/json-smart/2.3/json-smart-2.3-sources.jar!/net/minidev/json/JSONObject.java" timestamp="1560854519020">
         <mark key="'" line="83" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/invoice/Invoice.kt" timestamp="1563559155464">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp/dipp-event-kafka/1_3_APRIL_MASTER/4ebb23cca26dc4f8bf835433f5d0af2e996b8606/dipp-event-kafka-1_3_APRIL_MASTER-sources.jar!/com/dipp/event/kafka/producer/config/KafkaProducerConfiguration.java" timestamp="1557821590165">
         <mark key="'" line="58" column="32" />
       </file>
@@ -211,7 +206,7 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/configuration/ScopeConstants.java" timestamp="1561464663160">
         <mark key="'" line="122" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/KafkaConfiguration.kt" timestamp="1563613740902">
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/KafkaConfiguration.kt" timestamp="1563617173866">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -446,12 +441,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" timestamp="1557821533894">
         <mark key="'" line="40" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" timestamp="1563613723640">
-        <mark key="'" line="65" column="50" />
-        <mark key="[" line="55" column="40" />
-        <mark key="]" line="55" column="44" />
-        <mark key="." line="55" column="44" />
-        <mark key="^" line="55" column="44" />
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" timestamp="1563615398867">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="59" column="4" />
+        <mark key="]" line="59" column="17" />
+        <mark key="." line="59" column="17" />
+        <mark key="^" line="59" column="17" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/contact/domain/phone/Phone.java" timestamp="1561632991453">
         <mark key="[" line="12" column="26" />
@@ -495,8 +490,12 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" timestamp="1563560273210">
-        <mark key="'" line="13" column="11" />
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" timestamp="1563617392752">
+        <mark key="'" line="13" column="39" />
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+        <mark key="^" line="12" column="34" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/common/api/client/feign/configuration/ClientErrorGenericDecoder.java" timestamp="1557735872414">
         <mark key="'" line="2" column="29" />
@@ -507,6 +506,7 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v1.0.xml" timestamp="1559138848152">
         <mark key="'" line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/ddd-paynow/payment-capture/src/main/resources/application.yml" timestamp="1563617636198" />
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" timestamp="1563263615245">
         <mark key="'" line="108" column="62" />
       </file>
@@ -629,6 +629,13 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/NfaDiscontinuationService.java" timestamp="1559122693515">
         <mark key="'" line="108" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/KafkaTestController.kt" timestamp="1563617183184">
+        <mark key="'" line="15" column="59" />
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+        <mark key="^" line="15" column="31" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/test/java/com/dipp/api/gateway/filters/NfaDeactivationFilterTest.java" timestamp="1557746356426">
         <mark key="'" line="17" column="37" />
       </file>
@@ -692,7 +699,7 @@
       <file name="$USER_HOME$/verimi-auth/assembly/dipp-dev-5.json" timestamp="1556630013335">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563563373839">
+      <file name="/Dummy.txt" timestamp="1563615451361">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="19" />
@@ -704,11 +711,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/resources/application-local.yml" timestamp="1563613774948">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="6" />
-        <mark key="." line="26" column="6" />
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/resources/application-local.yml" timestamp="1563617533506">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+        <mark key="^" line="27" column="18" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/TwofaaasQueryStatus.java" timestamp="1561621938992">
         <mark key="[" line="5" column="12" />
@@ -767,7 +775,10 @@
         <mark key="." line="1" column="52" />
         <mark key="^" line="1" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1563563373788">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.http" timestamp="1563615865185">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1563615451341">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -778,12 +789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="330" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
-      <jump line="329" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
-      <jump line="60" column="67" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
-      <jump line="61" column="4" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
-      <jump line="152" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
-      <jump line="88" column="39" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="89" column="38" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="91" column="25" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="90" column="41" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
@@ -810,7 +815,6 @@
       <jump line="109" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/start-kafka.sh" />
       <jump line="19" column="4" filename="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/Dockerfile" />
       <jump line="24" column="23" filename="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/Dockerfile" />
-      <jump line="13" column="11" filename="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" />
       <jump line="28" column="46" filename="$USER_HOME$/Projects/Java/ddd-paynow/payment-authorization/src/main/kotlin/pl/melements/poc/dddpaynow/payment/authorization/infrastructure/PaymentApplicationService.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/ddd-paynow/payment-authorization/src/main/resources/application-local.yml" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
@@ -877,41 +881,48 @@
       <jump line="57" column="46" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
       <jump line="65" column="50" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
       <jump line="9" column="5" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/resources/application-local.yml" />
+      <jump line="19" column="19" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/KafkaConfiguration.kt" />
+      <jump line="61" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
+      <jump line="18" column="7" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/resources/application-local.yml" />
+      <jump line="12" column="59" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/KafkaTestController.kt" />
+      <jump line="12" column="22" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/KafkaConfiguration.kt" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/resources/application-local.yml" />
+      <jump line="29" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/resources/application-local.yml" />
+      <jump line="13" column="39" filename="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>plaintext</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIGthZmthVGVtcGxhdGU6IEthZmthVGVtcGxhdGU8U3RyaW5nLCBTdHJpbmc+</text>
+        <text>plaintext</text>
       </register>
       <register name="/" type="4">
-        <text>spring-kafka</text>
+        <text encoding="base64">XDxUT1BJQ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlkICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnIHZlcnNpb24gJzIuMS42LlJFTEVBU0UnCg==</text>
+        <text encoding="base64">ICAgICAgS0FGS0FfQURWRVJUSVNFRF9IT1NUX05BTUU6IDE5Mi4xNjguOTkuMTAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHZhbCBUT1BJQyA9ICJ3ZWxjb21lIgogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3ByaW5nOgo=</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBmdW4gd2VsY29tZVRvcGljKCk6IE5ld1RvcGljIHsKICAgICAgICByZXR1cm4gTmV3VG9waWMoVE9QSUMsIDEsIDEpCiAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">IyAgICAgIEtBRktBX0FEVkVSVElTRURfTElTVEVORVJTOiAxOTIuMTY4Ljk5LjEwMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QEVuYWJsZUJpbmRpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBLYWZrYUxpc3RlbmVyCiAgICAK</text>
+        <text encoding="base64">c2VydmVyOgogIHBvcnQ6IDgwODAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -938,16 +949,16 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIHZhbCBUT1BJQyA9ICJ3ZWxjb21lIgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search>spring-kafka</last-search>
+      <last-search encoding="base64">XDxUT1BJQ1w+</last-search>
       <last-offset />
-      <last-pattern>spring-kafka</last-pattern>
+      <last-pattern encoding="base64">XDxUT1BJQ1w+</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
@@ -955,7 +966,6 @@
     </search>
     <history>
       <history-search>
-        <entry>account:</entry>
         <entry>gatewa</entry>
         <entry encoding="base64">XDxjcmVhdGVUd29WYWxpZFBob25lTnVtYmVyc1w+</entry>
         <entry encoding="base64">XDxjcmVhdGVQaG9uZUxvb2t1cFw+</entry>
@@ -975,6 +985,7 @@
         <entry encoding="base64">XDxkZXBlbmRlbmN5TWFuYWdlbWVudFw+</entry>
         <entry>lombok</entry>
         <entry>spring-kafka</entry>
+        <entry encoding="base64">XDxUT1BJQ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/producer/server/g</entry>
