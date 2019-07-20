@@ -490,12 +490,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" timestamp="1563617392752">
-        <mark key="'" line="13" column="39" />
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="12" column="39" />
-        <mark key="." line="12" column="39" />
-        <mark key="^" line="12" column="34" />
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" timestamp="1563619120732">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="44" />
+        <mark key="." line="11" column="44" />
+        <mark key="^" line="16" column="5" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/common/api/client/feign/configuration/ClientErrorGenericDecoder.java" timestamp="1557735872414">
         <mark key="'" line="2" column="29" />
@@ -891,8 +890,8 @@
       <jump line="13" column="39" filename="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>plaintext</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>plaintext</text>
@@ -904,22 +903,22 @@
         <text encoding="base64">ICAgICAgS0FGS0FfQURWRVJUSVNFRF9IT1NUX05BTUU6IDE5Mi4xNjguOTkuMTAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHZhbCBUT1BJQyA9ICJ3ZWxjb21lIgogICAgfQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBmdW4gd2VsY29tZVRvcGljKCk6IE5ld1RvcGljIHsKICAgICAgICByZXR1cm4gTmV3VG9waWMoVE9QSUMsIDEsIDEpCiAgICB9Cgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyAgICAgIEtBRktBX0FEVkVSVElTRURfTElTVEVORVJTOiAxOTIuMTY4Ljk5LjEwMQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHZhbCBUT1BJQyA9ICJ3ZWxjb21lIgogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBmdW4gd2VsY29tZVRvcGljKCk6IE5ld1RvcGljIHsKICAgICAgICByZXR1cm4gTmV3VG9waWMoVE9QSUMsIDEsIDEpCiAgICB9Cgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyAgICAgIEtBRktBX0FEVkVSVElTRURfTElTVEVORVJTOiAxOTIuMTY4Ljk5LjEwMQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VydmVyOgogIHBvcnQ6IDgwODAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -946,10 +945,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">c2VydmVyOgogIHBvcnQ6IDgwODAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIHZhbCBUT1BJQyA9ICJ3ZWxjb21lIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
