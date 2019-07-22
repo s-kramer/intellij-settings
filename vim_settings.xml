@@ -183,6 +183,9 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" timestamp="1563791452834">
+        <mark key="'" line="177" column="34" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.security/security-java-server-spring/VD-1207-twofaaas/726158ee28aab4d43bb761ba09640d1c8464d43c/security-java-server-spring-VD-1207-twofaaas-sources.jar!/com/dipp/security/model/CreateInteractionRequest.java" timestamp="1561125176241">
         <mark key="'" line="23" column="0" />
       </file>
@@ -509,6 +512,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.13.RELEASE/d225d6480b69dc70a04e332a348b448bf276f7f3/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/util/ContentCachingRequestWrapper.java" timestamp="1563268357273">
         <mark key="'" line="175" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" timestamp="1563791437296">
+        <mark key="'" line="42" column="51" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v1.0.xml" timestamp="1559138848152">
         <mark key="'" line="47" column="0" />
       </file>
@@ -789,13 +795,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
-      <jump line="88" column="39" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
-      <jump line="89" column="38" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
-      <jump line="91" column="25" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
-      <jump line="90" column="41" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
-      <jump line="2" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.groovy" />
-      <jump line="5" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.groovy" />
       <jump line="6" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.groovy" />
       <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.groovy" />
       <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.groovy" />
@@ -889,6 +888,13 @@
       <jump line="29" column="37" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/nfauthentication/template/VelocityTemplateRendererTest.java" />
       <jump line="33" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/nfauthentication/template/VelocityTemplateRendererTest.java" />
       <jump line="199" column="46" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplIT.java" />
+      <jump line="42" column="51" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" />
+      <jump line="98" column="14" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
+      <jump line="165" column="36" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
+      <jump line="54" column="123" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
+      <jump line="170" column="28" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
+      <jump line="87" column="74" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
+      <jump line="177" column="34" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -898,7 +904,7 @@
         <text>{ }</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1bmRlclRlc3RcPg==</text>
+        <text encoding="base64">XDx3aXRoVmFsaWRUd29GYWFhc1JlcXVlc3REZXRhaWxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlkICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnIHZlcnNpb24gJzIuMS42LlJFTEVBU0UnCg==</text>
@@ -956,20 +962,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1bmRlclRlc3RcPg==</last-search>
+      <last-search encoding="base64">XDx3aXRoVmFsaWRUd29GYWFhc1JlcXVlc3REZXRhaWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1bmRlclRlc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx3aXRoVmFsaWRUd29GYWFhc1JlcXVlc3REZXRhaWxcPg==</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVUd29WYWxpZFBob25lTnVtYmVyc1w+</entry>
-        <entry encoding="base64">XDxjcmVhdGVQaG9uZUxvb2t1cFw+</entry>
-        <entry>intros</entry>
-        <entry encoding="base64">XDxLb3RsaW5Db21waWxlXD4=</entry>
         <entry>start</entry>
         <entry>binding</entry>
         <entry>starter</entry>
@@ -986,6 +988,10 @@
         <entry encoding="base64">XDxjaGVja0V1aWRcPg==</entry>
         <entry encoding="base64">XDxwZXJmb3JtT3BlcmF0aW9uXD4=</entry>
         <entry encoding="base64">XDx1bmRlclRlc3RcPg==</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0VHdvRkFhYVNcPg==</entry>
+        <entry encoding="base64">XDx3aXRoVHdvRmFhYXNSZXNwb25zZVw+</entry>
+        <entry encoding="base64">XDx3aXRoVHdvRmFhYXNSZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDx3aXRoVmFsaWRUd29GYWFhc1JlcXVlc3REZXRhaWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/consumer/server/g</entry>
