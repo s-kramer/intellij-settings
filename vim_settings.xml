@@ -210,6 +210,9 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/configuration/ScopeConstants.java" timestamp="1561464663160">
         <mark key="'" line="122" column="4" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplIT.java" timestamp="1563790813189">
+        <mark key="'" line="199" column="46" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/importexport-service.yaml" timestamp="1562751867611">
         <mark key="'" line="29" column="12" />
       </file>
@@ -359,6 +362,9 @@
       </file>
       <file name="$USER_HOME$/Projects/Java/ddd-paynow/pom.xml" timestamp="1563562117623">
         <mark key="'" line="37" column="21" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/nfauthentication/template/VelocityTemplateRendererTest.java" timestamp="1563790578448">
+        <mark key="'" line="33" column="8" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileAuthorizationResponse.java" timestamp="1563362152651">
         <mark key="'" line="36" column="6" />
@@ -783,9 +789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="329" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
-      <jump line="60" column="67" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
-      <jump line="61" column="4" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="152" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="88" column="39" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="89" column="38" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
@@ -883,6 +886,9 @@
       <jump line="200" column="12" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" />
       <jump line="174" column="28" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" />
       <jump line="143" column="42" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" />
+      <jump line="29" column="37" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/nfauthentication/template/VelocityTemplateRendererTest.java" />
+      <jump line="33" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/service/nfauthentication/template/VelocityTemplateRendererTest.java" />
+      <jump line="199" column="46" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplIT.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -892,7 +898,7 @@
         <text>{ }</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZXJmb3JtT3BlcmF0aW9uXD4=</text>
+        <text encoding="base64">XDx1bmRlclRlc3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlkICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnIHZlcnNpb24gJzIuMS42LlJFTEVBU0UnCg==</text>
@@ -950,17 +956,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZXJmb3JtT3BlcmF0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDx1bmRlclRlc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZXJmb3JtT3BlcmF0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1bmRlclRlc3RcPg==</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gatewa</entry>
         <entry encoding="base64">XDxjcmVhdGVUd29WYWxpZFBob25lTnVtYmVyc1w+</entry>
         <entry encoding="base64">XDxjcmVhdGVQaG9uZUxvb2t1cFw+</entry>
         <entry>intros</entry>
@@ -980,9 +985,9 @@
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxjaGVja0V1aWRcPg==</entry>
         <entry encoding="base64">XDxwZXJmb3JtT3BlcmF0aW9uXD4=</entry>
+        <entry encoding="base64">XDx1bmRlclRlc3RcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/producer/server/g</entry>
         <entry>%s/consumer/server/g</entry>
         <entry>%s//\&quot;//g</entry>
         <entry>%s:\&quot;::g</entry>
@@ -1002,6 +1007,7 @@
         <entry>-27t-1</entry>
         <entry>+8t-1</entry>
         <entry>-34t-1</entry>
+        <entry>action GotoSuperMethod</entry>
       </history-cmd>
       <history-expr />
       <history-input />
