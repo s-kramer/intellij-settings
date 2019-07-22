@@ -449,6 +449,10 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" timestamp="1558345180726">
         <mark key="'" line="326" column="52" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasNfactorFacadeTest.java" timestamp="1563792615785">
+        <mark key="'" line="34" column="79" />
+        <mark key="j" line="29" column="6" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" timestamp="1557821533894">
         <mark key="'" line="40" column="71" />
       </file>
@@ -511,6 +515,13 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.13.RELEASE/d225d6480b69dc70a04e332a348b448bf276f7f3/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/util/ContentCachingRequestWrapper.java" timestamp="1563268357273">
         <mark key="'" line="175" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/SealOneMessageValidatorTest.java" timestamp="1563792437984">
+        <mark key="'" line="41" column="19" />
+        <mark key="[" line="43" column="8" />
+        <mark key="]" line="43" column="26" />
+        <mark key="." line="43" column="26" />
+        <mark key="^" line="43" column="26" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" timestamp="1563791437296">
         <mark key="'" line="42" column="51" />
@@ -795,9 +806,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.groovy" />
-      <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.groovy" />
-      <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.groovy" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.groovy" />
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.groovy" />
       <jump line="444" column="35" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
@@ -895,40 +903,43 @@
       <jump line="170" column="28" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
       <jump line="87" column="74" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
       <jump line="177" column="34" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
+      <jump line="37" column="27" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/SealOneMessageValidatorTest.java" />
+      <jump line="40" column="19" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/SealOneMessageValidatorTest.java" />
+      <jump line="34" column="79" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasNfactorFacadeTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlscy5yZXBlYXQoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>{ }</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3aXRoVmFsaWRUd29GYWFhc1JlcXVlc3REZXRhaWxcPg==</text>
+        <text encoding="base64">XDx3aXRoSW50ZXJhY3Rpb25SZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlkICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnIHZlcnNpb24gJzIuMS42LlJFTEVBU0UnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlscy5yZXBlYXQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBvcmcuc2tyYW1lci5zcG9kZGRpZnkKCmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QuYXV0b2NvbmZpZ3VyZS5TcHJpbmdCb290QXBwbGljYXRpb24KCmNsYXNzIEFwcGxpY2F0aW9uCgpAU3ByaW5nQm9vdEFwcGxpY2F0aW9uCmZ1biBtYWluKCkgewogICAgU3ByaW5nQm9vdEFwcGxpY2F0aW9uLgp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqCiAqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAxOS4wNy4xOSAyMTowMQogKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9yZXBvLnNwcmluZy5pby9taWxlc3RvbmUiIH0K</text>
+        <text encoding="base64">cGFja2FnZSBvcmcuc2tyYW1lci5zcG9kZGRpZnkKCmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QuYXV0b2NvbmZpZ3VyZS5TcHJpbmdCb290QXBwbGljYXRpb24KCmNsYXNzIEFwcGxpY2F0aW9uCgpAU3ByaW5nQm9vdEFwcGxpY2F0aW9uCmZ1biBtYWluKCkgewogICAgU3ByaW5nQm9vdEFwcGxpY2F0aW9uLgp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqCiAqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAxOS4wNy4xOSAyMTowMQogKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9yZXBvLnNwcmluZy5pby9taWxlc3RvbmUiIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">a290bGluX3ZlcnNpb24gPSAnMS4zLjQxJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -952,28 +963,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICJodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZSIgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggImlvLnNwcmluZy5ncmFkbGU6ZGVwZW5kZW5jeS1tYW5hZ2VtZW50LXBsdWdpbjoxLjAuMi5SRUxFQVNFIgo=</text>
+        <text encoding="base64">a290bGluX3ZlcnNpb24gPSAnMS4zLjQxJwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3aXRoVmFsaWRUd29GYWFhc1JlcXVlc3REZXRhaWxcPg==</last-search>
+      <last-search encoding="base64">XDx3aXRoSW50ZXJhY3Rpb25SZXF1ZXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3aXRoVmFsaWRUd29GYWFhc1JlcXVlc3REZXRhaWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx3aXRoSW50ZXJhY3Rpb25SZXF1ZXN0XD4=</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
-        <entry>binding</entry>
         <entry>starter</entry>
         <entry>stream</entry>
         <entry>cloud</entry>
@@ -992,6 +1001,8 @@
         <entry encoding="base64">XDx3aXRoVHdvRmFhYXNSZXNwb25zZVw+</entry>
         <entry encoding="base64">XDx3aXRoVHdvRmFhYXNSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDx3aXRoVmFsaWRUd29GYWFhc1JlcXVlc3REZXRhaWxcPg==</entry>
+        <entry encoding="base64">XDx3aXRoTWVzc2FnZVN0cmluZ1w+</entry>
+        <entry encoding="base64">XDx3aXRoSW50ZXJhY3Rpb25SZXF1ZXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/consumer/server/g</entry>
