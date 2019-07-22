@@ -467,6 +467,9 @@
         <mark key="." line="28" column="19" />
         <mark key="^" line="28" column="19" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" timestamp="1563786687376">
+        <mark key="'" line="143" column="42" />
+      </file>
       <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/modules/persist_vote/main.tf" timestamp="1561568569689">
         <mark key="'" line="20" column="23" />
       </file>
@@ -780,9 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="77" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
-      <jump line="224" column="77" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
-      <jump line="330" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="329" column="8" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="60" column="67" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="61" column="4" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
@@ -880,6 +880,9 @@
       <jump line="34" column="57" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasNfactorFacade.java" />
       <jump line="46" column="91" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/InteractionCreationService.java" />
       <jump line="76" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidator.java" />
+      <jump line="200" column="12" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" />
+      <jump line="174" column="28" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" />
+      <jump line="143" column="42" filename="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -889,7 +892,7 @@
         <text>{ }</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja0V1aWRcPg==</text>
+        <text encoding="base64">XDxwZXJmb3JtT3BlcmF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlkICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnIHZlcnNpb24gJzIuMS42LlJFTEVBU0UnCg==</text>
@@ -947,9 +950,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja0V1aWRcPg==</last-search>
+      <last-search encoding="base64">XDxwZXJmb3JtT3BlcmF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja0V1aWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwZXJmb3JtT3BlcmF0aW9uXD4=</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>-1</last-dir>
@@ -957,7 +960,6 @@
     </search>
     <history>
       <history-search>
-        <entry>account:</entry>
         <entry>gatewa</entry>
         <entry encoding="base64">XDxjcmVhdGVUd29WYWxpZFBob25lTnVtYmVyc1w+</entry>
         <entry encoding="base64">XDxjcmVhdGVQaG9uZUxvb2t1cFw+</entry>
@@ -977,6 +979,7 @@
         <entry encoding="base64">XDxkZXBlbmRlbmN5TWFuYWdlbWVudFw+</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxjaGVja0V1aWRcPg==</entry>
+        <entry encoding="base64">XDxwZXJmb3JtT3BlcmF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/producer/server/g</entry>
