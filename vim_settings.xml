@@ -490,11 +490,17 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" timestamp="1563731244992">
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" timestamp="1563999265233">
+        <mark key="'" line="17" column="8" />
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="18" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/ddd-paynow/operations/src/main/resources/application-local.yml" timestamp="1563998721845">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="32" column="49" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="44" column="39" />
+        <mark key="]" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/common/api/client/feign/configuration/ClientErrorGenericDecoder.java" timestamp="1557735872414">
         <mark key="'" line="2" column="29" />
@@ -710,12 +716,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/resources/application-local.yml" timestamp="1563731215133">
-        <mark key="'" line="21" column="10" />
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="14" />
-        <mark key="." line="8" column="14" />
-        <mark key="^" line="8" column="33" />
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/resources/application-local.yml" timestamp="1563999897757">
+        <mark key="'" line="22" column="10" />
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+        <mark key="^" line="11" column="27" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/TwofaaasQueryStatus.java" timestamp="1561621938992">
         <mark key="[" line="5" column="12" />
@@ -796,11 +802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.groovy" />
-      <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.groovy" />
-      <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.groovy" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.groovy" />
-      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.groovy" />
       <jump line="444" column="35" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="127" column="39" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
       <jump line="405" column="12" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/inlineidentification/InlineIdentificationServiceTest.groovy" />
@@ -896,40 +897,45 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/ddd-paynow/operations/pom.xml" />
       <jump line="21" column="10" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/resources/application-local.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/ddd-paynow/infra/kafka/docker-compose.yml" />
+      <jump line="11" column="43" filename="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" />
+      <jump line="20" column="43" filename="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/ddd-paynow/operations/src/main/resources/application-local.yml" />
+      <jump line="17" column="8" filename="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/resources/application-local.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dmVyc2lvbjogJzInCnNlcnZpY2VzOgogIHpvb2tlZXBlcjoKICAgIGltYWdlOiB3dXJzdG1laXN0ZXIvem9va2VlcGVyCiAgICBwb3J0czoKICAgICAgLSAiMjE4MToyMTgxIgogIGthZmthMToKICAgIGJ1aWxkOiAuCiAgICBwb3J0czoKICAgICAgLSAiMzAwMDE6OTA5MiIKICAgIGVudmlyb25tZW50OgogICAgICBLQUZLQV9BRFZFUlRJU0VEX0hPU1RfTkFNRTogMTkyLjE2OC45OS4xMDEKICAgICAgS0FGS0FfWk9PS0VFUEVSX0NPTk5FQ1Q6IHpvb2tlZXBlcjoyMTgxCiAgICB2b2x1bWVzOgogICAgICAtIC92YXIvcnVuL2RvY2tlci5zb2NrOi92YXIvcnVuL2RvY2tlci5zb2NrCiAga2Fma2EyOgogICAgYnVpbGQ6IC4KICAgIHBvcnRzOgogICAgICAtICIzMDAwMjo5MDkyIgogICAgZW52aXJvbm1lbnQ6CiAgICAgIEtBRktBX0FEVkVSVElTRURfSE9TVF9OQU1FOiAxOTIuMTY4Ljk5LjEwMQogICAgICBLQUZLQV9aT09LRUVQRVJfQ09OTkVDVDogem9va2VlcGVyOjIxODEKICAgIHZvbHVtZXM6CiAgICAgIC0gL3Zhci9ydW4vZG9ja2VyLnNvY2s6L3Zhci9ydW4vZG9ja2VyLnNvY2sKICBrYWZrYTM6CiAgICBidWlsZDogLgogICAgcG9ydHM6CiAgICAgIC0gIjMwMDAzOjkwOTIiCiAgICBlbnZpcm9ubWVudDoKICAgICAgS0FGS0FfQURWRVJUSVNFRF9IT1NUX05BTUU6IDE5Mi4xNjguOTkuMTAxCiAgICAgIEtBRktBX1pPT0tFRVBFUl9DT05ORUNUOiB6b29rZWVwZXI6MjE4MQogICAgdm9sdW1lczoKICAgICAgLSAvdmFyL3J1bi9kb2NrZXIuc29jazovdmFyL3J1bi9kb2NrZXIuc29jawo=</text>
+      <register name="&quot;" type="4">
+        <text>30003</text>
       </register>
       <register name="-" type="4">
-        <text>28</text>
+        <text>30003</text>
       </register>
       <register name="/" type="4">
-        <text>kafka</text>
+        <text>192</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgS0FGS0FfQURWRVJUSVNFRF9IT1NUX05BTUU6IDE5Mi4xNjguOTkuMTAxCg==</text>
+        <text encoding="base64">IyAgICAgICAgICAgIC0gbG9jYWxob3N0OjMwMDAzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRldmVsb3BtZW50T25seSAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LWRldnRvb2xzJwo=</text>
+        <text encoding="base64">cG9ydAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kZXI6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBrYWZrYToKICAgIGJvb3RzdHJhcC1zZXJ2ZXJzOiBsb2NhbGhvc3Q6MzAwMDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHZhbCBUT1BJQyA9ICJ3ZWxjb21lIgogICAgfQo=</text>
+        <text encoding="base64">c3ByaW5nOgogIGNsb3VkOgogICAgc3RyZWFtOgogICAgICBrYWZrYToKICAgICAgICBiaW5kZXI6CiAgICAgICAgICBicm9rZXJzOgogICAgICAgICAgICAtIGxvY2FsaG9zdDozMDAwMQogICAgICAgICAgICAtIGxvY2FsaG9zdDozMDAwMgogICAgICAgICAgICAtIGxvY2FsaG9zdDozMDAwMwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBmdW4gd2VsY29tZVRvcGljKCk6IE5ld1RvcGljIHsKICAgICAgICByZXR1cm4gTmV3VG9waWMoVE9QSUMsIDEsIDEpCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIGRldmVsb3BtZW50T25seSAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LWRldnRvb2xzJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICAgIEtBRktBX0FEVkVSVElTRURfTElTVEVORVJTOiAxOTIuMTY4Ljk5LjEwMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -953,19 +959,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHZhbCBUT1BJQyA9ICJ3ZWxjb21lIgogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VydmVyOgogIHBvcnQ6IDgwODAK</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBmdW4gd2VsY29tZVRvcGljKCk6IE5ld1RvcGljIHsKICAgICAgICByZXR1cm4gTmV3VG9waWMoVE9QSUMsIDEsIDEpCiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search>kafka</last-search>
+      <last-search>192</last-search>
       <last-offset />
-      <last-pattern>kafka</last-pattern>
+      <last-pattern>192</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
@@ -973,7 +979,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gatewa</entry>
         <entry encoding="base64">XDxjcmVhdGVUd29WYWxpZFBob25lTnVtYmVyc1w+</entry>
         <entry encoding="base64">XDxjcmVhdGVQaG9uZUxvb2t1cFw+</entry>
         <entry>intros</entry>
@@ -993,6 +998,7 @@
         <entry>spring-kafka</entry>
         <entry encoding="base64">XDxUT1BJQ1w+</entry>
         <entry>kafka</entry>
+        <entry>192</entry>
       </history-search>
       <history-cmd>
         <entry>%s/producer/server/g</entry>
