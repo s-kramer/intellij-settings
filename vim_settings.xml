@@ -746,6 +746,10 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/NfaDiscontinuationService.java" timestamp="1559122693515">
         <mark key="'" line="108" column="45" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaApiFacade.java" timestamp="1563973002377">
+        <mark key="[" line="49" column="15" />
+        <mark key="]" line="49" column="84" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/test/java/com/dipp/api/gateway/filters/NfaDeactivationFilterTest.java" timestamp="1557746356426">
         <mark key="'" line="17" column="37" />
       </file>
@@ -824,15 +828,16 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileAuthData.java" timestamp="1563797079305">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/account/AccountService.java" timestamp="1563971468802">
-        <mark key="'" line="163" column="20" />
+      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/account/AccountService.java" timestamp="1563972916457">
+        <mark key="'" line="153" column="0" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="147" column="54" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/service/RequestScopeParser.java" timestamp="1556636592806">
         <mark key="'" line="30" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestServiceTest.java" />
       <jump line="19" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestServiceTest.java" />
       <jump line="26" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestServiceTest.java" />
       <jump line="29" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestServiceTest.java" />
@@ -932,10 +937,11 @@
       <jump line="146" column="16" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/account/AccountService.java" />
       <jump line="163" column="20" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/account/AccountService.java" />
       <jump line="66" column="50" filename="$USER_HOME$/verimi-auth/identityowner-service/src/main/java/com/dipp/identityowner/nfactor/user/service/uriconfiguration/NFAUriConfigurationService.java" />
+      <jump line="153" column="0" filename="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/account/AccountService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Q2hlY2tpbmcgTkZBIHByZWNvbmRpdGlvbnMgZm9yIA==</text>
+        <text>configurationQueryControllerApiClient.getUriNfaEnabled(uri, dippToken)</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">RGlwcFRva2VuOyA=</text>
