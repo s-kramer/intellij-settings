@@ -101,12 +101,12 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" timestamp="1564049057239">
-        <mark key="'" line="178" column="22" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="179" column="14" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" timestamp="1564058337816">
+        <mark key="'" line="158" column="133" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
+        <mark key="^" line="178" column="24" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/domain/LoginSubmitResponse.java" timestamp="1556359141488">
         <mark key="[" line="12" column="47" />
@@ -176,7 +176,7 @@
       <file name="/ConsentNfaStatusService.java" timestamp="1559122518134">
         <mark key="'" line="86" column="41" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/twofaaas/PhoneNumberAuthenticationService.java" timestamp="1564051256228" />
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/twofaaas/PhoneNumberAuthenticationService.java" timestamp="1564058302720" />
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/MobileShortcutService.java" timestamp="1564047774041">
         <mark key="'" line="20" column="0" />
       </file>
@@ -994,8 +994,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/twofaaas/TwofaaasRequestedCheckerTest.java" />
-      <jump line="47" column="37" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/twofaaas/TwofaaasRequestedCheckerTest.java" />
       <jump line="66" column="33" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/twofaaas/TwofaaasRequestedCheckerTest.java" />
       <jump line="80" column="33" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/twofaaas/TwofaaasRequestedCheckerTest.java" />
       <jump line="98" column="33" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/twofaaas/TwofaaasRequestedCheckerTest.java" />
@@ -1090,20 +1088,22 @@
       <jump line="206" column="36" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/MobileShortcutService.java" />
       <jump line="20" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/MobileShortcutService.java" />
       <jump line="52" column="13" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
-      <jump line="178" column="22" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
       <jump line="22" column="56" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/verimi/RetryableTwofaOnlyAuthenticationStrategy.java" />
       <jump line="109" column="19" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileAuthorizationController.java" />
       <jump line="53" column="73" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/twofaaas/TwofaaasRequestedChecker.java" />
+      <jump line="145" column="172" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
+      <jump line="178" column="22" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
+      <jump line="157" column="133" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>with</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRPYXV0aDJSZXF1ZXN0XD4=</text>
+        <text encoding="base64">XDxnZXREaXBwVG9rZW5PYmplY3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBoeWRyYS1wcm94eS10d29mYWFhcy1waG9uZToKICAgICAgICAgIHBhdGg6IC9hdXRoZW50aWNhdGUvdHdvZmFhYXMvcGhvbmUKICAgICAgICAgIHN0cmlwUHJlZml4OiBmYWxzZQogICAgICAgICAgc2Vuc2l0aXZlSGVhZGVyczoKICAgICAgICAgIHNlcnZpY2VJZDogSFlEUkEtUFJPWFkK</text>
@@ -1112,22 +1112,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIkNoZWNraW5nIGlmIHR3b2ZhYWFzIGlzIGVuYWJsZWQgZm9yIGNsaWVudDoge30iLCBsb2dpblJlcXVlc3QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIkNoZWNraW5nIGlmIHR3b2ZhYWFzIGF1dGhvcml6YXRpb24gbWV0aG9kIHdhcyByZXF1ZXN0ZWQgZm9yIHJlcXVlc3RVcmw6IHt9IiwgcmVxdWVzdFVybCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIkNoZWNraW5nIGlmIHR3b2ZhYWFzIGlzIGVuYWJsZWQgZm9yIGNsaWVudDoge30iLCBsb2dpblJlcXVlc3QpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIkNoZWNraW5nIHNjb3BlcyBmb3IgdHdvZmFhYXMgcmVxdWVzdDoge30iLCByZXF1ZXN0ZWRTY29wZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIkNoZWNraW5nIGlmIHR3b2ZhYWFzIGF1dGhvcml6YXRpb24gbWV0aG9kIHdhcyByZXF1ZXN0ZWQgZm9yIHJlcXVlc3RVcmw6IHt9IiwgcmVxdWVzdFVybCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIkNoZWNraW5nIHNjb3BlcyBmb3IgdHdvZmFhYXMgcmVxdWVzdDoge30iLCByZXF1ZXN0ZWRTY29wZXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2cK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGdyb292eS51dGlsLmxvZ2dpbmcuU2xmNGo7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1160,7 +1160,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFNsZjRqCg==</text>
+        <text encoding="base64">aW1wb3J0IGdyb292eS51dGlsLmxvZ2dpbmcuU2xmNGo7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">QFNsZjRqCg==</text>
@@ -1170,17 +1170,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRPYXV0aDJSZXF1ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDxnZXREaXBwVG9rZW5PYmplY3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRPYXV0aDJSZXF1ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXREaXBwVG9rZW5PYmplY3RcPg==</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc1R3b2ZhYWFzUmVnaXN0cmF0aW9uRW5hYmxlZFw+</entry>
         <entry encoding="base64">XDxtb2JpbGVTZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDx0d29mYWFhc01vYmlsZUxvZ2luU2hvcnRjdXRTZXJ2aWNlXD4=</entry>
         <entry>offline</entry>
@@ -1197,9 +1196,10 @@
         <entry>mobile-login</entry>
         <entry>authenticate</entry>
         <entry>twofaaas</entry>
-        <entry encoding="base64">XDx3aXRoRGlwcFRva2VuT2JqZWN0XD4=</entry>
         <entry encoding="base64">XDx0d29mYU9ubHlBdXRoZW50aWNhdGlvblNlcnZpY2VBZGFwdGVyXD4=</entry>
         <entry encoding="base64">XDxnZXRPYXV0aDJSZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDx3aXRoRGlwcFRva2VuT2JqZWN0XD4=</entry>
+        <entry encoding="base64">XDxnZXREaXBwVG9rZW5PYmplY3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/consumer/server/g</entry>
