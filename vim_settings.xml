@@ -157,6 +157,13 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.9.RELEASE/bd4ea76bf579cb85570470d6f1428cc1f7329c72/spring-data-jpa-1.11.9.RELEASE-sources.jar!/org/springframework/data/jpa/repository/config/EnableJpaRepositories.java" timestamp="1563199612804">
         <mark key="'" line="47" column="18" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" timestamp="1563796245822">
+        <mark key="'" line="34" column="46" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="54" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/CreateBillingAccountRequest.java" timestamp="1557348277527">
         <mark key="[" line="27" column="90" />
         <mark key="]" line="27" column="98" />
@@ -338,8 +345,12 @@
       <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/ActivityFilter.java" timestamp="1562932523467">
         <mark key="'" line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/template/NfaConfirmationTextProducer.java" timestamp="1563446963999">
-        <mark key="'" line="14" column="29" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/template/NfaConfirmationTextProducer.java" timestamp="1564127222996">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="27" column="14" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaasInteractionCreationService.java" timestamp="1563282577387">
         <mark key="'" line="7" column="24" />
@@ -716,8 +727,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="28" column="57" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/InteractionCreationService.java" timestamp="1563782200992">
-        <mark key="'" line="46" column="91" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/InteractionCreationService.java" timestamp="1564126850134">
+        <mark key="'" line="41" column="50" />
+        <mark key="[" line="57" column="115" />
+        <mark key="]" line="57" column="127" />
+        <mark key="^" line="57" column="127" />
+        <mark key="." line="57" column="127" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3a944e8f-607b-4250-bb80-efe206202a20/console_2.sql" timestamp="1557999357996">
         <mark key="[" line="0" column="51" />
@@ -901,11 +916,18 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/NfaDiscontinuationService.java" timestamp="1559122693515">
         <mark key="'" line="108" column="45" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/SealOneMessageValidator.java" timestamp="1564064317604">
-        <mark key="[" line="22" column="104" />
-        <mark key="]" line="22" column="125" />
-        <mark key="." line="22" column="125" />
-        <mark key="^" line="22" column="125" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasTextGenerator.java" timestamp="1564127230020">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="18" column="60" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/SealOneMessageValidator.java" timestamp="1564127101324">
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="26" column="22" />
+        <mark key="^" line="26" column="22" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/test/java/com/dipp/api/gateway/filters/NfaDeactivationFilterTest.java" timestamp="1557746356426">
         <mark key="'" line="17" column="37" />
@@ -993,13 +1015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="61" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileAuthorizationController.java" />
-      <jump line="122" column="59" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileAuthorizationController.java" />
-      <jump line="61" column="27" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileAuthorizationController.java" />
-      <jump line="46" column="53" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileAuthorizationController.java" />
-      <jump line="79" column="13" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" />
-      <jump line="83" column="32" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" />
-      <jump line="127" column="35" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" />
       <jump line="88" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" />
       <jump line="108" column="38" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" />
       <jump line="180" column="50" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" />
@@ -1093,40 +1108,47 @@
       <jump line="69" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidatorTest.java" />
       <jump line="64" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidatorTest.java" />
       <jump line="95" column="4" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidatorTest.java" />
+      <jump line="57" column="59" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/InteractionCreationService.java" />
+      <jump line="41" column="50" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/InteractionCreationService.java" />
+      <jump line="21" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasTextGenerator.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasTextGenerator.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasTextGenerator.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/template/NfaConfirmationTextProducer.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/template/NfaConfirmationTextProducer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>code review remarks implementation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>code review remarks implementation</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc051bGxPckVtcHR5XD4=</text>
+        <text encoding="base64">XDxnZW5lcmF0ZU1lc3NhZ2VUZXh0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFR3b0ZBYWFTUmVxdWVzdERldGFpbCgpLm5hbWUoIm1lc3NhZ2UiKS52YWx1ZShtZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU2VhbE9uZU1lc3NhZ2VWYWxpZGF0b3Igc2VhbE9uZU1lc3NhZ2VWYWxpZGF0b3I7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gcmVuZGVyZWRNZXNzYWdlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIENyZWF0ZUludGVyYWN0aW9uUmVxdWVzdCBDUkVBVEVfSU5URVJBQ1RJT05fUkVRVUVTVCA9IHdpdGhJbnRlcmFjdGlvblJlcXVlc3QoKTsK</text>
+        <text encoding="base64">cHVibGljCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkobmZhSW50ZXJhY3Rpb25DcmVhdGlvblNlcnZpY2UpLmNyZWF0ZUludGVyYWN0aW9uRm9yVHdvZmFhYXMoQ1JFQVRFX0lOVEVSQUNUSU9OX1JFUVVFU1QsIERJUFBfVE9LRU4sIE1FU1NBR0VfVEVYVF9WQUxVRSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkobmZhSW50ZXJhY3Rpb25DcmVhdGlvblNlcnZpY2UpLmNyZWF0ZUludGVyYWN0aW9uRm9yVHdvZmFhYXMoQ1JFQVRFX0lOVEVSQUNUSU9OX1JFUVVFU1QsIERJUFBfVE9LRU4sIE1FU1NBR0VfVEVYVF9WQUxVRSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBHRU5FUklDX01FU1NBR0UgPSAiZ2VuZXJpY01lc3NhZ2UiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBJTlRFUkFDVElPTl9IQVNIX1ZBTFVFID0gImludGVyYWN0aW9uX2hhc2hfdmFsdWUiOwo=</text>
+        <text encoding="base64">ICAgICAgICB2ZWxvY2l0eUNvbnRleHQucHV0KEdFTkVSSUNfTUVTU0FHRSwgbWVzc2FnZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEludGVyYWN0aW9uUmVzcG9uc2UgdmFsaWRJbnRlcmFjdGlvblJlc3BvbnNlKCkgewogICAgICAgIHJldHVybiBuZXcgSW50ZXJhY3Rpb25SZXNwb25zZSgpCiAgICAgICAgICAgICAgICAub3BlcmF0aW9uSWQoT1BFUkFUSU9OX0lEX1ZBTFVFKQogICAgICAgICAgICAgICAgLmludGVyYWN0aW9uSGFzaChJTlRFUkFDVElPTl9IQVNIX1ZBTFVFKQogICAgICAgICAgICAgICAgLm9wZXJhdGlvbkNvdW50ZXIoT1BFUkFUSU9OX0lEX1ZBTFVFKTsKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1159,27 +1181,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIEludGVyYWN0aW9uUmVzcG9uc2UgSU5URVJBQ1RJT05fUkVTUE9OU0UgPSB2YWxpZEludGVyYWN0aW9uUmVzcG9uc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5SZXF1aXJlZEFyZ3NDb25zdHJ1Y3RvcjsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIENyZWF0ZUludGVyYWN0aW9uUmVxdWVzdCBDUkVBVEVfSU5URVJBQ1RJT05fUkVRVUVTVCA9IHdpdGhJbnRlcmFjdGlvblJlcXVlc3QoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc051bGxPckVtcHR5XD4=</last-search>
+      <last-search encoding="base64">XDxnZW5lcmF0ZU1lc3NhZ2VUZXh0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc051bGxPckVtcHR5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZW5lcmF0ZU1lc3NhZ2VUZXh0XD4=</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTQ09QRVw+</entry>
         <entry>legacy</entry>
         <entry encoding="base64">XDxsZWdhY3lDbGllbnRzQ29uZmlnXD4=</entry>
         <entry encoding="base64">XDxvcmlnaW5hbFNjb3BlXD4=</entry>
@@ -1199,6 +1220,7 @@
         <entry encoding="base64">XDx2YWxpZEludGVyYWN0aW9uUmVzcG9uc2VcPg==</entry>
         <entry encoding="base64">XDx3aXRoVmFsaWREaXBwVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxpc051bGxPckVtcHR5XD4=</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZU1lc3NhZ2VUZXh0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/consumer/server/g</entry>
