@@ -332,10 +332,6 @@
       <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" timestamp="1563786687376">
         <mark key="'" line="143" column="42" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/nfa-confirmation-templates/nfaDisabling.ftl" timestamp="1564127312161">
-        <mark key="[" line="0" column="79" />
-        <mark key="]" line="0" column="84" />
-      </file>
       <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/modules/persist_vote/main.tf" timestamp="1561568569689">
         <mark key="'" line="20" column="23" />
       </file>
@@ -498,6 +494,10 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/source-samples/dynamic-destination-source/docker-compose.yml" timestamp="1564224635038">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="44" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileSpAuthShortcutService.java" timestamp="1563965966652">
         <mark key="'" line="473" column="98" />
       </file>
@@ -573,10 +573,6 @@
         <mark key="]" line="33" column="31" />
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/mobileconnect/McLoginController.java" timestamp="1563964713709">
-        <mark key="[" line="76" column="17" />
-        <mark key="]" line="76" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/Application.java" timestamp="1557349001064">
         <mark key="[" line="10" column="22" />
@@ -673,6 +669,12 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/verimi/AuthenticationService.java" timestamp="1563976408115">
         <mark key="'" line="36" column="71" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/KafkaConfiguration.kt" timestamp="1564224734418">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/source-samples/dynamic-destination-source/src/main/resources/META-INF/spring.binders" timestamp="1564164387373">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="77" />
@@ -710,10 +712,6 @@
         <mark key="]" line="128" column="41" />
         <mark key="." line="128" column="41" />
         <mark key="^" line="128" column="41" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/GeneralMobileLoginShortcutServiceTest.java" timestamp="1564145496398">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="34" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/FeignClientMockConfiguration.java" timestamp="1560856434299">
         <mark key="[" line="25" column="59" />
@@ -926,8 +924,12 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" timestamp="1563560273210">
-        <mark key="'" line="13" column="11" />
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" timestamp="1564224637605">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="44" />
+        <mark key="^" line="19" column="16" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/common/api/client/feign/configuration/ClientErrorGenericDecoder.java" timestamp="1557735872414">
         <mark key="'" line="2" column="29" />
@@ -1030,14 +1032,6 @@
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/NfaDiscontinuationService.java" timestamp="1559122693515">
         <mark key="'" line="108" column="45" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaApiFacade.java" timestamp="1563973002377">
-        <mark key="[" line="49" column="15" />
-        <mark key="]" line="49" column="84" />
-      </file>
-      <file name="/TwofaaasRequestedChecker.java" timestamp="1564036372200">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="45" column="126" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52c2c397-f035-4017-b9d7-b46b98a4a698/console_2.sql" timestamp="1562748788647">
         <mark key="[" line="0" column="35" />
@@ -1152,9 +1146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidatorTest.java" />
-      <jump line="88" column="57" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidatorTest.java" />
-      <jump line="86" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidatorTest.java" />
       <jump line="82" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidatorTest.java" />
       <jump line="75" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidatorTest.java" />
       <jump line="69" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidatorTest.java" />
@@ -1252,10 +1243,13 @@
       <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/SourceApplication.http" />
       <jump line="20" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/SourceApplication.http" />
       <jump line="82" column="51" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/source-samples/dynamic-destination-source/src/main/java/demo/SourceWithDynamicDestination.java" />
+      <jump line="16" column="8" filename="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" />
+      <jump line="33" column="7" filename="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">UE9TVCBodHRwOi8vbG9jYWxob3N0OjgwODAvCkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbgoKewogICJpZCI6ICJjdXN0b21lci0xIiwKICAiYmlsbC1wYXkiOiAiMTAwIgp9Cgo=</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIEtBRktBX0FEVkVSVElTRURfSE9TVF9OQU1FPXpvb2tlZXBlcgo=</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -1264,28 +1258,28 @@
         <text encoding="base64">XDxzb3VyY2VDaGFubmVsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UE9TVCBodHRwOi8vbG9jYWxob3N0OjgwODAvCkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbgoKewogICJpZCI6ICJjdXN0b21lci0xIiwKICAiYmlsbC1wYXkiOiAiMTAwIgp9Cgo=</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIEtBRktBX0FEVkVSVElTRURfSE9TVF9OQU1FPXpvb2tlZXBlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q29udGVudC1UeXBlOiAqLyoK</text>
+        <text encoding="base64">ICAgICAgICAtIEtBRktBX0FEVkVSVElTRURfSE9TVF9OQU1FPTEyNy4wLjAuMQogICAgICAgIC0gS0FGS0FfQURWRVJUSVNFRF9QT1JUPTkwOTIKICAgICAgICAtIEtBRktBX1pPT0tFRVBFUl9DT05ORUNUPXpvb2tlZXBlcjoyMTgxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q29udGVudC1UeXBlOiAqLyoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS5hbm5vdGF0aW9uLk9yZGVyOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5zdGVyZW90eXBlLlNlcnZpY2U7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS5hbm5vdGF0aW9uLk9yZGVyOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5zdGVyZW90eXBlLlNlcnZpY2U7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">QFNlcnZpY2UKQE9yZGVyKDIwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">QFNlcnZpY2UKQE9yZGVyKDIwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNlcnZpY2UKQE9yZGVyKDIwKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1318,10 +1312,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS5hbm5vdGF0aW9uLk9yZGVyOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5zdGVyZW90eXBlLlNlcnZpY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>new NfaPrerequisiteChecker(nfaServicesAdapter)</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS5hbm5vdGF0aW9uLk9yZGVyOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5zdGVyZW90eXBlLlNlcnZpY2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
