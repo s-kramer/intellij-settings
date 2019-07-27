@@ -676,11 +676,12 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/verimi/AuthenticationService.java" timestamp="1563976408115">
         <mark key="'" line="36" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/KafkaConfiguration.kt" timestamp="1564224734418">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="13" />
-        <mark key="^" line="6" column="13" />
-        <mark key="." line="6" column="13" />
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/KafkaConfiguration.kt" timestamp="1564227507668">
+        <mark key="'" line="7" column="13" />
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/source-samples/dynamic-destination-source/src/main/resources/META-INF/spring.binders" timestamp="1564164387373">
         <mark key="[" line="0" column="0" />
@@ -1023,6 +1024,11 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/Channels.kt" timestamp="1564227500961">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/InlineIdentificationChecker.java" timestamp="1564158582135">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -1153,7 +1159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="50" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/InteractionCreationService.java" />
       <jump line="21" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasTextGenerator.java" />
       <jump line="24" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasTextGenerator.java" />
       <jump line="27" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasTextGenerator.java" />
@@ -1253,10 +1258,11 @@
       <jump line="49" column="61" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
       <jump line="4" column="62" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
       <jump line="3" column="54" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
+      <jump line="7" column="13" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/KafkaConfiguration.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIEtBRktBX0FEVkVSVElTRURfSE9TVF9OQU1FPXpvb2tlZXBlcgo=</text>
+        <text encoding="base64">QEVuYWJsZUJpbmRpbmcK</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -1268,25 +1274,25 @@
         <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIEtBRktBX0FEVkVSVElTRURfSE9TVF9OQU1FPXpvb2tlZXBlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtIEtBRktBX0FEVkVSVElTRURfSE9TVF9OQU1FPTEyNy4wLjAuMQogICAgICAgIC0gS0FGS0FfQURWRVJUSVNFRF9QT1JUPTkwOTIKICAgICAgICAtIEtBRktBX1pPT0tFRVBFUl9DT05ORUNUPXpvb2tlZXBlcjoyMTgxCg==</text>
+        <text encoding="base64">QEVuYWJsZUJpbmRpbmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q29udGVudC1UeXBlOiAqLyoK</text>
+        <text encoding="base64">LyoqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAyNy4wNy4yMDE5IDEzOjM4CiAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBLYWZrYUxpc3RlbmVyKHRvcGljcyA9IFsid2VsY29tZSJdLCBncm91cElkID0gImdyb3VwX2lkIikKICAgIGZ1biBjb25zdW1lcihtZXNzYWdlOiBTdHJpbmcpIHsKICAgICAgICBsb2cuaW5mbyB7ICJSZWNlaXZlZCAkbWVzc2FnZSIgfQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS5hbm5vdGF0aW9uLk9yZGVyOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5zdGVyZW90eXBlLlNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIEtBRktBX0FEVkVSVElTRURfSE9TVF9OQU1FPTEyNy4wLjAuMQogICAgICAgIC0gS0FGS0FfQURWRVJUSVNFRF9QT1JUPTkwOTIKICAgICAgICAtIEtBRktBX1pPT0tFRVBFUl9DT05ORUNUPXpvb2tlZXBlcjoyMTgxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q29udGVudC1UeXBlOiAqLyoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFNlcnZpY2UKQE9yZGVyKDIwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFNlcnZpY2UKQE9yZGVyKDIwKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS5hbm5vdGF0aW9uLk9yZGVyOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5zdGVyZW90eXBlLlNlcnZpY2U7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1322,7 +1328,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS5hbm5vdGF0aW9uLk9yZGVyOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5zdGVyZW90eXBlLlNlcnZpY2U7Cg==</text>
+        <text encoding="base64">QFNlcnZpY2UKQE9yZGVyKDIwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
