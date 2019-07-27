@@ -247,7 +247,8 @@
         <mark key="^" line="65" column="33" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/gradle.properties" timestamp="1563562843810">
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/gradle.properties" timestamp="1564226317800">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="20" />
@@ -627,8 +628,8 @@
         <mark key="^" line="20" column="63" />
         <mark key="." line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/Application.kt" timestamp="1563562960094">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/Application.kt" timestamp="1564226292238">
+        <mark key="[" line="9" column="21" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -876,8 +877,8 @@
         <mark key="." line="64" column="7" />
         <mark key="^" line="64" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" timestamp="1563563105883">
-        <mark key="'" line="37" column="0" />
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" timestamp="1564226322519">
+        <mark key="'" line="3" column="54" />
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
@@ -1146,12 +1147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidatorTest.java" />
-      <jump line="75" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidatorTest.java" />
-      <jump line="69" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidatorTest.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidatorTest.java" />
-      <jump line="95" column="4" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidatorTest.java" />
-      <jump line="57" column="59" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/InteractionCreationService.java" />
       <jump line="41" column="50" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/InteractionCreationService.java" />
       <jump line="21" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasTextGenerator.java" />
       <jump line="24" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasTextGenerator.java" />
@@ -1246,6 +1241,12 @@
       <jump line="16" column="8" filename="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" />
       <jump line="33" column="7" filename="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/gradle.properties" />
+      <jump line="52" column="51" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
+      <jump line="2" column="56" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
+      <jump line="49" column="61" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
+      <jump line="4" column="62" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
+      <jump line="3" column="54" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1255,7 +1256,7 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzb3VyY2VDaGFubmVsXD4=</text>
+        <text encoding="base64">XDxrb3RsaW5fdmVyc2lvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIEtBRktBX0FEVkVSVElTRURfSE9TVF9OQU1FPXpvb2tlZXBlcgo=</text>
@@ -1322,17 +1323,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzb3VyY2VDaGFubmVsXD4=</last-search>
+      <last-search encoding="base64">XDxrb3RsaW5fdmVyc2lvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzb3VyY2VDaGFubmVsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxrb3RsaW5fdmVyc2lvblw+</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc05mYUVuYWJsZWRPblVzZXJBY2NvdW50XD4=</entry>
         <entry encoding="base64">XDxpc05mYUVuYWJsZWRGb3JMb2dpblw+</entry>
         <entry encoding="base64">XDx2YWxpZFVSSVw+</entry>
         <entry>CLIENT_ID</entry>
@@ -1352,6 +1352,7 @@
         <entry encoding="base64">XDxleGVjXD4=</entry>
         <entry encoding="base64">XDxNZXNzYWdlQ2hhbm5lbFw+</entry>
         <entry encoding="base64">XDxzb3VyY2VDaGFubmVsXD4=</entry>
+        <entry encoding="base64">XDxrb3RsaW5fdmVyc2lvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/consumer/server/g</entry>
