@@ -469,10 +469,10 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="17" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564388100611">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1564389407605">
+        <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="21" />
+        <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileSpAuthShortcutService.java" timestamp="1563965966652">
@@ -829,12 +829,12 @@
         <mark key="." line="41" column="92" />
         <mark key="^" line="41" column="92" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/PrerequisitesService.java" timestamp="1564386351840">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="35" column="31" />
-        <mark key="]" line="36" column="30" />
-        <mark key="." line="36" column="30" />
-        <mark key="^" line="36" column="30" />
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/PrerequisitesService.java" timestamp="1564389429722">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="28" column="62" />
+        <mark key="^" line="34" column="30" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/HydraController.java" timestamp="1564043740968">
         <mark key="'" line="472" column="35" />
@@ -1200,10 +1200,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>logs, test fix</text>
+        <text>optimized twofaaas checking</text>
       </register>
       <register name="-" type="4">
-        <text>logs, test fix</text>
+        <text>optimized twofaaas checking</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dpblJlcXVlc3RcPg==</text>
@@ -1212,25 +1212,25 @@
         <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBtb2NrTm9uRW1wdHlQcmVyZXF1aXNpdGVzKCkgewogICAgICAgIExvZ2luUmVxdWVzdCBsb2dpblJlcXVlc3QgPSBnZXRMb2dpblJlcXVlc3RXaXRoU3ViamVjdChVSUQpOwogICAgICAgIGdpdmVuKHR3b2ZhYWFzUmVxdWVzdGVkQ2hlY2tlci5pc1R3b2ZhYWFzUmVxdWVzdGVkKGxvZ2luUmVxdWVzdCkpLndpbGxSZXR1cm4oZmFsc2UpOwoKICAgICAgICBQcmVyZXF1aXNpdGVQYXJhbXMgcGFyYW1zID0gUHJlcmVxdWlzaXRlUGFyYW1zLmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLmNsaWVudElkKENMSUVOVF9JRCkKICAgICAgICAgICAgICAgIC5zZWxlY3RlZEFjY291bnRJZChOT19TRUxFQ1RFRF9BQ0NPVU5UKQogICAgICAgICAgICAgICAgLnVpZChVSUQpCiAgICAgICAgICAgICAgICAucmVxdWVzdGVkU2NvcGVzKFJFUVVFU1RFRF9TQ09QRVMpCiAgICAgICAgICAgICAgICAucmVxdWVzdFVybChBVVRIX1JFUVVFU1QudG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgIC5pc1R3b2ZhYWFzRmxvdyhmYWxzZSkKICAgICAgICAgICAgICAgIC5idWlsZCgpOwogICAgICAgIFByZXJlcXVpc2l0ZSBwcmVyZXF1aXNpdGUgPSBQcmVyZXF1aXNpdGUuYnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYWN0aW9uKFBSRVJFUVVJU0lURV9BQ1RJT04pCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICBnaXZlbihwcmVyZXF1aXNpdGVzU2VydmljZS5nZXRQcmVyZXF1aXNpdGVzKHBhcmFtcykpCiAgICAgICAgICAgICAgICAud2lsbFJldHVybihzaW5nbGV0b25MaXN0KHByZXJlcXVpc2l0ZSkpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5CRERNb2NraXRvLmdpdmVuOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLlF1YWxpZmllcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBwdXQgdGhlIGlzVHdvZmFhYXNGbG93IGludG8gUHJlcmVxdWlzaXRlUGFyYW1zIGluc3RlYWQgb2YgZXZhbHVhdGluZyBpdCBvbiBwcmVyZXF1aXNpdGVzIGV2ZXJ5IHRpbWUK</text>
+        <text encoding="base64">ICAgIEBRdWFsaWZpZXIoIm1mb1ByZXJlcXVpc2l0ZSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzVHdvZmFhYXNGbG93Owo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5CRERNb2NraXRvLmdpdmVuOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dpblJlcXVlc3QgbG9naW5SZXF1ZXN0ID0gZ2V0TG9naW5SZXF1ZXN0V2l0aFN1YmplY3QoVUlEKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBwdXQgdGhlIGlzVHdvZmFhYXNGbG93IGludG8gUHJlcmVxdWlzaXRlUGFyYW1zIGluc3RlYWQgb2YgZXZhbHVhdGluZyBpdCBvbiBwcmVyZXF1aXNpdGVzIGV2ZXJ5IHRpbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnaXZlbih0d29mYWFhc1JlcXVlc3RlZENoZWNrZXIuaXNUd29mYWFhc1JlcXVlc3RlZChTQ09QRVMsIFJFUVVFU1RfVVJMLCBDTElFTlRfSUQpKS53aWxsUmV0dXJuKGZhbHNlKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzVHdvZmFhYXNGbG93Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnaXZlbih0d29mYWFhc1JlcXVlc3RlZENoZWNrZXIuaXNUd29mYWFhc1JlcXVlc3RlZChTQ09QRVMsIFJFUVVFU1RfVVJMLCBDTElFTlRfSUQpKS53aWxsUmV0dXJuKHRydWUpOwoK</text>
+        <text encoding="base64">ICAgICAgICBMb2dpblJlcXVlc3QgbG9naW5SZXF1ZXN0ID0gZ2V0TG9naW5SZXF1ZXN0V2l0aFN1YmplY3QoVUlEKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBATW9jawogICAgcHJpdmF0ZSBUd29mYWFhc1JlcXVlc3RlZENoZWNrZXIgdHdvZmFhYXNSZXF1ZXN0ZWRDaGVja2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICBnaXZlbih0d29mYWFhc1JlcXVlc3RlZENoZWNrZXIuaXNUd29mYWFhc1JlcXVlc3RlZChTQ09QRVMsIFJFUVVFU1RfVVJMLCBDTElFTlRfSUQpKS53aWxsUmV0dXJuKGZhbHNlKTsKCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1263,10 +1263,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVHdvZmFhYXNSZXF1ZXN0ZWRDaGVja2VyIHR3b2ZhYWFzUmVxdWVzdGVkQ2hlY2tlcjsK</text>
+        <text encoding="base64">ICAgICAgICBnaXZlbih0d29mYWFhc1JlcXVlc3RlZENoZWNrZXIuaXNUd29mYWFhc1JlcXVlc3RlZChTQ09QRVMsIFJFUVVFU1RfVVJMLCBDTElFTlRfSUQpKS53aWxsUmV0dXJuKHRydWUpOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzVHdvZmFhYXNGbG93Owo=</text>
+        <text encoding="base64">CiAgICBATW9jawogICAgcHJpdmF0ZSBUd29mYWFhc1JlcXVlc3RlZENoZWNrZXIgdHdvZmFhYXNSZXF1ZXN0ZWRDaGVja2VyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
