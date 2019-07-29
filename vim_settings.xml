@@ -350,7 +350,7 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v1.0.xml" timestamp="1559138848152">
         <mark key="'" line="47" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1564393412995">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1564394055229">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1246,8 +1246,8 @@
       <jump line="205" column="25" filename="$USER_HOME$/verimi-auth/identityowner-service/src/main/java/com/dipp/identityowner/nfactor/user/service/configuration/NFAConfigurationService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">MjAxOS0wNy0yOSAxMDowMDozNi4yNzMwMDAK</text>
       </register>
       <register name="-" type="4">
         <text>3</text>
@@ -1259,25 +1259,25 @@
         <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBtb2NrTm9uRW1wdHlQcmVyZXF1aXNpdGVzKCkgewogICAgICAgIExvZ2luUmVxdWVzdCBsb2dpblJlcXVlc3QgPSBnZXRMb2dpblJlcXVlc3RXaXRoU3ViamVjdChVSUQpOwogICAgICAgIGdpdmVuKHR3b2ZhYWFzUmVxdWVzdGVkQ2hlY2tlci5pc1R3b2ZhYWFzUmVxdWVzdGVkKGxvZ2luUmVxdWVzdCkpLndpbGxSZXR1cm4oZmFsc2UpOwoKICAgICAgICBQcmVyZXF1aXNpdGVQYXJhbXMgcGFyYW1zID0gUHJlcmVxdWlzaXRlUGFyYW1zLmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLmNsaWVudElkKENMSUVOVF9JRCkKICAgICAgICAgICAgICAgIC5zZWxlY3RlZEFjY291bnRJZChOT19TRUxFQ1RFRF9BQ0NPVU5UKQogICAgICAgICAgICAgICAgLnVpZChVSUQpCiAgICAgICAgICAgICAgICAucmVxdWVzdGVkU2NvcGVzKFJFUVVFU1RFRF9TQ09QRVMpCiAgICAgICAgICAgICAgICAucmVxdWVzdFVybChBVVRIX1JFUVVFU1QudG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgIC5pc1R3b2ZhYWFzRmxvdyhmYWxzZSkKICAgICAgICAgICAgICAgIC5idWlsZCgpOwogICAgICAgIFByZXJlcXVpc2l0ZSBwcmVyZXF1aXNpdGUgPSBQcmVyZXF1aXNpdGUuYnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYWN0aW9uKFBSRVJFUVVJU0lURV9BQ1RJT04pCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICBnaXZlbihwcmVyZXF1aXNpdGVzU2VydmljZS5nZXRQcmVyZXF1aXNpdGVzKHBhcmFtcykpCiAgICAgICAgICAgICAgICAud2lsbFJldHVybihzaW5nbGV0b25MaXN0KHByZXJlcXVpc2l0ZSkpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MjAxOS0wNy0yOSAwOTo0MjozNi41MDcwMDAK</text>
+        <text encoding="base64">MjAxOS0wNy0yOSAxMDowMDozNi4yNzMwMDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MjAxOS0wNy0yOSAwOToyMjo0OC44MDYwMDAK</text>
+        <text encoding="base64">MjAxOS0wNy0yOSAwOTo0MjozNi41MDcwMDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MjAxOC0wMy0yOSAxNToyNDoxNy44MDIwMDAK</text>
+        <text encoding="base64">MjAxOS0wNy0yOSAwOToyMjo0OC44MDYwMDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLlF1YWxpZmllcjsK</text>
+        <text encoding="base64">MjAxOC0wMy0yOSAxNToyNDoxNy44MDIwMDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBRdWFsaWZpZXIoIm1mb1ByZXJlcXVpc2l0ZSIpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLlF1YWxpZmllcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5CRERNb2NraXRvLmdpdmVuOwo=</text>
+        <text encoding="base64">ICAgIEBRdWFsaWZpZXIoIm1mb1ByZXJlcXVpc2l0ZSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBwdXQgdGhlIGlzVHdvZmFhYXNGbG93IGludG8gUHJlcmVxdWlzaXRlUGFyYW1zIGluc3RlYWQgb2YgZXZhbHVhdGluZyBpdCBvbiBwcmVyZXF1aXNpdGVzIGV2ZXJ5IHRpbWUK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5CRERNb2NraXRvLmdpdmVuOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1310,10 +1310,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzVHdvZmFhYXNGbG93Owo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBwdXQgdGhlIGlzVHdvZmFhYXNGbG93IGludG8gUHJlcmVxdWlzaXRlUGFyYW1zIGluc3RlYWQgb2YgZXZhbHVhdGluZyBpdCBvbiBwcmVyZXF1aXNpdGVzIGV2ZXJ5IHRpbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dpblJlcXVlc3QgbG9naW5SZXF1ZXN0ID0gZ2V0TG9naW5SZXF1ZXN0V2l0aFN1YmplY3QoVUlEKTsK</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzVHdvZmFhYXNGbG93Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
