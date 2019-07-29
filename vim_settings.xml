@@ -184,6 +184,7 @@
         <mark key="'" line="86" column="41" />
       </file>
       <file name="$USER_HOME$/verimi-auth/identityowner-service/src/main/java/com/dipp/identityowner/nfactor/user/service/configuration/NFAConfigurationUpdateService.java" timestamp="1564394674952" />
+      <file name="$USER_HOME$/verimi-auth/identityowner-service/src/main/java/com/dipp/identityowner/nfactor/user/service/uriconfiguration/NFAUriConfigurationUpdateService.java" timestamp="1564396182636" />
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/MobileShortcutService.java" timestamp="1564047774041">
         <mark key="'" line="20" column="0" />
       </file>
@@ -220,7 +221,7 @@
         <mark key="." line="31" column="64" />
         <mark key="^" line="31" column="64" />
       </file>
-      <file name="/postgres.user_status.userstatus [postgres@devint2]" timestamp="1564394758248">
+      <file name="/postgres.user_status.userstatus [postgres@devint2]" timestamp="1564396536006">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/controller/helper/TokenRequestHandler.java" timestamp="1558612265804">
@@ -272,6 +273,9 @@
         <mark key="^" line="41" column="50" />
         <mark key="." line="41" column="50" />
       </file>
+      <file name="$USER_HOME$/verimi-auth/identityowner-service/src/main/java/com/dipp/identityowner/nfactor/user/util/NFAConfigurationConverter.java" timestamp="1564397271893">
+        <mark key="'" line="119" column="17" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/inlineregistration/MobileVerificationService.java" timestamp="1556543094770">
         <mark key="[" line="52" column="28" />
         <mark key="]" line="52" column="27" />
@@ -302,12 +306,8 @@
         <mark key="]" line="24" column="54" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" timestamp="1563786687376">
+      <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" timestamp="1564396714008">
         <mark key="'" line="143" column="42" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/nfa-confirmation-templates/nfaDisabling.ftl" timestamp="1564127312161">
-        <mark key="[" line="0" column="79" />
-        <mark key="]" line="0" column="84" />
       </file>
       <file name="$USER_HOME$/sd/vote-it/voteit_v2_workshop/modules/persist_vote/main.tf" timestamp="1561568569689">
         <mark key="'" line="20" column="23" />
@@ -736,10 +736,6 @@
         <mark key="." line="128" column="41" />
         <mark key="^" line="128" column="41" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/GeneralMobileLoginShortcutServiceTest.java" timestamp="1564145496398">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="34" />
-      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/FeignClientMockConfiguration.java" timestamp="1560856434299">
         <mark key="[" line="25" column="59" />
         <mark key="]" line="25" column="64" />
@@ -1145,9 +1141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasNfaInteractionFacadeTest.java" />
-      <jump line="117" column="4" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestServiceTest.java" />
-      <jump line="34" column="60" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestServiceTest.java" />
       <jump line="18" column="46" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/LoginPrerequisitesChecker.java" />
       <jump line="30" column="48" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/LoginPrerequisitesChecker.java" />
       <jump line="53" column="33" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/twofaaas/TwofaaasRequestedChecker.java" />
@@ -1245,6 +1238,9 @@
       <jump line="586" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileSpAuthShortcutServiceTest.java" />
       <jump line="197" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileSpAuthShortcutService.java" />
       <jump line="205" column="25" filename="$USER_HOME$/verimi-auth/identityowner-service/src/main/java/com/dipp/identityowner/nfactor/user/service/configuration/NFAConfigurationService.java" />
+      <jump line="137" column="39" filename="$USER_HOME$/verimi-auth/identityowner-service/src/main/java/com/dipp/identityowner/nfactor/user/util/NFAConfigurationConverter.java" />
+      <jump line="46" column="36" filename="$USER_HOME$/verimi-auth/identityowner-service/src/main/java/com/dipp/identityowner/nfactor/user/util/NFAConfigurationConverter.java" />
+      <jump line="119" column="17" filename="$USER_HOME$/verimi-auth/identityowner-service/src/main/java/com/dipp/identityowner/nfactor/user/util/NFAConfigurationConverter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1254,7 +1250,7 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdDb25maWdcPg==</text>
+        <text encoding="base64">XDxhZGRDb25maWdVcmlFdmVudHNGb3JOZmFTY29wZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBtb2NrTm9uRW1wdHlQcmVyZXF1aXNpdGVzKCkgewogICAgICAgIExvZ2luUmVxdWVzdCBsb2dpblJlcXVlc3QgPSBnZXRMb2dpblJlcXVlc3RXaXRoU3ViamVjdChVSUQpOwogICAgICAgIGdpdmVuKHR3b2ZhYWFzUmVxdWVzdGVkQ2hlY2tlci5pc1R3b2ZhYWFzUmVxdWVzdGVkKGxvZ2luUmVxdWVzdCkpLndpbGxSZXR1cm4oZmFsc2UpOwoKICAgICAgICBQcmVyZXF1aXNpdGVQYXJhbXMgcGFyYW1zID0gUHJlcmVxdWlzaXRlUGFyYW1zLmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLmNsaWVudElkKENMSUVOVF9JRCkKICAgICAgICAgICAgICAgIC5zZWxlY3RlZEFjY291bnRJZChOT19TRUxFQ1RFRF9BQ0NPVU5UKQogICAgICAgICAgICAgICAgLnVpZChVSUQpCiAgICAgICAgICAgICAgICAucmVxdWVzdGVkU2NvcGVzKFJFUVVFU1RFRF9TQ09QRVMpCiAgICAgICAgICAgICAgICAucmVxdWVzdFVybChBVVRIX1JFUVVFU1QudG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgIC5pc1R3b2ZhYWFzRmxvdyhmYWxzZSkKICAgICAgICAgICAgICAgIC5idWlsZCgpOwogICAgICAgIFByZXJlcXVpc2l0ZSBwcmVyZXF1aXNpdGUgPSBQcmVyZXF1aXNpdGUuYnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYWN0aW9uKFBSRVJFUVVJU0lURV9BQ1RJT04pCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICBnaXZlbihwcmVyZXF1aXNpdGVzU2VydmljZS5nZXRQcmVyZXF1aXNpdGVzKHBhcmFtcykpCiAgICAgICAgICAgICAgICAud2lsbFJldHVybihzaW5nbGV0b25MaXN0KHByZXJlcXVpc2l0ZSkpOwogICAgfQo=</text>
@@ -1321,18 +1317,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdDb25maWdcPg==</last-search>
+      <last-search encoding="base64">XDxhZGRDb25maWdVcmlFdmVudHNGb3JOZmFTY29wZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdDb25maWdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRDb25maWdVcmlFdmVudHNGb3JOZmFTY29wZVw+</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVJbnRlcmFjdGlvbkZvclR3b2ZhYWFzXD4=</entry>
-        <entry>NOT_CON</entry>
         <entry encoding="base64">XDxWQUxJREFUSU9OX0VYQ0VQVElPTlw+</entry>
         <entry encoding="base64">XDxTcEFjY291bnRzQ29udHJvbGxlckFwaUNsaWVudFw+</entry>
         <entry encoding="base64">XDxzcEFjY291bnRzQ2xpZW50XD4=</entry>
@@ -1351,6 +1345,8 @@
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxsb2dpblJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxuZXdDb25maWdcPg==</entry>
+        <entry encoding="base64">XDxjb252ZXJ0XD4=</entry>
+        <entry encoding="base64">XDxhZGRDb25maWdVcmlFdmVudHNGb3JOZmFTY29wZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/consumer/server/g</entry>
