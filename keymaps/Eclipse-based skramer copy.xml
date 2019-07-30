@@ -50,6 +50,7 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
+  <action id="FindPrevious" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
     <mouse-shortcut keystroke="button5" />
