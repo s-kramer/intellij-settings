@@ -9,8 +9,8 @@
       <file name="$USER_HOME$/Projects/Java/spodddify-kafka/infra/infra/kafka/start-kafka.sh" timestamp="1563559871153">
         <mark key="'" line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" timestamp="1563962806611">
-        <mark key="'" line="95" column="0" />
+      <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" timestamp="1564466970780">
+        <mark key="'" line="247" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/PrerequisiteCheckerTest.java" timestamp="1564388014807">
         <mark key="'" line="36" column="0" />
@@ -340,14 +340,6 @@
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/optins-service/build.gradle" timestamp="1557489725591">
         <mark key="'" line="14" column="71" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileSpAuthShortcutService.java" timestamp="1564388009672">
-        <mark key="a" line="362" column="30" />
-        <mark key="'" line="197" column="0" />
-        <mark key="[" line="362" column="78" />
-        <mark key="]" line="362" column="153" />
-        <mark key="." line="362" column="153" />
-        <mark key="^" line="362" column="153" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" timestamp="1564048324618">
         <mark key="'" line="52" column="13" />
@@ -1001,7 +993,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="50" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileSpAuthShortcutServiceTest.java" />
       <jump line="180" column="24" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileSpAuthShortcutServiceTest.java" />
       <jump line="202" column="24" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileSpAuthShortcutServiceTest.java" />
       <jump line="569" column="24" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileSpAuthShortcutServiceTest.java" />
@@ -1101,6 +1092,7 @@
       <jump line="31" column="23" filename="$USER_HOME$/verimi-auth-verimi/environments/config/service/lufthansa-mock.yaml" />
       <jump line="28" column="20" filename="$USER_HOME$/verimi-auth-verimi/environments/config/service/lufthansa-mock.yaml" />
       <jump line="29" column="47" filename="$USER_HOME$/verimi-auth-verimi/environments/config/service/lufthansa-mock.yaml" />
+      <jump line="247" column="0" filename="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
