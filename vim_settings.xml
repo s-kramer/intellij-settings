@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1564472326400">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/MobileLoginSubmitController.java" timestamp="1564469462376">
         <mark key="'" line="112" column="30" />
       </file>
       <file name="/postgres.serviceprovider.serviceprovider_document_verification_methods" timestamp="1564472556719">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/postgres.linked_provider.linkedprovider" timestamp="1564575919306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/postgres.serviceprovider.serviceprovider" timestamp="1564560427180">
@@ -24,21 +24,23 @@
         <mark key="^" line="1" column="62" />
         <mark key="." line="1" column="62" />
       </file>
+      <file name="/external_uid [postgres@devint]" timestamp="1564575920836">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1564575687092">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/otp/OtpLoginService.java" timestamp="1564469240316">
         <mark key="'" line="80" column="34" />
       </file>
       <file name="/serviceprovider [postgres@dev-6]" timestamp="1564560427159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/serviceprovider_document_verification_methods [postgres@devint]" timestamp="1564472556704">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/twofaaas/PhoneNumberAuthenticationServiceDispatcher.java" timestamp="1564469278029">
         <mark key="'" line="68" column="33" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" timestamp="1564469153841">
-        <mark key="'" line="132" column="58" />
-      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasSerivce.java" timestamp="1564575337967" />
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/SealOneMessageValidator.java" timestamp="1564470843766">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="18" column="5" />
@@ -48,17 +50,35 @@
       <file name="/a.sql" timestamp="1564472326392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidator.java" timestamp="1564473982550">
-        <mark key="j" line="39" column="6" />
-      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/hydra-proxy.yaml" timestamp="1564564814501">
         <mark key="'" line="57" column="4" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/twofaaas/PhoneNumberAuthenticationService.java" timestamp="1564468843250">
         <mark key="'" line="62" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1564560427826">
+      <file name="/external_uid [postgres@dev-6]" timestamp="1564575596504">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1564575921279">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/postgres.linked_provider.external_uid" timestamp="1564575920844">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1564472326400">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/linkedprovider [postgres@devint]" timestamp="1564575919294">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/serviceprovider_document_verification_methods [postgres@devint]" timestamp="1564472556704">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitService.java" timestamp="1564469153841">
+        <mark key="'" line="132" column="58" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidator.java" timestamp="1564473982550">
+        <mark key="j" line="39" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -84,7 +104,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>59e98288-5417-45bd-a516-47aa090149bc</text>
       </register>
       <register name="2" type="4">
         <text>@Value(&quot;${twofaas.sealone.message_limit:1024}&quot;)</text>
