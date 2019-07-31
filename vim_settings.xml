@@ -48,6 +48,9 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasRequestValidator.java" timestamp="1564473982550">
         <mark key="j" line="39" column="6" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/hydra-proxy.yaml" timestamp="1564564814501">
+        <mark key="'" line="57" column="4" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/twofaaas/PhoneNumberAuthenticationService.java" timestamp="1564468843250">
         <mark key="'" line="62" column="24" />
       </file>
@@ -70,6 +73,8 @@
       <jump line="115" column="12" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/MobileLoginSubmitController.java" />
       <jump line="108" column="44" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/MobileLoginSubmitController.java" />
       <jump line="112" column="30" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/MobileLoginSubmitController.java" />
+      <jump line="10" column="25" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/hydra-proxy.yaml" />
+      <jump line="57" column="4" filename="$USER_HOME$/verimi-auth-verimi/environments/config/configmap/hydra-proxy.yaml" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -85,14 +90,14 @@
         <text>@Value(&quot;${twofaas.sealone.message_limit:1024}&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NlbWJsZVN1Ym1pdExvZ2luUmVzcG9uc2VcPg==</text>
+        <text>inline</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3NlbWJsZVN1Ym1pdExvZ2luUmVzcG9uc2VcPg==</last-search>
+      <last-search>inline</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NlbWJsZVN1Ym1pdExvZ2luUmVzcG9uc2VcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>inline</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -105,6 +110,7 @@
         <entry encoding="base64">XDxyZWRlZW1PdHBcPg==</entry>
         <entry>former</entry>
         <entry encoding="base64">XDxhc3NlbWJsZVN1Ym1pdExvZ2luUmVzcG9uc2VcPg==</entry>
+        <entry>inline</entry>
       </history-search>
       <history-cmd />
       <history-expr />
