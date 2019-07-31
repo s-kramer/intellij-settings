@@ -18,8 +18,14 @@
       <file name="/postgres.serviceprovider.serviceprovider" timestamp="1564560427180">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1564472290343">
+      <file name="/console" timestamp="1564573562516">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b445af27-99bf-4fc2-a867-903b5444c599/console.sql" timestamp="1564574180382">
+        <mark key="[" line="1" column="61" />
+        <mark key="]" line="1" column="62" />
+        <mark key="^" line="1" column="62" />
+        <mark key="." line="1" column="62" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/otp/OtpLoginService.java" timestamp="1564469240316">
         <mark key="'" line="80" column="34" />
@@ -80,14 +86,14 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IHNlYWxPbmVNZXNzYWdlTGltaXQ7CgogICAgcHVibGljIFNlYWxPbmVNZXNzYWdlVmFsaWRhdG9yKEBWYWx1ZSgiJHt0d29mYWFzLnNlYWxvbmUubWVzc2FnZV9saW1pdDoxMDI0fSIpIGludCBzZWFsT25lTWVzc2FnZUxpbWl0KSB7CiAgICAgICAgdGhpcy5zZWFsT25lTWVzc2FnZUxpbWl0ID0gc2VhbE9uZU1lc3NhZ2VMaW1pdDsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="2" type="4">
         <text>@Value(&quot;${twofaas.sealone.message_limit:1024}&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>@Value(&quot;${twofaas.sealone.message_limit:1024}&quot;)</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>inline</text>
