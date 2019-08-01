@@ -19,11 +19,11 @@
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1564645960545">
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1564651699613">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="31" />
+        <mark key="[" line="12" column="87" />
         <mark key="]" line="12" column="87" />
-        <mark key="." line="12" column="31" />
+        <mark key="." line="12" column="87" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b445af27-99bf-4fc2-a867-903b5444c599/console.sql" timestamp="1564574271120">
         <mark key="[" line="1" column="61" />
@@ -37,7 +37,7 @@
         <mark key="^" line="65" column="145" />
         <mark key="." line="65" column="145" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build/importexport-api/contract/swagger.yaml" timestamp="1564648870163">
+      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build/importexport-api/contract/swagger.yaml" timestamp="1564651204990">
         <mark key="'" line="1554" column="0" />
         <mark key="[" line="1554" column="0" />
         <mark key="]" line="1559" column="20" />
@@ -99,14 +99,15 @@
       <file name="/external_uid [postgres@devint]" timestamp="1564575920836">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build/swagger-template/dipp-token-description/DippTokenYamlFragment.txt" timestamp="1564648661721">
+      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build/swagger-template/dipp-token-description/DippTokenYamlFragment.txt" timestamp="1564651232205">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/contract/swagger.yaml" timestamp="1564648400963">
+      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/contract/swagger.yaml" timestamp="1564651177104">
         <mark key="[" line="1369" column="0" />
-        <mark key="]" line="1369" column="19" />
-        <mark key="." line="1369" column="0" />
+        <mark key="]" line="1369" column="6" />
+        <mark key="^" line="1363" column="9" />
+        <mark key="." line="1369" column="6" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build/swagger-template/com/dipp/swagger/codegen/DippCodegenerator.class" timestamp="1564649109265" />
       <file name="/serviceprovider [postgres@dev-6]" timestamp="1564560427159">
@@ -137,11 +138,11 @@
       <file name="/postgres.linked_provider.external_uid" timestamp="1564575920844">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564645649199">
+      <file name="/Dummy.txt" timestamp="1564651238868">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="35" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/contract/client/build.gradle" timestamp="1564648995996">
         <mark key="'" line="86" column="21" />
@@ -257,11 +258,11 @@
       <jump line="22" column="59" filename="$USER_HOME$/verimi-auth-verimi/import-export-service/contract/server/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjCiAgICAgIC0gaW46ICJoZWFkZXIiCiAgICAgICAgbmFtZTogImRpcHAtdG9rZW4iCiAgICAgICAgZGVzY3JpcHRpb246ICJESVBQIHRva2VuIGZvciBpbnRlcm5hbCBzZXJ2aWNlIGNvbW11bmljYXRpb24uIFZlcnNpb246IDFfM19BUFJJTF9NQVNURVIiCiAgICAgICAgcmVxdWlyZWQ6IGZhbHNlCiAgICAgICAgdHlwZTogc3RyaW5nCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGlwcFRva2VuU3RyaW5nLCA=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzd2FnZ2VyVGVtcGxhdGVWZXJzaW9uXD4=</text>
@@ -270,28 +271,28 @@
         <text encoding="base64">ICAgICAgI0BESVBQLVRPS0VOQAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcGFyYW1ldGVyczoKICAgICAtIG5hbWU6ICJldWlkIgogICAgICAgaW46ICJwYXRoIgogICAgICAgcmVxdWlyZWQ6IHRydWUKICAgICAgIHR5cGU6ICJzdHJpbmciCiAgICAgI0BESVBQLVRPS0VOQAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAjLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgICAgICMgdG9kbzogY29waWVkIHRoZSBjb250ZW50IG9mIHRoZSB0ZW1wbGF0ZSBkdWUgdG8gcHJvYmxlbXMgd2l0aCBidWlsZAogICAgICAgICMtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAgLSBpbjogImhlYWRlciIKICAgICAgICAgIG5hbWU6ICJkaXBwLXRva2VuIgogICAgICAgICAgZGVzY3JpcHRpb246ICJESVBQIHRva2VuIGZvciBpbnRlcm5hbCBzZXJ2aWNlIGNvbW11bmljYXRpb24uIFZlcnNpb246IDFfM19BUFJJTF9NQVNURVIiCiAgICAgICAgICByZXF1aXJlZDogZmFsc2UKICAgICAgICAgIHR5cGU6IHN0cmluZw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcGFyYW1ldGVyczoKICAgICAgICAtIG5hbWU6ICJldWlkIgogICAgICAgICAgaW46ICJwYXRoIgogICAgICAgICAgcmVxdWlyZWQ6IHRydWUKICAgICAgICAgIHR5cGU6ICJzdHJpbmciCiAgICAgICAgIy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICAjIHRvZG86IGNvcGllZCB0aGUgY29udGVudCBvZiB0aGUgdGVtcGxhdGUgZHVlIHRvIHByb2JsZW1zIHdpdGggYnVpbGQKICAgICAgICAjLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgICAgIC0gaW46ICJoZWFkZXIiCiAgICAgICAgICBuYW1lOiAiZGlwcC10b2tlbiIKICAgICAgICAgIGRlc2NyaXB0aW9uOiAiRElQUCB0b2tlbiBmb3IgaW50ZXJuYWwgc2VydmljZSBjb21tdW5pY2F0aW9uLiBWZXJzaW9uOiAxXzNfQVBSSUxfTUFTVEVSIgogICAgICAgICAgcmVxdWlyZWQ6IGZhbHNlCiAgICAgICAgICB0eXBlOiBzdHJpbmcK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAjLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgICAgICMgdG9kbzogY29waWVkIHRoZSBjb250ZW50IG9mIHRoZSB0ZW1wbGF0ZSBkdWUgdG8gcHJvYmxlbXMgd2l0aCBidWlsZAogICAgICAgICMtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAgLSBpbjogImhlYWRlciIKICAgICAgICAgIG5hbWU6ICJkaXBwLXRva2VuIgogICAgICAgICAgZGVzY3JpcHRpb246ICJESVBQIHRva2VuIGZvciBpbnRlcm5hbCBzZXJ2aWNlIGNvbW11bmljYXRpb24uIFZlcnNpb246IDFfM19BUFJJTF9NQVNURVIiCiAgICAgICAgICByZXF1aXJlZDogZmFsc2UKICAgICAgICAgIHR5cGU6IHN0cmluZw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAtIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgICAgICMgdG9kbzogY29waWVkIHRoZSBjb250ZW50IG9mIHRoZSB0ZW1wbGF0ZSBkdWUgdG8gcHJvYmxlbXMgd2l0aCBidWlsZAogICAgICAgICMtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAgLSBpbjogImhlYWRlciIKICAgICAgICAgIG5hbWU6ICJkaXBwLXRva2VuIgogICAgICAgICAgZGVzY3JpcHRpb246ICJESVBQIHRva2VuIGZvciBpbnRlcm5hbCBzZXJ2aWNlIGNvbW11bmljYXRpb24uIFZlcnNpb246IDFfM19BUFJJTF9NQVNURVIiCiAgICAgICAgICByZXF1aXJlZDogZmFsc2UKICAgICAgICAgIHR5cGU6IHN0cmluZwo=</text>
+        <text encoding="base64">ICAgIHBhcmFtZXRlcnM6CiAgICAgLSBuYW1lOiAiZXVpZCIKICAgICAgIGluOiAicGF0aCIKICAgICAgIHJlcXVpcmVkOiB0cnVlCiAgICAgICB0eXBlOiAic3RyaW5nIgogICAgICNARElQUC1UT0tFTkAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjQERJUFAtVE9LRU5ACg==</text>
+        <text encoding="base64">ICAgICAgcGFyYW1ldGVyczoKcGFyYW1ldGVyczoKICAgICAtIG5hbWU6ICJldWlkIgogICAgICAgaW46ICJwYXRoIgogICAgICAgcmVxdWlyZWQ6IHRydWUKICAgICAgIHR5cGU6ICJzdHJpbmciCiAgICAgI0BESVBQLVRPS0VOQAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjQERJUFAtVE9LRU5ACg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjQERJUFAtVE9LRU5ACg==</text>
+        <text encoding="base64">ICAgICAgICAtIG5hbWU6ICJldWlkIgogICAgICAgICAgaW46ICJwYXRoIgogICAgICAgICAgcmVxdWlyZWQ6IHRydWUKICAgICAgICAgIHR5cGU6ICJzdHJpbmciCiAgICAgICAgI0BESVBQLVRPS0VOQAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2VjdXJpdHk6CiAgICAgICAgLSBzcF9hdXRoOgogICAgICAgICAgICAtICJyX2FjdGl2aXR5Igo=</text>
+        <text encoding="base64">ICAgICAgICAjQERJUFAtVE9LRU5ACg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAjQERJUFAtVE9LRU5ACg==</text>
