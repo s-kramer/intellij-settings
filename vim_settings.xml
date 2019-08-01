@@ -387,6 +387,11 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/authentication/AuthenticationService.java" timestamp="1564048324618">
         <mark key="'" line="52" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/BlogApplication.kt" timestamp="1564688682562">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/consent/ConsentService.java" timestamp="1558092153479">
         <mark key="'" line="71" column="22" />
       </file>
@@ -574,10 +579,10 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasRequestCreationService.java" timestamp="1561963505853">
         <mark key="'" line="43" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/ddd-paynow/operations/src/main/kotlin/pl/melements/poc/dddpaynow/operations/OperationsApplication.kt" timestamp="1564230781962">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="48" />
+      <file name="$USER_HOME$/Projects/Java/ddd-paynow/operations/src/main/kotlin/pl/melements/poc/dddpaynow/operations/OperationsApplication.kt" timestamp="1564688680085">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/facade-service/src/main/java/com/dipp/facade/service/ServiceProviderService.java" timestamp="1563522833817">
         <mark key="'" line="170" column="114" />
@@ -587,6 +592,12 @@
         <mark key="]" line="33" column="31" />
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/Application.kt" timestamp="1564688398169">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/Application.java" timestamp="1557349001064">
         <mark key="[" line="10" column="22" />
@@ -1149,14 +1160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="32" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/TwofaaasNfaInteractionFacade.java" />
-      <jump line="76" column="4" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
-      <jump line="73" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
-      <jump line="93" column="22" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/controller/ErrorHandler.java" />
-      <jump line="93" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.security/security-java-server-spring/VD-394-twofaaas.c8c63dd4/b60ac1ed57151788591b0bd7e28efe0a8e4be81f/security-java-server-spring-VD-394-twofaaas.c8c63dd4-sources.jar!/com/dipp/security/model/TwoFAaasRequestValidationErrorResponse.java" />
-      <jump line="55" column="18" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/controller/ErrorHandler.java" />
-      <jump line="26" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.security/security-java-server-spring/VD-394-twofaaas.c8c63dd4/b60ac1ed57151788591b0bd7e28efe0a8e4be81f/security-java-server-spring-VD-394-twofaaas.c8c63dd4-sources.jar!/com/dipp/security/model/TwoFAaasRequestValidationErrorResponse.java" />
       <jump line="56" column="18" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/controller/ErrorHandler.java" />
       <jump line="15" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.security/security-java-server-spring/VD-394-twofaaas.c8c63dd4/b60ac1ed57151788591b0bd7e28efe0a8e4be81f/security-java-server-spring-VD-394-twofaaas.c8c63dd4-sources.jar!/com/dipp/security/model/TwoFAaasRequestValidationErrorResponse.java" />
       <jump line="5" column="0" filename="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" />
@@ -1249,13 +1252,21 @@
       <jump line="5" column="0" filename="$USER_HOME$/Projects/Java/ddd-paynow/operations/src/main/kotlin/pl/melements/poc/dddpaynow/operations/OperationsApplication.kt" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/Java/ddd-paynow/operations/src/main/kotlin/pl/melements/poc/dddpaynow/operations/OperationsApplication.kt" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/Java/ddd-paynow/operations/src/main/kotlin/pl/melements/poc/dddpaynow/operations/OperationsApplication.kt" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/Application.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/Application.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/Application.kt" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/Application.kt" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/Java/ddd-paynow/operations/src/main/kotlin/pl/melements/poc/dddpaynow/operations/OperationsApplication.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/Java/ddd-paynow/operations/src/main/kotlin/pl/melements/poc/dddpaynow/operations/OperationsApplication.kt" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/BlogApplication.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/BlogApplication.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFNwcmluZ0FwcGxpY2F0aW9uLnJ1bihBcHBsaWNhdGlvbjo6Y2xhc3MuamF2YSwgKmFyZ3MpCg==</text>
+        <text encoding="base64">CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QuYXV0b2NvbmZpZ3VyZS5TcHJpbmdCb290QXBwbGljYXRpb24KaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5ydW5BcHBsaWNhdGlvbgoKQFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgpjbGFzcyBCbG9nQXBwbGljYXRpb24KCmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKICBydW5BcHBsaWNhdGlvbjxCbG9nQXBwbGljYXRpb24+KCphcmdzKQp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>OperationsApplication</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxLYWZrYVRlbXBsYXRlXD4=</text>
@@ -1264,25 +1275,25 @@
         <text encoding="base64">ICAgIHJ1bkFwcGxpY2F0aW9uPE9wZXJhdGlvbnNBcHBsaWNhdGlvbj4oKmFyZ3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFNwcmluZ0FwcGxpY2F0aW9uLnJ1bihBcHBsaWNhdGlvbjo6Y2xhc3MuamF2YSwgKmFyZ3MpCg==</text>
+        <text encoding="base64">CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QuYXV0b2NvbmZpZ3VyZS5TcHJpbmdCb290QXBwbGljYXRpb24KaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5ydW5BcHBsaWNhdGlvbgoKQFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgpjbGFzcyBCbG9nQXBwbGljYXRpb24KCmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKICBydW5BcHBsaWNhdGlvbjxCbG9nQXBwbGljYXRpb24+KCphcmdzKQp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEVuYWJsZUJpbmRpbmcoUGF5bWVudENoYW5uZWxzLmNsYXNzKQo=</text>
+        <text encoding="base64">LyoqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAwMS4wOC4yMDE5IDIxOjM5CiAqLwpwcml2YXRlIGNsYXNzIEFwcGxpY2F0aW9uIHsKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEVuYWJsZUJpbmRpbmcoUGF5bWVudENoYW5uZWxzLmNsYXNzKQo=</text>
+        <text encoding="base64">CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QuYXV0b2NvbmZpZ3VyZS5TcHJpbmdCb290QXBwbGljYXRpb24KaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5ydW5BcHBsaWNhdGlvbgppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5jbG91ZC5zdHJlYW0uYW5ub3RhdGlvbi5FbmFibGVCaW5kaW5nCgovL0BFbmFibGVCaW5kaW5nKFBheW1lbnRDaGFubmVsczo6Y2xhc3MpCkBTcHJpbmdCb290QXBwbGljYXRpb24KY2xhc3MgQXBwbGljYXRpb24KCmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKICAgIHJ1bkFwcGxpY2F0aW9uPEFwcGxpY2F0aW9uPigqYXJncykKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpdmF0ZSBjbGFzcyBLYWZrYUNvbmZpZ3VyYXRpb24gewoKfQo=</text>
+        <text encoding="base64">ICAgIFNwcmluZ0FwcGxpY2F0aW9uLnJ1bihBcHBsaWNhdGlvbjo6Y2xhc3MuamF2YSwgKmFyZ3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBsb2cgPSBLb3RsaW5Mb2dnaW5nLmxvZ2dlciB7fQo=</text>
+        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYW5uZWxzLkNoYW5uZWxzCg==</text>
+        <text encoding="base64">QEVuYWJsZUJpbmRpbmcoUGF5bWVudENoYW5uZWxzLmNsYXNzKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1315,10 +1326,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEAKCg==</text>
+        <text encoding="base64">QEVuYWJsZUJpbmRpbmcoUGF5bWVudENoYW5uZWxzLmNsYXNzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHZhbCBUT1BJQyA9ICJ3ZWxjb21lIgogICAgfQoK</text>
+        <text encoding="base64">cHJpdmF0ZSBjbGFzcyBLYWZrYUNvbmZpZ3VyYXRpb24gewoKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
