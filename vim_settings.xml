@@ -9,6 +9,13 @@
       <file name="/postgres.linked_provider.linkedprovider" timestamp="1564575919306">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/twofaaas/PhoneNumberAuthenticationRequest.java" timestamp="1564669076584">
+        <mark key="'" line="38" column="50" />
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="31" />
+        <mark key="." line="27" column="31" />
+        <mark key="^" line="27" column="31" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1564656702802">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="31" />
@@ -169,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="30" filename="$USER_HOME$/verimi-auth-verimi/import-export-service/contract/server/build.gradle" />
       <jump line="58" column="36" filename="$USER_HOME$/verimi-auth-verimi/import-export-service/contract/server/build.gradle" />
       <jump line="59" column="36" filename="$USER_HOME$/verimi-auth-verimi/import-export-service/contract/server/build.gradle" />
       <jump line="69" column="43" filename="$USER_HOME$/verimi-auth-verimi/import-export-service/contract/server/build.gradle" />
@@ -269,61 +275,61 @@
       <jump line="43" column="35" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasValidatorTest.java" />
       <jump line="132" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
       <jump line="125" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
+      <jump line="30" column="50" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/twofaaas/PhoneNumberAuthenticationRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFsT25lVHdvZmFhYXNSZXF1ZXN0RGVsZXRlclJlcG9zaXRvcnkK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW1vdmVUd29mYWFhc1JlbGF0ZWREYXRhXD4=</text>
+        <text encoding="base64">XDx2YWxpZGF0ZUNvdW50cnlDb2RlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIERpcHBUb2tlbiBESVBQX1RPS0VOID0gbmV3IERpcHBUb2tlbigpLmV4cG9zZWRVaWQoRVVJRF9WQUxVRSkudWlkKFVJRF9WQUxVRSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZVBob25lTnVtYmVyKCk7CiAgICAgICAgdmFsaWRhdGVMb2dpblNlc3Npb24oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFsT25lVHdvZmFhYXNSZXF1ZXN0RGVsZXRlclJlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZVBob25lTnVtYmVyKCk7CiAgICAgICAgdmFsaWRhdGVMb2dpblNlc3Npb24oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgdm9pZCBkZWxldGVCeVR3b2ZhYWFzSWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbGlkYXRlQ291bnRyeUNvZGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gT3B0aW9uLndoZW4oaXNDb3VudHJ5Q29kZVZhbGlkLCBUd29mYWFhc0Vycm9yVHlwZS5JTlZBTElEX0NPVU5UUllfQ09ERSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZvaWQgZGVsZXRlQnlUd29mYWFhc0lkKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVmFsaWRhdGlvbi52YWxpZCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLnRva2VuLkRpcHBUb2tlbjsK</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZUNvdW50cnlDb2RlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIERpcHBUb2tlbiBESVBQX1RPS0VOID0gbmV3IERpcHBUb2tlbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWFsT25lVHdvZmFhYXNSZXF1ZXN0RGVsZXRlclJlcG9zaXRvcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUd29mYWFhc1F1ZXJ5U3RhdHVzIGdldFR3b2ZhYWFzU3RhdHVzKFN0cmluZyB0d29mYWFhc0lkLCBTdHJpbmcgZGlwcFRva2VuQXNTdHJpbmcsIERpcHBUb2tlbiBkaXBwVG9rZW4pIHsK</text>
+        <text encoding="base64">ICAgIAogICAgdm9pZCBkZWxldGVCeVR3b2ZhYWFzSWQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZGlwcC5zZWN1cml0eS50d29mYWFhcy5yZXF1ZXN0LlR3b2ZhYWFzUmVxdWVzdFZhbGlkYXRpb25FeGNlcHRpb24uRXJyb3JDb2RlLlRXT0ZBX0NMSUVOVF9JRF9OT1RfTUFUQ0g7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW1vdmVUd29mYWFhc1JlbGF0ZWREYXRhXD4=</last-search>
+      <last-search encoding="base64">XDx2YWxpZGF0ZUNvdW50cnlDb2RlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW1vdmVUd29mYWFhc1JlbGF0ZWREYXRhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx2YWxpZGF0ZUNvdW50cnlDb2RlXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaW5rZWRwcm92aWRlcl9hdXRoXD4=</entry>
         <entry encoding="base64">XDx0d29mYWFhc1JlcXVlc3RcPg==</entry>
         <entry>import</entry>
         <entry encoding="base64">XDxyX2FjdGl2aXR5XD4=</entry>
@@ -343,6 +349,7 @@
         <entry encoding="base64">XDxESVBQX1RPS0VOXD4=</entry>
         <entry encoding="base64">XDxyZW1vdmVUd29mYWFhc1JlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxyZW1vdmVUd29mYWFhc1JlbGF0ZWREYXRhXD4=</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZUNvdW50cnlDb2RlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoSuperMethod</entry>
