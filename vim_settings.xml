@@ -19,6 +19,13 @@
         <mark key="." line="51" column="107" />
         <mark key="^" line="51" column="107" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/twofaaas/PhoneNumberAuthenticationRequest.java" timestamp="1564669076584">
+        <mark key="'" line="38" column="50" />
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="31" />
+        <mark key="." line="27" column="31" />
+        <mark key="^" line="27" column="31" />
+      </file>
       <file name="/a.dummy" timestamp="1564143397061">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
@@ -46,10 +53,8 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaApiFacade.java" timestamp="1563871127955">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/PaymentChannels.kt" timestamp="1564304342498">
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/validation/TwofaaasValidator.java" timestamp="1564656138250">
+        <mark key="'" line="53" column="18" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/PrerequisiteConfiguration.java" timestamp="1564158565742">
         <mark key="'" line="18" column="61" />
@@ -125,6 +130,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/mobileflow/twofaaas/PhoneNumberAuthenticationRequestTest.groovy" timestamp="1564644003332">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="43" />
+        <mark key="." line="18" column="43" />
+        <mark key="^" line="18" column="43" />
+      </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/status/LoginNfaStatusService.java" timestamp="1559123110155">
         <mark key="'" line="40" column="6" />
       </file>
@@ -146,6 +157,10 @@
         <mark key="]" line="12" column="61" />
         <mark key="." line="12" column="61" />
         <mark key="^" line="12" column="61" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build/importexport-api-server/swagger/java-server-spring/src/main/java/com/dipp/importexport/api/LinkedProviderControllerApiDelegate.java" timestamp="1564645502574">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="39" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/.gitignore" timestamp="1558685294410">
         <mark key="'" line="121" column="0" />
@@ -181,8 +196,18 @@
       <file name="$USER_HOME$/Projects/Java/ddd-paynow/api-gateway/src/main/kotlin/pl/melements/poc/dddpaynow/apigateway/PaymentAuthorizationConfiguration.kt" timestamp="1558386748718">
         <mark key="'" line="15" column="16" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build/swagger-template/dipp-token-description/DippTokenYamlFragment.txt" timestamp="1564651232205">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="20" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/proxy/service/DippTokenService.java" timestamp="1558611408317">
         <mark key="'" line="34" column="13" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/contract/swagger.yaml" timestamp="1564651177104">
+        <mark key="[" line="1369" column="0" />
+        <mark key="]" line="1369" column="6" />
+        <mark key="^" line="1363" column="9" />
+        <mark key="." line="1369" column="6" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.9.RELEASE/bd4ea76bf579cb85570470d6f1428cc1f7329c72/spring-data-jpa-1.11.9.RELEASE-sources.jar!/org/springframework/data/jpa/repository/config/EnableJpaRepositories.java" timestamp="1563199612804">
         <mark key="'" line="47" column="18" />
@@ -191,6 +216,20 @@
         <mark key="'" line="2" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="8" column="1" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestServiceTest.java" timestamp="1564654194327">
+        <mark key="a" line="56" column="88" />
+        <mark key="'" line="48" column="16" />
+        <mark key="[" line="99" column="83" />
+        <mark key="]" line="99" column="83" />
+        <mark key="." line="99" column="88" />
+        <mark key="^" line="56" column="92" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" timestamp="1564656333854">
+        <mark key="[" line="86" column="82" />
+        <mark key="]" line="113" column="93" />
+        <mark key="." line="86" column="92" />
+        <mark key="^" line="113" column="93" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_64.puml" timestamp="1563284250497">
         <mark key="[" line="14" column="7" />
@@ -429,6 +468,9 @@
       <file name="$USER_HOME$/verimi-auth-verimi/contracts/authentication/security-service-contract/contract/swagger.yaml" timestamp="1564132373480">
         <mark key="'" line="1781" column="33" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasSerivce.java" timestamp="1564738145140">
+        <mark key="'" line="99" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/KafkaTestController.kt" timestamp="1564230505460">
         <mark key="'" line="2" column="38" />
         <mark key="[" line="12" column="49" />
@@ -518,6 +560,18 @@
       <file name="/ConsentRejectionService.java" timestamp="1563802005884">
         <mark key="'" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasHttpRequestWrapper.java" timestamp="1564737713028">
+        <mark key="'" line="28" column="8" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasRequestDeleterRepository.java" timestamp="1564657435683">
+        <mark key="[" line="2" column="58" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/contract/client/build.gradle" timestamp="1564648995996">
+        <mark key="'" line="86" column="21" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasRequestCleanupTask.java" timestamp="1561443140338">
         <mark key="'" line="63" column="8" />
       </file>
@@ -558,6 +612,12 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/resources/changelogs/Changelog-v0.95.xml" timestamp="1559138844894">
         <mark key="'" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/gradle.properties" timestamp="1564656702802">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="87" />
+        <mark key="." line="12" column="31" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/gradle.properties" timestamp="1557491223340">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="29" />
@@ -580,6 +640,11 @@
         <mark key="]" line="33" column="31" />
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/build/importexport-api/contract/swagger.yaml" timestamp="1564651204990">
+        <mark key="'" line="1554" column="0" />
+        <mark key="[" line="1554" column="0" />
+        <mark key="]" line="1559" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/Application.kt" timestamp="1564689075415">
         <mark key="[" line="2" column="0" />
@@ -692,6 +757,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/contract/api/build.gradle" timestamp="1564648835223">
+        <mark key="'" line="0" column="36" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52c2c397-f035-4017-b9d7-b46b98a4a698/console_1.sql" timestamp="1561640983643">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="7" />
@@ -706,6 +774,14 @@
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/ShortcutServiceRestAdapter.java" timestamp="1563363007322">
         <mark key="'" line="63" column="30" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/import-export-service/contract/server/build.gradle" timestamp="1564649033558">
+        <mark key="'" line="22" column="59" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/infra/SealOneTwofaaasRequestRepository.java" timestamp="1564657492939">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/OperationGenerator.java" timestamp="1560437590867">
         <mark key="[" line="3" column="0" />
@@ -844,12 +920,24 @@
       <file name="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/test/java/com/dipp/identityowner/registration/command/registration/service/ActivityLogCreationServiceTest.java" timestamp="1562767705911">
         <mark key="'" line="226" column="30" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b445af27-99bf-4fc2-a867-903b5444c599/console.sql" timestamp="1564574271120">
+        <mark key="[" line="1" column="61" />
+        <mark key="]" line="1" column="62" />
+        <mark key="^" line="1" column="62" />
+        <mark key="." line="1" column="62" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/twofaaas/TwofaaasRequestedCheckerTest.java" timestamp="1564037750617">
         <mark key="'" line="31" column="4" />
         <mark key="[" line="26" column="54" />
         <mark key="]" line="26" column="57" />
         <mark key="." line="26" column="57" />
         <mark key="^" line="26" column="57" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasValidatorTest.java" timestamp="1564657046515">
+        <mark key="[" line="255" column="86" />
+        <mark key="]" line="255" column="110" />
+        <mark key="." line="255" column="110" />
+        <mark key="^" line="255" column="110" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/config/TwofaOnlyAuthorizationConfiguration.java" timestamp="1561979025873">
         <mark key="[" line="18" column="0" />
@@ -945,9 +1033,19 @@
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" timestamp="1563791437296">
         <mark key="'" line="42" column="51" />
+        <mark key="[" line="45" column="123" />
+        <mark key="]" line="45" column="137" />
+        <mark key="." line="45" column="137" />
+        <mark key="^" line="45" column="137" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileSpAuthShortcutServiceTest.java" timestamp="1564137152848">
         <mark key="'" line="16" column="94" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/twofaaas/TwofaaasErrorType.java" timestamp="1564643007808">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/build.gradle" timestamp="1563263615245">
         <mark key="'" line="108" column="62" />
@@ -972,6 +1070,9 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sealone.client/so-client-api/1.11/5a0db3522168c7f6f40dc5bb543bbc0c1b7dc9ba/so-client-api-1.11.jar!/com/sealone/client/api/util/RequestBuilder.class" timestamp="1558594439401">
         <mark key="'" line="53" column="33" />
+      </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/nfinteraction/JdbcNfactorInteractionRepository.java" timestamp="1564737209505">
+        <mark key="'" line="154" column="49" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.regexp" timestamp="1558954988074">
         <mark key="[" line="0" column="0" />
@@ -1030,17 +1131,17 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/nfa/cancel/NfaDiscontinuationService.java" timestamp="1559122693515">
         <mark key="'" line="108" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52c2c397-f035-4017-b9d7-b46b98a4a698/console_2.sql" timestamp="1562748788647">
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="0" column="65" />
-        <mark key="^" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/request/SealOneMessageValidator.java" timestamp="1564127101324">
         <mark key="[" line="24" column="9" />
         <mark key="]" line="26" column="22" />
         <mark key="." line="26" column="22" />
         <mark key="^" line="26" column="22" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52c2c397-f035-4017-b9d7-b46b98a4a698/console_2.sql" timestamp="1562748788647">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="65" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/test/java/com/dipp/api/gateway/filters/NfaDeactivationFilterTest.java" timestamp="1557746356426">
         <mark key="'" line="17" column="37" />
@@ -1149,14 +1250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/twofaaas/TwofaaasRequestedChecker.java" />
-      <jump line="63" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/twofaaas/TwofaaasRequestedChecker.java" />
-      <jump line="55" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/twofaaas/TwofaaasRequestedChecker.java" />
-      <jump line="52" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/twofaaas/TwofaaasRequestedChecker.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/twofaaas/TwofaaasRequestedChecker.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/twofaaas/TwofaaasRequestedChecker.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/twofaaas/TwofaaasRequestedChecker.java" />
-      <jump line="30" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/twofaaas/TwofaaasRequestedChecker.java" />
       <jump line="14" column="61" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/PrerequisiteConfiguration.java" />
       <jump line="34" column="31" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/controller/ErrorHandler.java" />
       <jump line="23" column="8" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/PrerequisiteCheckerTest.java" />
@@ -1249,6 +1342,14 @@
       <jump line="36" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka-2/build.gradle" />
       <jump line="9" column="4" filename="$USER_HOME$/Projects/Java/spodddify-kafka-2/build.gradle" />
       <jump line="7" column="4" filename="$USER_HOME$/Projects/Java/spodddify-kafka-2/build.gradle" />
+      <jump line="38" column="107" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/nfinteraction/JdbcNfactorInteractionRepository.java" />
+      <jump line="173" column="34" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/nfinteraction/JdbcNfactorInteractionRepository.java" />
+      <jump line="152" column="91" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/nfinteraction/JdbcNfactorInteractionRepository.java" />
+      <jump line="154" column="49" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/repository/nfinteraction/JdbcNfactorInteractionRepository.java" />
+      <jump line="28" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasHttpRequestWrapper.java" />
+      <jump line="69" column="19" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasSerivce.java" />
+      <jump line="90" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasSerivce.java" />
+      <jump line="98" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasSerivce.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1258,7 +1359,7 @@
         <text>SR2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXBvc2l0b3JpZXNcPg==</text>
+        <text encoding="base64">XDxlbmhhbmNlRGlwcFRva2VuXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9yZXBvLnNwcmluZy5pby9taWxlc3RvbmUiIH0K</text>
@@ -1325,9 +1426,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXBvc2l0b3JpZXNcPg==</last-search>
+      <last-search encoding="base64">XDxlbmhhbmNlRGlwcFRva2VuXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXBvc2l0b3JpZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxlbmhhbmNlRGlwcFRva2VuXD4=</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>-1</last-dir>
@@ -1335,58 +1436,39 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0d29mYWFhc1w+</entry>
-        <entry encoding="base64">XDxzdWJqZWN0XD4=</entry>
-        <entry encoding="base64">XDx1bmRlclRlc3RcPg==</entry>
-        <entry encoding="base64">XDxpc0ludGVybmFsQ2xpZW50XD4=</entry>
-        <entry encoding="base64">XDxJU19JTlRFUk5BTF9DTElFTlRcPg==</entry>
-        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
-        <entry encoding="base64">XDxleGVjXD4=</entry>
-        <entry encoding="base64">XDxNZXNzYWdlQ2hhbm5lbFw+</entry>
-        <entry encoding="base64">XDxzb3VyY2VDaGFubmVsXD4=</entry>
-        <entry encoding="base64">XDxrb3RsaW5fdmVyc2lvblw+</entry>
-        <entry encoding="base64">XDxQYXltZW50Q2hhbm5lbHNcPg==</entry>
-        <entry encoding="base64">XDxrYWZrYVRlbXBsYXRlXD4=</entry>
-        <entry encoding="base64">XDxLYWZrYVRlbXBsYXRlXD4=</entry>
-        <entry>boot</entry>
-        <entry>spring</entry>
-        <entry encoding="base64">XDxtYW5hZ2VtZW50XD4=</entry>
-        <entry encoding="base64">XDxzcHJpbmdDbG91ZFZlcnNpb25cPg==</entry>
-        <entry encoding="base64">XDxkZXBlbmRlbmN5TWFuYWdlbWVudFw+</entry>
-        <entry encoding="base64">XDxjb25maWd1cmF0aW9uc1w+</entry>
-        <entry encoding="base64">XDxyZXBvc2l0b3JpZXNcPg==</entry>
+        <entry>byeuid</entry>
+        <entry>dipp</entry>
+        <entry encoding="base64">XDxESVBQXD4=</entry>
+        <entry encoding="base64">XDxkaXBwXD4=</entry>
+        <entry encoding="base64">XDxSZXBsYWNlVG9rZW5zXD4=</entry>
+        <entry encoding="base64">XDxzd2FnZ2VyRmVpZ25PdXRwdXRcPg==</entry>
+        <entry encoding="base64">XDxzd2FnZ2VyVGVtcGxhdGVWZXJzaW9uXD4=</entry>
+        <entry encoding="base64">XDxEaXBwVG9rZW5cPg==</entry>
+        <entry encoding="base64">XDxjaGVja0NsaWVudElkXD4=</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZVJlcXVlc3RcPg==</entry>
+        <entry encoding="base64">XDxkaXBwVG9rZW5cPg==</entry>
+        <entry encoding="base64">XDxESVBQX1RPS0VOXD4=</entry>
+        <entry encoding="base64">XDxyZW1vdmVUd29mYWFhc1JlcXVlc3RcPg==</entry>
+        <entry encoding="base64">XDxyZW1vdmVUd29mYWFhc1JlbGF0ZWREYXRhXD4=</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZUNvdW50cnlDb2RlXD4=</entry>
+        <entry encoding="base64">XDx1aWRcPg==</entry>
+        <entry encoding="base64">XDxvcGVyYXRpb25JZFw+</entry>
+        <entry encoding="base64">XDxnZXRFbmhhbmNlZERpcHBUb2tlbkFzU3RyaW5nXD4=</entry>
+        <entry encoding="base64">XDxlbmhhbmNlRGlwcFRva2VuSW5SZXF1ZXN0Q29udGV4dEZvclNFU1w+</entry>
+        <entry encoding="base64">XDxlbmhhbmNlRGlwcFRva2VuXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/consumer/server/g</entry>
-        <entry>%s//\&quot;//g</entry>
-        <entry>%s:\&quot;::g</entry>
-        <entry>%s:\\&quot;::g</entry>
-        <entry>%s:\\::g</entry>
-        <entry>%s/;/,/g</entry>
-        <entry>action RecentFiles</entry>
-        <entry encoding="base64">JzwsJz5zLyQgLy8=</entry>
-        <entry>action $Copy</entry>
-        <entry>w</entry>
-        <entry>q</entry>
-        <entry>+39t-1</entry>
-        <entry>-31x-1</entry>
-        <entry>-31t-1</entry>
-        <entry>30t-1</entry>
-        <entry>-30t-1</entry>
-        <entry>-27t-1</entry>
-        <entry>+8t-1</entry>
-        <entry>-34t-1</entry>
         <entry>action GotoSuperMethod</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed OPEN_BRACKET</text>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed CLOSE_BRACKET</text>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
@@ -1394,41 +1476,50 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
@@ -1440,16 +1531,7 @@
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed M</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
