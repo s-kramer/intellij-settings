@@ -298,6 +298,9 @@
         <mark key="." line="48" column="60" />
         <mark key="^" line="48" column="60" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream-binder-kafka/2.1.3.RELEASE/b1e0de345ff4b4ed9eef4ef3e32ad250556c42eb/spring-cloud-stream-binder-kafka-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/KafkaMessageChannelBinder.java" timestamp="1564767946422">
+        <mark key="'" line="263" column="29" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/resources/templates/welcome.html" timestamp="1562753053561">
         <mark key="[" line="69" column="75" />
         <mark key="]" line="69" column="83" />
@@ -1184,8 +1187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="47" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
-      <jump line="62" column="47" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
       <jump line="63" column="45" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
       <jump line="64" column="46" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
       <jump line="66" column="48" filename="$USER_HOME$/Projects/Java/spodddify-kafka/build.gradle" />
@@ -1284,6 +1285,8 @@
       <jump line="40" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream-binder-kafka-core/2.1.3.RELEASE/da9436cc8443587fe3b05e3e0f89c39b951b78b7/spring-cloud-stream-binder-kafka-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/properties/KafkaExtendedBindingProperties.java" />
       <jump line="36" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream-binder-kafka-core/2.1.3.RELEASE/da9436cc8443587fe3b05e3e0f89c39b951b78b7/spring-cloud-stream-binder-kafka-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/properties/KafkaExtendedBindingProperties.java" />
       <jump line="148" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream-binder-kafka/2.1.3.RELEASE/b1e0de345ff4b4ed9eef4ef3e32ad250556c42eb/spring-cloud-stream-binder-kafka-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/config/KafkaBinderConfiguration.java" />
+      <jump line="270" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream-binder-kafka/2.1.3.RELEASE/b1e0de345ff4b4ed9eef4ef3e32ad250556c42eb/spring-cloud-stream-binder-kafka-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/KafkaMessageChannelBinder.java" />
+      <jump line="263" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream-binder-kafka/2.1.3.RELEASE/b1e0de345ff4b4ed9eef4ef3e32ad250556c42eb/spring-cloud-stream-binder-kafka-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/KafkaMessageChannelBinder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1293,7 +1296,7 @@
         <text>30001</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxERUZBVUxUU19QUkVGSVhcPg==</text>
+        <text encoding="base64">XDxjcmVhdGVQcm9kdWNlck1lc3NhZ2VIYW5kbGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QENvbmZpZ3VyYXRpb24KQEVuYWJsZUJpbmRpbmcoT3BlcmF0aW9uc0NoYW5uZWxzOjpjbGFzcykK</text>
@@ -1360,9 +1363,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxERUZBVUxUU19QUkVGSVhcPg==</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVQcm9kdWNlck1lc3NhZ2VIYW5kbGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxERUZBVUxUU19QUkVGSVhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVQcm9kdWNlck1lc3NhZ2VIYW5kbGVyXD4=</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
@@ -1370,7 +1373,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxrYWZrYVRlbXBsYXRlXD4=</entry>
         <entry encoding="base64">XDxLYWZrYVRlbXBsYXRlXD4=</entry>
         <entry>boot</entry>
         <entry>spring</entry>
@@ -1390,6 +1392,7 @@
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxERUZBVUxUU19QUkVGSVhcPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGVQcm9kdWNlck1lc3NhZ2VIYW5kbGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/consumer/server/g</entry>
