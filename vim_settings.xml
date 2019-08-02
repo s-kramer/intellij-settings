@@ -687,12 +687,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" timestamp="1564134755103">
-        <mark key="'" line="92" column="19" />
-        <mark key="[" line="47" column="29" />
-        <mark key="]" line="47" column="30" />
-        <mark key="." line="47" column="30" />
-        <mark key="^" line="74" column="30" />
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" timestamp="1564747017407">
+        <mark key="'" line="116" column="23" />
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="46" column="17" />
+        <mark key="." line="46" column="17" />
+        <mark key="^" line="46" column="17" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/enhancer/HydraDippTokenResolver.java" timestamp="1563263797902">
         <mark key="'" line="24" column="13" />
@@ -1250,10 +1250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="31" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/controller/ErrorHandler.java" />
-      <jump line="23" column="8" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/PrerequisiteCheckerTest.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/PrerequisiteCheckerTest.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/PrerequisiteCheckerTest.java" />
       <jump line="40" column="0" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/prerequisites/PrerequisiteCheckerTest.java" />
       <jump line="97" column="85" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageService.java" />
       <jump line="92" column="58" filename="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageService.java" />
@@ -1350,6 +1346,10 @@
       <jump line="90" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasSerivce.java" />
       <jump line="98" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasSerivce.java" />
       <jump line="67" column="19" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasHttpRequestWrapper.java" />
+      <jump line="125" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
+      <jump line="102" column="16" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
+      <jump line="128" column="31" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
+      <jump line="116" column="23" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1359,7 +1359,7 @@
         <text>SR2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRFbmhhbmNlZEp3c0RpcHBUb2tlblw+</text>
+        <text encoding="base64">XDxnZXROZmFPcGVyYXRpb25TdGF0dXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9yZXBvLnNwcmluZy5pby9taWxlc3RvbmUiIH0K</text>
@@ -1426,9 +1426,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRFbmhhbmNlZEp3c0RpcHBUb2tlblw+</last-search>
+      <last-search encoding="base64">XDxnZXROZmFPcGVyYXRpb25TdGF0dXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRFbmhhbmNlZEp3c0RpcHBUb2tlblw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXROZmFPcGVyYXRpb25TdGF0dXNcPg==</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>-1</last-dir>
@@ -1436,7 +1436,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dipp</entry>
         <entry encoding="base64">XDxESVBQXD4=</entry>
         <entry encoding="base64">XDxkaXBwXD4=</entry>
         <entry encoding="base64">XDxSZXBsYWNlVG9rZW5zXD4=</entry>
@@ -1448,7 +1447,6 @@
         <entry encoding="base64">XDxkaXBwVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxESVBQX1RPS0VOXD4=</entry>
         <entry encoding="base64">XDxyZW1vdmVUd29mYWFhc1JlcXVlc3RcPg==</entry>
-        <entry encoding="base64">XDxyZW1vdmVUd29mYWFhc1JlbGF0ZWREYXRhXD4=</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZUNvdW50cnlDb2RlXD4=</entry>
         <entry encoding="base64">XDx1aWRcPg==</entry>
         <entry encoding="base64">XDxvcGVyYXRpb25JZFw+</entry>
@@ -1456,6 +1454,8 @@
         <entry encoding="base64">XDxlbmhhbmNlRGlwcFRva2VuSW5SZXF1ZXN0Q29udGV4dEZvclNFU1w+</entry>
         <entry encoding="base64">XDxlbmhhbmNlRGlwcFRva2VuXD4=</entry>
         <entry encoding="base64">XDxnZXRFbmhhbmNlZEp3c0RpcHBUb2tlblw+</entry>
+        <entry encoding="base64">XDxyZW1vdmVUd29mYWFhc1JlbGF0ZWREYXRhXD4=</entry>
+        <entry encoding="base64">XDxnZXROZmFPcGVyYXRpb25TdGF0dXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoSuperMethod</entry>
