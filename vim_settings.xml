@@ -458,8 +458,8 @@
         <mark key="." line="19" column="42" />
         <mark key="^" line="19" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564755964883">
-        <mark key="[" line="0" column="13" />
+      <file name="/Dummy.txt" timestamp="1564759043858">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -570,11 +570,11 @@
         <mark key="'" line="42" column="4" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" timestamp="1564747017407">
-        <mark key="'" line="116" column="23" />
-        <mark key="[" line="45" column="13" />
-        <mark key="]" line="46" column="17" />
-        <mark key="." line="46" column="17" />
-        <mark key="^" line="46" column="17" />
+        <mark key="'" line="111" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/kafka/spring-cloud-stream-samples/multibinder-samples/multibinder-kafka-rabbit/src/main/java/multibinder/BridgeTransformer.java" timestamp="1564759041156">
+        <mark key="'" line="40" column="15" />
+        <mark key="[" line="47" column="5" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/enhancer/HydraDippTokenResolver.java" timestamp="1563263797902">
         <mark key="'" line="24" column="13" />
@@ -764,6 +764,7 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/kafka/spring-cloud-stream-samples/multibinder-samples/multibinder-kafka-rabbit/src/main/resources/application.yml" timestamp="1564758667316" />
       <file name="$USER_HOME$/sd/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/CreateBillingAccountRequest.java" timestamp="1557729885152">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -1066,10 +1067,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/Events.kt" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/Java/ddd-paynow/domain-events/src/main/kotlin/pl/melements/poc/dddpaynow/domainevents/PaymentCreatedEvent.kt" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/Events.kt" />
-      <jump line="8" column="55" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/KafkaTestController.kt" />
       <jump line="13" column="8" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/KafkaTestController.kt" />
       <jump line="11" column="20" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/KafkaTestController.kt" />
       <jump line="2" column="38" filename="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/kotlin/org/skramer/spodddify/infra/KafkaTestController.kt" />
@@ -1166,6 +1163,10 @@
       <jump line="48" column="0" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NfaDeactivationFilter.java" />
       <jump line="53" column="0" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NfaDeactivationFilter.java" />
       <jump line="69" column="27" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NfaDeactivationFilter.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/kafka/spring-cloud-stream-samples/multibinder-samples/multibinder-kafka-rabbit/src/main/java/multibinder/BridgeTransformer.java" />
+      <jump line="24" column="50" filename="$USER_HOME$/projects/kafka/spring-cloud-stream-samples/multibinder-samples/multibinder-kafka-rabbit/src/main/java/multibinder/BridgeTransformer.java" />
+      <jump line="43" column="20" filename="$USER_HOME$/projects/kafka/spring-cloud-stream-samples/multibinder-samples/multibinder-kafka-rabbit/src/main/java/multibinder/BridgeTransformer.java" />
+      <jump line="40" column="15" filename="$USER_HOME$/projects/kafka/spring-cloud-stream-samples/multibinder-samples/multibinder-kafka-rabbit/src/main/java/multibinder/BridgeTransformer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1175,7 +1176,7 @@
         <text>901 added dipp token to import-export call</text>
       </register>
       <register name="/" type="4">
-        <text>deactivate</text>
+        <text encoding="base64">XDxQcm9jZXNzb3JcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUmVxdWVzdEhhbmRsZXIgcmVxdWVzdEhhbmRsZXI7Cg==</text>
@@ -1242,17 +1243,16 @@
       </register>
     </registers>
     <search>
-      <last-search>deactivate</last-search>
+      <last-search encoding="base64">XDxQcm9jZXNzb3JcPg==</last-search>
       <last-offset />
-      <last-pattern>deactivate</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9jZXNzb3JcPg==</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1aWRcPg==</entry>
         <entry encoding="base64">XDxvcGVyYXRpb25JZFw+</entry>
         <entry encoding="base64">XDxnZXRFbmhhbmNlZERpcHBUb2tlbkFzU3RyaW5nXD4=</entry>
         <entry encoding="base64">XDxlbmhhbmNlRGlwcFRva2VuSW5SZXF1ZXN0Q29udGV4dEZvclNFU1w+</entry>
@@ -1272,6 +1272,7 @@
         <entry encoding="base64">XDxub3RFbXB0eURpcHBUb2tlblw+</entry>
         <entry>handler</entry>
         <entry>deactivate</entry>
+        <entry encoding="base64">XDxQcm9jZXNzb3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoSuperMethod</entry>
