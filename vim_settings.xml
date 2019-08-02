@@ -106,7 +106,7 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/service/nfauthentication/sealone/SealOneRequestBuilder.java" timestamp="1558594478313">
         <mark key="'" line="7" column="13" />
       </file>
-      <file name="/userstatus [postgres@devint]" timestamp="1564751425116">
+      <file name="/userstatus [postgres@devint]" timestamp="1564752828026">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp.security/security-java-server-spring/1_4_MAY/39791feb0df4e3277ba1297e58605d9584bf4e2f/security-java-server-spring-1_4_MAY-sources.jar!/com/dipp/security/model/OperationResponse.java" timestamp="1559300867197">
@@ -325,12 +325,12 @@
         <mark key="." line="48" column="60" />
         <mark key="^" line="48" column="60" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/02f951a1-6a16-4f38-bdc7-ae88a998cdc5/console_1.sql" timestamp="1564751548368">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="3" column="67" />
-        <mark key="]" line="3" column="67" />
-        <mark key="^" line="3" column="67" />
-        <mark key="." line="3" column="67" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/02f951a1-6a16-4f38-bdc7-ae88a998cdc5/console_1.sql" timestamp="1564752833478">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+        <mark key="^" line="10" column="11" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/service-provider-mock/src/main/resources/templates/welcome.html" timestamp="1562753053561">
         <mark key="[" line="69" column="75" />
@@ -456,7 +456,7 @@
       <file name="$USER_HOME$/verimi-auth-verimi/test-frontend/src/test/java/com/dipp/frontendtest/smoketest/AddRemoveVerifiedDocumentsThroughDeutscheBank.java" timestamp="1557471527530">
         <mark key="'" line="111" column="66" />
       </file>
-      <file name="/postgres.user_status.userstatus" timestamp="1564751425148">
+      <file name="/postgres.user_status.userstatus" timestamp="1564752828049">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasNfaInteractionFacadeTest.java" timestamp="1564133471204">
@@ -534,7 +534,7 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/page/LoginPageService.java" timestamp="1564158465807">
         <mark key="'" line="171" column="20" />
       </file>
-      <file name="/dummy.sql" timestamp="1564751425745">
+      <file name="/dummy.sql" timestamp="1564752828594">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -559,8 +559,8 @@
         <mark key="." line="19" column="42" />
         <mark key="^" line="19" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564158714299">
-        <mark key="[" line="0" column="41" />
+      <file name="/Dummy.txt" timestamp="1564752777301">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
@@ -617,7 +617,7 @@
         <mark key="." line="52" column="57" />
         <mark key="^" line="52" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1564229995078">
+      <file name="/fragment.java" timestamp="1564752777290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -1276,7 +1276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/SourceApplication.http" />
       <jump line="12" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/SourceApplication.http" />
       <jump line="5" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/SourceApplication.http" />
       <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/SourceApplication.http" />
@@ -1376,40 +1375,41 @@
       <jump line="17" column="8" filename="$USER_HOME$/verimi-auth-verimi/identityowner-service/service/src/main/java/com/dipp/identityowner/nfactor/user/service/configuration/NFANotificationService.java" />
       <jump line="0" column="49" filename="$APPLICATION_CONFIG_DIR$/consoles/db/02f951a1-6a16-4f38-bdc7-ae88a998cdc5/console_1.sql" />
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/02f951a1-6a16-4f38-bdc7-ae88a998cdc5/console_1.sql" />
+      <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/02f951a1-6a16-4f38-bdc7-ae88a998cdc5/console_1.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kXD4=</text>
+        <text>doc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">d2hlcmUgdXNlcnN0YXR1cy51c2Vyc3RhdHVzLnVpZCA9ICgKICAgIHNlbGVjdCB1aWQgZnJvbSBjb250YWN0LmVtYWlsIHdoZXJlIGVtYWlsLmVtYWlsID0gJ3NrNkB0ZS5zdCcKICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuQ2VudHJhbCgpCn0KCg==</text>
+        <text encoding="base64">ICAgIGkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkJvbSAnb3JnLnNwcmluZ2ZyYW1ld29yay5jbG91ZDpzcHJpbmctY2xvdWQtZGVwZW5kZW5jaWVzOkdyZWVud2ljaC5SRUxFQVNFJwo=</text>
+        <text encoding="base64">ICAgIGkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hdmVuQm9tICdvcmcuc3ByaW5nZnJhbWV3b3JrLmNsb3VkOnNwcmluZy1jbG91ZC1kZXBlbmRlbmNpZXM6R3JlZW53aWNoLlJFTEVBU0UnCg==</text>
+        <text encoding="base64">ICAgIGkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlkICdqYXZhJwo=</text>
+        <text encoding="base64">ICAgIGkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuQ2VudHJhbCgpCn0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CiAgICBrb3RsaW4oImp2bSIpIHZlcnNpb24gIjEuMi43MSIKICAgIGlkICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnIHZlcnNpb24gJzIuMS42LlJFTEVBU0UnCn0K</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkJvbSAnb3JnLnNwcmluZ2ZyYW1ld29yay5jbG91ZDpzcHJpbmctY2xvdWQtZGVwZW5kZW5jaWVzOkdyZWVud2ljaC5SRUxFQVNFJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hdmVuQm9tICdvcmcuc3ByaW5nZnJhbWV3b3JrLmNsb3VkOnNwcmluZy1jbG91ZC1kZXBlbmRlbmNpZXM6R3JlZW53aWNoLlJFTEVBU0UnCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1442,19 +1442,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGx1Z2lucyB7Cn0K</text>
+        <text encoding="base64">ICAgIGlkICdqYXZhJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlkICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnIHZlcnNpb24gJzIuMS42LlJFTEVBU0UnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kXD4=</last-search>
+      <last-search>doc</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kXD4=</last-pattern>
+      <last-pattern>doc</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
@@ -1462,7 +1462,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEaXBwVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxjaGVja0NsaWVudElkXD4=</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZVJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxkaXBwVG9rZW5cPg==</entry>
@@ -1482,6 +1481,7 @@
         <entry>nfactor-configuration-command-service-nfa-configurations-disable</entry>
         <entry>disable</entry>
         <entry encoding="base64">XDxzZW5kXD4=</entry>
+        <entry>doc</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoSuperMethod</entry>
