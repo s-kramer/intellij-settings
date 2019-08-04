@@ -65,11 +65,12 @@
       <file name="$MAVEN_REPOSITORY$/net/minidev/json-smart/2.3/json-smart-2.3-sources.jar!/net/minidev/json/JSONObject.java" timestamp="1560854519020">
         <mark key="'" line="83" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" timestamp="1564918689614">
-        <mark key="[" line="71" column="43" />
-        <mark key="]" line="71" column="43" />
-        <mark key="." line="71" column="43" />
-        <mark key="^" line="71" column="43" />
+      <file name="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" timestamp="1564949046359">
+        <mark key="'" line="69" column="28" />
+        <mark key="[" line="67" column="22" />
+        <mark key="]" line="67" column="28" />
+        <mark key="." line="67" column="28" />
+        <mark key="^" line="67" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spodddify-kafka-java/build.gradle" timestamp="1564766776991">
         <mark key="'" line="0" column="0" />
@@ -294,6 +295,13 @@
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/verimi/domain/ACRValue.java" timestamp="1563970132107">
         <mark key="'" line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/pom.xml" timestamp="1564946925180">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="40" column="45" />
+        <mark key="]" line="40" column="46" />
+        <mark key="^" line="40" column="46" />
+        <mark key="." line="40" column="46" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java" timestamp="1557821485694">
         <mark key="'" line="0" column="0" />
@@ -533,6 +541,9 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/nfa/LoginNfaService.java" timestamp="1557395025197">
         <mark key="'" line="125" column="53" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.0.M2/spring-cloud-stream-3.0.0.M2.jar!/org/springframework/cloud/stream/messaging/Sink.class" timestamp="1564947552348">
+        <mark key="[" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" timestamp="1564779683766">
         <mark key="a" line="293" column="25" />
         <mark key="'" line="204" column="63" />
@@ -680,27 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="41" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/multibinder-samples/multibinder-kafka-rabbit/src/main/java/multibinder/BridgeTransformer.java" />
-      <jump line="85" column="14" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/multibinder-samples/multibinder-kafka-rabbit/src/main/java/multibinder/BridgeTransformer.java" />
-      <jump line="65" column="19" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/multibinder-samples/multibinder-kafka-rabbit/src/main/java/multibinder/BridgeTransformer.java" />
-      <jump line="70" column="24" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/multibinder-samples/multibinder-kafka-rabbit/src/main/java/multibinder/BridgeTransformer.java" />
-      <jump line="76" column="14" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/multibinder-samples/multibinder-kafka-rabbit/src/main/java/multibinder/BridgeTransformer.java" />
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.0.BUILD-SNAPSHOT/spring-cloud-stream-3.0.0.BUILD-20190708.152801-45.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.class" />
-      <jump line="44" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.0.BUILD-SNAPSHOT/spring-cloud-stream-3.0.0.BUILD-20190708.152801-45.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.class" />
-      <jump line="135" column="24" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.0.BUILD-SNAPSHOT/spring-cloud-stream-3.0.0.BUILD-20190708.152801-45.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.class" />
-      <jump line="79" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.0.BUILD-SNAPSHOT/spring-cloud-stream-3.0.0.BUILD-20190708.152801-45.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.class" />
-      <jump line="78" column="40" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.0.BUILD-SNAPSHOT/spring-cloud-stream-3.0.0.BUILD-20190708.152801-45.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.class" />
-      <jump line="75" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.0.BUILD-SNAPSHOT/spring-cloud-stream-3.0.0.BUILD-20190708.152801-45.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.class" />
-      <jump line="45" column="21" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.0.BUILD-SNAPSHOT/spring-cloud-stream-3.0.0.BUILD-20190708.152801-45.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.class" />
-      <jump line="53" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.0.BUILD-SNAPSHOT/spring-cloud-stream-3.0.0.BUILD-20190708.152801-45.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.class" />
-      <jump line="99" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.0.BUILD-SNAPSHOT/spring-cloud-stream-3.0.0.BUILD-20190708.152801-45.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.class" />
-      <jump line="102" column="48" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.0.BUILD-SNAPSHOT/spring-cloud-stream-3.0.0.BUILD-20190708.152801-45.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.class" />
-      <jump line="103" column="35" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.0.BUILD-SNAPSHOT/spring-cloud-stream-3.0.0.BUILD-20190708.152801-45.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.class" />
-      <jump line="136" column="51" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.0.BUILD-SNAPSHOT/spring-cloud-stream-3.0.0.BUILD-20190708.152801-45.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.class" />
-      <jump line="98" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.0.BUILD-SNAPSHOT/spring-cloud-stream-3.0.0.BUILD-20190708.152801-45.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.class" />
-      <jump line="26" column="43" filename="$USER_HOME$/Projects/Java/spodddify-kafka-java/src/main/java/org/skramer/spodddify/SpodddifyApplication.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka-java/src/main/java/org/skramer/spodddify/SpodddifyApplication.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka-java/src/main/java/org/skramer/spodddify/SpodddifyApplication.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka-java/src/main/resources/application-local.yml" />
       <jump line="54" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BinderProperties.java" />
       <jump line="56" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" />
@@ -780,40 +770,61 @@
       <jump line="82" column="21" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/polled-consumer/src/main/java/demo/PolledConsumerApplication.java" />
       <jump line="51" column="65" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/polled-consumer/src/main/java/demo/PolledConsumerApplication.java" />
       <jump line="88" column="8" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/polled-consumer/src/main/java/demo/PolledConsumerApplication.java" />
+      <jump line="40" column="29" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/pom.xml" />
+      <jump line="39" column="14" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/pom.xml" />
+      <jump line="16" column="9" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/pom.xml" />
+      <jump line="6" column="5" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/pom.xml" />
+      <jump line="0" column="6" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/pom.xml" />
+      <jump line="61" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="45" column="19" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="59" column="17" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="69" column="31" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="81" column="17" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="82" column="23" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="67" column="17" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="77" column="28" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="66" column="19" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="64" column="28" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICs=</text>
+        <text>long</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICs=</text>
+        <text>long</text>
       </register>
       <register name="/" type="4">
-        <text>docker</text>
+        <text encoding="base64">XDxTaW5rXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgTG9nIGxvZ2dlciA9IExvZ0ZhY3RvcnkuZ2V0TG9nKGdldENsYXNzKCkpOwo=</text>
+        <text encoding="base64">CQlwcml2YXRlIEF0b21pY0Jvb2xlYW4gc2VtYXBob3JlID0gbmV3IEF0b21pY0Jvb2xlYW4odHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiYmlsbC1wYXkiOiAiMTAwIgo=</text>
+        <text encoding="base64">CQkJCXRoaXMuc2VtYXBob3JlLmNvbXBhcmVBbmRTZXQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCXNlbWFwaG9yZS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQluZXcgR2VuZXJpY01lc3NhZ2U8Pih0aGlzLnNlbWFwaG9yZS5nZXRBbmRTZXQoIXRoaXMuc2VtYXBob3JlLmdldCgpKSA/ICJmb28iIDogImJhciIpOwo=</text>
+        <text encoding="base64">CQkJCWxvZ2dlci5pbmZvKCJjdXJyZW50OiB7fSwgbW9yZUN1cnJlbnQ6IHt9IiwgY3VycmVudCwgbW9yZUN1cnJlbnQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbgo=</text>
+        <text encoding="base64">CQlAU3RyZWFtTGlzdGVuZXIoIm91dHB1dCIpCgkJcHVibGljIHZvaWQgcmVjZWl2ZShTdHJpbmcgcGF5bG9hZCkgewoJCQlsb2dnZXIuaW5mbygiRGF0YSByZWNlaXZlZDoge30iLCBwYXlsb2FkKTsKCQl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">CUBDb25maWd1cmF0aW9uCglARW5hYmxlQmluZGluZyhUZXN0U291cmNlLmNsYXNzKQoJcHJpdmF0ZSBzdGF0aWMgY2xhc3MgQ29uZmlnIHsKCX0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAga2Fma2E6CiAgICAgICAgYmluZGVyOgogICAgICAgICAgYnJva2VyczogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYmluZGVyczoKICAgICAgICBiaW5kZXI6Cg==</text>
+        <text encoding="base64">QEVuYWJsZUJpbmRpbmcK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -846,19 +857,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdC1iaW5kZXI6Cgo=</text>
+        <text encoding="base64">CUBFbmFibGVCaW5kaW5nKFRlc3RTaW5rLmNsYXNzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAga2Fma2E6CiAgICAgICAgZGVmYXVsdDoK</text>
+        <text encoding="base64">CQkJCTxzY29wZT5pbXBvcnQ8L3Njb3BlPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search>docker</last-search>
+      <last-search encoding="base64">XDxTaW5rXD4=</last-search>
       <last-offset />
-      <last-pattern>docker</last-pattern>
+      <last-pattern encoding="base64">XDxTaW5rXD4=</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
@@ -866,13 +877,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUZXN0U2lua1w+</entry>
-        <entry encoding="base64">XDxkeW5hbWljRGVzdGluYXRpb25zXD4=</entry>
-        <entry encoding="base64">XDxnZXREeW5hbWljRGVzdGluYXRpb25zXD4=</entry>
-        <entry encoding="base64">XDxCaW5kZXJcPg==</entry>
-        <entry>default</entry>
-        <entry encoding="base64">XDxkZWZhdWx0QmluZGVyXD4=</entry>
-        <entry encoding="base64">XDxzb3VyY2VzXD4=</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxERUZBVUxUU19QUkVGSVhcPg==</entry>
@@ -886,6 +890,13 @@
         <entry encoding="base64">XDxQb2xsZWRQcm9jZXNzb3JcPg==</entry>
         <entry encoding="base64">XDxNZXNzYWdlQ2hhbm5lbFw+</entry>
         <entry>docker</entry>
+        <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
+        <entry encoding="base64">XDxUZXN0U291cmNlXD4=</entry>
+        <entry>test-sou</entry>
+        <entry encoding="base64">XDxzYW1wbGVTb3VyY2VcPg==</entry>
+        <entry encoding="base64">XDxUZXN0U2lua1w+</entry>
+        <entry encoding="base64">XDxzYW1wbGVTaW5rXD4=</entry>
+        <entry encoding="base64">XDxTaW5rXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/consumer/server/g</entry>
