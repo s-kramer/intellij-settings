@@ -65,12 +65,12 @@
       <file name="$MAVEN_REPOSITORY$/net/minidev/json-smart/2.3/json-smart-2.3-sources.jar!/net/minidev/json/JSONObject.java" timestamp="1560854519020">
         <mark key="'" line="83" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" timestamp="1564949046359">
-        <mark key="'" line="69" column="28" />
-        <mark key="[" line="67" column="22" />
-        <mark key="]" line="67" column="28" />
-        <mark key="." line="67" column="28" />
-        <mark key="^" line="67" column="28" />
+      <file name="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" timestamp="1565038018615">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="65" column="1" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="60" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spodddify-kafka-java/build.gradle" timestamp="1564766776991">
         <mark key="'" line="0" column="0" />
@@ -526,9 +526,10 @@
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/account/AccountController.java" timestamp="1563965663951">
         <mark key="'" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/resources/application.yml" timestamp="1564829807077">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="12" column="26" />
+      <file name="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/resources/application.yml" timestamp="1565038114690">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="27" />
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
@@ -691,31 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka-java/src/main/resources/application-local.yml" />
-      <jump line="54" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BinderProperties.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" />
-      <jump line="57" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" />
-      <jump line="125" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.1.6.RELEASE/b351c79404e096cc28d45f8395f53cc856989098/spring-boot-2.1.6.RELEASE-sources.jar!/org/springframework/boot/context/properties/bind/Binder.java" />
-      <jump line="116" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.1.6.RELEASE/b351c79404e096cc28d45f8395f53cc856989098/spring-boot-2.1.6.RELEASE-sources.jar!/org/springframework/boot/context/properties/bind/Binder.java" />
-      <jump line="110" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.1.6.RELEASE/b351c79404e096cc28d45f8395f53cc856989098/spring-boot-2.1.6.RELEASE-sources.jar!/org/springframework/boot/context/properties/bind/Binder.java" />
-      <jump line="104" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.1.6.RELEASE/b351c79404e096cc28d45f8395f53cc856989098/spring-boot-2.1.6.RELEASE-sources.jar!/org/springframework/boot/context/properties/bind/Binder.java" />
-      <jump line="293" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" />
-      <jump line="283" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" />
-      <jump line="279" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" />
-      <jump line="275" column="55" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" />
-      <jump line="116" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" />
-      <jump line="132" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" />
-      <jump line="110" column="39" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" />
-      <jump line="108" column="70" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" />
-      <jump line="69" column="59" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" />
-      <jump line="99" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" />
-      <jump line="133" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" />
-      <jump line="136" column="40" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" />
-      <jump line="137" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" />
-      <jump line="202" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/2.1.3.RELEASE/4f1a4acdd49139ecab85cc1952c3db2af52fd34d/spring-cloud-stream-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/Java/spodddify-kafka-java/src/main/resources/application-local.yml" />
-      <jump line="128" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.1.6.RELEASE/b351c79404e096cc28d45f8395f53cc856989098/spring-boot-2.1.6.RELEASE-sources.jar!/org/springframework/boot/context/properties/bind/Binder.java" />
-      <jump line="347" column="81" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.1.6.RELEASE/b351c79404e096cc28d45f8395f53cc856989098/spring-boot-2.1.6.RELEASE-sources.jar!/org/springframework/boot/context/properties/bind/Binder.java" />
       <jump line="189" column="51" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.1.6.RELEASE/b351c79404e096cc28d45f8395f53cc856989098/spring-boot-2.1.6.RELEASE-sources.jar!/org/springframework/boot/context/properties/bind/Binder.java" />
       <jump line="176" column="51" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.1.6.RELEASE/b351c79404e096cc28d45f8395f53cc856989098/spring-boot-2.1.6.RELEASE-sources.jar!/org/springframework/boot/context/properties/bind/Binder.java" />
       <jump line="163" column="51" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.1.6.RELEASE/b351c79404e096cc28d45f8395f53cc856989098/spring-boot-2.1.6.RELEASE-sources.jar!/org/springframework/boot/context/properties/bind/Binder.java" />
@@ -781,23 +757,48 @@
       <jump line="49" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
       <jump line="44" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
       <jump line="42" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
       <jump line="45" column="19" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
       <jump line="59" column="17" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
       <jump line="69" column="31" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
       <jump line="81" column="17" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
       <jump line="82" column="23" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
-      <jump line="67" column="17" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
-      <jump line="77" column="28" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
       <jump line="66" column="19" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
       <jump line="64" column="28" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="62" column="12" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="83" column="37" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="36" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="77" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="84" column="4" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="74" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="71" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="41" column="21" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="65" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="63" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="43" column="49" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="67" column="39" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="0" column="6" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/resources/application.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>long</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3ByaW5nOgogIGNsb3VkOgogICAgc3RyZWFtOgojICAgICAgYmluZGluZ3M6CiMgICAgICAgIG91dHB1dDoKIyAgICAgICAgICBkZXN0aW5hdGlvbjogeGZvcm1lZAojICAgICAgICB0ZXN0LXNpbms6CiMgICAgICAgICAgZGVzdGluYXRpb246IHhmb3JtZWQKIyAgICAgICAgaW5wdXQ6CiMgICAgICAgICAgZGVzdGluYXRpb246IHRlc3R0b2NrCiMgICAgICAgIHRlc3Qtc291cmNlOgojICAgICAgICAgIGRlc3RpbmF0aW9uOiB0ZXN0dG9jawogICAgICBkZWZhdWx0LWJpbmRlcjoga2Fma2EK</text>
       </register>
       <register name="-" type="4">
-        <text>long</text>
+        <text>&quot;output&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTaW5rXD4=</text>
@@ -806,25 +807,25 @@
         <text encoding="base64">CQlwcml2YXRlIEF0b21pY0Jvb2xlYW4gc2VtYXBob3JlID0gbmV3IEF0b21pY0Jvb2xlYW4odHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXRoaXMuc2VtYXBob3JlLmNvbXBhcmVBbmRTZXQoKQo=</text>
+        <text encoding="base64">LyoqCiAqIEBhdXRob3IgRGF2ZSBTeWVyCiAqIEBhdXRob3IgU29ieSBDaGFja28KICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXNlbWFwaG9yZS4K</text>
+        <text encoding="base64">ICAgIEBFbmFibGVCaW5kaW5nKFRlc3RTb3VyY2UuU2luay5jbGFzcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWxvZ2dlci5pbmZvKCJjdXJyZW50OiB7fSwgbW9yZUN1cnJlbnQ6IHt9IiwgY3VycmVudCwgbW9yZUN1cnJlbnQpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlAU3RyZWFtTGlzdGVuZXIoIm91dHB1dCIpCgkJcHVibGljIHZvaWQgcmVjZWl2ZShTdHJpbmcgcGF5bG9hZCkgewoJCQlsb2dnZXIuaW5mbygiRGF0YSByZWNlaXZlZDoge30iLCBwYXlsb2FkKTsKCQl9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CUBDb25maWd1cmF0aW9uCglARW5hYmxlQmluZGluZyhUZXN0U291cmNlLmNsYXNzKQoJcHJpdmF0ZSBzdGF0aWMgY2xhc3MgQ29uZmlnIHsKCX0KCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50ZXJmYWNlIFNpbmsgewogICAgICAgICAgICBASW5wdXQoImlucHV0IikKICAgICAgICAgICAgU3Vic2NyaWJhYmxlQ2hhbm5lbCBzYW1wbGVTaW5rKCk7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CX0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBACg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">QEVuYWJsZUJpbmRpbmcK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -857,10 +858,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBFbmFibGVCaW5kaW5nKFRlc3RTaW5rLmNsYXNzKQo=</text>
+        <text encoding="base64">Ly99Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCTxzY29wZT5pbXBvcnQ8L3Njb3BlPgo=</text>
+        <text encoding="base64">Ci8vICAgCUBFbmFibGVCaW5kaW5nKFNpbmsuY2xhc3MpCi8vCXN0YXRpYyBjbGFzcyBUZXN0U2luayB7CgovLwkJQFN0cmVhbUxpc3RlbmVyKCJvdXRwdXQiKQovLwkJcHVibGljIHZvaWQgcmVjZWl2ZShTdHJpbmcgcGF5bG9hZCkgewovLwkJCWxvZ2dlci5pbmZvKCJEYXRhIHJlY2VpdmVkOiAiICsgcGF5bG9hZCk7Ci8vCQl9Ci8vCX0KLy8KLy8JcHVibGljIGludGVyZmFjZSBTaW5rIHsKLy8JCUBJbnB1dCgiaW5wdXQiKQovLwkJU3Vic2NyaWJhYmxlQ2hhbm5lbCBzYW1wbGVTaW5rKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
