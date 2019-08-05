@@ -177,6 +177,10 @@
         <mark key="." line="10" column="34" />
         <mark key="^" line="10" column="34" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/enhancer/DippTokenEnhancementException.java" timestamp="1565001465507">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/Java/spodddify/axon-spodddify/src/main/java/org/skramer/spodddify/payment/CreateBillingAccountRequest.java" timestamp="1557348277527">
         <mark key="[" line="27" column="90" />
         <mark key="]" line="27" column="98" />
@@ -266,10 +270,6 @@
         <mark key="]" line="34" column="48" />
         <mark key="^" line="41" column="50" />
         <mark key="." line="41" column="50" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/ZuulFilterUtil.java" timestamp="1564755293104">
-        <mark key="[" line="37" column="56" />
-        <mark key="]" line="37" column="76" />
       </file>
       <file name="$USER_HOME$/verimi-auth/security-service/src/main/java/com/dipp/security/inlineregistration/MobileVerificationService.java" timestamp="1556543094770">
         <mark key="[" line="52" column="28" />
@@ -1141,8 +1141,8 @@
       <jump line="31" column="12" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/enhancer/DippTokenEnhancer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>047 added</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yKGFjY2VzcyA9IEFjY2Vzc0xldmVsLlBBQ0tBR0UpCg==</text>
       </register>
       <register name="-" type="4">
         <text>047 added</text>
