@@ -48,6 +48,9 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/PostAuthenticationFilter.java" timestamp="1565180354912">
+        <mark key="'" line="5" column="43" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/nfa/NfaApiFacade.java" timestamp="1563871127955">
         <mark key="'" line="35" column="0" />
       </file>
@@ -246,6 +249,7 @@
       <file name="/ConsentNfaStatusService.java" timestamp="1559122518134">
         <mark key="'" line="86" column="41" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/helpers/HydraPostAuthenticationFilterHelper.java" timestamp="1565180517635" />
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/login/login/service/MobileShortcutService.java" timestamp="1564047774041">
         <mark key="'" line="20" column="0" />
       </file>
@@ -950,14 +954,6 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/common/api/client/feign/configuration/ClientErrorGenericDecoder.java" timestamp="1557735872414">
         <mark key="'" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" timestamp="1565172100380">
-        <mark key="a" line="77" column="0" />
-        <mark key="'" line="32" column="4" />
-        <mark key="[" line="30" column="82" />
-        <mark key="]" line="31" column="3" />
-        <mark key="." line="31" column="3" />
-        <mark key="^" line="31" column="3" />
-      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/java/com/dipp/hydra/consent/verimi/mobileflow/MobileSpAuthShortcutServiceTest.java" timestamp="1564137152848">
         <mark key="'" line="16" column="94" />
       </file>
@@ -1169,8 +1165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasRequestValidationException.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasRequestValidationException.java" />
       <jump line="47" column="13" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/controller/ErrorHandler.java" />
       <jump line="33" column="24" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasTestSpec.java" />
       <jump line="35" column="121" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasTestSpec.java" />
@@ -1269,6 +1263,8 @@
       <jump line="15" column="0" filename="$USER_HOME$/verimi-auth-verimi/import-export-service/service/src/main/java/com/dipp/linkedprovider/repository/externaluid/ExternalUidRepository.java" />
       <jump line="52" column="61" filename="$USER_HOME$/verimi-auth-verimi/import-export-service/service/src/main/java/com/dipp/linkedprovider/service/LinkedProviderService.java" />
       <jump line="195" column="21" filename="$USER_HOME$/verimi-auth-verimi/import-export-service/service/src/main/java/com/dipp/linkedprovider/service/LinkedProviderService.java" />
+      <jump line="29" column="13" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/PostAuthenticationFilter.java" />
+      <jump line="5" column="43" filename="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/PostAuthenticationFilter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1278,7 +1274,7 @@
         <text>serviceProviderIds</text>
       </register>
       <register name="/" type="4">
-        <text>seconds:</text>
+        <text>session</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3RFbmhhbmNlZERpcHBUb2tlbigpOwo=</text>
@@ -1345,9 +1341,9 @@
       </register>
     </registers>
     <search>
-      <last-search>seconds:</last-search>
+      <last-search>session</last-search>
       <last-offset />
-      <last-pattern>seconds:</last-pattern>
+      <last-pattern>session</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
@@ -1355,7 +1351,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFcnJvckNvZGVcPg==</entry>
         <entry encoding="base64">XDxUd29mYWFhc1JlcXVlc3RWYWxpZGF0aW9uRXhjZXB0aW9uXD4=</entry>
         <entry encoding="base64">XDxlbmhhbmNlRGlwcFRva2Vuc1w+</entry>
         <entry encoding="base64">XDxvcGVyYXRpb25JZFw+</entry>
@@ -1375,6 +1370,7 @@
         <entry>verify</entry>
         <entry>link</entry>
         <entry>seconds:</entry>
+        <entry>session</entry>
       </history-search>
       <history-cmd>
         <entry>action $Copy</entry>
