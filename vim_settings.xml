@@ -274,6 +274,9 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/test/groovy/com/dipp/hydra/consent/verimi/consent/NfaAwareConsentAcceptingServiceSpec.groovy" timestamp="1558701285392">
         <mark key="'" line="27" column="39" />
       </file>
+      <file name="$USER_HOME$/verimi-auth-verimi/service-provider-mock/build.gradle" timestamp="1565344363513">
+        <mark key="'" line="83" column="17" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dipp/error-handler/1_3_APRIL_MASTER/2862841d184f33f442534ff7e739bdffe48b3079/error-handler-1_3_APRIL_MASTER-sources.jar!/com/dipp/error/errorhandler/controller/CommonErrorHandler.java" timestamp="1561968350925">
         <mark key="'" line="95" column="63" />
       </file>
@@ -600,16 +603,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="155" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="168" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="182" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="195" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="87" column="43" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="75" column="35" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
-      <jump line="69" column="70" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
-      <jump line="58" column="28" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
-      <jump line="53" column="12" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
       <jump line="51" column="87" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
       <jump line="213" column="28" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
       <jump line="235" column="35" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
@@ -700,6 +693,16 @@
       <jump line="159" column="17" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
       <jump line="1650" column="10" filename="$USER_HOME$/verimi-auth-verimi/environments/config/common/configmap-configuration-service.yaml" />
       <jump line="12" column="64" filename="$APPLICATION_CONFIG_DIR$/consoles/db/02f951a1-6a16-4f38-bdc7-ae88a998cdc5/console_1.sql" />
+      <jump line="63" column="0" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/build.gradle" />
+      <jump line="64" column="60" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/build.gradle" />
+      <jump line="67" column="54" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/build.gradle" />
+      <jump line="68" column="54" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/build.gradle" />
+      <jump line="74" column="42" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/build.gradle" />
+      <jump line="75" column="42" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/build.gradle" />
+      <jump line="76" column="54" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/build.gradle" />
+      <jump line="77" column="67" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/build.gradle" />
+      <jump line="80" column="64" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/build.gradle" />
+      <jump line="83" column="17" filename="$USER_HOME$/verimi-auth-verimi/service-provider-mock/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -709,7 +712,7 @@
         <text>7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHBlY3RFbmhhbmNlZERpcHBUb2tlblw+</text>
+        <text>spring</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3RFbmhhbmNlZERpcHBUb2tlbigpOwo=</text>
@@ -776,23 +779,21 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleHBlY3RFbmhhbmNlZERpcHBUb2tlblw+</last-search>
+      <last-search>spring</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHBlY3RFbmhhbmNlZERpcHBUb2tlblw+</last-pattern>
+      <last-pattern>spring</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcGVyYXRpb25JZFw+</entry>
         <entry encoding="base64">XDxzZWFsT25lVHdvZmFhYXNSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxnZXRUd29mYWFhc09wZXJhdGlvblw+</entry>
         <entry encoding="base64">XDxnZXRPcGVyYXRpb25TdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry>feign error</entry>
-        <entry>feign</entry>
         <entry>nfa required</entry>
         <entry encoding="base64">XDxpc05GYWN0b3JTZXNzaW9uQWN0aXZlXD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
@@ -806,6 +807,8 @@
         <entry>session</entry>
         <entry>asstring</entry>
         <entry encoding="base64">XDxleHBlY3RFbmhhbmNlZERpcHBUb2tlblw+</entry>
+        <entry>feign</entry>
+        <entry>spring</entry>
       </history-search>
       <history-cmd>
         <entry>action $Copy</entry>
