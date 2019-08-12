@@ -120,11 +120,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.9.RELEASE/bd4ea76bf579cb85570470d6f1428cc1f7329c72/spring-data-jpa-1.11.9.RELEASE-sources.jar!/org/springframework/data/jpa/repository/config/EnableJpaRepositories.java" timestamp="1563199612804">
         <mark key="'" line="47" column="18" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/environments/config/service/security-service.yaml" timestamp="1565259264294">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/request/TwofaaasRequestServiceTest.java" timestamp="1565093783657">
         <mark key="'" line="103" column="0" />
         <mark key="[" line="50" column="0" />
@@ -604,10 +599,12 @@
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasRequestCleanupTaskTest.java" timestamp="1561444201950">
         <mark key="'" line="34" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1565270981837">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_69.puml" timestamp="1565602018056">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="38" column="77" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="19" column="7" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="11" column="33" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/inlineregistration/verificationmethods/VerificationMethodsService.java" timestamp="1563351595932">
         <mark key="'" line="80" column="19" />
@@ -634,21 +631,18 @@
       <file name="$USER_HOME$/verimi-auth-verimi/hydra-proxy/src/main/java/com/dipp/hydra/consent/verimi/mobileflow/MobileLoginShortcutService.java" timestamp="1563805205341">
         <mark key="'" line="119" column="30" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_68.puml" timestamp="1565599691352">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_68.puml" timestamp="1565601453302">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="36" column="19" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth/hydra-proxy/src/main/java/com/dipp/hydra/login/login/submit/LoginSubmitController.java" timestamp="1563970462190">
         <mark key="'" line="150" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spodddify-kafka/src/main/resources/application-local.yml" timestamp="1563561500847">
         <mark key="'" line="12" column="10" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/TwofaaasStatusQuerier.java" timestamp="1565094966945">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerierTest.java" timestamp="1561135754738">
         <mark key="'" line="132" column="0" />
@@ -683,19 +677,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="43" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasQueryStatusQuerierTest.java" />
-      <jump line="32" column="9" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" />
-      <jump line="41" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" />
-      <jump line="33" column="5" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" />
-      <jump line="64" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
-      <jump line="85" column="12" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
-      <jump line="84" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
-      <jump line="80" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
-      <jump line="77" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/status/sealone/SealOneTwofaaasStatusQuerier.java" />
-      <jump line="72" column="100" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
       <jump line="26" column="43" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
       <jump line="50" column="46" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
       <jump line="65" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
@@ -783,38 +764,50 @@
       <jump line="13" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b445af27-99bf-4fc2-a867-903b5444c599/console_1.sql" />
       <jump line="27" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_67.puml" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_67.puml" />
+      <jump line="28" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_68.puml" />
+      <jump line="44" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_68.puml" />
+      <jump line="25" column="27" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_68.puml" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_68.puml" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_68.puml" />
+      <jump line="23" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_68.puml" />
+      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_68.puml" />
+      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_69.puml" />
+      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_69.puml" />
+      <jump line="20" column="79" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_69.puml" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_69.puml" />
+      <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_69.puml" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_69.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QHN0YXJ0dW1sCgp0aXRsZSBVQzI6IFVzZXIgaGFzIGFjY2VzcyB0byBoaXMgZGV2aWNlIFxuYW5kIGRvZXNuJ3QgaGF2ZSBhY2Nlc3NcbnRvIGhpcyBwaG9uZSBudW1iZXIKYWN0b3IgSU8gYXMgIklkZW50aXR5T3duZXIiCnBhcnRpY2lwYW50IFZNQSBhcyAiVmVyaW1pIG1vYmlsZSBhcHAiCnBhcnRpY2lwYW50IFYgYXMgIlZlcmltaSBCRSIKcGFydGljaXBhbnQgU08gYXMgIlNlYWxPbmUiCgpJTyAtPiBJTyA6IHBhbmljCklPIC0+IFZNQSA6IG9wZW4gMkZBIHNldHRpbmdzIHBhZ2UKVk1BIC0+IFYgOiByZXF1ZXN0IHNldHRpbmdzIHBhZ2UKViAtPiBTTzogcmVxdWVzdCBpbnRlcmFjdGlvbgpTTyAtPiBWTUEgOiBwdXNoIG5vdGlmaWNhdGlvbgpWTUEgLT4gSU8KSU8gLT4gVk1BIDogYXV0aGVudGljYXRlClZNQSAtPiBTTzogYXV0aGVudGljYXRpb24KU08gLT4gVjogYXV0aGVudGljYXRpb24gc3VjY2Vzc2Z1bApWIC0+IFZNQTogYWNjZXNzIHRva2VuClZNQSAtPiBJTwpJTyAtPiBWTUEgOiBjaGFuZ2UgcGhvbmUgbnVtYmVyClZNQSAtPiBWIDogY2hhbmdlIHBob25lIG51bWJlcgpWIC0+IElPIDogc2VuZCBTTVMgT1RQCmxvb3AKVk1BIC0+IFZNQSA6IHdhaXQgZm9yIE9UUCBmcm9tIHVzZXIKZW5kCklPIC0+IFZNQSA6IFNNUyBPVFAgY29kZQpWTUEgLT4gVjogU01TIE9UUCBjb2RlClYgLT4gVjogdmVyaWZ5IFNNUyBPVFAgY29kZQpWIC0+IFY6IGNoYW5nZSBwaG9uZSBudW1iZXIKViAtPiBWTUEKVk1BIC0+IElPCgpJTyAtPiBJTzogaGFwcHkgYWdhaW4KCkBlbmR1bWwK</text>
+        <text encoding="base64">QHN0YXJ0dW1sCgp0aXRsZSBVQzQ6IFVzZXIgbG9zdCBhY2Nlc3MgdG8gaGlzIGRldmljZVxuIGFuZCBoaXMgcGhvbmUgbnVtYmVyCmFjdG9yIElPIGFzICJJZGVudGl0eU93bmVyIgpwYXJ0aWNpcGFudCBTUCBhcyAiU2VydmljZSBwcm92aWRlciIKcGFydGljaXBhbnQgViBhcyAiVmVyaW1pIEJFIgoKSU8gLT4gSU8gOiBwYW5pYwo9PSBEZWFjdGl2YXRlIDJGQWFhUyA9PQpJTyAtPiBTUCA6IFVubGluayBWZXJpbWkgVEFOXG5mb3IgdGhpcyBTUCBvbmx5ClNQIC0+IFNQIDogYXV0aG9yaXplIElPClNQIC0+IFYgOiBVbmxpbmsgVmVyaW1pIFRBTiBmb3IgU1AKViAtPiBTUApTUCAtPiBJTwoKPT0gU2V0dXAgbmV3IGFjY291bnQgPT0KSU8gLT4gSU86IGhhcHB5IGFnYWluCm5vdGUgcmlnaHQ6IHByb2NlZWQgd2l0aCBuZXcgYWNjb3VudCBzZXR1cFxuYW5kIDJGQSBjb25maWd1cmF0aW9uIG9uIG5ld1xuZGV2aWNlCgpAZW5kdW1sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>deactivate 2FaaaS for IO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZmFjdG9yQ29uZmlndXJhdGlvblF1ZXJ5Q29udHJvbGxlckFwaUZlaWduQ2xpZW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IGV4dGVybmFsX2RldmljZV9pZCBmcm9tIG5mYWN0b3JfZGV2aWNlLmRldmljZSB3aGVyZSBzb19kZXZpY2VfaWQgPSAnMTcyOTU4OTcyNTU3NTY3OTMyNTUnKSk7Cg==</text>
+        <text encoding="base64">SU8gLT4gSU8gOiBwYW5pYwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaXBwLmlkZW50aXR5b3duZXIuY2xpZW50LmZlaWduLm1vZGVsLk5GQUNvbmZpZ3VyYXRpb25SZXNwb25zZTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="2" type="8">
-        <text>Response
-Response</text>
+      <register name="2" type="2">
+        <text encoding="base64">J1RoZXJlIGlzIG5vIHdheSB3ZSBjYW4gdmVyaWZ5IHRoZSB1c2VyJ3MgaWRlbnRpdHkuCicKJ1RoZSBvbmx5IHRoaW5nIHRoZSB1c2VyIGNhbiBkbyBpcyB0byBnbyB0byBTUCdzIHBhZ2UgYW5kIHVubGluayAiVmVyaW1pIFRBTiIuCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>.status(NFAConfigurationResponse.StatusEnum.ENABLED)</text>
+      <register name="3" type="2">
+        <text encoding="base64">cGFydGljaXBhbnQgU08gYXMgIlNlYWxPbmUiCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>.getStatus()</text>
+      <register name="4" type="2">
+        <text encoding="base64">SU8gLT4gSU8gOiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U08gLT4gVk1BCg==</text>
+        <text encoding="base64">cGFydGljaXBhbnQgVk1BIGFzICJWZXJpbWkgbW9iaWxlIGFwcCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Vk1BIC0+IFYK</text>
+        <text encoding="base64">cGFydGljaXBhbnQgU1AgYXMgIlNlcnZpY2UgcHJvdmlkZXIiCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -850,10 +843,10 @@ Response</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ViAtPiBWIDogYXV0aG9yaXplIG1vYmlsZSBhcHAK</text>
+        <text encoding="base64">dGl0bGUgVUM0OiBVc2VyIGxvc3QgYWNjZXNzIHRvIGhpcyBkZXZpY2VcbiBhbmQgaGlzIHBob25lIG51bWJlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bG9vcApWTUEgLT4gVk1BIDogd2FpdCBmb3IgT1RQIGZyb20gdXNlcgplbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
