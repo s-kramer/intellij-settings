@@ -203,12 +203,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.11.0.0/be2dc2cc257ea778f323440a3a6dffa038e5f10/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/CommonClientConfigs.java" timestamp="1557821533894">
         <mark key="'" line="40" column="71" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b445af27-99bf-4fc2-a867-903b5444c599/console_1.sql" timestamp="1565596771123">
-        <mark key="'" line="13" column="1" />
-        <mark key="[" line="0" column="82" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-        <mark key="^" line="1" column="12" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b445af27-99bf-4fc2-a867-903b5444c599/console_1.sql" timestamp="1565603745077">
+        <mark key="'" line="15" column="2" />
+        <mark key="[" line="2" column="50" />
+        <mark key="]" line="2" column="50" />
+        <mark key="." line="2" column="50" />
+        <mark key="^" line="1" column="79" />
       </file>
       <file name="$USER_HOME$/verimi-auth/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NFactorAuthFilter.java" timestamp="1563786687376">
         <mark key="'" line="143" column="42" />
@@ -411,10 +411,10 @@
         <mark key="." line="69" column="27" />
         <mark key="^" line="69" column="27" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/cleanup/TwoFaOnlyUserCleanup.java" timestamp="1565596534991">
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/cleanup/TwoFaOnlyUserCleanup.java" timestamp="1565603764309">
         <mark key="'" line="53" column="20" />
-        <mark key="[" line="54" column="42" />
-        <mark key="]" line="54" column="42" />
+        <mark key="[" line="35" column="18" />
+        <mark key="]" line="35" column="53" />
         <mark key="." line="54" column="42" />
         <mark key="^" line="54" column="42" />
       </file>
@@ -761,7 +761,6 @@
       <jump line="26" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_67.puml" />
       <jump line="17" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_67.puml" />
       <jump line="12" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b445af27-99bf-4fc2-a867-903b5444c599/console_1.sql" />
-      <jump line="13" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b445af27-99bf-4fc2-a867-903b5444c599/console_1.sql" />
       <jump line="27" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_67.puml" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_67.puml" />
       <jump line="28" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_68.puml" />
@@ -777,19 +776,20 @@
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_69.puml" />
       <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_69.puml" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_69.puml" />
+      <jump line="13" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b445af27-99bf-4fc2-a867-903b5444c599/console_1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QHN0YXJ0dW1sCgp0aXRsZSBVQzQ6IFVzZXIgbG9zdCBhY2Nlc3MgdG8gaGlzIGRldmljZVxuIGFuZCBoaXMgcGhvbmUgbnVtYmVyCmFjdG9yIElPIGFzICJJZGVudGl0eU93bmVyIgpwYXJ0aWNpcGFudCBTUCBhcyAiU2VydmljZSBwcm92aWRlciIKcGFydGljaXBhbnQgViBhcyAiVmVyaW1pIEJFIgoKSU8gLT4gSU8gOiBwYW5pYwo9PSBEZWFjdGl2YXRlIDJGQWFhUyA9PQpJTyAtPiBTUCA6IFVubGluayBWZXJpbWkgVEFOXG5mb3IgdGhpcyBTUCBvbmx5ClNQIC0+IFNQIDogYXV0aG9yaXplIElPClNQIC0+IFYgOiBVbmxpbmsgVmVyaW1pIFRBTiBmb3IgU1AKViAtPiBTUApTUCAtPiBJTwoKPT0gU2V0dXAgbmV3IGFjY291bnQgPT0KSU8gLT4gSU86IGhhcHB5IGFnYWluCm5vdGUgcmlnaHQ6IHByb2NlZWQgd2l0aCBuZXcgYWNjb3VudCBzZXR1cFxuYW5kIDJGQSBjb25maWd1cmF0aW9uIG9uIG5ld1xuZGV2aWNlCgpAZW5kdW1sCg==</text>
+      <register name="&quot;" type="4">
+        <text>Deleting unconfirmed twofaOnly users</text>
       </register>
       <register name="-" type="4">
-        <text>deactivate 2FaaaS for IO</text>
+        <text encoding="base64">IHdoZXJlIHVzZXJfdHlwZSA9ICdDT05GSVJNRURfVFdPRkFfT05MWSc=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZmFjdG9yQ29uZmlndXJhdGlvblF1ZXJ5Q29udHJvbGxlckFwaUZlaWduQ2xpZW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SU8gLT4gSU8gOiBwYW5pYwo=</text>
+        <text encoding="base64">c2VsZWN0IHVpZCwgY3JlYXRlZF9hdCBmcm9tIHVzZXJfc3RhdHVzLnVzZXJzdGF0dXMgd2hlcmUgdXNlcl90eXBlID0gJ0NPTkZJUk1FRF9UV09GQV9PTkxZJzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>
