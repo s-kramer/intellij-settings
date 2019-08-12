@@ -6,6 +6,11 @@
       <file name="/postgres.nfa_configuration.nfa_configuration" timestamp="1565595550655">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1565607425999">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+      </file>
       <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" timestamp="1565356186894">
         <mark key="[" line="64" column="112" />
         <mark key="]" line="64" column="130" />
@@ -29,12 +34,6 @@
       <file name="/serviceprovider_allowed_payment_methods [postgres@dev-6]" timestamp="1565266694888">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd48904b-3d9f-42ce-b5c3-5c504a16c466/console_1.sql" timestamp="1565359777821">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="68" />
-        <mark key="^" line="0" column="67" />
-        <mark key="." line="0" column="67" />
-      </file>
       <file name="/nfa_configuration [postgres@dev-6]" timestamp="1565595550639">
         <mark key="[" line="0" column="0" />
       </file>
@@ -47,12 +46,12 @@
       <file name="/postgres.fraud.databasechangeloglock" timestamp="1565604561379">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b445af27-99bf-4fc2-a867-903b5444c599/console_1.sql" timestamp="1565603745077">
-        <mark key="'" line="15" column="2" />
-        <mark key="[" line="2" column="50" />
-        <mark key="]" line="2" column="50" />
-        <mark key="." line="2" column="50" />
-        <mark key="^" line="1" column="79" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b445af27-99bf-4fc2-a867-903b5444c599/console_1.sql" timestamp="1565607802634">
+        <mark key="'" line="1" column="75" />
+        <mark key="[" line="7" column="208" />
+        <mark key="]" line="9" column="107" />
+        <mark key="." line="9" column="107" />
+        <mark key="^" line="9" column="107" />
       </file>
       <file name="/nfa_configuration [postgres@devint]" timestamp="1565349436932">
         <mark key="[" line="0" column="0" />
@@ -93,15 +92,9 @@
         <mark key="^" line="42" column="74" />
         <mark key="." line="45" column="66" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/api-gateway-service/src/main/java/com/dipp/api/gateway/filters/NfaDeactivationFilter.java" timestamp="1565349386678">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="27" />
-        <mark key="." line="69" column="27" />
-        <mark key="^" line="69" column="27" />
-      </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/cleanup/TwoFaOnlyUserCleanup.java" timestamp="1565604366230">
+      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/cleanup/TwoFaOnlyUserCleanup.java" timestamp="1565607756919">
         <mark key="'" line="53" column="20" />
-        <mark key="[" line="41" column="0" />
+        <mark key="[" line="35" column="18" />
         <mark key="]" line="35" column="53" />
         <mark key="." line="54" column="42" />
         <mark key="^" line="54" column="42" />
@@ -147,12 +140,6 @@
       <file name="/external_uid [postgres@dev-6]" timestamp="1565266708710">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" timestamp="1565356082424">
-        <mark key="[" line="50" column="150" />
-        <mark key="]" line="50" column="190" />
-        <mark key="^" line="50" column="190" />
-        <mark key="." line="50" column="190" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_69.puml" timestamp="1565602018056">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -189,9 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="43" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
-      <jump line="50" column="46" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
-      <jump line="65" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
       <jump line="48" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/test/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImplTest.java" />
       <jump line="49" column="8" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" />
       <jump line="43" column="0" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/TwofaaasControllerApiDelegateImpl.java" />
@@ -289,16 +273,19 @@
       <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_69.puml" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_69.puml" />
       <jump line="13" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b445af27-99bf-4fc2-a867-903b5444c599/console_1.sql" />
+      <jump line="9" column="107" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b445af27-99bf-4fc2-a867-903b5444c599/console_1.sql" />
+      <jump line="53" column="20" filename="$USER_HOME$/verimi-auth-verimi/security-service/src/main/java/com/dipp/security/twofaaas/cleanup/TwoFaOnlyUserCleanup.java" />
+      <jump line="1" column="75" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b445af27-99bf-4fc2-a867-903b5444c599/console_1.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev:34710-1d977c04-VD-2180-user-cleanup-job-fix</text>
+        <text>Deleting unconfirmed twofaOnly users</text>
       </register>
       <register name="-" type="4">
         <text>dev:34710-1d977c04-VD-2180-user-cleanup-job-fix</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZmFjdG9yQ29uZmlndXJhdGlvblF1ZXJ5Q29udHJvbGxlckFwaUZlaWduQ2xpZW50XD4=</text>
+        <text encoding="base64">XDxuZmFOb3RDb25maWd1cmVkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2VsZWN0IHVpZCwgY3JlYXRlZF9hdCBmcm9tIHVzZXJfc3RhdHVzLnVzZXJzdGF0dXMgd2hlcmUgdXNlcl90eXBlID0gJ0NPTkZJUk1FRF9UV09GQV9PTkxZJzsK</text>
@@ -365,12 +352,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZmFjdG9yQ29uZmlndXJhdGlvblF1ZXJ5Q29udHJvbGxlckFwaUZlaWduQ2xpZW50XD4=</last-search>
+      <last-search encoding="base64">XDxuZmFOb3RDb25maWd1cmVkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZmFjdG9yQ29uZmlndXJhdGlvblF1ZXJ5Q29udHJvbGxlckFwaUZlaWduQ2xpZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxuZmFOb3RDb25maWd1cmVkXD4=</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>start</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -393,8 +380,8 @@
         <entry encoding="base64">XDxkaXBwVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVEaXBwVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxkaXBwVG9rZW5Qcm92aWRlclw+</entry>
-        <entry encoding="base64">XDxuZmFOb3RDb25maWd1cmVkXD4=</entry>
         <entry encoding="base64">XDxuZmFjdG9yQ29uZmlndXJhdGlvblF1ZXJ5Q29udHJvbGxlckFwaUZlaWduQ2xpZW50XD4=</entry>
+        <entry encoding="base64">XDxuZmFOb3RDb25maWd1cmVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action $Copy</entry>
