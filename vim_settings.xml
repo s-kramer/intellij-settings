@@ -30,12 +30,8 @@
         <mark key="'" line="33" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/sink-samples/jdbc-sink/src/main/resources/application.yml" timestamp="1565629100952" />
-      <file name="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" timestamp="1565634324297">
+      <file name="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" timestamp="1565636013039">
         <mark key="'" line="74" column="34" />
-        <mark key="[" line="74" column="33" />
-        <mark key="]" line="74" column="33" />
-        <mark key="^" line="74" column="33" />
-        <mark key="." line="74" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/resources/application.yml" timestamp="1565631082533">
         <mark key="'" line="10" column="8" />
@@ -115,16 +111,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>first</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0U2lua1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>(&quot;first&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBAT3V0cHV0KCJmaXJzdCIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyAgICAgICAgQFRyYW5zZm9ybWVyKGlucHV0Q2hhbm5lbCA9ICJmaXJzdCIsIG91dHB1dENoYW5uZWwgPSAic2Vjb25kIikK</text>
