@@ -7,6 +7,9 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/schema-registry-samples/schema-registry-confluent-avro-serializer/schema-registry-confluent-avro-serializer-consumer/pom.xml" timestamp="1566044272034">
+        <mark key="'" line="56" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/transaction-kafka-samples/transaction-logger-sink/src/main/java/sample/processor/ConsumerApplication.java" timestamp="1565458160509">
         <mark key="[" line="32" column="13" />
         <mark key="]" line="32" column="12" />
@@ -108,6 +111,12 @@
       <jump line="89" column="28" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
       <jump line="88" column="16" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
       <jump line="74" column="34" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/processor-samples/uppercase-transformer/src/main/java/demo/UppercaseTransformer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/schema-registry-samples/schema-registry-confluent-avro-serializer/schema-registry-confluent-avro-serializer-consumer/pom.xml" />
+      <jump line="4" column="42" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/schema-registry-samples/schema-registry-confluent-avro-serializer/schema-registry-confluent-avro-serializer-consumer/pom.xml" />
+      <jump line="7" column="36" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/schema-registry-samples/schema-registry-confluent-avro-serializer/schema-registry-confluent-avro-serializer-consumer/pom.xml" />
+      <jump line="18" column="29" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/schema-registry-samples/schema-registry-confluent-avro-serializer/schema-registry-confluent-avro-serializer-consumer/pom.xml" />
+      <jump line="29" column="30" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/schema-registry-samples/schema-registry-confluent-avro-serializer/schema-registry-confluent-avro-serializer-consumer/pom.xml" />
+      <jump line="56" column="36" filename="$USER_HOME$/Projects/Java/spring-cloud-stream-samples/schema-registry-samples/schema-registry-confluent-avro-serializer/schema-registry-confluent-avro-serializer-consumer/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -117,7 +126,7 @@
         <text>first</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0U2lua1w+</text>
+        <text>avro</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBAT3V0cHV0KCJmaXJzdCIpCg==</text>
@@ -154,9 +163,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXN0U2lua1w+</last-search>
+      <last-search>avro</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXN0U2lua1w+</last-pattern>
+      <last-pattern>avro</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -181,6 +190,7 @@
         <entry encoding="base64">XDx0ZXN0U291cmNlXD4=</entry>
         <entry encoding="base64">XDxmb3VydGhcPg==</entry>
         <entry encoding="base64">XDx0ZXN0U2lua1w+</entry>
+        <entry>avro</entry>
       </history-search>
       <history-cmd>
         <entry>-20,-19t-1</entry>
