@@ -1,5 +1,14 @@
 <application>
   <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="Polish" />
+      </set>
+    </option>
+    <option name="nativeLanguage" value="Polish" />
+    <option name="enabledSpellcheck" value="true" />
+    <option name="enabledCommitIntegration" value="true" />
     <option name="lastSeenVersion" value="2019.2-5.3.stable" />
   </component>
 </application>
