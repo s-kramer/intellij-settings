@@ -1,4 +1,14 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="REFORMAT_ON_PASTE" value="1" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="13" />
   </component>
@@ -12,5 +22,8 @@
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_BLOCK_CURSOR" value="true" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
   </component>
 </application>
