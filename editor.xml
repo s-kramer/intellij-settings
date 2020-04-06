@@ -3,14 +3,13 @@
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
-  </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="13" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -26,5 +25,6 @@
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
+    <option name="replaceVarWithInferredType" value="true" />
   </component>
 </application>
