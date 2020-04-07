@@ -1,6 +1,6 @@
 <application>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="JavaLens" />
     <settingsMapElement>
       <JAVA.chain.hints>
         <Settings>
@@ -12,12 +12,6 @@
           <option name="showInferred" value="true" />
         </Settings>
       </JAVA.annotation.hints>
-      <JAVA.JavaLens>
-        <JavaLensSettings>
-          <option name="showImplementations" value="true" />
-          <option name="showUsages" value="true" />
-        </JavaLensSettings>
-      </JAVA.JavaLens>
     </settingsMapElement>
   </component>
 </application>
