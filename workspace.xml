@@ -1,17 +1,12 @@
 <application>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="annotation.hints" />
     <settingsMapElement>
       <JAVA.chain.hints>
         <Settings>
           <option name="uniqueTypeCount" value="1" />
         </Settings>
       </JAVA.chain.hints>
-      <JAVA.annotation.hints>
-        <Settings>
-          <option name="showInferred" value="true" />
-        </Settings>
-      </JAVA.annotation.hints>
     </settingsMapElement>
   </component>
 </application>
