@@ -163,10 +163,10 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/vdp/RealEstateEvaluationResult.java" timestamp="1586857051716" />
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/Features.java" timestamp="1586863176899">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/Features.java" timestamp="1586863251193">
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="34" />
+        <mark key="." line="30" column="34" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/vdp/VdpEvaluationRequestCreator.java" timestamp="1586856949781">
         <mark key="'" line="139" column="27" />
@@ -182,10 +182,10 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="18" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/vdp/VdpRealEstateController.java" timestamp="1586859196718">
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="17" column="18" />
-        <mark key="." line="17" column="18" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/vdp/VdpRealEstateController.java" timestamp="1586863333950">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/vdp/DelegatingRealEstateFacade.java" timestamp="1586856432690">
         <mark key="[" line="12" column="11" />
@@ -203,10 +203,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586860584612">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1586863341819">
+        <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="37" />
+        <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/vdp/VdpEvaluationRequestTranslator.java" timestamp="1586856000257">
@@ -349,8 +349,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>added feature flag for VDP communication</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -401,7 +401,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>added feature flag for VDP communication</text>
       </register>
       <register name="/" type="4">
         <text>togglz</text>
@@ -419,7 +419,7 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
+        <text encoding="base64">CiAgICBATGFiZWwoIkNvbnRyb2xzIHdoZXRoZXIgdGhlIFZEUCBtb2NrIHdpbGwgcmV0dXJuIGEgc3VjY2VzcyAodHJ1ZSkgb3IgZmFpbHVyZSAoZmFsc2UpLiAiICsKICAgICAgICAgICAgIlJlcXVpcmVzIEVOQUJMRV9DT01NVU5JQ0FUSU9OX1dJVEhfVkRQIHRvIGJlIHNldCB0byBmYWxzZSIpCiAgICBTSE9VTERfUkVUVVJOX1NVQ0NFU1NfRlJPTV9WRFBfTU9DSzsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -465,19 +465,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAxNC4wNC4yMDIwIDExOjA0CiAqLwo=</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVmRwUmVhbEVzdGF0ZUZhY2FkZSBmYWNhZGUgPSBuZXcgVmRwUmVhbEVzdGF0ZUZhY2FkZShldmFsdWF0aW9uUmVxdWVzdFNlbmRlcik7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -506,10 +506,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVmRwRXZhbHVhdGlvblJlcXVlc3RTZW5kZXIgZXZhbHVhdGlvblJlcXVlc3RTZW5kZXIgPSBNb2NraXRvLm1vY2soVmRwRXZhbHVhdGlvblJlcXVlc3RTZW5kZXIuY2xhc3MpOwo=</text>
+        <text encoding="base64">LyoqCiAqIEBhdXRob3IgY3JlYXRlZDogc2tyYW1lciBvbiAxNC4wNC4yMDIwIDExOjA0CiAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVmRwUmVhbEVzdGF0ZUZhY2FkZSBmYWNhZGUgPSBuZXcgVmRwUmVhbEVzdGF0ZUZhY2FkZShldmFsdWF0aW9uUmVxdWVzdFNlbmRlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
