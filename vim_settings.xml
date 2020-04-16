@@ -157,10 +157,10 @@
         <mark key="^" line="56" column="69" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/vdp/VdpEvaluationRequestCreator.java" timestamp="1587026359735">
-        <mark key="'" line="140" column="70" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
+        <mark key="'" line="138" column="70" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="179" column="0" />
       </file>
       <file name="/real_estate [postgres@localhost [pensions-db]]" timestamp="1587025300367">
         <mark key="[" line="0" column="0" />
@@ -168,10 +168,10 @@
       <file name="/pensions-db.public.real_estate" timestamp="1587025300390">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587026138936">
+      <file name="/Dummy.txt" timestamp="1587026433537">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="62" />
+        <mark key="^" line="0" column="117" />
         <mark key="." line="0" column="7" />
       </file>
       <file name="/pensions-db.public.flyway_schema_history" timestamp="1587022607588">
@@ -331,8 +331,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>added temporary controller to test VDP certificate on dev env (to be deleted after confirming that certs work)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -383,7 +383,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>added VDP certificate to deployment on all environments</text>
+        <text>added temporary controller to test VDP certificate on dev env (to be deleted after confirming that certs work)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWRFBfQ0VSVF9QQVNTV09SRFw+</text>
