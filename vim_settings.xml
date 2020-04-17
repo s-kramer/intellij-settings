@@ -176,6 +176,12 @@
         <mark key="." line="114" column="28" />
         <mark key="^" line="114" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateEvaluationBatchJob.java" timestamp="1587119926019">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="40" column="12" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/real-estate/Service.xsd" timestamp="1587119712591" />
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/notification/dto/NotificationDto.java" timestamp="1587114371814">
         <mark key="[" line="7" column="19" />
@@ -235,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="8" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/test/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateFacadeTest.java" />
       <jump line="80" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/test/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateFacadeTest.java" />
       <jump line="82" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/test/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateFacadeTest.java" />
       <jump line="85" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/test/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateFacadeTest.java" />
@@ -335,12 +340,13 @@
       <jump line="52" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/validator/RealEstateDtoValidator.java" />
       <jump line="168" column="20" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/validator/RealEstateDtoValidator.java" />
       <jump line="155" column="13" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/validator/RealEstateDtoValidator.java" />
+      <jump line="39" column="40" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateEvaluationBatchJob.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>added field violation error message</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QENvbmZpZ3VyYXRpb24KY2xhc3MgUmVhbEVzdGF0ZUV2YWx1YXRpb25CYXRjaEpvYkNvbmZpZ3VyYXRpb24gewp9Cgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -391,7 +397,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>added field violation error message</text>
+        <text encoding="base64">b3JnLnNwcmluZ2ZyYW1ld29yay5zY2hlZHVsaW5nLlRyaWdnZXIg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0ZUZpZWxkTm90TnVsbFw+</text>
@@ -403,13 +409,13 @@
         <text>com.core.rentencockpit.pensioncalculationservice.realestate.de.vdpresearch_cib.valuationservice.schemas.valuation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb24KY2xhc3MgUmVhbEVzdGF0ZUV2YWx1YXRpb25CYXRjaEpvYkNvbmZpZ3VyYXRpb24gewp9Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEdldHRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -455,28 +461,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGZpbmFsIHZhciBzdGFydEF0ID0gbmV3IERhdGUoKTsKLy8gICAgICAgIHN0YXJ0QXQuc2V0VGltZShzdGFydEF0LmdldFRpbWUoKSArIDUwMDApOwovLyAgICAgICAgcmV0dXJuIFRyaWdnZXJCdWlsZGVyLm5ld1RyaWdnZXIoKQovLyAgICAgICAgICAgICAgICAuZm9ySm9iKCJyZWFsRXN0YXRlRXZhbHVhdGlvbkJhdGNoSm9iIikKLy8gICAgICAgICAgICAgICAgLndpdGhTY2hlZHVsZShTaW1wbGVTY2hlZHVsZUJ1aWxkZXIucmVwZWF0TWludXRlbHlGb3JldmVyKCkpCi8vICAgICAgICAgICAgICAgIC5zdGFydEF0KHN0YXJ0QXQpCi8vICAgICAgICAgICAgICAgIC5idWlsZCgpOwovLyAgICB9Ci8vCi8vICAgIEBCZWFuCi8vICAgIFNjaGVkdWxlckZhY3RvcnlCZWFuIHNjaGVkdWxlckZhY3RvcnlCZWFuKFRyaWdnZXIgdHJpZ2dlcikgewovLyAgICAgICAgZmluYWwgdmFyIHNjaGVkdWxlckZhY3RvcnlCZWFuID0gbmV3IFNjaGVkdWxlckZhY3RvcnlCZWFuKCk7Ci8vICAgICAgICBzY2hlZHVsZXJGYWN0b3J5QmVhbi5zZXRUcmlnZ2Vycyh0cmlnZ2VyKTsKLy8gICAgICAgIHJldHVybiBzY2hlZHVsZXJGYWN0b3J5QmVhbjsKLy8gICAgfQovL30K</text>
       </register>
-      <register name="4" type="4">
-        <text>validateFieldNotNull(NEW_DEVELOPMENT_AREA_FIELD, newDevelopmentArea)</text>
+      <register name="4" type="2">
+        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">QEdldHRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZEZpZWxkVmlvbGF0aW9uKE5FV19ERVZFTE9QTUVOVF9BUkVBX0ZJRUxELCBORVdfREVWRUxPUE1FTlRfQVJFQV9WSU9MQVRJT04pOwo=</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5FV19ERVZFTE9QTUVOVF9BUkVBX1ZJT0xBVElPTiA9ICJGaWVsZCwgaWYgcHJlc2VudCwgbXVzdCBiZSB0cnVlIjsK</text>
+      <register name="7" type="4">
+        <text>validateFieldNotNull(NEW_DEVELOPMENT_AREA_FIELD, newDevelopmentArea)</text>
       </register>
       <register name="w" type="4">
         <text>Wd3W^j</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBFbmhhbmNlZFJlYWxFc3RhdGVEdG9WYWxpZGF0b3IoQ29uc3RyYWludFZhbGlkYXRvckNvbnRleHQgY29udGV4dCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUmVhbEVzdGF0ZUR0byBkdG8pIHsKICAgICAgICB0aGlzLmNvbnRleHQgPSBjb250ZXh0OwogICAgICAgIHRoaXMuZHRvID0gZHRvOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZEZpZWxkVmlvbGF0aW9uKE5FV19ERVZFTE9QTUVOVF9BUkVBX0ZJRUxELCBORVdfREVWRUxPUE1FTlRfQVJFQV9WSU9MQVRJT04pOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywgL1xyL2c=</text>
