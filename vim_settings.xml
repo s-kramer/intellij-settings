@@ -180,10 +180,10 @@
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/test/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateControllerTest.java" timestamp="1587382758428">
         <mark key="'" line="106" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587390000423">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1587391145706">
+        <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="33" />
+        <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/notification/NotificationController.java" timestamp="1587386940755">
@@ -211,11 +211,11 @@
         <mark key="." line="127" column="4" />
         <mark key="^" line="127" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/notification/RealEstateNotificationModuleSpringConfiguration.java" timestamp="1587388314724">
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="19" column="62" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/notification/RealEstateNotificationModuleSpringConfiguration.java" timestamp="1587390917701">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
         <mark key="^" line="19" column="62" />
-        <mark key="." line="19" column="61" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateEvaluator.java" timestamp="1587389752429">
         <mark key="'" line="30" column="63" />
@@ -370,7 +370,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>minor formatting issue fix</text>
+        <text>added integration test</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -421,7 +421,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>minor formatting issue fix</text>
+        <text>added integration test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPQkpFQ1RfTkFNRVw+</text>
@@ -433,13 +433,13 @@
         <text>com.core.rentencockpit.pensioncalculationservice.realestate.de.vdpresearch_cib.valuationservice.schemas.valuation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUUkFOU0xBVEVEX0VSUk9SX01FU1NBR0UgPSAiSEFVU1RZUCI7Cg==</text>
+        <text encoding="base64">ICAgIFJlYWxFc3RhdGVOb3RpZmljYXRpb25GYWNhZGUgcmVhbEVzdGF0ZU5vdGlmaWNhdGlvbkZhY2FkZSgpIHsKICAgICAgICByZXR1cm4gcmVhbEVzdGF0ZU5vdGlmaWNhdGlvbkZhY2FkZShuZXcgSW5NZW1vcnlSZWFsRXN0YXRlTm90aWZpY2F0aW9uUmVwb3NpdG9yeSgpKTsKICAgIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUUkFOU0xBVEVEX0VSUk9SX01FU1NBR0UgPSAiSEFVU1RZUCI7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -485,16 +485,16 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KG5vdGlmaWNhdGlvbnNbMF0uZ2V0TWVzc2FnZUtleSgpLCBpcyhNZXNzYWdlS2V5cy5SRUFMX0VTVEFURV9FVkFMVUFUSU9OX0FDQ0VQVEVEKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KG5vdGlmaWNhdGlvbnNbMF0uZ2V0TWVzc2FnZUtleSgpLCBpcyhNZXNzYWdlS2V5cy5SRUFMX0VTVEFURV9FVkFMVUFUSU9OX0FDQ0VQVEVEKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>(MessageKeys.REAL_ESTATE_EVALUATION_ACCEPTED)</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -503,10 +503,10 @@
         <text>Wd3W^j</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFQUExJQ0FUSU9OX0pTT04gPSAiYXBwbGljYXRpb24vanNvbiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgVXNlcklkIEFOWV9VU0VSX0lEID0gVXNlcklkLnJhbmRvbSgpOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBVVUlEIEFOWV9SRUFMX0VTVEFURV9JRCA9IFVVSUQucmFuZG9tVVVJRCgpOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQU5ZX09CSkVDVF9OQU1FID0gIm9iamVjdE5hbWUiOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFQUExJQ0FUSU9OX0pTT04gPSAiYXBwbGljYXRpb24vanNvbiI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3B1YmxpYyAvcHJpdmF0ZSAv</text>
