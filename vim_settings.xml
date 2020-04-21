@@ -161,6 +161,12 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="70" />
       </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/notification/NotificationFacade.java" timestamp="1587454661255">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="27" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.awaitility/awaitility/4.0.2/8bfbd364eb0d21986cb9e055f7f2e4876fe55ffc/awaitility-4.0.2-sources.jar!/org/awaitility/Awaitility.java" timestamp="1587393642240">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="100" />
@@ -174,13 +180,10 @@
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/vdp/VdpEvaluationRequestSender.java" timestamp="1587389451816">
         <mark key="'" line="98" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/test/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateControllerTest.java" timestamp="1587382758428">
-        <mark key="'" line="106" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587391145706">
-        <mark key="[" line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1587454698617">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="29" />
+        <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/notification/NotificationController.java" timestamp="1587386940755">
@@ -194,12 +197,12 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/notification/RealEstateNotificationFacade.java" timestamp="1587381963222">
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/notification/RealEstateNotificationFacade.java" timestamp="1587454768733">
         <mark key="'" line="47" column="23" />
-        <mark key="[" line="48" column="24" />
-        <mark key="]" line="48" column="64" />
-        <mark key="." line="48" column="63" />
-        <mark key="^" line="48" column="64" />
+        <mark key="[" line="36" column="13" />
+        <mark key="]" line="38" column="18" />
+        <mark key="." line="38" column="17" />
+        <mark key="^" line="38" column="18" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" timestamp="1587387175869">
         <mark key="'" line="110" column="21" />
@@ -230,12 +233,6 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.awaitility/awaitility/4.0.2/8bfbd364eb0d21986cb9e055f7f2e4876fe55ffc/awaitility-4.0.2-sources.jar!/org/awaitility/core/ConditionFactory.java" timestamp="1587393528841">
         <mark key="'" line="179" column="62" />
-      </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/notification/dto/RealEstateNotificationDto.java" timestamp="1587381955595">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="13" column="22" />
-        <mark key="^" line="13" column="22" />
-        <mark key="." line="13" column="21" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/notification/RealEstateNotificationRepository.java" timestamp="1587388417513">
         <mark key="[" line="13" column="0" />
@@ -362,8 +359,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvbGF0aWxlIFdhaXRDb25zdHJhaW50IGRlZmF1bHRXYWl0Q29uc3RyYWludCA9IEF0TW9zdFdhaXRDb25zdHJhaW50LlRFTl9TRUNPTkRTOwo=</text>
+      <register name="&quot;" type="4">
+        <text>removed redundant classes</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -414,7 +411,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>removed redundant classes</text>
       </register>
       <register name="/" type="4">
         <text>await</text>
