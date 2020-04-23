@@ -191,18 +191,18 @@
       <file name="/provident_fund [postgres@localhost]" timestamp="1587567555889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateTest.java" timestamp="1587570929351">
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateTest.java" timestamp="1587628201764">
         <mark key="'" line="212" column="32" />
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="214" column="0" />
-        <mark key="." line="214" column="0" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="40" />
+        <mark key="." line="103" column="0" />
         <mark key="^" line="97" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/base/PensionCalculationBaseTest.java" timestamp="1587563569767">
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/base/PensionCalculationBaseTest.java" timestamp="1587629294766">
         <mark key="'" line="24" column="36" />
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="4" />
-        <mark key="." line="23" column="9" />
+        <mark key="[" line="21" column="59" />
+        <mark key="]" line="21" column="60" />
+        <mark key="." line="21" column="60" />
         <mark key="^" line="21" column="13" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateRepository.java" timestamp="1587567987856">
@@ -215,10 +215,10 @@
       <file name="/dummy.sql" timestamp="1587568260197">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587570937354">
+      <file name="/Dummy.txt" timestamp="1587628380146">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="18" />
+        <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/product/RealEstateCalculatorService.java" timestamp="1587568003833">
@@ -350,7 +350,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>minor fixes</text>
+        <text>fixed lombok annotation</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -401,13 +401,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>minor fixes</text>
+        <text>fixed lombok annotation</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGVSZWFsRXN0YXRlUHJvZHVjdCgpOwogICAgICAgIGV4cGVjdFJlYWxFc3RhdGVQcm9kdWN0Q291bnQoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RSZWFsRXN0YXRlUHJvZHVjdENvdW50KDApOwo=</text>
       </register>
       <register name="p" type="4">
         <text>com.core.rentencockpit.pensioncalculationservice.realestate.de.vdpresearch_cib.valuationservice.schemas.valuation</text>
