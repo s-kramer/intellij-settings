@@ -155,7 +155,6 @@
         <mark key="." line="5" column="67" />
         <mark key="^" line="5" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/repository/pension/PensionRepositoryFactory.java" timestamp="1587562651228" />
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/model/EstimatedMonthlyPension.java" timestamp="1587568823185">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="16" column="46" />
@@ -168,6 +167,17 @@
       <file name="/statutory_pension [postgres@localhost]" timestamp="1587568259960">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/InMemoryRealEstateRepository.java" timestamp="1587569693653">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="44" column="47" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/product/RealEstateAdjustmentCreator.java" timestamp="1587569755303">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.core.rentencockpit/common-library/0.1.20/acc53402e2e8ea8863c8ec65a93db0f95cf1a868/common-library-0.1.20.jar!/com/core/rentencockpit/commonlibrary/domain/pension/PensionType.class" timestamp="1587567681450">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="23" />
@@ -178,22 +188,15 @@
       <file name="/pensions-db.public.statutory_pension" timestamp="1587568259971">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/product/RealEstateProductFacade.java" timestamp="1587562078354">
-        <mark key="'" line="28" column="19" />
-        <mark key="[" line="35" column="35" />
-        <mark key="]" line="35" column="35" />
-        <mark key="." line="35" column="35" />
-        <mark key="^" line="20" column="15" />
-      </file>
       <file name="/provident_fund [postgres@localhost]" timestamp="1587567555889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateTest.java" timestamp="1587569299855">
-        <mark key="'" line="210" column="32" />
-        <mark key="[" line="210" column="64" />
-        <mark key="]" line="210" column="64" />
-        <mark key="." line="210" column="64" />
-        <mark key="^" line="85" column="64" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateTest.java" timestamp="1587570929351">
+        <mark key="'" line="212" column="32" />
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
+        <mark key="^" line="97" column="69" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/base/PensionCalculationBaseTest.java" timestamp="1587563569767">
         <mark key="'" line="24" column="36" />
@@ -212,10 +215,10 @@
       <file name="/dummy.sql" timestamp="1587568260197">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587562722734">
+      <file name="/Dummy.txt" timestamp="1587570937354">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="85" />
+        <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/product/RealEstateCalculatorService.java" timestamp="1587568003833">
@@ -347,7 +350,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>pensions/</text>
+        <text>minor fixes</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -398,7 +401,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pensions/</text>
+        <text>minor fixes</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -410,7 +413,7 @@
         <text>com.core.rentencockpit.pensioncalculationservice.realestate.de.vdpresearch_cib.valuationservice.schemas.valuation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBAQmVmb3JlRWFjaAogICAgdm9pZCBzZXRVcCgpIHsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSBiYXNpY19jbGFzc2ljX3BlbnNpb24iKTsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSBiYXNpY19mdW5kX2Jhc2VkX3BlbnNpb24iKTsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSBvdGhlcl9hc3NldHMiKTsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSBwZW5zaW9uX2Z1bmQiKTsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSBwcm92aWRlbnRfZnVuZCIpOwogICAgICAgIGpkYmNUZW1wbGF0ZS51cGRhdGUoIkRFTEVURSBGUk9NIHByaXZhdGVfY2xhc3NpY19wZW5zaW9uIik7CiAgICAgICAgamRiY1RlbXBsYXRlLnVwZGF0ZSgiREVMRVRFIEZST00gcHJpdmF0ZV9mdW5kX2Jhc2VkX3BlbnNpb24iKTsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSByZWFsX2VzdGF0ZSIpOwogICAgICAgIGpkYmNUZW1wbGF0ZS51cGRhdGUoIkRFTEVURSBGUk9NIHBlbnNpb25fY29tbWl0bWVudCIpOwogICAgICAgIGpkYmNUZW1wbGF0ZS51cGRhdGUoIkRFTEVURSBGUk9NIG9jY3VwYXRpb25hbF9kaXJlY3RfY2xhc3NpY19pbnN1cmFuY2UiKTsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSBjYXBpdGFsX2xpZmVfaW5zdXJhbmNlIik7CiAgICAgICAgamRiY1RlbXBsYXRlLnVwZGF0ZSgiREVMRVRFIEZST00gb2NjdXBhdGlvbmFsX2RpcmVjdF9mdW5kX2Jhc2VkX2luc3VyYW5jZSIpOwogICAgICAgIGpkYmNUZW1wbGF0ZS51cGRhdGUoIkRFTEVURSBGUk9NIGVuZG93bWVudF9saWZlX2luc3VyYW5jZSIpOwogICAgICAgIGpkYmNUZW1wbGF0ZS51cGRhdGUoIkRFTEVURSBGUk9NIHJpZXN0ZXJfY2xhc3NpY19wZW5zaW9uIik7CiAgICAgICAgamRiY1RlbXBsYXRlLnVwZGF0ZSgiREVMRVRFIEZST00gcmllc3Rlcl9mdW5kX2Jhc2VkX3BlbnNpb24iKTsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSByaWVzdGVyX2Z1bmRfcGVuc2lvbiIpOwogICAgICAgIGpkYmNUZW1wbGF0ZS51cGRhdGUoIkRFTEVURSBGUk9NIHN0YXR1dG9yeV9wZW5zaW9uIik7CiAgICAgICAgamRiY1RlbXBsYXRlLnVwZGF0ZSgiREVMRVRFIEZST00gdGhpcmRfcGFydHlfcGFydG5lcl9wcml2YXRlX3BlbnNpb24iKTsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSBwcm9kdWN0X2FkanVzdG1lbnQiKTsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSByZWFsX2VzdGF0ZV9wcm9kdWN0X2FkanVzdG1lbnQiKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIEBqYXZhLmJlYW5zLkNvbnN0cnVjdG9yUHJvcGVydGllcyh7ImJhc2UifSkK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -462,28 +465,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBkZWxldGVBbGxQcm9kdWN0cyhTdHJpbmcgcHJvZmlsZUlkKSB7CiAgICAgICAgdmFyIHByb2R1Y3RzRm9yUHJvZmlsZSA9IHBlbnNpb25Qcm9kdWN0c0ZpeHR1cmUuZ2V0UHJvZHVjdHNGb3JQcm9maWxlKHByb2ZpbGVJZCk7CiAgICAgICAgdmFyIHBhdHRlcm4gPSBQYXR0ZXJuLmNvbXBpbGUoIlwidHlwZVwiOlwiXFx3K1wiIik7CiAgICAgICAgdmFyIG1hdGNoZXIgPSBwYXR0ZXJuLm1hdGNoZXIocHJvZmlsZUlkKTsKICAgICAgICBpZiAobWF0Y2hlci5tYXRjaGVzKCkpIHsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDE7IGkgPCBtYXRjaGVyLmdyb3VwQ291bnQoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICB2YXIgbWF0Y2ggPSBtYXRjaGVyLmdyb3VwKGkpOwoKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoZXN0YXRlIC0+IGVzdGF0ZS5nZXRFdmFsdWF0aW9uUmVzdWx0KCkgIT0gbnVsbCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSAicGVuc2lvbnMtZGIiLnB1YmxpYy5wcm9kdWN0X2FkanVzdG1lbnQiKTsK</text>
+        <text encoding="base64">CiAgICBAQmVmb3JlRWFjaAogICAgdm9pZCBzZXRVcCgpIHsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSBiYXNpY19jbGFzc2ljX3BlbnNpb24iKTsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSBiYXNpY19mdW5kX2Jhc2VkX3BlbnNpb24iKTsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSBvdGhlcl9hc3NldHMiKTsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSBwZW5zaW9uX2Z1bmQiKTsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSBwcm92aWRlbnRfZnVuZCIpOwogICAgICAgIGpkYmNUZW1wbGF0ZS51cGRhdGUoIkRFTEVURSBGUk9NIHByaXZhdGVfY2xhc3NpY19wZW5zaW9uIik7CiAgICAgICAgamRiY1RlbXBsYXRlLnVwZGF0ZSgiREVMRVRFIEZST00gcHJpdmF0ZV9mdW5kX2Jhc2VkX3BlbnNpb24iKTsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSByZWFsX2VzdGF0ZSIpOwogICAgICAgIGpkYmNUZW1wbGF0ZS51cGRhdGUoIkRFTEVURSBGUk9NIHBlbnNpb25fY29tbWl0bWVudCIpOwogICAgICAgIGpkYmNUZW1wbGF0ZS51cGRhdGUoIkRFTEVURSBGUk9NIG9jY3VwYXRpb25hbF9kaXJlY3RfY2xhc3NpY19pbnN1cmFuY2UiKTsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSBjYXBpdGFsX2xpZmVfaW5zdXJhbmNlIik7CiAgICAgICAgamRiY1RlbXBsYXRlLnVwZGF0ZSgiREVMRVRFIEZST00gb2NjdXBhdGlvbmFsX2RpcmVjdF9mdW5kX2Jhc2VkX2luc3VyYW5jZSIpOwogICAgICAgIGpkYmNUZW1wbGF0ZS51cGRhdGUoIkRFTEVURSBGUk9NIGVuZG93bWVudF9saWZlX2luc3VyYW5jZSIpOwogICAgICAgIGpkYmNUZW1wbGF0ZS51cGRhdGUoIkRFTEVURSBGUk9NIHJpZXN0ZXJfY2xhc3NpY19wZW5zaW9uIik7CiAgICAgICAgamRiY1RlbXBsYXRlLnVwZGF0ZSgiREVMRVRFIEZST00gcmllc3Rlcl9mdW5kX2Jhc2VkX3BlbnNpb24iKTsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSByaWVzdGVyX2Z1bmRfcGVuc2lvbiIpOwogICAgICAgIGpkYmNUZW1wbGF0ZS51cGRhdGUoIkRFTEVURSBGUk9NIHN0YXR1dG9yeV9wZW5zaW9uIik7CiAgICAgICAgamRiY1RlbXBsYXRlLnVwZGF0ZSgiREVMRVRFIEZST00gdGhpcmRfcGFydHlfcGFydG5lcl9wcml2YXRlX3BlbnNpb24iKTsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSBwcm9kdWN0X2FkanVzdG1lbnQiKTsKICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSByZWFsX2VzdGF0ZV9wcm9kdWN0X2FkanVzdG1lbnQiKTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3RfYWRqdXN0bWVudApyZWFsX2VzdGF0ZV9wcm9kdWN0X2FkanVzdG1lbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0X2FkanVzdG1lbnQK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBkZWxldGVBbGxQcm9kdWN0cyhTdHJpbmcgcHJvZmlsZUlkKSB7CiAgICAgICAgdmFyIHByb2R1Y3RzRm9yUHJvZmlsZSA9IHBlbnNpb25Qcm9kdWN0c0ZpeHR1cmUuZ2V0UHJvZHVjdHNGb3JQcm9maWxlKHByb2ZpbGVJZCk7CiAgICAgICAgdmFyIHBhdHRlcm4gPSBQYXR0ZXJuLmNvbXBpbGUoIlwidHlwZVwiOlwiXFx3K1wiIik7CiAgICAgICAgdmFyIG1hdGNoZXIgPSBwYXR0ZXJuLm1hdGNoZXIocHJvZmlsZUlkKTsKICAgICAgICBpZiAobWF0Y2hlci5tYXRjaGVzKCkpIHsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDE7IGkgPCBtYXRjaGVyLmdyb3VwQ291bnQoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICB2YXIgbWF0Y2ggPSBtYXRjaGVyLmdyb3VwKGkpOwoKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSAicGVuc2lvbnMtZGIiLnB1YmxpYy5wcm9kdWN0X2FkanVzdG1lbnQiKTsK</text>
       </register>
       <register name="w" type="4">
         <text>Wd3W^j</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2FnZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3RfYWRqdXN0bWVudApyZWFsX2VzdGF0ZV9wcm9kdWN0X2FkanVzdG1lbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXBsb2FkX3Jldmlldwo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0X2FkanVzdG1lbnQK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywiLyIv</text>
