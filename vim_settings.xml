@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRSZWFsRXN0YXRlXD4=</entry>
         <entry encoding="base64">XDxleHBlY3RSZW50ZWRcPg==</entry>
         <entry encoding="base64">XDxwYWNrYWdlXD4=</entry>
         <entry encoding="base64">XDxleHBlY3RQZW5zaW9uVmFsdWVOb3RaZXJvXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxqd3RDb29raWVTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxzYXZpbmdzUGxhbk1vbnRobHlDb250cmlidXRpb25cPg==</entry>
         <entry encoding="base64">XDxzZWN1cml0aWVzX2Jhc2VkX3BlbnNpb25cPg==</entry>
+        <entry encoding="base64">XDxwcm9kdWN0SWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywkLykv</entry>
@@ -150,70 +150,66 @@
         <mark key="." line="12" column="38" />
         <mark key="^" line="12" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/StockPension.java" timestamp="1587727229367">
-        <mark key="[" line="15" column="6" />
-        <mark key="]" line="15" column="6" />
-        <mark key="." line="15" column="6" />
-        <mark key="^" line="10" column="21" />
-      </file>
       <file name="/flyway_schema_history [postgres@localhost]" timestamp="1587731784516">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/http/securities/secutiries.http" timestamp="1587729677967">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="11" column="42" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/http/securities/securities.http" timestamp="1587733074640">
+        <mark key="'" line="16" column="1" />
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="16" column="86" />
+        <mark key="." line="16" column="85" />
+        <mark key="^" line="16" column="86" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/http/securities/securities.http" timestamp="1587731880477">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedRepository.java" timestamp="1587733332939">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
       </file>
-      <file name="/real_estate [postgres@localhost]" timestamp="1587731369296">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/Features.java" timestamp="1587728558853">
-        <mark key="[" line="34" column="52" />
-        <mark key="]" line="34" column="64" />
-        <mark key="." line="34" column="63" />
-        <mark key="^" line="34" column="64" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPensionController.java" timestamp="1587733462043">
+        <mark key="[" line="51" column="49" />
+        <mark key="]" line="51" column="52" />
+        <mark key="^" line="51" column="52" />
+        <mark key="." line="51" column="51" />
       </file>
       <file name="/a.sql" timestamp="1587731834239">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateDto.java" timestamp="1587727432957">
-        <mark key="'" line="80" column="5" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="27" />
-      </file>
       <file name="/default" timestamp="1587731378597">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" timestamp="1587731992560">
-        <mark key="'" line="89" column="44" />
-        <mark key="[" line="158" column="15" />
-        <mark key="]" line="158" column="20" />
-        <mark key="." line="158" column="19" />
-        <mark key="^" line="158" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/backoffice/ReviewController.java" timestamp="1587729048925">
-        <mark key="'" line="147" column="0" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="155" column="5" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" timestamp="1587733435685">
+        <mark key="'" line="50" column="10" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/pensions-db.public.real_estate" timestamp="1587731369322">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/db/migration/V1.57__RC-423_add-real_estate_notification.sql" timestamp="1587728214936">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="2" />
-      </file>
-      <file name="/dummy.sql" timestamp="1587731968982">
+      <file name="/dummy.sql" timestamp="1587733078207">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/pensions-db.public.flyway_schema_history" timestamp="1587731784542">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587733519791">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="42" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPensionEntity.java" timestamp="1587733186944">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="39" column="1" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/securities/SecuritiesPensionTest.java" timestamp="1587733803772">
+        <mark key="[" line="6" column="64" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" timestamp="1587732036573">
         <mark key="'" line="0" column="0" />
@@ -221,9 +217,10 @@
         <mark key="]" line="76" column="64" />
         <mark key="." line="76" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateController.java" timestamp="1587728493557">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="38" column="16" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateTest.java" timestamp="1587733741018">
+        <mark key="'" line="203" column="6" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="43" column="57" />
       </file>
       <file name="/securities_based_pension [postgres@localhost]" timestamp="1587731968689">
         <mark key="[" line="0" column="0" />
@@ -231,18 +228,15 @@
       <file name="/pensions-db.public.securities_based_pension" timestamp="1587731968712">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1587733166092">
+        <mark key="'" line="33" column="27" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="75" />
+        <mark key="." line="1" column="45" />
+        <mark key="^" line="1" column="46" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="31" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateUpdater.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/http/pensions/pensions.http" />
-      <jump line="9" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/http/pensions/pensions.http" />
-      <jump line="1" column="93" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/http/pensions/pensions.http" />
-      <jump line="73" column="8" filename="/RealEstateProductFacadeTest.java" />
-      <jump line="97" column="8" filename="/RealEstateProductFacadeTest.java" />
-      <jump line="113" column="8" filename="/RealEstateProductFacadeTest.java" />
-      <jump line="124" column="8" filename="/RealEstateProductFacadeTest.java" />
-      <jump line="133" column="8" filename="/RealEstateProductFacadeTest.java" />
-      <jump line="139" column="8" filename="/RealEstateProductFacadeTest.java" />
       <jump line="143" column="17" filename="/RealEstateProductFacadeTest.java" />
       <jump line="58" column="8" filename="/RealEstateProductFacadeTest.java" />
       <jump line="136" column="52" filename="/RealEstateProductFacadeTest.java" />
@@ -300,7 +294,6 @@
       <jump line="60" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
       <jump line="58" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
       <jump line="56" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
-      <jump line="53" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
       <jump line="50" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
       <jump line="48" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
       <jump line="37" column="6" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/backoffice/ReviewController.java" />
@@ -310,7 +303,6 @@
       <jump line="69" column="29" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
       <jump line="99" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
       <jump line="102" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
-      <jump line="107" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
       <jump line="113" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
       <jump line="121" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
       <jump line="123" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
@@ -333,12 +325,24 @@
       <jump line="12" column="50" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/db/migration/V1.63__RC-436_add_securities_based_pension.sql" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/http/securities/securities.http" />
       <jump line="89" column="44" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
+      <jump line="108" column="84" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
+      <jump line="107" column="19" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
+      <jump line="57" column="74" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
+      <jump line="110" column="7" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
+      <jump line="112" column="21" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/http/securities/securities.http" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/http/securities/securities.http" />
+      <jump line="16" column="1" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/http/securities/securities.http" />
+      <jump line="127" column="6" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
+      <jump line="53" column="10" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPension.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesBasedPensionEntity.java" />
+      <jump line="203" column="6" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>null;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgIHsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -381,7 +385,7 @@
         </keys>
       </register>
       <register name="+" type="4">
-        <text>6b85cfbd-5457-4133-af5d-9e9e8005e714</text>
+        <text>f2702681-48d3-4e88-81ac-bb2e90043ba1</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -389,25 +393,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null;</text>
+        <text>RealEstateTest</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWN1cml0aWVzX2Jhc2VkX3BlbnNpb25cPg==</text>
+        <text encoding="base64">XDxwcm9kdWN0SWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEJpZ0RlY2ltYWwgc2F2aW5nc1BsYW5Nb250aGx5Q29udHJpYnV0aW9uOwo=</text>
+        <text encoding="base64">QFRlc3Rjb250YWluZXJzCmNsYXNzIFJlYWxFc3RhdGVUZXN0IGV4dGVuZHMgUGVuc2lvbkNhbGN1bGF0aW9uQmFzZVRlc3Qgewo=</text>
       </register>
       <register name="p" type="4">
         <text>com.core.rentencockpit.pensioncalculationservice.realestate.de.vdpresearch_cib.valuationservice.schemas.valuation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJJZCh1c2VySWQpCg==</text>
+        <text encoding="base64">Y2xhc3MgIHsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnsKICAib2JqZWN0TmFtZSI6ICJNeSBob3VzZSIsCiAgInN0cmVldCI6ICJIYWxsZXJhIiwKICAiaG91c2VOdW1iZXIiOiAiMTUvNCIsCiAgInppcCI6IDUyMTkwLAogICJjaXR5IjogIkJlcmxpbiIsCiAgIm5ld0RldmVsb3BtZW50QXJlYSI6IHRydWUsCiAgInJlZmVyZW5jZVN0cmVldCI6ICJIYWxsZXJhIiwKICAiY29uc3RydWN0aW9uVHlwZSI6ICJNQVNTSVZFIiwKICAiY29uc3RydWN0aW9uWWVhciI6IDE5NzAsCiAgInB1cmNoYXNlUHJpY2UiOiAxMDAwMC4wLAogICJwdXJjaGFzZURhdGUiOiAiMjAyMC0wNC0wOCIsCiAgIm9iamVjdFR5cGUiOiAiVFdPX0ZBTUlMWV9IT1VTRSIsCiAgImhvdXNlVHlwZSI6ICJCQVNFTUVOVF9HUk9VTkRfRkxPT1JfQVRUSUNfUkVOT1ZBVEVEIiwKICAicHJvcGVydHlBcmVhIjogNDAwMC41LAogICJsaXZpbmdTcGFjZSI6IDEwMDAuMCwKICAidGhlcmVvZlJlbnRlZE91dCI6IDEuMCwKICAiZ2FyYWdlVHlwZTEiOiAiR0FSQUdFIiwKICAiZ2FyYWdlUXVhbnRpdHkxIjogNCwKICAiZmVhdHVyZXMiOiAiQkFEIiwKICAiY29uZGl0aW9uIjogIkJBRCIKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -453,28 +457,38 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">InBlbnNpb25QZXJpb2QiOiAiIiwK</text>
+        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>enum SecuritiesBasedPensionPeriod {
+    LIFETIME
+}
+
+enum SecuritiesBasedStockStake {
+    STAKE_0_20,
+    STAKE_20_40,
+    STAKE_40_60,
+    STAKE_60_80,
+    STAKE_80_100
+}</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QE5vdE51bGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>Wd3W^j</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QE5vdE51bGwK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QE5vdE51bGwKQE1pbigwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
@@ -483,12 +497,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzZWN1cml0aWVzX2Jhc2VkX3BlbnNpb25cPg==</last-search>
+      <last-search encoding="base64">XDxwcm9kdWN0SWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWN1cml0aWVzX2Jhc2VkX3BlbnNpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9kdWN0SWRcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>,&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
