@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY3RpdmF0ZVNlY3VyaXRpZXNcPg==</entry>
         <entry encoding="base64">XDxlbmFibGVTZWN1cml0aWVzUGVuc2lvblw+</entry>
         <entry encoding="base64">XDxIYXNoTWFwXD4=</entry>
         <entry>integra</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxkYXRlT2ZEZXBvc3RhbmROb3RpZmljYXRpb25cPg==</entry>
         <entry encoding="base64">XDxwZW5zaW9uU3RhcnREYXRlXD4=</entry>
         <entry encoding="base64">XDxjYWxjdWxhdGVEZXBvdEJhbGFuY2VCeVN0YXJ0T2ZQZW5zaW9uXD4=</entry>
+        <entry encoding="base64">XDxkaWZmZXJlbmNlQmV0d2VlbkVuZE9mU2F2aW5nc1BsYW5VbnRpbERhdGVPZlBlbnNpb25TdGFydFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywkLykv</entry>
@@ -189,12 +189,12 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="39" column="104" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesPensionCalculator.java" timestamp="1588241627773">
-        <mark key="'" line="72" column="25" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="95" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="70" column="8" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesPensionCalculator.java" timestamp="1588242273780">
+        <mark key="'" line="92" column="12" />
+        <mark key="[" line="100" column="175" />
+        <mark key="]" line="100" column="175" />
+        <mark key="." line="100" column="174" />
+        <mark key="^" line="100" column="175" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.9.RELEASE/2fa8c964b4d06847453f17f47a1017ee7512ad18/spring-web-5.1.9.RELEASE-sources.jar!/org/springframework/http/ResponseEntity.java" timestamp="1588232566268" />
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesCreator.java" timestamp="1588232667227">
@@ -244,8 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="32" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/service/PensionsDeleteService.java" />
-      <jump line="66" column="36" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/service/PensionsDeleteService.java" />
       <jump line="70" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/service/PensionsDeleteService.java" />
       <jump line="64" column="96" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/service/PensionsDeleteService.java" />
       <jump line="71" column="95" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/service/PensionsDeleteService.java" />
@@ -344,12 +342,14 @@
       <jump line="59" column="64" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesPensionCalculator.java" />
       <jump line="68" column="15" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesPensionCalculator.java" />
       <jump line="72" column="25" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesPensionCalculator.java" />
+      <jump line="100" column="131" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesPensionCalculator.java" />
+      <jump line="92" column="12" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesPensionCalculator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZXhwZWN0ZWRSZXR1cm5SYXRlID0gZXhwZWN0ZWRSZXR1cm5SYXRlcy5nZXRSZXR1cm5SYXRlKHNlY3VyaXRpZXMuZ2V0U3RvY2tTdGFrZSgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>BigDecimal.ZERO;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -400,25 +400,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>depotBalanceByStartOfPension</text>
+        <text>BigDecimal.ZERO;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWxjdWxhdGVEZXBvdEJhbGFuY2VCeVN0YXJ0T2ZQZW5zaW9uXD4=</text>
+        <text encoding="base64">XDxkaWZmZXJlbmNlQmV0d2VlbkVuZE9mU2F2aW5nc1BsYW5VbnRpbERhdGVPZlBlbnNpb25TdGFydFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZXhwZWN0ZWRSZXR1cm5SYXRlID0gZXhwZWN0ZWRSZXR1cm5SYXRlcy5nZXRSZXR1cm5SYXRlKHNlY3VyaXRpZXMuZ2V0U3RvY2tTdGFrZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc2Vjb25kU3VtRmFjdG9yU2Vjb25kTXVsdGlwbGljYXRpb25GYWN0b3IgPSBCaWdEZWNpbWFsLlpFUk87Cg==</text>
       </register>
       <register name="p" type="4">
         <text>com.core.rentencockpit.pensioncalculationservice.realestate.de.vdpresearch_cib.valuationservice.schemas.valuation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZXhwZWN0ZWRSZXR1cm5SYXRlID0gZXhwZWN0ZWRSZXR1cm5SYXRlcy5nZXRSZXR1cm5SYXRlKHNlY3VyaXRpZXMuZ2V0U3RvY2tTdGFrZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgdmFyIGZpcnN0U3VtRmFjdG9yID0gQmlnRGVjaW1hbE1hdGgucG93KAogICAgICAgICAgICAgICAgZGVwb3RCYWxhbmNlQnlTdGFydE9mUGVuc2lvbi5tdWx0aXBseShCaWdEZWNpbWFsLk9ORS5hZGQoZXhwZWN0ZWRSZXR1cm5SYXRlKSksCiAgICAgICAgICAgICAgICBkaWZmZXJlbmNlQmV0d2VlbkRhdGVEZXBvc3RhbmROb3RpZmljYXRpb25VbnRpbFBlbnNpb25TdGFydERhdGUsIE1hdGhDb250ZXh0LkRFQ0lNQUwzMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -464,28 +464,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZ3VhcmFudGVlZEludGVyZXN0UmF0ZSA9IEJpZ0RlY2ltYWwuT05FOyAvLyBUT0RPOiBnZXQgcmVhbCB2YWx1ZQogICAgICAgIHZhciBmZWVGb3JBbm51aXRpemF0aW9uID0gQmlnRGVjaW1hbC5aRVJPOyAvLyBUT0RPOiBnZXQgcmVhbCB2YWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZXhwZWN0ZWRSZXR1cm5SYXRlID0gZXhwZWN0ZWRSZXR1cm5SYXRlcy5nZXRSZXR1cm5SYXRlKHNlY3VyaXRpZXMuZ2V0U3RvY2tTdGFrZSgpKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>securities.getPensionCreationDate()</text>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAgICAgdmFyIGZpcnN0U3VtRmFjdG9yID0gQmlnRGVjaW1hbE1hdGgucG93KAogICAgICAgICAgICAgICAgZGVwb3RCYWxhbmNlQnlTdGFydE9mUGVuc2lvbi5tdWx0aXBseShCaWdEZWNpbWFsLk9ORS5hZGQoZXhwZWN0ZWRSZXR1cm5SYXRlKSksCiAgICAgICAgICAgICAgICBkaWZmZXJlbmNlQmV0d2VlbkRhdGVEZXBvc3RhbmROb3RpZmljYXRpb25VbnRpbFBlbnNpb25TdGFydERhdGUsIE1hdGhDb250ZXh0LkRFQ0lNQUwzMik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hdGguYWJzKGRhdGVPZkRlcG9zdGFuZE5vdGlmaWNhdGlvbi5taW51c1llYXJzKHBlbnNpb25TdGFydERhdGUuZ2V0WWVhcigpKS5nZXRZZWFyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZ3VhcmFudGVlZEludGVyZXN0UmF0ZSA9IEJpZ0RlY2ltYWwuT05FOyAvLyBUT0RPOiBnZXQgcmVhbCB2YWx1ZQogICAgICAgIHZhciBmZWVGb3JBbm51aXRpemF0aW9uID0gQmlnRGVjaW1hbC5aRVJPOyAvLyBUT0RPOiBnZXQgcmVhbCB2YWx1ZQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcGVuc2lvblN0YXJ0RGF0ZSA9IExvY2FsRGF0ZS5ub3coKTsgLy8gVE9ETzogZ2V0IHJlYWwgdmFsdWUK</text>
+      <register name="6" type="4">
+        <text>securities.getPensionCreationDate()</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcGVuc2lvblN0YXJ0RGF0ZSA9IExvY2FsRGF0ZS5ub3coKTsgLy8gVE9ETzogZ2V0IHJlYWwgdmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hdGguYWJzKGRhdGVPZkRlcG9zdGFuZE5vdGlmaWNhdGlvbi5taW51c1llYXJzKHBlbnNpb25TdGFydERhdGUuZ2V0WWVhcigpKS5nZXRZZWFyKCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>jddw</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZ3VhcmFudGVlZEludGVyZXN0UmF0ZSA9IEJpZ0RlY2ltYWwuT05FOyAvLyBUT0RPOiBnZXQgcmVhbCB2YWx1ZQogICAgICAgIHZhciBmZWVGb3JBbm51aXRpemF0aW9uID0gQmlnRGVjaW1hbC5aRVJPOyAvLyBUT0RPOiBnZXQgcmVhbCB2YWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcGVuc2lvblN0YXJ0RGF0ZSA9IExvY2FsRGF0ZS5ub3coKTsgLy8gVE9ETzogZ2V0IHJlYWwgdmFsdWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZGF0ZU9mRGVwb3N0YW5kTm90aWZpY2F0aW9uID0gc2VjdXJpdGllcy5nZXRQZW5zaW9uQ3JlYXRpb25EYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcGVuc2lvblN0YXJ0RGF0ZSA9IExvY2FsRGF0ZS5ub3coKTsgLy8gVE9ETzogZ2V0IHJlYWwgdmFsdWUK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
@@ -494,12 +494,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjYWxjdWxhdGVEZXBvdEJhbGFuY2VCeVN0YXJ0T2ZQZW5zaW9uXD4=</last-search>
+      <last-search encoding="base64">XDxkaWZmZXJlbmNlQmV0d2VlbkVuZE9mU2F2aW5nc1BsYW5VbnRpbERhdGVPZlBlbnNpb25TdGFydFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWxjdWxhdGVEZXBvdEJhbGFuY2VCeVN0YXJ0T2ZQZW5zaW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkaWZmZXJlbmNlQmV0d2VlbkVuZE9mU2F2aW5nc1BsYW5VbnRpbERhdGVPZlBlbnNpb25TdGFydFw+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>,&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
