@@ -165,6 +165,12 @@
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/resources/application-integration-test.yaml" timestamp="1588255697546">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/modern-architecture/stories" timestamp="1588582070424">
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="45" column="34" />
+        <mark key="." line="45" column="33" />
+        <mark key="^" line="45" column="34" />
+      </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" timestamp="1588258927967">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="18" column="4" />
@@ -195,13 +201,6 @@
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="12" />
         <mark key="^" line="1" column="41" />
-      </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/test/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesFacadeTest.java" timestamp="1588246784164">
-        <mark key="'" line="28" column="62" />
-        <mark key="[" line="29" column="46" />
-        <mark key="]" line="29" column="47" />
-        <mark key="^" line="29" column="47" />
-        <mark key="." line="29" column="46" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" timestamp="1588254588925">
         <mark key="'" line="212" column="8" />
@@ -352,8 +351,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>securities_based_pension</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -404,7 +403,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>securities_based_pension</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>depostan</text>
@@ -416,13 +415,13 @@
         <text>com.core.rentencockpit.pensioncalculationservice.realestate.de.vdpresearch_cib.valuationservice.schemas.valuation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIElOU0VSVCBDT0xVCg==</text>
+        <text encoding="base64">IC0gamFrIGplc3Q/Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -468,28 +467,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBlbnNpb25fY3JlYXRpb25fZGF0ZSAgICAgICAgICAgICBEQVRFCg==</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcmNNb3J0YWxpdHkgPSByY01vcnRhbGl0eVJlcG9zaXRvcnkuZmluZEJ5QmlydGhZZWFyKGJpcnRoWWVhcik7Cg==</text>
+        <text encoding="base64">ICAgIElOU0VSVCBDT0xVCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>.orElseThrow(IllegalArgumentException::new)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBlbnNpb25fY3JlYXRpb25fZGF0ZSAgICAgICAgICAgICBEQVRFCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5ieXRlYnVkZHkuaW1wbGVtZW50YXRpb24uYmluZC5hbm5vdGF0aW9uLkFsbEFyZ3VtZW50czsK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcmNNb3J0YWxpdHkgPSByY01vcnRhbGl0eVJlcG9zaXRvcnkuZmluZEJ5QmlydGhZZWFyKGJpcnRoWWVhcik7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">QFRvU3RyaW5nCkBFcXVhbHNBbmRIYXNoQ29kZQpAQWxsQXJnc0NvbnN0cnVjdG9yCkBHZXR0ZXIoQWNjZXNzTGV2ZWwuUFJJVkFURSkKQFNldHRlcihBY2Nlc3NMZXZlbC5QQUNLQUdFKQo=</text>
+      <register name="7" type="4">
+        <text>.orElseThrow(IllegalArgumentException::new)</text>
       </register>
       <register name="w" type="4">
         <text>jddw</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEdldHRlcihBY2Nlc3NMZXZlbC5QUklWQVRFKQo=</text>
+        <text encoding="base64">aW1wb3J0IG5ldC5ieXRlYnVkZHkuaW1wbGVtZW50YXRpb24uYmluZC5hbm5vdGF0aW9uLkFsbEFyZ3VtZW50czsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">QFRvU3RyaW5nCkBFcXVhbHNBbmRIYXNoQ29kZQpAQWxsQXJnc0NvbnN0cnVjdG9yCkBHZXR0ZXIoQWNjZXNzTGV2ZWwuUFJJVkFURSkKQFNldHRlcihBY2Nlc3NMZXZlbC5QQUNLQUdFKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
