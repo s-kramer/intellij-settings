@@ -148,12 +148,6 @@
         <mark key="[" line="99" column="0" />
         <mark key="]" line="105" column="113" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/UpdateSecuritiesDto.java" timestamp="1588769704393">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="7" />
-        <mark key="." line="12" column="6" />
-        <mark key="^" line="12" column="7" />
-      </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/adjustment/SecuritiesAdjustmentFacade.java" timestamp="1588770089181">
         <mark key="'" line="37" column="15" />
         <mark key="[" line="38" column="0" />
@@ -180,7 +174,21 @@
         <mark key="^" line="13" column="49" />
         <mark key="." line="13" column="31" />
       </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstatePensionProductsFixture.java" timestamp="1588773987144">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="37" column="9" />
+        <mark key="]" line="37" column="10" />
+        <mark key="." line="37" column="9" />
+        <mark key="^" line="37" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/product/RealEstateAdjustment.java" timestamp="1588772552630" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesPensionProductsFixture.java" timestamp="1588773888580">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="39" column="10" />
+        <mark key="." line="39" column="9" />
+        <mark key="^" line="39" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/Securities.java" timestamp="1588770211287">
         <mark key="'" line="46" column="87" />
         <mark key="[" line="14" column="31" />
@@ -214,11 +222,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="49" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesPeriod.java" timestamp="1588769724579">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="6" />
-        <mark key="^" line="2" column="7" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/product/PensionProductsFixture.java" timestamp="1588773826404">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="78" column="51" />
+        <mark key="]" line="78" column="52" />
+        <mark key="." line="78" column="51" />
+        <mark key="^" line="78" column="52" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/local-dev-env/workspace/ums/src/main/java/com/core/rentencockpit/usermanagementservice/auth/configuration/security/oauth2/HttpCookieOAuth2AuthorizationRequestRepository.java" timestamp="1588771249683">
         <mark key="'" line="146" column="44" />
@@ -343,8 +352,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>RealEstateSingleMonthlyPension</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -395,7 +404,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>test.runtimeClasspath</text>
+        <text>RealEstateSingleMonthlyPension</text>
       </register>
       <register name="/" type="4">
         <text>integration</text>
@@ -407,13 +416,13 @@
         <text>com.core.rentencockpit.pensioncalculationservice.realestate.de.vdpresearch_cib.valuationservice.schemas.valuation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludGVncmF0aW9uVGVzdEltcGxlbWVudGF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -459,19 +468,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gVE9ETzogbWVyZ2UgYWRqdXN0bWVudHMgaW50byBzZWN1cml0aWVzCg==</text>
+        <text encoding="base64">ICAgIGludGVncmF0aW9uVGVzdEltcGxlbWVudGF0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jb3JlLnJlbnRlbmNvY2twaXQucGVuc2lvbmNhbGN1bGF0aW9uc2VydmljZS5zdG9jay5hZGp1c3RtZW50LlNlY3VyaXRpZXNBZGp1c3RtZW50U3ByaW5nQ29uZmlndXJhdGlvbjsK</text>
+        <text encoding="base64">Ly8gVE9ETzogbWVyZ2UgYWRqdXN0bWVudHMgaW50byBzZWN1cml0aWVzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU2VjdXJpdGllc0FkanVzdG1lbnRGYWNhZGUgYWRqdXN0bWVudEZhY2FkZSA9CiAgICAgICAgICAgIG5ldyBTZWN1cml0aWVzQWRqdXN0bWVudFNwcmluZ0NvbmZpZ3VyYXRpb24oKS5zZWN1cml0aWVzQWRqdXN0bWVudEZhY2FkZSgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jb3JlLnJlbnRlbmNvY2twaXQucGVuc2lvbmNhbGN1bGF0aW9uc2VydmljZS5zdG9jay5hZGp1c3RtZW50LlNlY3VyaXRpZXNBZGp1c3RtZW50U3ByaW5nQ29uZmlndXJhdGlvbjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgUGVyY2VudGFnZSBQUkVDSVNJT04gPSBQZXJjZW50YWdlLndpdGhQZXJjZW50YWdlKDEpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU2VjdXJpdGllc0FkanVzdG1lbnRGYWNhZGUgYWRqdXN0bWVudEZhY2FkZSA9CiAgICAgICAgICAgIG5ldyBTZWN1cml0aWVzQWRqdXN0bWVudFNwcmluZ0NvbmZpZ3VyYXRpb24oKS5zZWN1cml0aWVzQWRqdXN0bWVudEZhY2FkZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jb3JlLnJlbnRlbmNvY2twaXQucGVuc2lvbmNhbGN1bGF0aW9uc2VydmljZS5zdG9jay5hZGp1c3RtZW50LkluTWVtb3J5U2VjdXJpdGllc0FkanVzdG1lbnRSZXBvc2l0b3J5OwppbXBvcnQgY29tLmNvcmUucmVudGVuY29ja3BpdC5wZW5zaW9uY2FsY3VsYXRpb25zZXJ2aWNlLnN0b2NrLmFkanVzdG1lbnQuU2VjdXJpdGllc0FkanVzdG1lbnRSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgUGVyY2VudGFnZSBQUkVDSVNJT04gPSBQZXJjZW50YWdlLndpdGhQZXJjZW50YWdlKDEpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -495,10 +504,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBTZWN1cml0aWVzQWRqdXN0bWVudEZhY2FkZSBzZWN1cml0aWVzQWRqdXN0bWVudEZhY2FkZSgKICAgICAgICAgICAgU2VjdXJpdGllc0FkanVzdG1lbnRSZXBvc2l0b3J5IHNlY3VyaXRpZXNBZGp1c3RtZW50UmVwb3NpdG9yeSkgewogICAgICAgIHJldHVybiBuZXcgU2VjdXJpdGllc0FkanVzdG1lbnRGYWNhZGUoc2VjdXJpdGllc0FkanVzdG1lbnRSZXBvc2l0b3J5KTsKICAgIH0KCiAgICBwdWJsaWMgU2VjdXJpdGllc0FkanVzdG1lbnRGYWNhZGUgc2VjdXJpdGllc0FkanVzdG1lbnRGYWNhZGUoKSB7CiAgICAgICAgcmV0dXJuIHNlY3VyaXRpZXNBZGp1c3RtZW50RmFjYWRlKG5ldyBJbk1lbW9yeVNlY3VyaXRpZXNBZGp1c3RtZW50UmVwb3NpdG9yeSgpKTsKICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jb3JlLnJlbnRlbmNvY2twaXQucGVuc2lvbmNhbGN1bGF0aW9uc2VydmljZS5zdG9jay5hZGp1c3RtZW50LkluTWVtb3J5U2VjdXJpdGllc0FkanVzdG1lbnRSZXBvc2l0b3J5OwppbXBvcnQgY29tLmNvcmUucmVudGVuY29ja3BpdC5wZW5zaW9uY2FsY3VsYXRpb25zZXJ2aWNlLnN0b2NrLmFkanVzdG1lbnQuU2VjdXJpdGllc0FkanVzdG1lbnRSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ClRoaXMgcmV2ZXJ0cyBjb21taXQgZTVhNWVmYWU=</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBTZWN1cml0aWVzQWRqdXN0bWVudEZhY2FkZSBzZWN1cml0aWVzQWRqdXN0bWVudEZhY2FkZSgKICAgICAgICAgICAgU2VjdXJpdGllc0FkanVzdG1lbnRSZXBvc2l0b3J5IHNlY3VyaXRpZXNBZGp1c3RtZW50UmVwb3NpdG9yeSkgewogICAgICAgIHJldHVybiBuZXcgU2VjdXJpdGllc0FkanVzdG1lbnRGYWNhZGUoc2VjdXJpdGllc0FkanVzdG1lbnRSZXBvc2l0b3J5KTsKICAgIH0KCiAgICBwdWJsaWMgU2VjdXJpdGllc0FkanVzdG1lbnRGYWNhZGUgc2VjdXJpdGllc0FkanVzdG1lbnRGYWNhZGUoKSB7CiAgICAgICAgcmV0dXJuIHNlY3VyaXRpZXNBZGp1c3RtZW50RmFjYWRlKG5ldyBJbk1lbW9yeVNlY3VyaXRpZXNBZGp1c3RtZW50UmVwb3NpdG9yeSgpKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
