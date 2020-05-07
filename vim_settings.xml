@@ -155,6 +155,13 @@
         <mark key="^" line="40" column="11" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesPensionCalculator.java" timestamp="1588851434040">
+        <mark key="'" line="139" column="33" />
+        <mark key="[" line="55" column="53" />
+        <mark key="]" line="55" column="59" />
+        <mark key="^" line="55" column="59" />
+        <mark key="." line="55" column="58" />
+      </file>
       <file name="/pensions-db.public.product_adjustment" timestamp="1588846662703">
         <mark key="[" line="0" column="0" />
       </file>
@@ -170,13 +177,6 @@
         <mark key="]" line="20" column="4" />
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/modern-architecture/stories.md" timestamp="1588786340335">
-        <mark key="'" line="45" column="6" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="67" column="0" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/db/migration/V1.67__RC-439_add_adjustment_link_to_product.sql" timestamp="1588846663031">
         <mark key="]" line="8" column="77" />
@@ -364,7 +364,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>getProductType</text>
+        <text>Before</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -415,7 +415,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getProductType</text>
+        <text>Before</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlXD4=</text>
