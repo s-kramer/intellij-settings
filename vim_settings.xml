@@ -158,6 +158,9 @@
         <mark key="^" line="42" column="11" />
         <mark key="." line="42" column="10" />
       </file>
+      <file name="/pensions-db.public.product_adjustment" timestamp="1588846662703">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/adjustment/SecuritiesAdjustmentFacade.java" timestamp="1588846026839">
         <mark key="'" line="49" column="15" />
         <mark key="[" line="41" column="35" />
@@ -172,23 +175,17 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/db/migration/V1.67__RC-439_add_adjustment_link_to_product.sql" timestamp="1588846491745">
-        <mark key="[" line="8" column="48" />
-        <mark key="]" line="8" column="48" />
-        <mark key="^" line="8" column="98" />
-        <mark key="." line="8" column="48" />
-      </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" timestamp="1588773794372">
-        <mark key="'" line="147" column="0" />
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="207" column="0" />
-        <mark key="." line="207" column="0" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/db/migration/V1.67__RC-439_add_adjustment_link_to_product.sql" timestamp="1588846663031">
+        <mark key="]" line="8" column="77" />
+        <mark key="^" line="8" column="77" />
+        <mark key="." line="8" column="76" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstatePensionProductsFixture.java" timestamp="1588776751661">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/service/ProductAdjustmentService.java" timestamp="1588847129344" />
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateTest.java" timestamp="1588845456563">
         <mark key="'" line="12" column="85" />
         <mark key="[" line="177" column="66" />
@@ -220,28 +217,15 @@
         <mark key="." line="31" column="42" />
         <mark key="^" line="31" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesSingleMonthlyPension.java" timestamp="1588773081412">
-        <mark key="^" line="33" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/adjustment/SecuritiesAdjustmentSpringConfiguration.java" timestamp="1588773369357">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="9" column="11" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/test/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesFacadeTest.java" timestamp="1588773331305">
-        <mark key="'" line="146" column="6" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="49" column="12" />
-      </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/product/PensionProductsFixture.java" timestamp="1588782057799">
         <mark key="'" line="90" column="51" />
         <mark key="[" line="74" column="61" />
         <mark key="]" line="74" column="61" />
         <mark key="." line="74" column="61" />
         <mark key="^" line="84" column="122" />
+      </file>
+      <file name="/dummy.sql" timestamp="1588846663233">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesTest.java" timestamp="1588845848433">
         <mark key="'" line="154" column="15" />
@@ -256,6 +240,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/product_adjustment [postgres@localhost [pensions-db]]" timestamp="1588846662687">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1588845818899">
         <mark key="'" line="33" column="27" />
