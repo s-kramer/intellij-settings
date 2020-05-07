@@ -41,12 +41,12 @@
         <entry>action GotoDeclaration</entry>
         <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
         <entry encoding="base64">JzwsJz5zLzIzLy8=</entry>
-        <entry>action GotoSuperMethod</entry>
         <entry encoding="base64">JzwsJz5zL1JlYWxFc3RhdGUvU2VjdXJpdGllcy9n</entry>
         <entry>%s/^-/*/</entry>
         <entry>%s/^(\s*)-/*\1/</entry>
         <entry>%s/^\(\s*\)-/*\1/</entry>
         <entry>%s/^\(\s*\)-/\1*/</entry>
+        <entry>action GotoSuperMethod</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -151,7 +151,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/product/RealEstatePensionAdjustmentController.java" timestamp="1588845917952">
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/realestate/product/RealEstatePensionAdjustmentController.java" timestamp="1588847217023">
         <mark key="'" line="39" column="66" />
         <mark key="[" line="43" column="0" />
         <mark key="]" line="46" column="53" />
@@ -180,12 +180,12 @@
         <mark key="^" line="8" column="77" />
         <mark key="." line="8" column="76" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstatePensionProductsFixture.java" timestamp="1588776751661">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/adjustment/SecuritiesAdjustment.java" timestamp="1588849253423">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/service/ProductAdjustmentService.java" timestamp="1588847129344" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/service/ProductAdjustmentService.java" timestamp="1588847180247" />
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/realestate/RealEstateTest.java" timestamp="1588845456563">
         <mark key="'" line="12" column="85" />
         <mark key="[" line="177" column="66" />
@@ -197,12 +197,6 @@
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesPensionProductsFixture.java" timestamp="1588777072249">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/adjustment/SecuritiesAdjustmentController.java" timestamp="1588846046206">
         <mark key="'" line="18" column="37" />
@@ -243,6 +237,12 @@
       </file>
       <file name="/product_adjustment [postgres@localhost [pensions-db]]" timestamp="1588846662687">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesRepository.java" timestamp="1588848943200">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="25" />
       </file>
       <file name="/fragment.java" timestamp="1588845818899">
         <mark key="'" line="33" column="27" />
@@ -357,8 +357,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>e enable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -409,7 +409,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e enable</text>
+        <text>, targetEntity = Securities.class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9kdWN0SWRcPg==</text>
@@ -421,13 +421,13 @@
         <text>com.core.rentencockpit.pensioncalculationservice.realestate.de.vdpresearch_cib.valuationservice.schemas.valuation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwb3NpdG9yeS5zYXZlKHByb2R1Y3RBZGp1c3RtZW50LndpdGhFbmFibGVkKGFkanVzdG1lbnREdG8uaXNFbmFibGVkKCkpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvc2l0b3J5LnNhdmUocHJvZHVjdEFkanVzdG1lbnQud2l0aFN0b2NrU3Rha2UoYWRqdXN0bWVudER0by5nZXRTdG9ja1N0YWtlKCkpKTsK</text>
+        <text encoding="base64">ICAgIEBPbmVUb09uZShjYXNjYWRlID0gQ2FzY2FkZVR5cGUuUkVNT1ZFLCBtYXBwZWRCeSA9ICJwcm9kdWN0SWQiKQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -473,19 +473,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2VFbnRpdHkubm9Db250ZW50KCkuYnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgIEBDYXNjYWRlKG9yZy5oaWJlcm5hdGUuYW5ub3RhdGlvbnMuQ2FzY2FkZVR5cGUuREVMRVRFKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBPbmVUb09uZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwb3NpdG9yeS5zYXZlKHByb2R1Y3RBZGp1c3RtZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVwb3NpdG9yeS5zYXZlKHByb2R1Y3RBZGp1c3RtZW50LndpdGhFbmFibGVkKGFkanVzdG1lbnREdG8uaXNFbmFibGVkKCkpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvc2l0b3J5LnNhdmUocHJvZHVjdEFkanVzdG1lbnQud2l0aEVuYWJsZWQoYWRqdXN0bWVudER0by5pc0VuYWJsZWQoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXBvc2l0b3J5LnNhdmUocHJvZHVjdEFkanVzdG1lbnQud2l0aFN0b2NrU3Rha2UoYWRqdXN0bWVudER0by5nZXRTdG9ja1N0YWtlKCkpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2VFbnRpdHkubm9Db250ZW50KCkuYnVpbGQoKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -508,14 +508,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>.toString()</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVwb3NpdG9yeS5zYXZlKHByb2R1Y3RBZGp1c3RtZW50KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/^\(\s*\)-/\1*/</text>
+        <text>action GotoSuperMethod</text>
       </register>
     </registers>
   </component>
