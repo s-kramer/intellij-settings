@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGp1c3RtZW50RmFjYWRlXD4=</entry>
-        <entry>modular</entry>
         <entry>scream</entry>
         <entry>spring</entry>
         <entry encoding="base64">XDxma25cPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxhdXRob3JpemF0aW9uUmVwb3NpdG9yeVw+</entry>
         <entry encoding="base64">XDxvQXV0aDJSZXF1ZXN0UmVwb3NpdG9yeVw+</entry>
         <entry encoding="base64">XDxhZGRpdGlvbmFsRGF0YVw+</entry>
+        <entry>20</entry>
+        <entry>21</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy0+LywvZw==</entry>
@@ -172,17 +172,12 @@
       <file name="$USER_HOME$/projects/renten-cockpit/sources/common-library/src/test/java/com/core/rentencockpit/commonlibrary/security/oauth2/AuthorizationRequestRepositoryFixture.java" timestamp="1589188623784">
         <mark key="'" line="27" column="56" />
         <mark key="[" line="37" column="0" />
-        <mark key="]" line="39" column="35" />
-        <mark key="^" line="39" column="35" />
-        <mark key="." line="40" column="0" />
+        <mark key="]" line="37" column="35" />
+        <mark key="^" line="37" column="35" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1588949629437">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_87.puml" timestamp="1588943440933">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="29" column="7" />
       </file>
       <file name="/product_adjustment [postgres@localhost [pensions-db]]" timestamp="1589181698764">
         <mark key="[" line="0" column="0" />
@@ -206,6 +201,13 @@
         <mark key="]" line="10" column="14" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" timestamp="1589191182310">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="76" column="64" />
+        <mark key="]" line="76" column="73" />
+        <mark key="^" line="76" column="73" />
+        <mark key="." line="76" column="72" />
+      </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/backoffice/BackOfficeFacade.java" timestamp="1589182084911" />
       <file name="$USER_HOME$/projects/modern-architecture/index.html" timestamp="1588945420745">
         <mark key="[" line="48" column="0" />
@@ -223,8 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/projects/renten-cockpit/notes/demo/src/main/java/com/db/bankapi/oauth2/CallDbApiCashAccount.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/projects/renten-cockpit/notes/demo/src/main/java/com/db/bankapi/oauth2/CallDbApiCashAccount.java" />
       <jump line="59" column="0" filename="$USER_HOME$/projects/renten-cockpit/notes/demo/src/main/java/com/db/bankapi/oauth2/CallDbApiCashAccount.java" />
       <jump line="62" column="0" filename="$USER_HOME$/projects/renten-cockpit/notes/demo/src/main/java/com/db/bankapi/oauth2/CallDbApiCashAccount.java" />
       <jump line="65" column="0" filename="$USER_HOME$/projects/renten-cockpit/notes/demo/src/main/java/com/db/bankapi/oauth2/CallDbApiCashAccount.java" />
@@ -323,6 +323,8 @@
       <jump line="33" column="83" filename="$USER_HOME$/projects/renten-cockpit/sources/common-library/src/test/java/com/core/rentencockpit/commonlibrary/security/oauth2/HttpCookieOAuth2AuthorizationRequestRepositoryTest.java" />
       <jump line="94" column="12" filename="$USER_HOME$/projects/renten-cockpit/sources/common-library/src/test/java/com/core/rentencockpit/commonlibrary/security/oauth2/HttpCookieOAuth2AuthorizationRequestRepositoryTest.java" />
       <jump line="98" column="81" filename="$USER_HOME$/projects/renten-cockpit/sources/common-library/src/test/java/com/core/rentencockpit/commonlibrary/security/oauth2/HttpCookieOAuth2AuthorizationRequestRepositoryTest.java" />
+      <jump line="230" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -382,7 +384,7 @@
         <text>Object</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRpdGlvbmFsRGF0YVw+</text>
+        <text>21</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Yml6bmVzIC0tWCBhbmFsaXR5awo=</text>
@@ -491,9 +493,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhZGRpdGlvbmFsRGF0YVw+</last-search>
+      <last-search>21</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRpdGlvbmFsRGF0YVw+</last-pattern>
+      <last-pattern>21</last-pattern>
       <last-replace>p3</last-replace>
       <last-substitute>pr</last-substitute>
       <last-dir>1</last-dir>
