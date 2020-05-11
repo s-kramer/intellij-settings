@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>scream</entry>
-        <entry>spring</entry>
         <entry encoding="base64">XDxma25cPg==</entry>
         <entry encoding="base64">XDx1c2VybmFtZVw+</entry>
         <entry encoding="base64">XDxSRUdJU1RSQVRJT05fREFUQV9BVFRSX05BTUVcPg==</entry>
@@ -25,9 +23,10 @@
         <entry encoding="base64">XDxhZGRpdGlvbmFsRGF0YVw+</entry>
         <entry>20</entry>
         <entry>21</entry>
+        <entry>securi</entry>
+        <entry>VERIMI</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLy0+LywvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3B1YmxpYyAvcHJpdmF0ZSAv</entry>
         <entry encoding="base64">JzwsJz5zLywiLyIv</entry>
         <entry>-12t-1</entry>
@@ -47,6 +46,7 @@
         <entry encoding="base64">JXMvXDxyXD4vYTIv</entry>
         <entry>%s/pr/p3/</entry>
         <entry>%s/pr/p3/g</entry>
+        <entry encoding="base64">JzwsJz5zL1ZFUklNSS9ERVVUU0NIRV9CQU5LLw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -157,6 +157,13 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" timestamp="1589191849332">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="78" column="60" />
+        <mark key="]" line="78" column="60" />
+        <mark key="." line="78" column="60" />
+        <mark key="^" line="70" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/library/src/integration-test/groovy/io/pillopl/library/lending/patronprofile/web/PatronProfileControllerIT.java" timestamp="1589182099703" />
       <file name="$USER_HOME$/projects/modern-architecture/raw-agenda" timestamp="1588947049959">
         <mark key="'" line="55" column="0" />
@@ -176,6 +183,11 @@
         <mark key="^" line="37" column="35" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/local-dev-env/workspace/ums/src/main/resources/application.yml" timestamp="1589191236530">
+        <mark key="'" line="24" column="10" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="50" column="37" />
+      </file>
       <file name="/Dummy.txt" timestamp="1588949629437">
         <mark key="[" line="0" column="0" />
       </file>
@@ -188,12 +200,6 @@
         <mark key="]" line="262" column="35" />
         <mark key="^" line="262" column="35" />
         <mark key="." line="262" column="34" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_90.puml" timestamp="1588944808210">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="6" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_93.puml" timestamp="1588946688525">
         <mark key="'" line="2" column="0" />
@@ -214,23 +220,11 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_89.puml" timestamp="1588944527051">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="25" column="7" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/common-library/src/test/java/com/core/rentencockpit/commonlibrary/security/oauth2/HttpCookieOAuth2AuthorizationRequestRepositoryTest.java" timestamp="1589189288011">
         <mark key="'" line="98" column="81" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="$USER_HOME$/projects/renten-cockpit/notes/demo/src/main/java/com/db/bankapi/oauth2/CallDbApiCashAccount.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/projects/renten-cockpit/notes/demo/src/main/java/com/db/bankapi/oauth2/CallDbApiCashAccount.java" />
-      <jump line="65" column="0" filename="$USER_HOME$/projects/renten-cockpit/notes/demo/src/main/java/com/db/bankapi/oauth2/CallDbApiCashAccount.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/projects/renten-cockpit/notes/demo/src/main/java/com/db/bankapi/oauth2/CallDbApiCashAccount.java" />
-      <jump line="51" column="15" filename="$USER_HOME$/projects/renten-cockpit/notes/demo/src/main/java/com/db/bankapi/oauth2/CallDbApiCashAccount.java" />
-      <jump line="50" column="62" filename="$USER_HOME$/projects/renten-cockpit/notes/demo/src/main/java/com/db/bankapi/oauth2/CallDbApiCashAccount.java" />
       <jump line="174" column="48" filename="$USER_HOME$/projects/renten-cockpit/notes/demo/src/main/java/com/db/bankapi/oauth2/CallDbApiCashAccount.java" />
       <jump line="138" column="27" filename="$USER_HOME$/projects/renten-cockpit/notes/demo/src/main/java/com/db/bankapi/oauth2/CallDbApiCashAccount.java" />
       <jump line="135" column="57" filename="$USER_HOME$/projects/renten-cockpit/notes/demo/src/main/java/com/db/bankapi/oauth2/CallDbApiCashAccount.java" />
@@ -325,12 +319,18 @@
       <jump line="98" column="81" filename="$USER_HOME$/projects/renten-cockpit/sources/common-library/src/test/java/com/core/rentencockpit/commonlibrary/security/oauth2/HttpCookieOAuth2AuthorizationRequestRepositoryTest.java" />
       <jump line="230" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" />
+      <jump line="24" column="10" filename="$USER_HOME$/projects/renten-cockpit/sources/local-dev-env/workspace/ums/src/main/resources/application.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" />
+      <jump line="67" column="6" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" />
+      <jump line="68" column="32" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" />
+      <jump line="81" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc2VjdXJpdHlQcm9wZXJ0aWVzMSA9IG5ldyBTZWN1cml0eVByb3BlcnRpZXMoKTsKICAgICAgICBzZWN1cml0eVByb3BlcnRpZXMxLnNldEp3dENvb2tpZURvbWFpbigibG9jYWxob3N0Iik7CiAgICAgICAgcmV0dXJuIHNlY3VyaXR5UHJvcGVydGllczE7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>https://simulator-api.db.com/</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -373,7 +373,7 @@
         </keys>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc2VjdXJpdHlQcm9wZXJ0aWVzMSA9IG5ldyBTZWN1cml0eVByb3BlcnRpZXMoKTsKICAgICAgICBzZWN1cml0eVByb3BlcnRpZXMxLnNldEp3dENvb2tpZURvbWFpbigibG9jYWxob3N0Iik7CiAgICAgICAgcmV0dXJuIHNlY3VyaXR5UHJvcGVydGllczE7Cg==</text>
+        <text encoding="base64">ICBzZWN1cml0eToKICAgIG9hdXRoMjoKICAgICAgY2xpZW50OgogICAgICAgIHJlZ2lzdHJhdGlvbjoKICAgICAgICAgIHZlcmltaToKICAgICAgICAgICAgY2xpZW50LWlkOiAke1ZFUklNSV9PQVVUSDJfQ0xJRU5UX0lEfQogICAgICAgICAgICBjbGllbnQtc2VjcmV0OiAke1ZFUklNSV9PQVVUSDJfQ0xJRU5UX1NFQ1JFVH0KICAgICAgICAgICAgY2xpZW50LW5hbWU6IFZlcmltaQogICAgICAgICAgICBwcm92aWRlcjogdmVyaW1pLWF1dGgtcHJvdmlkZXIKICAgICAgICAgICAgc2NvcGU6IGxvZ2luLGVtYWlsLG5hbWUKICAgICAgICAgICAgYXV0aG9yaXphdGlvbi1ncmFudC10eXBlOiBhdXRob3JpemF0aW9uX2NvZGUKICAgICAgICAgICAgcmVkaXJlY3QtdXJpLXRlbXBsYXRlOiAke1ZFUklNSV9PQVVUSDJfUkVESVJFQ1RfVVJMfQogICAgICAgICAgdmVyaW1pLWlkZW50aWZpY2F0aW9uOgogICAgICAgICAgICBjbGllbnQtaWQ6ICR7VkVSSU1JX09BVVRIMl9DTElFTlRfSUR9CiAgICAgICAgICAgIGNsaWVudC1zZWNyZXQ6ICR7VkVSSU1JX09BVVRIMl9DTElFTlRfU0VDUkVUfQogICAgICAgICAgICBjbGllbnQtbmFtZTogVmVyaW1pCiAgICAgICAgICAgIHByb3ZpZGVyOiB2ZXJpbWktYXV0aC1wcm92aWRlcgogICAgICAgICAgICBzY29wZTogbmFtZSxpZGNhcmQscGFzc3BvcnQKICAgICAgICAgICAgYXV0aG9yaXphdGlvbi1ncmFudC10eXBlOiBhdXRob3JpemF0aW9uX2NvZGUKICAgICAgICAgICAgcmVkaXJlY3QtdXJpLXRlbXBsYXRlOiAke1ZFUklNSV9PQVVUSDJfUkVESVJFQ1RfVVJMfQogICAgICAgIHByb3ZpZGVyOgogICAgICAgICAgdmVyaW1pLWF1dGgtcHJvdmlkZXI6CiAgICAgICAgICAgIGF1dGhvcml6YXRpb24tdXJpOiAke1ZFUklNSV9PQVVUSDJfQVBJX0JBU0VfVVJMfS9vYXV0aDIvYXV0aAogICAgICAgICAgICB0b2tlbi11cmk6ICR7VkVSSU1JX09BVVRIMl9BUElfQkFTRV9VUkx9L29hdXRoMi90b2tlbgogICAgICAgICAgICB1c2VyLWluZm8tdXJpOiAke1ZFUklNSV9PQVVUSDJfQVBJX0JBU0VfVVJMfS91c2VyaW5mbwogICAgICAgICAgICB1c2VyLWluZm8tYXV0aGVudGljYXRpb24tbWV0aG9kOiBoZWFkZXIKICAgICAgICAgICAgdXNlci1uYW1lLWF0dHJpYnV0ZTogbmFtZQo=</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -381,10 +381,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>https://simulator-api.db.com/</text>
       </register>
       <register name="/" type="4">
-        <text>21</text>
+        <text>VERIMI</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Yml6bmVzIC0tWCBhbmFsaXR5awo=</text>
@@ -393,13 +393,13 @@
         <text>com.core.rentencockpit.pensioncalculationservice.realestate.de.vdpresearch_cib.valuationservice.schemas.valuation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHZlcmltaS1pZGVudGlmaWNhdGlvbjoKICAgICAgICAgICAgY2xpZW50LWlkOiAke1ZFUklNSV9PQVVUSDJfQ0xJRU5UX0lEfQogICAgICAgICAgICBjbGllbnQtc2VjcmV0OiAke1ZFUklNSV9PQVVUSDJfQ0xJRU5UX1NFQ1JFVH0KICAgICAgICAgICAgY2xpZW50LW5hbWU6IFZlcmltaQogICAgICAgICAgICBwcm92aWRlcjogdmVyaW1pLWF1dGgtcHJvdmlkZXIKICAgICAgICAgICAgc2NvcGU6IG5hbWUsaWRjYXJkLHBhc3Nwb3J0CiAgICAgICAgICAgIGF1dGhvcml6YXRpb24tZ3JhbnQtdHlwZTogYXV0aG9yaXphdGlvbl9jb2RlCiAgICAgICAgICAgIHJlZGlyZWN0LXVyaS10ZW1wbGF0ZTogJHtWRVJJTUlfT0FVVEgyX1JFRElSRUNUX1VSTH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc2VjdXJpdHlQcm9wZXJ0aWVzID0gbW9jayhTZWN1cml0eVByb3BlcnRpZXMuY2xhc3MpOwogICAgICAgIHdoZW4oc2VjdXJpdHlQcm9wZXJ0aWVzLmdldEp3dENvb2tpZURvbWFpbigpKS50aGVuUmV0dXJuKCJsb2NhbGhvc3QiKTsKCiAgICAgICAgcmV0dXJuIHNlY3VyaXR5UHJvcGVydGllczsK</text>
+        <text encoding="base64">ICAgICAgICAgIHZlcmltaS1pZGVudGlmaWNhdGlvbjoKICAgICAgICAgICAgY2xpZW50LWlkOiAke1ZFUklNSV9PQVVUSDJfQ0xJRU5UX0lEfQogICAgICAgICAgICBjbGllbnQtc2VjcmV0OiAke1ZFUklNSV9PQVVUSDJfQ0xJRU5UX1NFQ1JFVH0KICAgICAgICAgICAgY2xpZW50LW5hbWU6IFZlcmltaQogICAgICAgICAgICBwcm92aWRlcjogdmVyaW1pLWF1dGgtcHJvdmlkZXIKICAgICAgICAgICAgc2NvcGU6IG5hbWUsaWRjYXJkLHBhc3Nwb3J0CiAgICAgICAgICAgIGF1dGhvcml6YXRpb24tZ3JhbnQtdHlwZTogYXV0aG9yaXphdGlvbl9jb2RlCiAgICAgICAgICAgIHJlZGlyZWN0LXVyaS10ZW1wbGF0ZTogJHtWRVJJTUlfT0FVVEgyX1JFRElSRUNUX1VSTH0K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -445,19 +445,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text>started to reorganize the presentation to strategic and tactical parts</text>
+        <text encoding="base64">ICBzZWN1cml0eToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pgo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc2VjdXJpdHlQcm9wZXJ0aWVzID0gbW9jayhTZWN1cml0eVByb3BlcnRpZXMuY2xhc3MpOwogICAgICAgIHdoZW4oc2VjdXJpdHlQcm9wZXJ0aWVzLmdldEp3dENvb2tpZURvbWFpbigpKS50aGVuUmV0dXJuKCJsb2NhbGhvc3QiKTsKCiAgICAgICAgcmV0dXJuIHNlY3VyaXR5UHJvcGVydGllczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Li4uCg==</text>
+        <text>started to reorganize the presentation to strategic and tactical parts</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Li4uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -481,23 +481,23 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Li4uCg==</text>
+        <text encoding="base64">Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KiByb3p1bWllbmllIHBvenljamkgZGV2ZWxvcGVyYSAibmllIGpha28gb3NvYnkgcGlzesSFY2VqIGtvZCwgYSBvc29ieSByb3p3acSFenVqxIVjZWogcHJvYmxlbXkiCg==</text>
+        <text encoding="base64">Li4uCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/pr/p3/g</text>
+        <text encoding="base64">JzwsJz5zL1ZFUklNSS9ERVVUU0NIRV9CQU5LLw==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>21</last-search>
+      <last-search>VERIMI</last-search>
       <last-offset />
-      <last-pattern>21</last-pattern>
-      <last-replace>p3</last-replace>
-      <last-substitute>pr</last-substitute>
+      <last-pattern>VERIMI</last-pattern>
+      <last-replace>DEUTSCHE_BANK</last-replace>
+      <last-substitute>VERIMI</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
