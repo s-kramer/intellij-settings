@@ -180,6 +180,7 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="50" column="37" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.3.7.RELEASE/65a373aa8b455803e2651f9850ddcf9277de0e2b/spring-security-oauth2-2.3.7.RELEASE-sources.jar!/org/springframework/security/oauth2/client/test/OAuth2ContextSetup.java" timestamp="1589196979821" />
       <file name="/Dummy.txt" timestamp="1588949629437">
         <mark key="[" line="0" column="0" />
       </file>
@@ -189,13 +190,13 @@
       <file name="/product_adjustment [postgres@localhost [pensions-db]]" timestamp="1589181698764">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/common-library/build.gradle" timestamp="1589195570673">
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/common-library/build.gradle" timestamp="1589196752820">
         <mark key="a" line="56" column="49" />
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="45" column="4" />
-        <mark key="]" line="45" column="11" />
-        <mark key="." line="45" column="10" />
-        <mark key="^" line="45" column="11" />
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="47" column="11" />
+        <mark key="." line="47" column="10" />
+        <mark key="^" line="47" column="11" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/common-library/gradle.properties" timestamp="1589195248889">
         <mark key="[" line="1" column="16" />
@@ -210,25 +211,18 @@
         <mark key="^" line="262" column="35" />
         <mark key="." line="262" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_93.puml" timestamp="1588946688525">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="10" column="14" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" timestamp="1589195380730">
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" timestamp="1589196791991">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="76" column="64" />
-        <mark key="]" line="76" column="73" />
-        <mark key="^" line="76" column="73" />
-        <mark key="." line="76" column="72" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesSpringConfiguration.java" timestamp="1589195428079">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="50" column="47" />
-        <mark key="]" line="50" column="46" />
-        <mark key="^" line="50" column="46" />
-        <mark key="." line="50" column="45" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesSpringConfiguration.java" timestamp="1589196827994">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="31" />
+        <mark key="^" line="52" column="31" />
+        <mark key="." line="52" column="30" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/backoffice/BackOfficeFacade.java" timestamp="1589182084911" />
       <file name="$USER_HOME$/projects/renten-cockpit/sources/common-library/src/test/java/com/core/rentencockpit/commonlibrary/security/oauth2/HttpCookieOAuth2AuthorizationRequestRepositoryTest.java" timestamp="1589189288011">
@@ -340,8 +334,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>OAuth2RestTemplate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ29yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkub2F1dGguYm9vdDpzcHJpbmctc2VjdXJpdHktb2F1dGgyLWF1dG9jb25maWd1cmU6Mi4yLjEuUkVMRUFTRScK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -384,7 +378,7 @@
         </keys>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICBzZWN1cml0eToKICAgIG9hdXRoMjoKICAgICAgY2xpZW50OgogICAgICAgIHJlZ2lzdHJhdGlvbjoKICAgICAgICAgIHZlcmltaToKICAgICAgICAgICAgY2xpZW50LWlkOiAke1ZFUklNSV9PQVVUSDJfQ0xJRU5UX0lEfQogICAgICAgICAgICBjbGllbnQtc2VjcmV0OiAke1ZFUklNSV9PQVVUSDJfQ0xJRU5UX1NFQ1JFVH0KICAgICAgICAgICAgY2xpZW50LW5hbWU6IFZlcmltaQogICAgICAgICAgICBwcm92aWRlcjogdmVyaW1pLWF1dGgtcHJvdmlkZXIKICAgICAgICAgICAgc2NvcGU6IGxvZ2luLGVtYWlsLG5hbWUKICAgICAgICAgICAgYXV0aG9yaXphdGlvbi1ncmFudC10eXBlOiBhdXRob3JpemF0aW9uX2NvZGUKICAgICAgICAgICAgcmVkaXJlY3QtdXJpLXRlbXBsYXRlOiAke1ZFUklNSV9PQVVUSDJfUkVESVJFQ1RfVVJMfQogICAgICAgICAgdmVyaW1pLWlkZW50aWZpY2F0aW9uOgogICAgICAgICAgICBjbGllbnQtaWQ6ICR7VkVSSU1JX09BVVRIMl9DTElFTlRfSUR9CiAgICAgICAgICAgIGNsaWVudC1zZWNyZXQ6ICR7VkVSSU1JX09BVVRIMl9DTElFTlRfU0VDUkVUfQogICAgICAgICAgICBjbGllbnQtbmFtZTogVmVyaW1pCiAgICAgICAgICAgIHByb3ZpZGVyOiB2ZXJpbWktYXV0aC1wcm92aWRlcgogICAgICAgICAgICBzY29wZTogbmFtZSxpZGNhcmQscGFzc3BvcnQKICAgICAgICAgICAgYXV0aG9yaXphdGlvbi1ncmFudC10eXBlOiBhdXRob3JpemF0aW9uX2NvZGUKICAgICAgICAgICAgcmVkaXJlY3QtdXJpLXRlbXBsYXRlOiAke1ZFUklNSV9PQVVUSDJfUkVESVJFQ1RfVVJMfQogICAgICAgIHByb3ZpZGVyOgogICAgICAgICAgdmVyaW1pLWF1dGgtcHJvdmlkZXI6CiAgICAgICAgICAgIGF1dGhvcml6YXRpb24tdXJpOiAke1ZFUklNSV9PQVVUSDJfQVBJX0JBU0VfVVJMfS9vYXV0aDIvYXV0aAogICAgICAgICAgICB0b2tlbi11cmk6ICR7VkVSSU1JX09BVVRIMl9BUElfQkFTRV9VUkx9L29hdXRoMi90b2tlbgogICAgICAgICAgICB1c2VyLWluZm8tdXJpOiAke1ZFUklNSV9PQVVUSDJfQVBJX0JBU0VfVVJMfS91c2VyaW5mbwogICAgICAgICAgICB1c2VyLWluZm8tYXV0aGVudGljYXRpb24tbWV0aG9kOiBoZWFkZXIKICAgICAgICAgICAgdXNlci1uYW1lLWF0dHJpYnV0ZTogbmFtZQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdvcmcuc3ByaW5nZnJhbWV3b3JrLnNlY3VyaXR5Lm9hdXRoLmJvb3Q6c3ByaW5nLXNlY3VyaXR5LW9hdXRoMi1hdXRvY29uZmlndXJlOjIuMi4xLlJFTEVBU0UnCg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -392,7 +386,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>OAuth2RestTemplate</text>
+        <text>implementation</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRBY2Nlc3NUb2tlblw+</text>
@@ -404,13 +398,13 @@
         <text>com.core.rentencockpit.pensioncalculationservice.realestate.de.vdpresearch_cib.valuationservice.schemas.valuation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlci1pbmZvLXVyaTogJHtERVVUU0NIRV9CQU5LX09BVVRIMl9BUElfQkFTRV9VUkx9L3VzZXJpbmZvCiAgICAgICAgICAgIHVzZXItaW5mby1hdXRoZW50aWNhdGlvbi1tZXRob2Q6IGhlYWRlcgo=</text>
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ29yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkub2F1dGguYm9vdDpzcHJpbmctc2VjdXJpdHktb2F1dGgyLWF1dG9jb25maWd1cmU6Mi4yLjEuUkVMRUFTRScK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlci1pbmZvCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdvcmcuc3ByaW5nZnJhbWV3b3JrLnNlY3VyaXR5OnNwcmluZy1zZWN1cml0eS1vYXV0aDItY2xpZW50Jwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -456,19 +450,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlci1uYW1lLWF0dHJpYnV0ZTogbmFtZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZlcmltaS1pZGVudGlmaWNhdGlvbjoKICAgICAgICAgICAgY2xpZW50LWlkOiAke1ZFUklNSV9PQVVUSDJfQ0xJRU5UX0lEfQogICAgICAgICAgICBjbGllbnQtc2VjcmV0OiAke1ZFUklNSV9PQVVUSDJfQ0xJRU5UX1NFQ1JFVH0KICAgICAgICAgICAgY2xpZW50LW5hbWU6IFZlcmltaQogICAgICAgICAgICBwcm92aWRlcjogdmVyaW1pLWF1dGgtcHJvdmlkZXIKICAgICAgICAgICAgc2NvcGU6IG5hbWUsaWRjYXJkLHBhc3Nwb3J0CiAgICAgICAgICAgIGF1dGhvcml6YXRpb24tZ3JhbnQtdHlwZTogYXV0aG9yaXphdGlvbl9jb2RlCiAgICAgICAgICAgIHJlZGlyZWN0LXVyaS10ZW1wbGF0ZTogJHtWRVJJTUlfT0FVVEgyX1JFRElSRUNUX1VSTH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlci1pbmZvLXVyaTogJHtERVVUU0NIRV9CQU5LX09BVVRIMl9BUElfQkFTRV9VUkx9L3VzZXJpbmZvCiAgICAgICAgICAgIHVzZXItaW5mby1hdXRoZW50aWNhdGlvbi1tZXRob2Q6IGhlYWRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZlcmltaS1pZGVudGlmaWNhdGlvbjoKICAgICAgICAgICAgY2xpZW50LWlkOiAke1ZFUklNSV9PQVVUSDJfQ0xJRU5UX0lEfQogICAgICAgICAgICBjbGllbnQtc2VjcmV0OiAke1ZFUklNSV9PQVVUSDJfQ0xJRU5UX1NFQ1JFVH0KICAgICAgICAgICAgY2xpZW50LW5hbWU6IFZlcmltaQogICAgICAgICAgICBwcm92aWRlcjogdmVyaW1pLWF1dGgtcHJvdmlkZXIKICAgICAgICAgICAgc2NvcGU6IG5hbWUsaWRjYXJkLHBhc3Nwb3J0CiAgICAgICAgICAgIGF1dGhvcml6YXRpb24tZ3JhbnQtdHlwZTogYXV0aG9yaXphdGlvbl9jb2RlCiAgICAgICAgICAgIHJlZGlyZWN0LXVyaS10ZW1wbGF0ZTogJHtWRVJJTUlfT0FVVEgyX1JFRElSRUNUX1VSTH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlci1pbmZvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzZWN1cml0eToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlci1uYW1lLWF0dHJpYnV0ZTogbmFtZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -492,10 +486,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc2VjdXJpdHlQcm9wZXJ0aWVzID0gbW9jayhTZWN1cml0eVByb3BlcnRpZXMuY2xhc3MpOwogICAgICAgIHdoZW4oc2VjdXJpdHlQcm9wZXJ0aWVzLmdldEp3dENvb2tpZURvbWFpbigpKS50aGVuUmV0dXJuKCJsb2NhbGhvc3QiKTsKCiAgICAgICAgcmV0dXJuIHNlY3VyaXR5UHJvcGVydGllczsK</text>
+        <text encoding="base64">ICAgICAgICAgIHZlcmltaS1pZGVudGlmaWNhdGlvbjoKICAgICAgICAgICAgY2xpZW50LWlkOiAke1ZFUklNSV9PQVVUSDJfQ0xJRU5UX0lEfQogICAgICAgICAgICBjbGllbnQtc2VjcmV0OiAke1ZFUklNSV9PQVVUSDJfQ0xJRU5UX1NFQ1JFVH0KICAgICAgICAgICAgY2xpZW50LW5hbWU6IFZlcmltaQogICAgICAgICAgICBwcm92aWRlcjogdmVyaW1pLWF1dGgtcHJvdmlkZXIKICAgICAgICAgICAgc2NvcGU6IG5hbWUsaWRjYXJkLHBhc3Nwb3J0CiAgICAgICAgICAgIGF1dGhvcml6YXRpb24tZ3JhbnQtdHlwZTogYXV0aG9yaXphdGlvbl9jb2RlCiAgICAgICAgICAgIHJlZGlyZWN0LXVyaS10ZW1wbGF0ZTogJHtWRVJJTUlfT0FVVEgyX1JFRElSRUNUX1VSTH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1ZFUklNSS9ERVVUU0NIRV9CQU5LLw==</text>
