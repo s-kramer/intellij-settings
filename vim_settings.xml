@@ -143,6 +143,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/local-dev-env/workspace/ums/src/main/java/com/core/rentencockpit/usermanagementservice/auth/configuration/security/oauth2/OAuth2SecurityConfiguration.java" timestamp="1589203211196" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/backoffice/ReviewStatus.java" timestamp="1589206118397" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/local-dev-env/workspace/ums/src/main/java/com/core/rentencockpit/usermanagementservice/auth/configuration/security/oauth2/RentenCustomerOAuth2UserService.java" timestamp="1589202604866" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/backoffice/SpringProductValidator.java" timestamp="1589207626376" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.2.7.RELEASE/b8cbca20fa1fb0dcbd224a318563bff520c1fe6/spring-boot-autoconfigure-2.2.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2ClientPropertiesRegistrationAdapter.java" timestamp="1589201992065">
+        <mark key="'" line="49" column="50" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.3.7.RELEASE/65a373aa8b455803e2651f9850ddcf9277de0e2b/spring-security-oauth2-2.3.7.RELEASE-sources.jar!/org/springframework/security/oauth2/client/OAuth2RestTemplate.java" timestamp="1589203744044">
+        <mark key="'" line="124" column="26" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.7.RELEASE/1764fc113610ae7f54231df9c124d2f5598dace1/spring-boot-autoconfigure-2.1.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2ClientProperties.java" timestamp="1589201737114" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/controller/dto/pensions/ProductDto.java" timestamp="1589206913140" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/backoffice/BackOfficeFacade.java" timestamp="1589207071228" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/service/ManualDataEntryService.java" timestamp="1589207611209" />
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" timestamp="1589202932660">
         <mark key="[" line="76" column="22" />
         <mark key="]" line="76" column="22" />
@@ -151,47 +165,17 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.1.6.RELEASE/a287bf3a8445e83541530fc59c0c1eaea7f9a87e/spring-security-config-5.1.6.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2LoginConfigurer.java" timestamp="1589203229218">
         <mark key="'" line="364" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/local-dev-env/workspace/ums/src/main/java/com/core/rentencockpit/usermanagementservice/auth/configuration/security/oauth2/OAuth2SecurityConfiguration.java" timestamp="1589203211196" />
       <file name="$USER_HOME$/projects/renten-cockpit/sources/local-dev-env/workspace/ums/src/main/java/com/core/rentencockpit/usermanagementservice/auth/configuration/security/oauth2/ident/VerimiBasketConnector.java" timestamp="1589202839003" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.3.7.RELEASE/65a373aa8b455803e2651f9850ddcf9277de0e2b/spring-security-oauth2-2.3.7.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/OAuth2AccessTokenSupport.java" timestamp="1589203069155" />
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/backoffice/ReviewStatus.java" timestamp="1589206118397" />
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/local-dev-env/workspace/ums/src/main/java/com/core/rentencockpit/usermanagementservice/auth/configuration/security/oauth2/RentenCustomerOAuth2UserService.java" timestamp="1589202604866" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_95.puml" timestamp="1589205190225">
         <mark key="[" line="22" column="36" />
         <mark key="]" line="22" column="36" />
         <mark key="^" line="22" column="40" />
         <mark key="." line="22" column="36" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.3.7.RELEASE/65a373aa8b455803e2651f9850ddcf9277de0e2b/spring-security-oauth2-2.3.7.RELEASE-sources.jar!/org/springframework/security/oauth2/client/DefaultOAuth2ClientContext.java" timestamp="1589197838026">
-        <mark key="'" line="35" column="13" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.1.6.RELEASE/aab812a54be8180101cd09f17dc0c08e471e0993/spring-security-oauth2-client-5.1.6.RELEASE-sources.jar!/org/springframework/security/oauth2/client/userinfo/OAuth2UserRequest.java" timestamp="1589202667259" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.3.7.RELEASE/65a373aa8b455803e2651f9850ddcf9277de0e2b/spring-security-oauth2-2.3.7.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/grant/redirect/AbstractRedirectResourceDetails.java" timestamp="1589201401731">
-        <mark key="'" line="15" column="20" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.3.7.RELEASE/65a373aa8b455803e2651f9850ddcf9277de0e2b/spring-security-oauth2-2.3.7.RELEASE-sources.jar!/org/springframework/security/oauth2/client/test/OAuth2ContextSetup.java" timestamp="1589196979821" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/backoffice/ReviewFinalizer.java" timestamp="1589207657105" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.3.5.RELEASE/149da2c5e72460c672597c154126dcf6f6531fb0/spring-security-oauth2-2.3.5.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/grant/code/AuthorizationCodeAccessTokenProvider.java" timestamp="1589202570350" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.2.7.RELEASE/b8cbca20fa1fb0dcbd224a318563bff520c1fe6/spring-boot-autoconfigure-2.2.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2ClientPropertiesRegistrationAdapter.java" timestamp="1589201992065">
-        <mark key="'" line="49" column="50" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.3.7.RELEASE/65a373aa8b455803e2651f9850ddcf9277de0e2b/spring-security-oauth2-2.3.7.RELEASE-sources.jar!/org/springframework/security/oauth2/client/OAuth2RestTemplate.java" timestamp="1589203744044">
-        <mark key="'" line="124" column="26" />
-      </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/common-library/build.gradle" timestamp="1589196752820">
-        <mark key="a" line="56" column="49" />
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="47" column="11" />
-        <mark key="." line="47" column="10" />
-        <mark key="^" line="47" column="11" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.7.RELEASE/1764fc113610ae7f54231df9c124d2f5598dace1/spring-boot-autoconfigure-2.1.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2ClientProperties.java" timestamp="1589201737114" />
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" timestamp="1589196791991">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesSpringConfiguration.java" timestamp="1589203601201">
         <mark key="'" line="54" column="41" />
         <mark key="[" line="62" column="75" />
