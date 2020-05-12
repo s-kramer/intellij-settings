@@ -143,12 +143,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" timestamp="1589301872282">
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" timestamp="1589302521311">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="31" column="26" />
-        <mark key="." line="31" column="25" />
-        <mark key="^" line="31" column="26" />
+        <mark key="[" line="82" column="56" />
+        <mark key="]" line="82" column="76" />
+        <mark key="." line="82" column="75" />
+        <mark key="^" line="82" column="76" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/AuthorizationCodeOAuth2AuthorizedClientProvider.java" timestamp="1589290908498">
         <mark key="[" line="48" column="65" />
@@ -182,7 +182,7 @@
         <mark key="^" line="36" column="105" />
         <mark key="." line="36" column="104" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/PensionCalculationApplication.http" timestamp="1589301554181">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/PensionCalculationApplication.http" timestamp="1589302379326">
         <mark key="'" line="145" column="0" />
         <mark key="[" line="160" column="4" />
         <mark key="]" line="160" column="81" />
@@ -340,7 +340,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>http://rc.docker.localhost:8090/api/pensions/oauth2/authorization/deutschebank</text>
+        <text>authorized</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -391,7 +391,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{baseScheme}</text>
+        <text>authorized</text>
       </register>
       <register name="/" type="4">
         <text>server</text>
