@@ -143,12 +143,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" timestamp="1589291549398">
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" timestamp="1589298295853">
         <mark key="'" line="70" column="22" />
-        <mark key="[" line="74" column="48" />
-        <mark key="]" line="74" column="60" />
-        <mark key="." line="74" column="59" />
-        <mark key="^" line="74" column="60" />
+        <mark key="[" line="75" column="27" />
+        <mark key="]" line="75" column="32" />
+        <mark key="." line="75" column="31" />
+        <mark key="^" line="75" column="32" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/AuthorizationCodeOAuth2AuthorizedClientProvider.java" timestamp="1589290908498">
         <mark key="[" line="48" column="65" />
@@ -183,12 +183,12 @@
         <mark key="^" line="36" column="105" />
         <mark key="." line="36" column="104" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/PensionCalculationApplication.http" timestamp="1589294324929">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/PensionCalculationApplication.http" timestamp="1589298169218">
         <mark key="'" line="145" column="0" />
-        <mark key="[" line="158" column="4" />
-        <mark key="]" line="158" column="71" />
-        <mark key="." line="158" column="72" />
-        <mark key="^" line="158" column="3" />
+        <mark key="[" line="160" column="8" />
+        <mark key="]" line="160" column="8" />
+        <mark key="." line="160" column="8" />
+        <mark key="^" line="160" column="9" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/PensionCalculationApplication.java" timestamp="1589290310558">
         <mark key="[" line="14" column="12" />
@@ -208,13 +208,6 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.2.1.RELEASE/bbd406c763af685611698c5816eeb6cedcedc000/spring-security-config-5.2.1.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2ClientConfigurer.java" timestamp="1589290945720">
         <mark key="'" line="223" column="57" />
-      </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/common-library/build.gradle" timestamp="1589284848550">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="45" column="14" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/documentscan/upload/DocumentScanUploadController.java" timestamp="1589288721010">
         <mark key="'" line="227" column="15" />
@@ -347,7 +340,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>http://localhost:8090/api/pensions/oauth2/authorization/deutschebank</text>
+        <text>{baseScheme}</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -390,7 +383,7 @@
         </keys>
       </register>
       <register name="+" type="4">
-        <text>http://localhost:8090/api/pensions/oauth2/authorization/deutschebank</text>
+        <text>http://rc.docker.localhost:8090/api/pensions/oauth2/authorization/deutschebank</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -398,13 +391,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>{baseScheme}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZW5kUmVkaXJlY3RGb3JBdXRob3JpemF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVkaXJlY3QtdXJpOiAke0RFVVRTQ0hFX0JBTktfT0FVVEgyX1JFRElSRUNUX1VSTH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVkaXJlY3QtdXJpOiAie2Jhc2VVcmx9L2F1dGhvcml6ZWQvZGV1dHNjaGViYW5rIgo=</text>
       </register>
       <register name="p" type="4">
         <text>com.core.rentencockpit.pensioncalculationservice.realestate.de.vdpresearch_cib.valuationservice.schemas.valuation</text>
