@@ -143,12 +143,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" timestamp="1589302521311">
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" timestamp="1589302964447">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="82" column="56" />
-        <mark key="]" line="82" column="76" />
-        <mark key="." line="82" column="75" />
-        <mark key="^" line="82" column="76" />
+        <mark key="[" line="82" column="77" />
+        <mark key="]" line="82" column="79" />
+        <mark key="." line="82" column="78" />
+        <mark key="^" line="82" column="79" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/AuthorizationCodeOAuth2AuthorizedClientProvider.java" timestamp="1589290908498">
         <mark key="[" line="48" column="65" />
@@ -164,7 +164,7 @@
         <mark key="." line="73" column="29" />
         <mark key="^" line="73" column="30" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java" timestamp="1589294320973">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java" timestamp="1589302793120">
         <mark key="'" line="173" column="25" />
         <mark key="[" line="103" column="0" />
         <mark key="]" line="104" column="89" />
@@ -175,6 +175,7 @@
         <mark key="." line="44" column="77" />
         <mark key="^" line="44" column="78" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationCodeGrantFilter.java" timestamp="1589303201164" />
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" timestamp="1589291733951">
         <mark key="'" line="11" column="10" />
         <mark key="[" line="36" column="92" />
@@ -182,8 +183,8 @@
         <mark key="^" line="36" column="105" />
         <mark key="." line="36" column="104" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/PensionCalculationApplication.http" timestamp="1589302379326">
-        <mark key="'" line="145" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/PensionCalculationApplication.http" timestamp="1589303230300">
+        <mark key="'" line="160" column="81" />
         <mark key="[" line="160" column="4" />
         <mark key="]" line="160" column="81" />
         <mark key="." line="160" column="8" />
@@ -216,11 +217,11 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="233" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesController.java" timestamp="1589291690940">
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesController.java" timestamp="1589303001023">
         <mark key="'" line="95" column="40" />
-        <mark key="[" line="91" column="17" />
-        <mark key="]" line="91" column="51" />
-        <mark key="." line="91" column="38" />
+        <mark key="[" line="98" column="88" />
+        <mark key="]" line="98" column="88" />
+        <mark key="." line="98" column="88" />
         <mark key="^" line="91" column="39" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" timestamp="1589289303151">
@@ -230,12 +231,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="84" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1589301877862">
+      <file name="/fragment.java" timestamp="1589302855393">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.1.6.RELEASE/a287bf3a8445e83541530fc59c0c1eaea7f9a87e/spring-security-config-5.1.6.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2LoginConfigurer.java" />
       <jump line="136" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.1.6.RELEASE/a287bf3a8445e83541530fc59c0c1eaea7f9a87e/spring-security-config-5.1.6.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2LoginConfigurer.java" />
       <jump line="526" column="60" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.1.6.RELEASE/a287bf3a8445e83541530fc59c0c1eaea7f9a87e/spring-security-config-5.1.6.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2LoginConfigurer.java" />
       <jump line="195" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.3.7.RELEASE/65a373aa8b455803e2651f9850ddcf9277de0e2b/spring-security-oauth2-2.3.7.RELEASE-sources.jar!/org/springframework/security/oauth2/client/token/DefaultAccessTokenRequest.java" />
@@ -335,12 +335,13 @@
       <jump line="173" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java" />
       <jump line="72" column="33" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" />
+      <jump line="160" column="81" filename="$APPLICATION_CONFIG_DIR$/scratches/PensionCalculationApplication.http" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>authorized</text>
+        <text>http://rc.docker.localhost:8090/api/pensions/oauth2/authorization/deutschebank</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -391,13 +392,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>authorized</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>server</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVkaXJlY3QtdXJpOiAie2Jhc2VVcmx9L2F1dGhvcml6ZWQvZGV1dHNjaGViYW5rIgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiNHRVQgaHR0cDovL3JjLmRvY2tlci5sb2NhbGhvc3QvYXBpL3BlbnNpb25zL29hdXRoMi9hdXRob3JpemF0aW9uL2RldXRzY2hlYmFuawojR0VUIGh0dHA6Ly9sb2NhbGhvc3Q6ODA5MC9hcGkvcGVuc2lvbnMvb2F1dGgyL2F1dGhvcml6YXRpb24vZGV1dHNjaGViYW5rCkdFVCBo</text>
       </register>
       <register name="p" type="4">
         <text>com.core.rentencockpit.pensioncalculationservice.realestate.de.vdpresearch_cib.valuationservice.schemas.valuation</text>
