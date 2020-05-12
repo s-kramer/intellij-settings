@@ -164,7 +164,7 @@
         <mark key="." line="73" column="29" />
         <mark key="^" line="73" column="30" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java" timestamp="1589291264826">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java" timestamp="1589294320973">
         <mark key="'" line="173" column="25" />
         <mark key="[" line="103" column="0" />
         <mark key="]" line="104" column="89" />
@@ -183,11 +183,11 @@
         <mark key="^" line="36" column="105" />
         <mark key="." line="36" column="104" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/PensionCalculationApplication.http" timestamp="1589291698985">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/PensionCalculationApplication.http" timestamp="1589294324929">
         <mark key="'" line="145" column="0" />
-        <mark key="[" line="158" column="39" />
-        <mark key="]" line="158" column="39" />
-        <mark key="." line="158" column="39" />
+        <mark key="[" line="158" column="4" />
+        <mark key="]" line="158" column="71" />
+        <mark key="." line="158" column="72" />
         <mark key="^" line="158" column="3" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/PensionCalculationApplication.java" timestamp="1589290310558">
@@ -196,7 +196,8 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589291211327">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/DefaultOAuth2AuthorizationRequestResolver.java" timestamp="1589294115222" />
+      <file name="/Dummy.txt" timestamp="1589294135746">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/backoffice/ReviewsTest.java" timestamp="1589289846868">
@@ -214,12 +215,6 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
         <mark key="^" line="45" column="14" />
-      </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/common-library/gradle.properties" timestamp="1589284059420">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="25" />
-        <mark key="^" line="1" column="25" />
-        <mark key="." line="1" column="24" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/documentscan/upload/DocumentScanUploadController.java" timestamp="1589288721010">
         <mark key="'" line="227" column="15" />
@@ -242,7 +237,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="84" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1589291211265">
+      <file name="/fragment.java" timestamp="1589294135731">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -352,7 +347,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>http://localhost:8090/api/pensions/oauth2/authorization/deutschebank</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -395,7 +390,7 @@
         </keys>
       </register>
       <register name="+" type="4">
-        <text>/oauth2/authorization/deutschebank/</text>
+        <text>http://localhost:8090/api/pensions/oauth2/authorization/deutschebank</text>
       </register>
       <register name="k" type="4">
         <keys>
