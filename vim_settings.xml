@@ -183,10 +183,10 @@
         <mark key="^" line="36" column="105" />
         <mark key="." line="36" column="104" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/PensionCalculationApplication.http" timestamp="1589298169218">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/PensionCalculationApplication.http" timestamp="1589298434295">
         <mark key="'" line="145" column="0" />
-        <mark key="[" line="160" column="8" />
-        <mark key="]" line="160" column="8" />
+        <mark key="[" line="160" column="4" />
+        <mark key="]" line="160" column="81" />
         <mark key="." line="160" column="8" />
         <mark key="^" line="160" column="9" />
       </file>
@@ -340,7 +340,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>{baseScheme}</text>
+        <text>http://rc.docker.localhost:8090/api/pensions/oauth2/authorization/deutschebank</text>
       </register>
       <register name="e" type="4">
         <keys>
