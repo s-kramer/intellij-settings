@@ -5,12 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>exclude</entry>
-        <entry encoding="base64">XDxleGNsdWRlXD4=</entry>
-        <entry>springfox</entry>
-        <entry encoding="base64">XDxmZXRjaERvY3VtZW50U2NhblVwbG9hZEZpbGVcPg==</entry>
-        <entry>integration</entry>
-        <entry>junit</entry>
         <entry encoding="base64">XDxkZXV0c2NoZWJhbmtcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVBdXRob3JpemF0aW9uUmVxdWVzdFJlZGlyZWN0RmlsdGVyXD4=</entry>
         <entry encoding="base64">XDxERUZBVUxUX0FVVEhPUklaQVRJT05fUkVRVUVTVF9CQVNFX1VSSVw+</entry>
@@ -25,6 +19,12 @@
         <entry encoding="base64">XDxhdXRob3JpemF0aW9uUmVxdWVzdFJlc29sdmVyXD4=</entry>
         <entry encoding="base64">XDxyZWRpcmVjdFVyaUFjdGlvblw+</entry>
         <entry encoding="base64">XDxPQXV0aDJBdXRob3JpemF0aW9uUmVxdWVzdFw+</entry>
+        <entry>expire</entry>
+        <entry>expi</entry>
+        <entry>ex</entry>
+        <entry>exp</entry>
+        <entry>valid</entry>
+        <entry encoding="base64">XDxhdXRob3JpemVkQ2xpZW50UHJvdmlkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywiLyIv</entry>
@@ -143,13 +143,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/common-library/src/main/java/com/core/rentencockpit/commonlibrary/security/oauth2/OAuth2SecurityConfiguration.java" timestamp="1589303922942">
-        <mark key="'" line="14" column="23" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="47" column="5" />
-        <mark key="." line="46" column="8" />
-        <mark key="^" line="46" column="9" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationCodeGrantFilter.java" timestamp="1589360097615">
         <mark key="'" line="100" column="31" />
       </file>
@@ -179,14 +172,19 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="78" column="59" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/AuthorizationCodeOAuth2AuthorizedClientProvider.java" timestamp="1589358987256">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/AuthorizationCodeOAuth2AuthorizedClientProvider.java" timestamp="1589364941630">
         <mark key="[" line="48" column="65" />
         <mark key="]" line="48" column="104" />
+        <mark key="^" line="49" column="12" />
+        <mark key="." line="49" column="8" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java" timestamp="1589358647991">
-        <mark key="'" line="83" column="47" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java" timestamp="1589364953131">
+        <mark key="'" line="11" column="56" />
         <mark key="[" line="103" column="0" />
         <mark key="]" line="104" column="89" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/DefaultOAuth2AuthorizedClientManager.java" timestamp="1589365123270">
+        <mark key="'" line="51" column="43" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" timestamp="1589361885916">
         <mark key="'" line="88" column="0" />
@@ -198,12 +196,15 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.2.1.RELEASE/1d32cae2c4b6f09a22b32346320f1f0eeb1a3d48/spring-boot-autoconfigure-2.2.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2ClientProperties.java" timestamp="1589355741309">
         <mark key="'" line="279" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/PensionCalculationApplication.http" timestamp="1589360802655">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/PensionCalculationApplication.http" timestamp="1589364314180">
         <mark key="'" line="161" column="4" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="63" />
+        <mark key="[" line="161" column="4" />
+        <mark key="]" line="161" column="62" />
         <mark key="." line="161" column="62" />
         <mark key="^" line="161" column="63" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/AuthorizedClientServiceOAuth2AuthorizedClientManager.java" timestamp="1589365155915">
+        <mark key="'" line="115" column="40" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/DefaultOAuth2AuthorizationRequestResolver.java" timestamp="1589358530395">
         <mark key="'" line="23" column="57" />
@@ -216,9 +217,6 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.2.1.RELEASE/bbd406c763af685611698c5816eeb6cedcedc000/spring-security-config-5.2.1.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2ClientConfigurer.java" timestamp="1589353204999">
-        <mark key="'" line="233" column="51" />
-      </file>
       <file name="$USER_HOME$/sd/spring-security/samples/boot/oauth2webclient/src/main/java/sample/OAuth2WebClientApplication.java" timestamp="1589356713777">
         <mark key="[" line="24" column="22" />
         <mark key="]" line="24" column="80" />
@@ -229,16 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesController.java" />
-      <jump line="73" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesController.java" />
-      <jump line="78" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesController.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" />
-      <jump line="89" column="64" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesController.java" />
-      <jump line="89" column="33" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" />
-      <jump line="77" column="63" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" />
-      <jump line="64" column="5" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/documentscan/upload/DocumentScanUploadController.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/documentscan/upload/DocumentScanUploadController.java" />
       <jump line="223" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/documentscan/upload/DocumentScanUploadController.java" />
       <jump line="49" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/common-library/build.gradle" />
       <jump line="101" column="54" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" />
@@ -302,7 +290,6 @@
       <jump line="45" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" />
       <jump line="86" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java" />
       <jump line="133" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java" />
-      <jump line="136" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java" />
       <jump line="138" column="38" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java" />
       <jump line="233" column="51" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.2.1.RELEASE/bbd406c763af685611698c5816eeb6cedcedc000/spring-security-config-5.2.1.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2ClientConfigurer.java" />
       <jump line="209" column="41" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationCodeGrantFilter.java" />
@@ -329,12 +316,23 @@
       <jump line="96" column="67" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesController.java" />
       <jump line="583" column="42" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.1.RELEASE/5247d73874757aa411626d2bf156360768005dc5/spring-web-5.2.1.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" />
       <jump line="88" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" />
+      <jump line="136" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java" />
+      <jump line="145" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java" />
+      <jump line="11" column="56" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java" />
+      <jump line="106" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/DefaultOAuth2AuthorizedClientManager.java" />
+      <jump line="51" column="43" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/DefaultOAuth2AuthorizedClientManager.java" />
+      <jump line="45" column="43" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/AuthorizedClientServiceOAuth2AuthorizedClientManager.java" />
+      <jump line="94" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/AuthorizedClientServiceOAuth2AuthorizedClientManager.java" />
+      <jump line="111" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/AuthorizedClientServiceOAuth2AuthorizedClientManager.java" />
+      <jump line="113" column="75" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/AuthorizedClientServiceOAuth2AuthorizedClientManager.java" />
+      <jump line="114" column="50" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/AuthorizedClientServiceOAuth2AuthorizedClientManager.java" />
+      <jump line="115" column="40" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/AuthorizedClientServiceOAuth2AuthorizedClientManager.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/gw/oidc/authorize</text>
+        <text>OAuth2AuthorizationRequestRedirectFilter</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -377,7 +375,7 @@
         </keys>
       </register>
       <register name="+" type="4">
-        <text>/gw/oidc/authorize</text>
+        <text>OAuth2AuthorizationRequestRedirectFilter</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -388,7 +386,7 @@
         <text>&quot;/gw/oidc/authorize&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPQXV0aDJBdXRob3JpemF0aW9uUmVxdWVzdFw+</text>
+        <text encoding="base64">XDxhdXRob3JpemVkQ2xpZW50UHJvdmlkZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICIvYXBpL3BlbnNpb25zL29hdXRoMi9hdXRob3JpemF0aW9uIik7Cg==</text>
@@ -497,9 +495,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxPQXV0aDJBdXRob3JpemF0aW9uUmVxdWVzdFw+</last-search>
+      <last-search encoding="base64">XDxhdXRob3JpemVkQ2xpZW50UHJvdmlkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPQXV0aDJBdXRob3JpemF0aW9uUmVxdWVzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRob3JpemVkQ2xpZW50UHJvdmlkZXJcPg==</last-pattern>
       <last-replace>.</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
