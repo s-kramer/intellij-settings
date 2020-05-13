@@ -150,7 +150,6 @@
         <mark key="'" line="583" column="42" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/method/annotation/OAuth2AuthorizedClientArgumentResolver.java" timestamp="1589358948095" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.2.1.RELEASE/bbd406c763af685611698c5816eeb6cedcedc000/spring-security-config-5.2.1.RELEASE-sources.jar!/org/springframework/security/config/oauth2/client/CommonOAuth2Provider.java" timestamp="1589356560609" />
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesController.java" timestamp="1589373191891">
         <mark key="'" line="95" column="67" />
         <mark key="[" line="19" column="0" />
@@ -158,6 +157,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="98" column="59" />
       </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/notes/dbapi-investments-orders.json" timestamp="1589373583198" />
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" timestamp="1589373255673">
         <mark key="'" line="123" column="4" />
         <mark key="[" line="29" column="0" />
@@ -216,6 +216,10 @@
         <mark key="'" line="153" column="49" />
       </file>
       <file name="$USER_HOME$/sd/spring-security/samples/boot/oauth2webclient/src/main/java/sample/config/WebClientConfig.java" timestamp="1589356773612" />
+      <file name="$USER_HOME$/projects/renten-cockpit/notes/dbapi-investments-assets.json" timestamp="1589373633895">
+        <mark key="[" line="2279" column="0" />
+        <mark key="]" line="2283" column="20" />
+      </file>
       <file name="/fragment.java" timestamp="1589367157096">
         <mark key="[" line="0" column="0" />
       </file>
@@ -328,8 +332,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW5pdGlhbCAocXVpY2sgJiBkaXJ0eSkgaW1wbGVtZW50YXRpb24gb2YgdGhlIGludGVncmF0aW9u</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgInJpc2tDbGFzcyI6IHsKICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJzdHJpbmciLAogICAgICAgICAgICAgICAgICAgICJleGFtcGxlIjogIkEiLAogICAgICAgICAgICAgICAgICAgICJkZXNjcmlwdGlvbiI6ICJSaXNrIGNsYXNzIG9mIHRoZSBzZWN1cml0eSBhc3NldCIKICAgICAgICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -371,8 +375,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="+" type="4">
-        <text>OAuth2AuthorizationRequestRedirectFilter</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgInJpc2tDbGFzcyI6IHsKICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJzdHJpbmciLAogICAgICAgICAgICAgICAgICAgICJleGFtcGxlIjogIkEiLAogICAgICAgICAgICAgICAgICAgICJkZXNjcmlwdGlvbiI6ICJSaXNrIGNsYXNzIG9mIHRoZSBzZWN1cml0eSBhc3NldCIKICAgICAgICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="k" type="4">
         <keys>
