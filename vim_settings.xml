@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxPQXV0aDJBdXRob3JpemF0aW9uUmVxdWVzdFw+</entry>
-        <entry>expire</entry>
         <entry>expi</entry>
         <entry>ex</entry>
         <entry>exp</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxzZWN1cml0eUFzc2V0c1w+</entry>
         <entry encoding="base64">XDxTZWN1cml0eUFzc2V0c1w+</entry>
         <entry>scope</entry>
+        <entry>togglz</entry>
+        <entry>ssl</entry>
       </history-search>
       <history-cmd>
         <entry>-12t-1</entry>
@@ -172,8 +172,8 @@
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/frontend/src/elements/components/PensionInfo/PensionProductList/SecuritiesProductDetails/SecuritiesProductDetails.jsx" timestamp="1589442278593" />
       <file name="$USER_HOME$/projects/renten-cockpit/notes/dbapi-investments-orders.json" timestamp="1589373583198" />
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" timestamp="1589448142113">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" timestamp="1589454843888">
+        <mark key="'" line="101" column="2" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="58" />
         <mark key="." line="78" column="0" />
@@ -204,7 +204,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/AuthorizedClientServiceOAuth2AuthorizedClientManager.java" timestamp="1589366282511">
         <mark key="'" line="45" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589373286173">
+      <file name="/Dummy.txt" timestamp="1589454851844">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="64" />
@@ -223,7 +223,7 @@
         <mark key="[" line="2279" column="0" />
         <mark key="]" line="2283" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1589445502967">
+      <file name="/fragment.java" timestamp="1589454851838">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/RefreshTokenOAuth2AuthorizedClientProvider.java" timestamp="1589366202537">
@@ -231,11 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.2.1.RELEASE/1d32cae2c4b6f09a22b32346320f1f0eeb1a3d48/spring-boot-autoconfigure-2.2.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2ClientProperties.java" />
-      <jump line="83" column="47" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/OAuth2AuthorizationRequestRedirectFilter.java" />
-      <jump line="91" column="21" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesController.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesController.java" />
-      <jump line="100" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/DefaultOAuth2AuthorizationRequestResolver.java" />
       <jump line="61" column="8" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" />
       <jump line="108" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/DefaultOAuth2AuthorizationRequestResolver.java" />
       <jump line="121" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/DefaultOAuth2AuthorizationRequestResolver.java" />
@@ -331,6 +326,11 @@
       <jump line="136" column="24" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesController.java" />
       <jump line="141" column="35" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesController.java" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/http/pensions/pensions.http" />
+      <jump line="122" column="8" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" />
+      <jump line="100" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" />
+      <jump line="105" column="24" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" />
+      <jump line="113" column="31" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" />
+      <jump line="101" column="2" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -390,7 +390,7 @@
         <text>9cbffbf0-769a-42c3-b980-a9aad3041963</text>
       </register>
       <register name="/" type="4">
-        <text>scope</text>
+        <text>ssl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">R0VUIGh0dHA6Ly9sb2NhbGhvc3Q6ODA5MC9hcGkvcGVuc2lvbnMvcHJvZmlsZXMvOWNiZmZiZjAtNzY5YS00MmMzLWI5ODAtYTlhYWQzMDQxOTYzL3BlbnNpb25zCg==</text>
@@ -499,9 +499,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>scope</last-search>
+      <last-search>ssl</last-search>
       <last-offset />
-      <last-pattern>scope</last-pattern>
+      <last-pattern>ssl</last-pattern>
       <last-replace>.</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
