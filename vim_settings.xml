@@ -143,6 +143,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/frontend/src/elements/components/PensionInfo/PensionProductList/PensionProductItem/PensionProductItem.jsx" timestamp="1589442207242">
+        <mark key="'" line="108" column="29" />
+      </file>
       <file name="/a.dummy" timestamp="1589378605720">
         <mark key="[" line="0" column="0" />
       </file>
@@ -152,7 +155,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.1.RELEASE/5247d73874757aa411626d2bf156360768005dc5/spring-web-5.2.1.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1589359427666">
         <mark key="'" line="583" column="42" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/method/annotation/OAuth2AuthorizedClientArgumentResolver.java" timestamp="1589358948095" />
       <file name="$USER_HOME$/projects/modern-architecture/stories.md" timestamp="1589383284011">
         <mark key="'" line="206" column="17" />
         <mark key="[" line="175" column="34" />
@@ -167,6 +169,7 @@
         <mark key="." line="118" column="27" />
         <mark key="^" line="118" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/frontend/src/elements/components/PensionInfo/PensionProductList/SecuritiesProductDetails/SecuritiesProductDetails.jsx" timestamp="1589442278593" />
       <file name="$USER_HOME$/projects/renten-cockpit/notes/dbapi-investments-orders.json" timestamp="1589373583198" />
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" timestamp="1589378387079">
         <mark key="'" line="23" column="21" />
@@ -207,11 +210,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/AuthorizedClientServiceOAuth2AuthorizedClientManager.java" timestamp="1589366282511">
         <mark key="'" line="45" column="43" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/DefaultOAuth2AuthorizationRequestResolver.java" timestamp="1589358530395">
-        <mark key="'" line="23" column="57" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="106" column="5" />
-      </file>
       <file name="/Dummy.txt" timestamp="1589373286173">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -233,8 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="37" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" />
-      <jump line="126" column="43" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" />
       <jump line="140" column="7" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" />
       <jump line="95" column="40" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesController.java" />
       <jump line="145" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/PensionCalculationApplication.http" />
@@ -333,6 +329,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/modern-architecture/stories.md" />
       <jump line="185" column="18" filename="$USER_HOME$/projects/modern-architecture/stories.md" />
       <jump line="189" column="17" filename="$USER_HOME$/projects/modern-architecture/stories.md" />
+      <jump line="48" column="8" filename="$USER_HOME$/projects/renten-cockpit/sources/frontend/src/elements/components/PensionInfo/PensionProductList/PensionProductItem/PensionProductItem.jsx" />
+      <jump line="108" column="29" filename="$USER_HOME$/projects/renten-cockpit/sources/frontend/src/elements/components/PensionInfo/PensionProductList/PensionProductItem/PensionProductItem.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
