@@ -195,6 +195,13 @@
         <mark key="." line="83" column="65" />
         <mark key="^" line="83" column="66" />
       </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/test/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesFacadeTest.java" timestamp="1589555561407">
+        <mark key="'" line="59" column="11" />
+        <mark key="[" line="61" column="42" />
+        <mark key="]" line="61" column="48" />
+        <mark key="." line="61" column="47" />
+        <mark key="^" line="61" column="48" />
+      </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/error/MessageKeys.java" timestamp="1589555265003">
         <mark key="'" line="6" column="19" />
         <mark key="[" line="30" column="49" />
@@ -208,6 +215,13 @@
         <mark key="]" line="48" column="75" />
         <mark key="." line="48" column="75" />
         <mark key="^" line="48" column="83" />
+      </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesSpringConfiguration.java" timestamp="1589555482786">
+        <mark key="'" line="37" column="35" />
+        <mark key="[" line="53" column="41" />
+        <mark key="]" line="53" column="42" />
+        <mark key="." line="53" column="41" />
+        <mark key="^" line="53" column="42" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/documentscan/upload/DocumentScanUploadIntegrationFixture.java" timestamp="1589552088334">
         <mark key="'" line="110" column="3" />
@@ -236,11 +250,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="49" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589555040589">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="49" />
-        <mark key="." line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1589555581818">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/backoffice/ReviewsTest.java" timestamp="1589552105946">
         <mark key="'" line="345" column="38" />
@@ -249,15 +263,11 @@
         <mark key="^" line="348" column="59" />
         <mark key="." line="362" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/notification/general/general/GeneralNotificationFacade.java" timestamp="1589551799817">
-        <mark key="'" line="83" column="6" />
-      </file>
       <file name="/fragment.java" timestamp="1589554604577">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesTest.java" />
       <jump line="100" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesTest.java" />
       <jump line="104" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesTest.java" />
       <jump line="113" column="7" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesTest.java" />
@@ -357,12 +367,13 @@
       <jump line="84" column="25" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/documentscan/upload/NotificationFixture.java" />
       <jump line="6" column="19" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/error/MessageKeys.java" />
+      <jump line="58" column="11" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/test/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesFacadeTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
+      <register name="&quot;" type="4">
+        <text>added general notification system</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -413,7 +424,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>added general notification system</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxERVVUU0NIRV9CQU5LX09BVVRIMl9BUElfQkFTRV9VUkxcPg==</text>
