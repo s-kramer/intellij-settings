@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxERVVUU0NIRV9CQU5LX09BVVRIMl9BUElfQkFTRV9VUkxcPg==</entry>
         <entry>event</entry>
         <entry encoding="base64">XDxldmVudFB1Ymxpc2hlclw+</entry>
         <entry>rest</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxhdXRob3JpemVkQ2xpZW50UmVwb3NpdG9yeVw+</entry>
         <entry encoding="base64">XDxvQXV0aDJBdXRob3JpemVkQ2xpZW50XD4=</entry>
         <entry encoding="base64">XDxPQXV0aDJBdXRob3JpemVkQ2xpZW50XD4=</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
@@ -143,35 +143,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/org/springframework/security/oauth2/client/AuthorizationCodeOAuth2AuthorizedClientProvider.java" timestamp="1589803609953">
-        <mark key="'" line="61" column="27" />
-        <mark key="[" line="30" column="49" />
-        <mark key="]" line="31" column="3" />
-        <mark key="^" line="31" column="3" />
-        <mark key="." line="31" column="2" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/common-library/src/main/java/com/core/rentencockpit/commonlibrary/security/oauth2/OAuth2SecurityConfiguration.java" timestamp="1589810264989" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/local-dev-env/volumes/sii/rentencockpit/nginx-development/config/conf.d/rootCA_pass.txt" timestamp="1589810579957">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1589803859667">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/local-dev-env/full-stack.yml" timestamp="1589810505533">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.2.1.RELEASE/bbd406c763af685611698c5816eeb6cedcedc000/spring-security-config-5.2.1.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/OAuth2ClientConfiguration.java" timestamp="1589803530372">
-        <mark key="'" line="75" column="35" />
-        <mark key="[" line="84" column="16" />
-        <mark key="]" line="84" column="45" />
-      </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/local-dev-env/full-stack.yml" timestamp="1589806159569">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="46" column="6" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/local-dev-env/frontend-development.yml" timestamp="1589806151986">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="52" column="70" />
-        <mark key="." line="50" column="74" />
-        <mark key="^" line="52" column="41" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/local-dev-env/frontend-development.yml" timestamp="1589810944534">
+        <mark key="'" line="49" column="44" />
+        <mark key="[" line="49" column="42" />
+        <mark key="]" line="49" column="45" />
+        <mark key="." line="49" column="44" />
+        <mark key="^" line="49" column="45" />
       </file>
       <file name="/pensions-db.public.oauth2_authorized_client_repository" timestamp="1589805105715">
         <mark key="[" line="0" column="0" />
@@ -182,17 +168,16 @@
         <mark key="]" line="0" column="1668" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" timestamp="1589803632785">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="76" column="64" />
-        <mark key="]" line="76" column="64" />
-        <mark key="." line="76" column="64" />
-        <mark key="^" line="76" column="73" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1589805109297">
         <mark key="[" line="0" column="68" />
         <mark key="]" line="0" column="69" />
         <mark key="." line="0" column="69" />
+      </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/Securities.java" timestamp="1589811968708">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="19" />
+        <mark key="^" line="31" column="19" />
+        <mark key="." line="31" column="18" />
       </file>
       <file name="/oauth2_authorized_client_repository [postgres@localhost [pensions-db]]" timestamp="1589805105693">
         <mark key="[" line="0" column="0" />
@@ -207,9 +192,6 @@
       <file name="/a.sql" timestamp="1589804630188">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/default" timestamp="1589804223407">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/dummy.sql" timestamp="1589805150825">
         <mark key="[" line="0" column="0" />
       </file>
@@ -219,11 +201,11 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589806107499">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1589811994374">
+        <mark key="[" line="0" column="68" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+        <mark key="." line="0" column="54" />
       </file>
       <file name="/pensions-db.public.flyway_schema_history" timestamp="1589804225084">
         <mark key="[" line="0" column="0" />
@@ -231,14 +213,15 @@
       <file name="/flyway_schema_history [postgres@localhost [pensions-db]]" timestamp="1589804225071">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/full-stack.yml" timestamp="1589810361358">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="74" />
+      </file>
       <file name="/fragment.java" timestamp="1589806107490">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="24" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" />
-      <jump line="29" column="19" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" />
-      <jump line="83" column="33" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" />
       <jump line="84" column="25" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/documentscan/upload/NotificationFixture.java" />
       <jump line="6" column="19" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/error/MessageKeys.java" />
@@ -336,12 +319,15 @@
       <jump line="38" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.json" />
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.json" />
       <jump line="32" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.json" />
+      <jump line="28" column="65" filename="$USER_HOME$/projects/renten-cockpit/sources/local-dev-env/frontend-development.yml" />
+      <jump line="45" column="11" filename="$USER_HOME$/projects/renten-cockpit/sources/local-dev-env/frontend-development.yml" />
+      <jump line="49" column="44" filename="$USER_HOME$/projects/renten-cockpit/sources/local-dev-env/frontend-development.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>updates commons to take into account jwt cookie domain parameter, fixed typo</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -384,7 +370,7 @@
         </keys>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgREVVVFNDSEVfQkFOS19PQVVUSDJfQ0xJRU5UX0lEOiBiN2RlOTlhYy0xYjU3LTQzOTItYWRhZi05NzQwYjE0ZDE3Y2QKICAgICAgREVVVFNDSEVfQkFOS19PQVVUSDJfQ0xJRU5UX1NFQ1JFVDogQVB5N0c4aXNvRjdFeGo0WXppOHRrdEQ3eFVHSkFZSldoZXhYNDRCQXMtbU50eFo4cTcwbkFSVFoxOHZ6bnVvY2R5dkZhM2xOdlhBd1RlQjBlb3BBdVlZCiAgICAgIERFVVRTQ0hFX0JBTktfT0FVVEgyX0FQSV9CQVNFX1VSTDogaHR0cHM6Ly9zaW11bGF0b3ItYXBpLmRiLmNvbS8K</text>
+        <text encoding="base64">ICAgICAgVVNFUl9NQU5BR0VNRU5UX1NFUlZJQ0VfVVJMOiBodHRwOi8vdW1zOjgwODAvdXNlci1tYW5hZ2VtZW50LXNlcnZpY2UK</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -392,25 +378,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>updates commons to take into account jwt cookie domain parameter, fixed typo</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPQXV0aDJBdXRob3JpemVkQ2xpZW50XD4=</text>
+        <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>oauth2_authorized_client_repository</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgSldUX0NPT0tJRV9ET01BSU46IHJjLmRvY2tlci5sb2NhbGhvc3QK</text>
       </register>
       <register name="p" type="4">
         <text>com.core.rentencockpit.pensioncalculationservice.realestate.de.vdpresearch_cib.valuationservice.schemas.valuation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgVVNFUl9NQU5BR0VNRU5UX1NFUlZJQ0VfVVJMOiBodHRwOi8vdW1zOjgwODAvYXBpL3VzZXJzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgREVVVFNDSEVfQkFOS19PQVVUSDJfQVBJX0JBU0VfVVJMOgogICAgICBERVVUU0NIRV9CQU5LX09BVVRIMl9DTElFTlRfSUQ6CiAgICAgIERFVVRTQ0hFX0JBTktfT0FVVEgyX0NMSUVOVF9TRUNSRVQ6CiAgICAgICBERVVUU0NIRV9CQU5LX09BVVRIMl9SRURJUkVDVF9VUkw9aHR0cDovL3Bjcy5yYy5kb2NrZXIubG9jYWxob3N0L29hdXRoMi9jb2RlCg==</text>
+        <text encoding="base64">ICAgICAgVVNFUl9NQU5BR0VNRU5UX1NFUlZJQ0VfVVJMOiBodHRwOi8vdW1zOjgwODAvdXNlci1tYW5hZ2VtZW50LXNlcnZpY2UK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -456,19 +442,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFsdWU6ICR7REVVVFNDSEVfQkFOS19PQVVUSDJfQ0xJRU5UX1NFQ1JFVH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFsdWU6ICR7REVVVFNDSEVfQkFOS19PQVVUSDJfQ0xJRU5UX0lEfQo=</text>
+        <text encoding="base64">ICAgICAgREVVVFNDSEVfQkFOS19PQVVUSDJfQVBJX0JBU0VfVVJMOgogICAgICBERVVUU0NIRV9CQU5LX09BVVRIMl9DTElFTlRfSUQ6CiAgICAgIERFVVRTQ0hFX0JBTktfT0FVVEgyX0NMSUVOVF9TRUNSRVQ6CiAgICAgICBERVVUU0NIRV9CQU5LX09BVVRIMl9SRURJUkVDVF9VUkw9aHR0cDovL3Bjcy5yYy5kb2NrZXIubG9jYWxob3N0L29hdXRoMi9jb2RlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsdWU6ICR7REVVVFNDSEVfQkFOS19PQVVUSDJfQVBJX0JBU0VfVVJMfQo=</text>
+        <text encoding="base64">dmFsdWU6ICR7REVVVFNDSEVfQkFOS19PQVVUSDJfQ0xJRU5UX1NFQ1JFVH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvblBhcnNlci5yZWEK</text>
+        <text encoding="base64">dmFsdWU6ICR7REVVVFNDSEVfQkFOS19PQVVUSDJfQ0xJRU5UX0lEfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">dmFsdWU6ICR7REVVVFNDSEVfQkFOS19PQVVUSDJfQVBJX0JBU0VfVVJMfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -492,10 +478,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvblBhcnNlci5yZWEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
@@ -504,9 +490,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxPQXV0aDJBdXRob3JpemVkQ2xpZW50XD4=</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPQXV0aDJBdXRob3JpemVkQ2xpZW50XD4=</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>.</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
