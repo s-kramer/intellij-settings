@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWN1cml0eUFjY291bnRMaXN0VXJsXD4=</entry>
         <entry encoding="base64">XDxERVVUU0NIRV9CQU5LX09BVVRIMl9DTElFTlRfSURcPg==</entry>
         <entry encoding="base64">XDxERVVUU0NIRV9CQU5LX09BVVRIMl9DTElFTlRfU0VDUkVUXD4=</entry>
         <entry encoding="base64">XDxERVVUU0NIRV9CQU5LX09BVVRIMl9BUElfQkFTRV9VUkxcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxzYXZlQWRkaXRpb25hbERhdGFcPg==</entry>
         <entry>jwt</entry>
         <entry>22</entry>
+        <entry encoding="base64">XDxhdXRob3JpemVkQ2xpZW50UmVwb3NpdG9yeVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
@@ -155,27 +155,32 @@
         <mark key="." line="83" column="65" />
         <mark key="^" line="83" column="66" />
       </file>
+      <file name="/a.dummy" timestamp="1589801245826">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/pensions-db.public.securities" timestamp="1589797095524">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" timestamp="1589798477429">
-        <mark key="'" line="65" column="1" />
-        <mark key="[" line="68" column="28" />
-        <mark key="]" line="68" column="34" />
-        <mark key="." line="68" column="33" />
-        <mark key="^" line="68" column="34" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" timestamp="1589801314452">
+        <mark key="'" line="112" column="34" />
+        <mark key="[" line="112" column="101" />
+        <mark key="]" line="112" column="115" />
+        <mark key="." line="112" column="114" />
+        <mark key="^" line="112" column="115" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/common-library/src/main/java/com/core/rentencockpit/commonlibrary/security/oauth2/HttpCookieOAuth2AuthorizationRequestRepository.java" timestamp="1589797651664">
         <mark key="'" line="108" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesImporter.java" timestamp="1589799225979">
-        <mark key="'" line="82" column="69" />
-        <mark key="[" line="82" column="101" />
-        <mark key="]" line="82" column="107" />
-        <mark key="." line="82" column="106" />
-        <mark key="^" line="82" column="107" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesImporter.java" timestamp="1589799798995">
+        <mark key="'" line="82" column="88" />
+        <mark key="[" line="81" column="33" />
+        <mark key="]" line="82" column="32" />
+        <mark key="." line="82" column="31" />
+        <mark key="^" line="82" column="32" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/AuthorizedClientServiceOAuth2AuthorizedClientManager.java" timestamp="1589795280879" />
       <file name="$USER_HOME$/projects/renten-cockpit/sources/common-library/src/test/java/com/core/rentencockpit/commonlibrary/security/oauth2/AuthorizationRequestRepositoryFixture.java" timestamp="1589796043047">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="34" column="28" />
@@ -183,19 +188,23 @@
       <file name="/dummy.sql" timestamp="1589797097535">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589798940205">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="42" />
-        <mark key="^" line="0" column="42" />
-        <mark key="." line="0" column="41" />
+      <file name="/Dummy.txt" timestamp="1589799871653">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/common-library/gradle.properties" timestamp="1589798538272">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="25" />
-        <mark key="." line="1" column="24" />
-        <mark key="^" line="1" column="25" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.2.1.RELEASE/bbd406c763af685611698c5816eeb6cedcedc000/spring-security-config-5.2.1.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2ClientConfigurer.java" timestamp="1589800004077">
+        <mark key="'" line="108" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/common-library/src/main/java/com/core/rentencockpit/commonlibrary/security/SecurityProperties.java" timestamp="1589798106052">
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/common-library/gradle.properties" timestamp="1589799867303">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/common-library/src/main/java/com/core/rentencockpit/commonlibrary/security/SecurityProperties.java" timestamp="1589800845614">
+        <mark key="'" line="41" column="19" />
         <mark key="[" line="41" column="19" />
         <mark key="]" line="41" column="33" />
       </file>
@@ -225,7 +234,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.2.1.RELEASE/bbd406c763af685611698c5816eeb6cedcedc000/spring-security-config-5.2.1.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" timestamp="1589796634242">
         <mark key="'" line="1169" column="93" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/AuthorizationCodeReactiveOAuth2AuthorizedClientProvider.java" timestamp="1589795223176" />
       <file name="/fragment.java" timestamp="1589798940193">
         <mark key="[" line="0" column="0" />
       </file>
@@ -236,19 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/notification/NotificationTest.java" />
-      <jump line="83" column="6" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/notification/general/general/GeneralNotificationFacade.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/notification/NotificationTest.java" />
-      <jump line="34" column="19" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/notification/general/NotificationTest.java" />
-      <jump line="35" column="13" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/backoffice/ReviewsTest.java" />
-      <jump line="103" column="20" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/documentscan/upload/DocumentScanUploadIntegrationFixture.java" />
-      <jump line="102" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/documentscan/upload/DocumentScanUploadIntegrationFixture.java" />
-      <jump line="114" column="37" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/documentscan/upload/DocumentScanUploadIntegrationFixture.java" />
-      <jump line="112" column="24" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/documentscan/upload/DocumentScanUploadIntegrationFixture.java" />
-      <jump line="113" column="51" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/documentscan/upload/DocumentScanUploadIntegrationFixture.java" />
-      <jump line="33" column="34" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/documentscan/upload/DocumentScanUploadIntegrationFixture.java" />
-      <jump line="38" column="51" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/documentscan/upload/DocumentScanUploadIntegrationFixture.java" />
-      <jump line="111" column="3" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/documentscan/upload/DocumentScanUploadIntegrationFixture.java" />
       <jump line="345" column="38" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/backoffice/ReviewsTest.java" />
       <jump line="35" column="7" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/notification/general/NotificationTest.java" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/notification/general/NotificationTest.java" />
@@ -323,7 +318,6 @@
       <jump line="32" column="25" filename="$USER_HOME$/projects/renten-cockpit/sources/common-library/src/main/java/com/core/rentencockpit/commonlibrary/security/oauth2/HttpCookieOAuth2AuthorizationRequestRepository.java" />
       <jump line="43" column="66" filename="$USER_HOME$/projects/renten-cockpit/sources/common-library/src/main/java/com/core/rentencockpit/commonlibrary/security/oauth2/HttpCookieOAuth2AuthorizationRequestRepository.java" />
       <jump line="90" column="23" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" />
-      <jump line="91" column="57" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" />
       <jump line="88" column="47" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" />
       <jump line="81" column="47" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" />
       <jump line="1169" column="93" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.2.1.RELEASE/bbd406c763af685611698c5816eeb6cedcedc000/spring-security-config-5.2.1.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" />
@@ -336,12 +330,26 @@
       <jump line="91" column="2" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/application.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/build.gradle" />
       <jump line="80" column="69" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesImporter.java" />
+      <jump line="81" column="52" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesImporter.java" />
+      <jump line="82" column="88" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesImporter.java" />
+      <jump line="125" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.2.1.RELEASE/bbd406c763af685611698c5816eeb6cedcedc000/spring-security-config-5.2.1.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2ClientConfigurer.java" />
+      <jump line="113" column="82" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.2.1.RELEASE/bbd406c763af685611698c5816eeb6cedcedc000/spring-security-config-5.2.1.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2ClientConfigurer.java" />
+      <jump line="112" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.2.1.RELEASE/bbd406c763af685611698c5816eeb6cedcedc000/spring-security-config-5.2.1.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2ClientConfigurer.java" />
+      <jump line="111" column="37" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.2.1.RELEASE/bbd406c763af685611698c5816eeb6cedcedc000/spring-security-config-5.2.1.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2ClientConfigurer.java" />
+      <jump line="108" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.2.1.RELEASE/bbd406c763af685611698c5816eeb6cedcedc000/spring-security-config-5.2.1.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/oauth2/client/OAuth2ClientConfigurer.java" />
+      <jump line="72" column="21" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" />
+      <jump line="85" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" />
+      <jump line="87" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" />
+      <jump line="91" column="0" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" />
+      <jump line="41" column="19" filename="$USER_HOME$/projects/renten-cockpit/sources/common-library/src/main/java/com/core/rentencockpit/commonlibrary/security/SecurityProperties.java" />
+      <jump line="112" column="34" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>JWT_COOKIE_DOMAIN</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -384,7 +392,7 @@
         </keys>
       </register>
       <register name="+" type="4">
-        <text>JWT_COOKIE_DOMAIN</text>
+        <text>OAuth2AuthorizedClientRepository</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -392,10 +400,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>22</text>
+        <text encoding="base64">XDxhdXRob3JpemVkQ2xpZW50UmVwb3NpdG9yeVw+</text>
       </register>
       <register name="0" type="4">
         <text>${JWT_EXPIRATION_MILLIS:1800000}</text>
@@ -404,13 +412,13 @@
         <text>com.core.rentencockpit.pensioncalculationservice.realestate.de.vdpresearch_cib.valuationservice.schemas.valuation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnByb3ZpZGVyKG5ldyBFeHBpcmF0aW9uQ2hlY2tpbmdBdXRob3JpemF0aW9uQ29kZU9hdXRoMkF1dGhvcml6ZWRDbGllbnRQcm92aWRlcigpKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -456,19 +464,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgRXhwaXJhdGlvbkNoZWNraW5nQXV0aG9yaXphdGlvbkNvZGVPYXV0aDJBdXRob3JpemVkQ2xpZW50UHJvdmlkZXIgaW1wbGVtZW50cyBPQXV0aDJBdXRob3JpemVkQ2xpZW50UHJvdmlkZXIgewogICAgcHJpdmF0ZSBmaW5hbCBBdXRob3JpemF0aW9uQ29kZU9BdXRoMkF1dGhvcml6ZWRDbGllbnRQcm92aWRlciBhdXRob3JpemVkQ2xpZW50UHJvdmlkZXIgPQogICAgICAgICAgICBuZXcgQXV0aG9yaXphdGlvbkNvZGVPQXV0aDJBdXRob3JpemVkQ2xpZW50UHJvdmlkZXIoKTsKCiAgICBwcml2YXRlIER1cmF0aW9uIGNsb2NrU2tldyA9IER1cmF0aW9uLm9mU2Vjb25kcyg2MCk7CiAgICBwcml2YXRlIENsb2NrIGNsb2NrID0gQ2xvY2suc3lzdGVtVVRDKCk7CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgT0F1dGgyQXV0aG9yaXplZENsaWVudCBhdXRob3JpemUoT0F1dGgyQXV0aG9yaXphdGlvbkNvbnRleHQgY29udGV4dCkgewogICAgICAgIHZhciBhdXRob3JpemUgPSBhdXRob3JpemVkQ2xpZW50UHJvdmlkZXIuYXV0aG9yaXplKGNvbnRleHQpOwogICAgICAgIGlmIChBdXRob3JpemF0aW9uR3JhbnRUeXBlLkFVVEhPUklaQVRJT05fQ09ERS5lcXVhbHMoY29udGV4dC5nZXRDbGllbnRSZWdpc3RyYXRpb24oKS5nZXRBdXRob3JpemF0aW9uR3JhbnRUeXBlKCkpICYmCiAgICAgICAgICAgICAgICBjb250ZXh0LmdldEF1dGhvcml6ZWRDbGllbnQoKSA9PSBudWxsICYmIGlzRXhwaXJlZEFjY2Vzc1Rva2VuKGNvbnRleHQpKSB7CiAgICAgICAgICAgIC8vIENsaWVudEF1dGhvcml6YXRpb25SZXF1aXJlZEV4Y2VwdGlvbiBpcyBjYXVnaHQgYnkgT0F1dGgyQXV0aG9yaXphdGlvblJlcXVlc3RSZWRpcmVjdEZpbHRlciB3aGljaAogICAgICAgICAgICAvLyBpbml0aWF0ZXMgYXV0aG9yaXphdGlvbgogICAgICAgICAgICB0aHJvdyBuZXcgQ2xpZW50QXV0aG9yaXphdGlvblJlcXVpcmVkRXhjZXB0aW9uKGNvbnRleHQuZ2V0Q2xpZW50UmVnaXN0cmF0aW9uKCkuZ2V0UmVnaXN0cmF0aW9uSWQoKSk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gYXV0aG9yaXplOwogICAgfQoKICAgIHByaXZhdGUgYm9vbGVhbiBpc0V4cGlyZWRBY2Nlc3NUb2tlbihPQXV0aDJBdXRob3JpemF0aW9uQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgdmFyIHRva2VuID0gY29udGV4dC5nZXRBdXRob3JpemVkQ2xpZW50KCkuZ2V0QWNjZXNzVG9rZW4oKTsKICAgICAgICByZXR1cm4gdGhpcy5jbG9jay5pbnN0YW50KCkuaXNBZnRlcih0b2tlbi5nZXRFeHBpcmVzQXQoKS5taW51cyh0aGlzLmNsb2NrU2tldykpOwogICAgfQo=</text>
+        <text encoding="base64">CmNsYXNzIEpwYU9BdXRoMkF1dGhvcml6ZWRDbGllbnRSZXBvc2l0b3J5IGltcGxlbWVudHMgT0F1dGgyQXV0aG9yaXplZENsaWVudFJlcG9zaXRvcnkgewoKQE92ZXJyaWRlIHB1YmxpYzxUIGV4dGVuZHMgT0F1dGgyQXV0aG9yaXplZENsaWVudD4gVCBsb2FkQXV0aG9yaXplZENsaWVudChTdHJpbmcgY2xpZW50UmVnaXN0cmF0aW9uSWQsIEF1dGhlbnRpY2F0aW9uIHByaW5jaXBhbCwgSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QpIHsKICAgIHJldHVybiBudWxsOwogICAgfUBPdmVycmlkZSBwdWJsaWMgdm9pZCBzYXZlQXV0aG9yaXplZENsaWVudChPQXV0aDJBdXRob3JpemVkQ2xpZW50IGF1dGhvcml6ZWRDbGllbnQsIEF1dGhlbnRpY2F0aW9uIHByaW5jaXBhbCwgSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QsIEh0dHBTZXJ2bGV0UmVzcG9uc2UgcmVzcG9uc2UpIHsKCiAgICB9QE92ZXJyaWRlIHB1YmxpYyB2b2lkIHJlbW92ZUF1dGhvcml6ZWRDbGllbnQoU3RyaW5nIGNsaWVudFJlZ2lzdHJhdGlvbklkLCBBdXRoZW50aWNhdGlvbiBwcmluY2lwYWwsIEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0LCBIdHRwU2VydmxldFJlc3BvbnNlIHJlc3BvbnNlKSB7CgogICAgfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXF1ZXN0TWF0Y2hlcnMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYXV0aG9yaXplZENsaWVudFJlcG9zaXRvcnkoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRob3JpemVSZXF1ZXN0cygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXF1ZXN0TWF0Y2hlcnMoKQo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLnV0aWwuQ29sbGVjdGlvbnMuZW1wdHlMaXN0Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -492,10 +500,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkub2F1dGgyLmNvcmUuZW5kcG9pbnQuT0F1dGgyQXV0aG9yaXphdGlvblJlcXVlc3Q7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXF1ZXN0TWF0Y2hlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnByb3ZpZGVyKG5ldyBFeHBpcmF0aW9uQ2hlY2tpbmdBdXRob3JpemF0aW9uQ29kZU9hdXRoMkF1dGhvcml6ZWRDbGllbnRQcm92aWRlcigpKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gVHlwZUhpZXJhcmNoeQ==</text>
@@ -504,12 +512,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>22</last-search>
+      <last-search encoding="base64">XDxhdXRob3JpemVkQ2xpZW50UmVwb3NpdG9yeVw+</last-search>
       <last-offset />
-      <last-pattern>22</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRob3JpemVkQ2xpZW50UmVwb3NpdG9yeVw+</last-pattern>
       <last-replace>.</last-replace>
       <last-substitute>\/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
