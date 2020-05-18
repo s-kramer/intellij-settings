@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZW5lcmFsTm90aWZpY2F0aW9uRW50aXR5XD4=</entry>
         <entry encoding="base64">XDxwZW5zaW9uQ2FsY3VsYXRvclNlcnZpY2VGYWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxBcHBsaWNhdGlvbkV2ZW50UHVibGlzaGVyXD4=</entry>
         <entry>notification</entry>
@@ -25,6 +24,7 @@
         <entry>rest</entry>
         <entry>client</entry>
         <entry>webclient</entry>
+        <entry encoding="base64">XDxPQVVUSDJfQVVUSE9SSVpFRF9DTElFTlRfQVRUUl9OQU1FXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
@@ -218,8 +218,10 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/reactive/function/client/ServletOAuth2AuthorizedClientExchangeFilterFunction.java" timestamp="1589787547806">
-        <mark key="'" line="169" column="0" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/reactive/function/client/ServletOAuth2AuthorizedClientExchangeFilterFunction.java" timestamp="1589788687707">
+        <mark key="'" line="337" column="42" />
+        <mark key="[" line="95" column="19" />
+        <mark key="]" line="95" column="69" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesImporter.java" timestamp="1589787369547">
         <mark key="'" line="32" column="16" />
@@ -254,8 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="23" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesTest.java" />
-      <jump line="78" column="96" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesTest.java" />
       <jump line="71" column="77" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesTest.java" />
       <jump line="73" column="16" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesTest.java" />
       <jump line="74" column="23" filename="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/integration/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesTest.java" />
@@ -354,12 +354,14 @@
       <jump line="48" column="83" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/DefaultOAuth2AuthorizedClientManager.java" />
       <jump line="49" column="47" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/DefaultOAuth2AuthorizedClientManager.java" />
       <jump line="50" column="61" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/DefaultOAuth2AuthorizedClientManager.java" />
+      <jump line="262" column="31" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/reactive/function/client/ServletOAuth2AuthorizedClientExchangeFilterFunction.java" />
+      <jump line="337" column="42" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/web/reactive/function/client/ServletOAuth2AuthorizedClientExchangeFilterFunction.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>added emitting notifications on import finalization</text>
+        <text>ServletOAuth2AuthorizedClientExchangeFilterFunction</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -401,8 +403,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">QFRlc3RQcm9wZXJ0eVNvdXJjZShwcm9wZXJ0aWVzID0geyJERVVUU0NIRV9CQU5LX09BVVRIMl9BUElfQkFTRV9VUkw9aHR0cDovL2RiLmNvbS8ifSkK</text>
+      <register name="+" type="4">
+        <text>ServletOAuth2AuthorizedClientExchangeFilterFunction</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -413,7 +415,7 @@
         <text>added emitting notifications on import finalization</text>
       </register>
       <register name="/" type="4">
-        <text>webclient</text>
+        <text encoding="base64">XDxPQVVUSDJfQVVUSE9SSVpFRF9DTElFTlRfQVRUUl9OQU1FXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2ZXJpZnkoZXZlbnRQdWJsaXNoZXIpCiAgICAgICAgICAgICAgICAucHVibGlzaEV2ZW50KEdlbmVyYWxOb3RpZmljYXRpb24ub2YoVVNFUl9JRC5nZXRVc2VySWQoKSwgTWVzc2FnZUtleXMuU0VDVVJJVElFU19JTVBPUlRfU1VDQ0VTUykpOwo=</text>
@@ -522,9 +524,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>webclient</last-search>
+      <last-search encoding="base64">XDxPQVVUSDJfQVVUSE9SSVpFRF9DTElFTlRfQVRUUl9OQU1FXD4=</last-search>
       <last-offset />
-      <last-pattern>webclient</last-pattern>
+      <last-pattern encoding="base64">XDxPQVVUSDJfQVVUSE9SSVpFRF9DTElFTlRfQVRUUl9OQU1FXD4=</last-pattern>
       <last-replace>.</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
