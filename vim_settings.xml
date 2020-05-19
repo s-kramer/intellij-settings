@@ -216,10 +216,10 @@
         <mark key="." line="173" column="150" />
         <mark key="^" line="173" column="151" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589896334514">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1589896636915">
+        <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="51" />
+        <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="7" />
       </file>
       <file name="/pensions-db.public.flyway_schema_history" timestamp="1589886419266">
@@ -228,12 +228,12 @@
       <file name="/flyway_schema_history [postgres@localhost [pensions-db]]" timestamp="1589886419250">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesRepository.java" timestamp="1589889304403">
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesRepository.java" timestamp="1589896632460">
         <mark key="'" line="15" column="10" />
-        <mark key="[" line="30" column="94" />
-        <mark key="]" line="31" column="41" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
         <mark key="^" line="31" column="41" />
-        <mark key="." line="31" column="40" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesSpringConfiguration.java" timestamp="1589891078055">
         <mark key="'" line="35" column="55" />
@@ -358,7 +358,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.keySet()</text>
+        <text>introduced securityAccountId type</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -409,7 +409,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.keySet()</text>
+        <text>introduced securityAccountId type</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzc2VjdXJpdHlBc3NldHNcPg==</text>
@@ -420,14 +420,14 @@
       <register name="p" type="4">
         <text>com.core.rentencockpit.pensioncalculationservice.realestate.de.vdpresearch_cib.valuationservice.schemas.valuation</text>
       </register>
-      <register name="1" type="4">
-        <text>.keySet()</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBjaGFuZ2UgVVVJRHMgdG8gVXNlcklkcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="2" type="4">
+        <text>.keySet()</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -473,19 +473,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiRGVsZXRpbmcgc2VjdXJpdGllcyBmb3Igc2VjdXJpdHkgYWNjb3VudHM6IHt9Iiwgc2VjdXJpdGllc1RvRGVsZXRlLmtleVNldCgpKTsKICAgICAgICBsb2cuZGVidWcoIkRlbGV0aW5nIHNlY3VyaXRpZXMge30iLCBzZWN1cml0aWVzVG9EZWxldGUpOwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBhZGQgbG9ncwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiRGVsZXRpbmcgc2VjdXJpdGllcyBmb3Igc2VjdXJpdHkgYWNjb3VudHM6IHt9Iiwgc2VjdXJpdGllc1RvRGVsZXRlLmtleVNldCgpKTsKICAgICAgICBsb2cuZGVidWcoIkRlbGV0aW5nIHNlY3VyaXRpZXMge30iLCBzZWN1cml0aWVzVG9EZWxldGUpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBhZGQgbG9ncwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>isEqualTo(productsAfterReimport)</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcHJvZHVjdHMgPSBmYWNhZGUuY2FsY3VsYXRlUm91Z2hseUVzdGltYXRlZFBlbnNpb24oUFJPRklMRV9EVE8pOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -509,7 +509,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcHJvZHVjdHNBZnRlclJlaW1wb3J0ID0gZmFjYWRlLmNhbGN1bGF0ZVJvdWdobHlFc3RpbWF0ZWRQZW5zaW9uKFBST0ZJTEVfRFRPKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcHJvZHVjdHMgPSBmYWNhZGUuY2FsY3VsYXRlUm91Z2hseUVzdGltYXRlZFBlbnNpb24oUFJPRklMRV9EVE8pOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgcHJvZHVjdHNBZnRlclJlaW1wb3J0ID0gZmFjYWRlLmNhbGN1bGF0ZVJvdWdobHlFc3RpbWF0ZWRQZW5zaW9uKFBST0ZJTEVfRFRPKTsK</text>
