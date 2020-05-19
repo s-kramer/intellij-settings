@@ -151,11 +151,12 @@
         <mark key="." line="62" column="55" />
       </file>
       <file name="/diff.java" timestamp="1589814920232" />
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesCreator.java" timestamp="1589814913216">
-        <mark key="[" line="28" column="84" />
-        <mark key="]" line="28" column="84" />
-        <mark key="." line="28" column="89" />
-        <mark key="^" line="20" column="87" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/notification/general/GeneralNotificationFacade.java" timestamp="1589880871064">
+        <mark key="'" line="16" column="25" />
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="18" />
+        <mark key="^" line="31" column="18" />
+        <mark key="." line="31" column="17" />
       </file>
       <file name="/pensions-db.public.oauth2_authorized_client_repository" timestamp="1589878182977">
         <mark key="[" line="0" column="0" />
@@ -188,39 +189,35 @@
         <mark key="." line="164" column="0" />
         <mark key="^" line="163" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" timestamp="1589879757252">
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/configuration/OAuth2Configuration.java" timestamp="1589880624716">
         <mark key="'" line="136" column="0" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
-        <mark key="^" line="134" column="26" />
       </file>
       <file name="/a.sql" timestamp="1589879503804">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/oauth2_authorized_client [postgres@localhost [pensions-db]]" timestamp="1589879557833">
+      <file name="/oauth2_authorized_client [postgres@localhost [pensions-db]]" timestamp="1589880203224">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1589879973214">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589879884930">
+      <file name="/Dummy.txt" timestamp="1589880088707">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="89" />
+        <mark key="^" line="0" column="61" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/pensions-db.public.flyway_schema_history" timestamp="1589879973588">
+      <file name="/pensions-db.public.flyway_schema_history" timestamp="1589880777830">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/flyway_schema_history [postgres@localhost [pensions-db]]" timestamp="1589879973571">
+      <file name="/flyway_schema_history [postgres@localhost [pensions-db]]" timestamp="1589880777814">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.sdkman/candidates/java/11.0.5-amzn/lib/src.zip!/java.base/java/util/function/Function.java" timestamp="1589871546114" />
       <file name="/fragment.java" timestamp="1589879855591">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/pensions-db.public.oauth2_authorized_client" timestamp="1589879557854">
+      <file name="/pensions-db.public.oauth2_authorized_client" timestamp="1589880203259">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -329,8 +326,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBleHBlY3RTZWN1cml0eUFzc2V0c0ltcG9ydGVkKGludCBleHBlY3RlZEltcG9ydGVkU2VjdXJpdHlBY2NvdW50Q291bnQpIHsK</text>
+      <register name="&quot;" type="4">
+        <text>added oauth2 authorized client persistence in database</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -381,7 +378,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>added refresh token usage instead of fetching new access token for each expiration</text>
+        <text>added oauth2 authorized client persistence in database</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSY0F1dGhvcml6ZWRDbGllbnRFbnRpdHlJZFw+</text>
