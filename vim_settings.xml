@@ -155,19 +155,16 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/profile [postgres@localhost [users-db]]" timestamp="1589973109252">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/users-db.public.profile" timestamp="1589973109279">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.1.RELEASE/5247d73874757aa411626d2bf156360768005dc5/spring-web-5.2.1.RELEASE-sources.jar!/org/springframework/web/client/ResponseErrorHandler.java" timestamp="1589985183454" />
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/imports/DeutscheBankSecuritiesImportGateway.java" timestamp="1589987142243">
-        <mark key="'" line="51" column="51" />
-        <mark key="[" line="43" column="64" />
-        <mark key="]" line="43" column="98" />
-        <mark key="^" line="43" column="98" />
-        <mark key="." line="43" column="97" />
+        <mark key="'" line="56" column="51" />
+        <mark key="[" line="48" column="64" />
+        <mark key="]" line="48" column="98" />
+        <mark key="^" line="48" column="98" />
+        <mark key="." line="48" column="97" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/DelegatingOAuth2AuthorizedClientProvider.java" timestamp="1589985704755" />
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/service/factory/PensionCalculatorServiceFactory.java" timestamp="1589973555504">
@@ -200,6 +197,12 @@
       </file>
       <file name="/dummy.sql" timestamp="1589987373473">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589987524860">
+        <mark key="[" line="0" column="47" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="/wage [pcs@development]" timestamp="1589973960376">
         <mark key="[" line="0" column="0" />
@@ -314,7 +317,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Q2F1Z2h0IGV4Y2VwdGlvbiB3aGVuIGZldGNoaW5nIGRhdGEgZnJvbSA=</text>
+        <text>removed redundant fields</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -365,7 +368,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q2F1Z2h0IGV4Y2VwdGlvbiB3aGVuIGZldGNoaW5nIGRhdGEgZnJvbSA=</text>
+        <text>removed redundant fields</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
