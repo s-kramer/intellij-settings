@@ -143,7 +143,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesImporter.java" timestamp="1589961866935">
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesImporter.java" timestamp="1589963809541">
         <mark key="'" line="106" column="0" />
         <mark key="[" line="57" column="57" />
         <mark key="]" line="57" column="63" />
@@ -169,11 +169,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesRepository.java" timestamp="1589961859019">
-        <mark key="'" line="18" column="10" />
-        <mark key="[" line="36" column="74" />
-        <mark key="]" line="36" column="74" />
-        <mark key="." line="36" column="74" />
-        <mark key="^" line="35" column="43" />
+        <mark key="[" line="5" column="74" />
+        <mark key="]" line="5" column="74" />
+        <mark key="." line="5" column="74" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/imports/DeutscheBankSecuritiesImportGateway.java" timestamp="1589904877910">
         <mark key="[" line="74" column="12" />
@@ -193,25 +191,18 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/InMemorySecuritiesRepository.java" timestamp="1589961893116">
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/InMemorySecuritiesRepository.java" timestamp="1589963818866">
         <mark key="'" line="23" column="4" />
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="45" />
-        <mark key="^" line="48" column="45" />
         <mark key="." line="48" column="44" />
+        <mark key="^" line="48" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bd874401-64cb-4b70-8bf5-e68d370e0d83/console_3.sql" timestamp="1589962296041">
-        <mark key="[" line="0" column="53" />
-        <mark key="]" line="0" column="65" />
-        <mark key="^" line="0" column="65" />
-        <mark key="." line="0" column="64" />
-      </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/imports/UserSecurityAsset.java" timestamp="1589903315209">
-        <mark key="'" line="22" column="9" />
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="45" />
-        <mark key="." line="16" column="15" />
-        <mark key="^" line="21" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bd874401-64cb-4b70-8bf5-e68d370e0d83/console_3.sql" timestamp="1589963756404">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/resources/db/migration/V1.73__RC-443_add_user_security_asset_persistence.sql" timestamp="1589903661684">
         <mark key="'" line="17" column="8" />
@@ -249,6 +240,11 @@
       </file>
       <file name="/fragment.java" timestamp="1589904672599">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.2.1.RELEASE/e2f802a4d26ddd22d1646902510fb9a68d437114/spring-security-oauth2-client-5.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/RefreshTokenOAuth2AuthorizedClientProvider.java" timestamp="1589963136226">
+        <mark key="'" line="26" column="17" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="47" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -357,7 +353,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>security_account_id</text>
+        <text>null;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -408,7 +404,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>security_account_id</text>
+        <text>null;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWN1cml0eV9hY2NvdW50X2lkXD4=</text>
@@ -420,13 +416,13 @@
         <text>com.core.rentencockpit.pensioncalculationservice.realestate.de.vdpresearch_cib.valuationservice.schemas.valuation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkhBVklORyBzLnNlY3VyaXR5QWNjb3VudElkIElTIE5PVCBOVUxMIiArCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jb3JlLnJlbnRlbmNvY2twaXQucGVuc2lvbmNhbGN1bGF0aW9uc2VydmljZS5zdG9jay5pbXBvcnRzLlNlY3VyaXR5QWNjb3VudElkOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkFORCBzLnNlY3VyaXR5QWNjb3VudElkICIgKwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIkhBVklORyBzLnNlY3VyaXR5QWNjb3VudElkIElTIE5PVCBOVUxMIiArCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -472,19 +468,19 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIkFORCBzLnNlY3VyaXR5QWNjb3VudElkICIgKwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIldIRVJFIHMuc2VjdSBpbiAoOmRvY3VtZW50U2NhblVwbG9hZElkcykgQU5EIHUudXBsb2FkU3RhdHVzID0gJ0FDVElWRSciKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkhBVklORyBzLnNlIiArCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIldIRVJFIHMuc2VjdSBpbiAoOmRvY3VtZW50U2NhblVwbG9hZElkcykgQU5EIHUudXBsb2FkU3RhdHVzID0gJ0FDVElWRSciKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkpPSU4gRG9jdW1lbnRTY2FuVXBsb2FkIHUgT04gcy51cGxvYWRJZCA9IHUuZG9jdW1lbnRTY2FuVXBsb2FkSWQgIiArCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIkhBVklORyBzLnNlIiArCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm5ldyBjb20uY29yZS5yZW50ZW5jb2NrcGl0LnBlbnNpb25jYWxjdWxhdGlvbnNlcnZpY2UuZG9jdW1lbnRzY2FuLnVwbG9hZC5Eb2N1bWVudFNjYW5GaWxlUHJvamVjdGlvbigiICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIkpPSU4gRG9jdW1lbnRTY2FuVXBsb2FkIHUgT04gcy51cGxvYWRJZCA9IHUuZG9jdW1lbnRTY2FuVXBsb2FkSWQgIiArCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -508,10 +504,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBRdWVyeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm5ldyBjb20uY29yZS5yZW50ZW5jb2NrcGl0LnBlbnNpb25jYWxjdWxhdGlvbnNlcnZpY2UuZG9jdW1lbnRzY2FuLnVwbG9hZC5Eb2N1bWVudFNjYW5GaWxlUHJvamVjdGlvbigiICsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE1hcDxTZWN1cml0eUFjY291bnRJZCwgU2VjdXJpdGllcz4gZmluZEFsbEJ5VXNlcklkR3IKCg==</text>
+        <text encoding="base64">ICAgIEBRdWVyeQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
