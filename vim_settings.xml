@@ -149,6 +149,14 @@
         <mark key="]" line="75" column="92" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.2.1.RELEASE/fe0fff4148fb7f212251281d3d34ed591829b7ff/spring-data-commons-2.2.1.RELEASE-sources.jar!/org/springframework/data/repository/core/support/RepositoryFactorySupport.java" timestamp="1589968913981" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/test/java/com/core/rentencockpit/pensioncalculationservice/stock/SecuritiesFacadeTest.java" timestamp="1589968065708">
+        <mark key="'" line="62" column="12" />
+        <mark key="[" line="200" column="32" />
+        <mark key="]" line="200" column="32" />
+        <mark key="." line="200" column="31" />
+        <mark key="^" line="200" column="32" />
+      </file>
       <file name="/securities_adjustment [postgres@localhost [pensions-db]]" timestamp="1589965403186">
         <mark key="[" line="0" column="0" />
       </file>
@@ -169,11 +177,11 @@
       <file name="/pensions-db.public.securities_user_security_asset" timestamp="1589965403004">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/imports/SecurityAssetsSpringConfiguration.java" timestamp="1589905644544">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="23" column="93" />
+      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/imports/SecurityAssetsSpringConfiguration.java" timestamp="1589969390182">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="18" />
+        <mark key="." line="24" column="18" />
+        <mark key="^" line="24" column="34" />
       </file>
       <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/InMemorySecuritiesRepository.java" timestamp="1589963883149">
         <mark key="'" line="23" column="4" />
@@ -191,16 +199,11 @@
       <file name="/securities [postgres@localhost [pensions-db]]" timestamp="1589965403096">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/documentscan/id/UserId.java" timestamp="1589905651863">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="10" column="43" />
-        <mark key="." line="6" column="0" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.2.1.RELEASE/e13efee00643e55716f214a22e4f6a8fb8e3817/spring-tx-5.2.1.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.java" timestamp="1589969162844" />
       <file name="/pensions-db.public.securities" timestamp="1589965403110">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589966983910">
+      <file name="/Dummy.txt" timestamp="1589969488156">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="25" />
@@ -209,17 +212,8 @@
       <file name="/pensions-db.public.flyway_schema_history" timestamp="1589965403063">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/documentscan/upload/DocumentScanRepository.java" timestamp="1589961470793">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="52" column="89" />
-      </file>
       <file name="/console_3" timestamp="1589962240005">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/renten-cockpit/sources/pension-calculation-service/src/main/java/com/core/rentencockpit/pensioncalculationservice/stock/imports/SecurityAssets.java" timestamp="1589905632061">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1589966983924">
         <mark key="[" line="0" column="0" />
@@ -335,8 +329,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWN1cml0eUFzc2V0c0ZhY2FkZS5kZWxldGVBbGxBc3NldHNGb3JTZWN1cml0eUFjY291bnRzKHVzZXJJZCwgc2VjdXJpdHlBY2NvdW50SWRzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>(propagation = )</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -387,7 +381,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>minor ordering fix</text>
+        <text>(propagation = )</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWN1cml0eV9hY2NvdW50X2lkXD4=</text>
