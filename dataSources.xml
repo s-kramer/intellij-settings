@@ -1,0 +1,34 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="postgres@localhost [pensions-db]" uuid="bd874401-64cb-4b70-8bf5-e68d370e0d83">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/pensions-db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="pcs@development" uuid="dc8d0646-9804-4f3d-b8ca-30512ae0c93f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://pgdb.development.rentencockpit.com:5432/pension-calculation-db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="ums@development" uuid="d662d7eb-d35a-4234-91de-e76bbe835a50">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://pgdb.development.rentencockpit.com:5432/user-management-db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="postgres@localhost" uuid="06c78f11-75f9-4789-b230-fb1750d75203">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="postgres@localhost [users-db]" check-outdated="false" uuid="481fd01f-471d-43a9-be19-3e0c2665714d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/users-db</jdbc-url>
+    </data-source>
+  </component>
+</application>
